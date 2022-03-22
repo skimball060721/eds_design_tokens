@@ -1,0 +1,888 @@
+{
+  "_brand": {
+    "hues": {
+      "brand1": {
+        "value": 0,
+        "type": "color",
+        "description": "Purple"
+      },
+      "brand2": {
+        "value": 0,
+        "description": "Orange",
+        "type": "color"
+      },
+      "brand3": {
+        "value": 0,
+        "description": "Blue",
+        "type": "color"
+      },
+      "brand4": {
+        "value": 0,
+        "type": "color"
+      }
+    },
+    "brand1": {
+      "100": {
+        "value": "#e0d7e0",
+        "type": "color"
+      },
+      "200": {
+        "value": "#bb99ba",
+        "type": "color"
+      },
+      "300": {
+        "value": "#954e97",
+        "type": "color"
+      },
+      "400": {
+        "value": "#800088",
+        "type": "color"
+      },
+      "500": {
+        "value": "#67166c",
+        "type": "color"
+      },
+      "600": {
+        "value": "#501a53",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3d183e",
+        "type": "color"
+      }
+    },
+    "brand2": {
+      "100": {
+        "value": "#fcc6b3",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ff9e7c",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ff6d3b",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ff4900",
+        "type": "color"
+      },
+      "500": {
+        "value": "#d24717",
+        "type": "color"
+      },
+      "600": {
+        "value": "#af421d",
+        "type": "color"
+      },
+      "700": {
+        "value": "#86391f",
+        "type": "color"
+      }
+    },
+    "brand3": {
+      "100": {
+        "value": "#c9d3e7",
+        "type": "color"
+      },
+      "200": {
+        "value": "#89a3de",
+        "type": "color"
+      },
+      "300": {
+        "value": "#5f85e5",
+        "type": "color"
+      },
+      "400": {
+        "value": "#3261ff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#3155c1",
+        "type": "color"
+      },
+      "600": {
+        "value": "#2d4892",
+        "type": "color"
+      },
+      "700": {
+        "value": "#25355e",
+        "type": "color"
+      }
+    }
+  },
+  "text": {
+    "standard": {
+      "prominentText": {
+        "value": "#373636",
+        "type": "color",
+        "description": "Description of use cases for standard.prominentText"
+      },
+      "coreText": {
+        "value": "#373636",
+        "type": "color",
+        "description": "Description of use cases for standard.coreText"
+      },
+      "deemphasizedText": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "description": "Description of use cases for standard.deemphasizedText"
+      },
+      "title": {
+        "value": "#800088",
+        "description": "Description of use cases for standard.title",
+        "type": "color"
+      }
+    },
+    "ui": {
+      "coreText": {
+        "value": "#373636",
+        "type": "color",
+        "description": "Description of use cases for ui.coreText"
+      },
+      "deemphasizedText": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "description": "Description of use cases for ui.deemphasizedText"
+      }
+    }
+  },
+  "ui": {
+    "bg": {
+      "brand3": {
+        "default": {
+          "value": "#3261ff",
+          "type": "color",
+          "description": "Description of use cases for ui.bg.brand3.default"
+        }
+      }
+    },
+    "icon": {
+      "brand1": {
+        "value": "#800088",
+        "type": "color",
+        "description": "Description of use cases for ui.icon.brand1"
+      }
+    }
+  },
+  "interactive": {
+    "brand1": {
+      "default": {
+        "value": "#800088",
+        "type": "color",
+        "description": "Description of use cases for brand1.default"
+      },
+      "hover": {
+        "value": "#67166c",
+        "type": "color",
+        "description": "Description of use cases for brand1.hover"
+      },
+      "active": {
+        "value": "#501a53",
+        "type": "color",
+        "description": "Description of use cases for brand1.active"
+      },
+      "disabled": {
+        "value": "#bb99ba",
+        "type": "color",
+        "description": "Description of use cases for brand1.disabled"
+      }
+    },
+    "brand2": {
+      "default": {
+        "value": "#ff4900",
+        "type": "color",
+        "description": "Description of use cases for brand2.default"
+      },
+      "hover": {
+        "value": "#d24717",
+        "type": "color",
+        "description": "Description of use cases for brand2.hover"
+      },
+      "active": {
+        "value": "#af421d",
+        "type": "color",
+        "description": "Description of use cases for brand2.active"
+      },
+      "disabled": {
+        "value": "#ff9e7c",
+        "type": "color",
+        "description": "Description of use cases for brand2.disabled"
+      }
+    },
+    "brand3": {
+      "default": {
+        "value": "#3261ff",
+        "type": "color",
+        "description": "Description of use cases for brand3.default"
+      },
+      "hover": {
+        "value": "#3155c1",
+        "type": "color",
+        "description": "Description of use cases for brand3.hover"
+      },
+      "active": {
+        "value": "#2d4892",
+        "type": "color",
+        "description": "Description of use cases for brand3.active"
+      },
+      "disabled": {
+        "value": "#89a3de",
+        "type": "color",
+        "description": "Description of use cases for brand3.disabled"
+      }
+    }
+  },
+  "fontFamilies": {
+    "base": {
+      "value": "Proxima Nova",
+      "description": "For base body copy",
+      "type": "fontFamilies"
+    },
+    "support1": {
+      "value": "Mr Eaves San OT",
+      "description": "For headings or accents",
+      "type": "fontFamilies"
+    },
+    "support2": {
+      "value": "Sofia Pro Soft",
+      "description": "For specialized use cases",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "base": {
+      "1": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "2": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "3": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "4": {
+        "value": "Black",
+        "type": "fontWeights"
+      }
+    },
+    "support1": {
+      "1": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "2": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "3": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "4": {
+        "value": "Heavy",
+        "type": "fontWeights"
+      }
+    },
+    "support2": {
+      "1": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "2": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "3": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "4": {
+        "value": "Black",
+        "type": "fontWeights"
+      }
+    }
+  },
+  "baseFontSizes": {
+    "small": {
+      "value": 14,
+      "type": "fontSizes"
+    },
+    "medium": {
+      "value": 15,
+      "type": "fontSizes"
+    },
+    "large": {
+      "value": 16,
+      "type": "fontSizes"
+    }
+  },
+  "rootFontSize": {
+    "value": 14,
+    "type": "fontSizes"
+  },
+  "normalizedSize": {
+    "base": {
+      "value": 14.924,
+      "type": "fontSizes"
+    },
+    "support1": {
+      "value": 16.66,
+      "type": "fontSizes"
+    },
+    "support2": {
+      "value": 14.924,
+      "type": "fontSizes"
+    }
+  },
+  "typeScale": {
+    "value": 1.25,
+    "type": "fontSizes"
+  },
+  "remScale": {
+    "0": {
+      "value": 1,
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": 1.25,
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": 1.563,
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": 1.953,
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": 2.441,
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": 3.052,
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": 3.815,
+      "type": "fontSizes"
+    },
+    "neg1": {
+      "value": 0.8,
+      "type": "fontSizes"
+    }
+  },
+  "fontSizes": {
+    "base": {
+      "0": {
+        "value": 14.924,
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": 18.655,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 23.326,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 29.147,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 36.429,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 45.548,
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": 56.935,
+        "type": "fontSizes"
+      },
+      "neg1": {
+        "value": 11.939,
+        "type": "fontSizes"
+      },
+      "neg2": {
+        "value": 9.551,
+        "type": "fontSizes"
+      }
+    },
+    "support1": {
+      "0": {
+        "value": 16.66,
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": 20.825,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 26.04,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 32.537,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 40.667,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 50.846,
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": 63.558,
+        "type": "fontSizes"
+      },
+      "neg1": {
+        "value": 13.328,
+        "type": "fontSizes"
+      }
+    },
+    "support2": {
+      "0": {
+        "value": 14.924,
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": 18.655,
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": 23.326,
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": 29.147,
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": 36.429,
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": 45.548,
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": 56.935,
+        "type": "fontSizes"
+      },
+      "neg1": {
+        "value": 11.939,
+        "type": "fontSizes"
+      }
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": 20,
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": 24,
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": 28,
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": 36,
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": 44,
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": 56,
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": 68,
+      "type": "lineHeights"
+    },
+    "7": {
+      "value": 80,
+      "type": "lineHeights"
+    },
+    "neg1": {
+      "value": 16,
+      "type": "lineHeights"
+    }
+  },
+  "standard": {
+    "headline1": {
+      "value": {
+        "fontFamily": "Mr Eaves San OT",
+        "fontWeight": "Heavy",
+        "lineHeight": 68,
+        "fontSize": 63.558,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "uppercase"
+      },
+      "type": "typography",
+      "description": "Description of use case for headline1"
+    },
+    "headline2": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Bold",
+        "lineHeight": 56,
+        "fontSize": 45.548,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "Description of use case for headline2"
+    },
+    "headline3": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Bold",
+        "lineHeight": 44,
+        "fontSize": 36.429,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "Description of use case for headline3"
+    },
+    "title1": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Bold",
+        "lineHeight": 28,
+        "fontSize": 23.326,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "Description of use case for title1"
+    },
+    "title2": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Bold",
+        "lineHeight": 24,
+        "fontSize": 18.655,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography",
+      "description": "Description of use case for title2"
+    },
+    "title3": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Bold",
+        "lineHeight": 16,
+        "fontSize": 11.939,
+        "letterSpacing": "12.5%",
+        "paragraphSpacing": 0,
+        "textDecoration": "none",
+        "textCase": "uppercase"
+      },
+      "type": "typography",
+      "description": "Description of use case for title3"
+    },
+    "body": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Regular",
+        "lineHeight": 20,
+        "fontSize": 14.924,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 20,
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Description of use cases for standard.body"
+    },
+    "caption": {
+      "value": {
+        "fontFamily": "Proxima Nova",
+        "fontWeight": "Regular",
+        "lineHeight": 16,
+        "fontSize": 11.939,
+        "letterSpacing": "0%",
+        "paragraphSpacing": 16,
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Description of use cases for standard.caption"
+    }
+  },
+  "utility": {
+    "badge": {
+      "default": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": 16,
+          "fontSize": 11.939,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.badge.default"
+      }
+    },
+    "button": {
+      "default": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": "AUTO",
+          "fontSize": 17.056,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.button.default"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": 12,
+          "fontSize": 11.939,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.button.xsmall"
+      }
+    },
+    "link": {
+      "default": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": 20,
+          "fontSize": 14.924,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.link.default"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": 16,
+          "fontSize": 11.939,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.link.small"
+      },
+      "large": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": 24,
+          "fontSize": 18.655,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.link.large"
+      }
+    },
+    "input": {
+      "label": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Bold",
+          "lineHeight": "AUTO",
+          "fontSize": 14.924,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.input.label"
+      },
+      "content": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Regular",
+          "lineHeight": 20,
+          "fontSize": 14.924,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.input.content"
+      },
+      "description": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Regular",
+          "lineHeight": "AUTO",
+          "fontSize": 14.924,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.input.description"
+      },
+      "feedback": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Regular",
+          "lineHeight": "AUTO",
+          "fontSize": 14.924,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.input.feedback"
+      }
+    },
+    "tag": {
+      "default": {
+        "value": {
+          "fontFamily": "Proxima Nova",
+          "fontWeight": "Regular",
+          "lineHeight": 16,
+          "fontSize": 11.939,
+          "letterSpacing": "0%",
+          "paragraphSpacing": 0,
+          "textDecoration": "none",
+          "textCase": "capitalize"
+        },
+        "type": "typography",
+        "description": "Description of use cases for utility.tag.default"
+      }
+    }
+  },
+  "typeScales": {
+    "majorThird": {
+      "value": 1.25,
+      "type": "other",
+      "description": "Major Third (1.25) scale"
+    },
+    "perfectFourth": {
+      "value": 1.33,
+      "type": "other",
+      "description": "Perfect Fourth (1.33) scale"
+    }
+  },
+  "normalizationRatios": {
+    "base": {
+      "value": 1.066,
+      "type": "other"
+    },
+    "support1": {
+      "value": 1.19,
+      "type": "other"
+    },
+    "support2": {
+      "value": 1.066,
+      "type": "other"
+    }
+  },
+  "borderRadii": {
+    "0": {
+      "value": 0,
+      "type": "borderRadius"
+    },
+    "1": {
+      "value": 4,
+      "type": "borderRadius"
+    },
+    "2": {
+      "value": 8,
+      "type": "borderRadius"
+    },
+    "3": {
+      "value": 16,
+      "type": "borderRadius"
+    }
+  },
+  "icon": {
+    "0": {
+      "value": 14.924,
+      "type": "sizing"
+    },
+    "1": {
+      "value": 18.655,
+      "type": "sizing"
+    },
+    "2": {
+      "value": 23.326,
+      "type": "sizing"
+    },
+    "3": {
+      "value": 29.147,
+      "type": "sizing"
+    },
+    "4": {
+      "value": 36.429,
+      "type": "sizing"
+    },
+    "5": {
+      "value": 45.548,
+      "type": "sizing"
+    },
+    "6": {
+      "value": 56.935,
+      "type": "sizing"
+    },
+    "neg1": {
+      "value": 11.939,
+      "type": "sizing"
+    },
+    "button": {
+      "value": 17.056,
+      "type": "sizing"
+    }
+  }
+}
