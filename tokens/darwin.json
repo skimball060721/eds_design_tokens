@@ -525,281 +525,661 @@
   },
   "standard": {
     "headline1": {
-      "value": {
-        "fontFamily": "Mr Eaves San OT",
-        "fontWeight": "Heavy",
-        "lineHeight": 68,
-        "fontSize": 63.558,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "uppercase"
+      "fontFamily": {
+        "value": "Mr Eaves San OT",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for headline1"
+      "fontWeight": {
+        "value": "Heavy",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 68,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 63.558,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
     },
     "headline2": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Bold",
-        "lineHeight": 56,
-        "fontSize": 45.548,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "capitalize"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for headline2"
+      "fontWeight": {
+        "value": "Bold",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 56,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 45.548,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
     },
     "headline3": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Bold",
-        "lineHeight": 44,
-        "fontSize": 36.429,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "capitalize"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for headline3"
+      "fontWeight": {
+        "value": "Bold",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 44,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 36.429,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
     },
     "title1": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Bold",
-        "lineHeight": 28,
-        "fontSize": 23.326,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "capitalize"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for title1"
+      "fontWeight": {
+        "value": "Bold",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 28,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 23.326,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
     },
     "title2": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Bold",
-        "lineHeight": 24,
-        "fontSize": 18.655,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "capitalize"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for title2"
+      "fontWeight": {
+        "value": "Bold",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 18.655,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
     },
     "title3": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Bold",
-        "lineHeight": 16,
-        "fontSize": 11.939,
-        "letterSpacing": "12.5%",
-        "paragraphSpacing": 0,
-        "textDecoration": "none",
-        "textCase": "uppercase"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use case for title3"
+      "fontWeight": {
+        "value": "Bold",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 16,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 11.939,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "12.5%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
     },
     "body": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Regular",
-        "lineHeight": 20,
-        "fontSize": 14.924,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 20,
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use cases for standard.body"
+      "fontWeight": {
+        "value": "Regular",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 20,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 14.924,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 20,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      }
     },
     "caption": {
-      "value": {
-        "fontFamily": "Proxima Nova",
-        "fontWeight": "Regular",
-        "lineHeight": 16,
-        "fontSize": 11.939,
-        "letterSpacing": "0%",
-        "paragraphSpacing": 16,
-        "textDecoration": "none",
-        "textCase": "none"
+      "fontFamily": {
+        "value": "Proxima Nova",
+        "type": "fontFamily"
       },
-      "type": "typography",
-      "description": "Description of use cases for standard.caption"
+      "fontWeight": {
+        "value": "Regular",
+        "type": "fontWeight"
+      },
+      "lineHeight": {
+        "value": 16,
+        "type": "lineHeight"
+      },
+      "fontSize": {
+        "value": 11.939,
+        "type": "fontSize"
+      },
+      "letterSpacing": {
+        "value": "0%",
+        "type": "letterSpacing"
+      },
+      "paragraphSpacing": {
+        "value": 16,
+        "type": "paragraphSpacing"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "textCase"
+      }
     }
   },
   "utility": {
     "badge": {
       "default": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": 16,
-          "fontSize": 11.939,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "capitalize"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.badge.default"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 16,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 11.939,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase"
+        }
       }
     },
     "button": {
       "default": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": "AUTO",
-          "fontSize": 17.056,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "capitalize"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.button.default"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 17.056,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase"
+        }
       },
       "xsmall": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": 12,
-          "fontSize": 11.939,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "capitalize"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.button.xsmall"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 12,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 11.939,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase"
+        }
       }
     },
     "link": {
       "default": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": 20,
-          "fontSize": 14.924,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.link.default"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 20,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 14.924,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "small": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": 16,
-          "fontSize": 11.939,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.link.small"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 16,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 11.939,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "large": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": 24,
-          "fontSize": 18.655,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.link.large"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 24,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 18.655,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       }
     },
     "input": {
       "label": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Bold",
-          "lineHeight": "AUTO",
-          "fontSize": 14.924,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.input.label"
+        "fontWeight": {
+          "value": "Bold",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 14.924,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "content": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Regular",
-          "lineHeight": 20,
-          "fontSize": 14.924,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.input.content"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 20,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 14.924,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "description": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Regular",
-          "lineHeight": "AUTO",
-          "fontSize": 14.924,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.input.description"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 14.924,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       },
       "feedback": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Regular",
-          "lineHeight": "AUTO",
-          "fontSize": 14.924,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "none"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.input.feedback"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": "AUTO",
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 14.924,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase"
+        }
       }
     },
     "tag": {
       "default": {
-        "value": {
-          "fontFamily": "Proxima Nova",
-          "fontWeight": "Regular",
-          "lineHeight": 16,
-          "fontSize": 11.939,
-          "letterSpacing": "0%",
-          "paragraphSpacing": 0,
-          "textDecoration": "none",
-          "textCase": "capitalize"
+        "fontFamily": {
+          "value": "Proxima Nova",
+          "type": "fontFamily"
         },
-        "type": "typography",
-        "description": "Description of use cases for utility.tag.default"
+        "fontWeight": {
+          "value": "Regular",
+          "type": "fontWeight"
+        },
+        "lineHeight": {
+          "value": 16,
+          "type": "lineHeight"
+        },
+        "fontSize": {
+          "value": 11.939,
+          "type": "fontSize"
+        },
+        "letterSpacing": {
+          "value": "0%",
+          "type": "letterSpacing"
+        },
+        "paragraphSpacing": {
+          "value": 0,
+          "type": "paragraphSpacing"
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration"
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase"
+        }
       }
     }
   },
