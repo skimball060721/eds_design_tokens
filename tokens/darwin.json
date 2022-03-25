@@ -1,114 +1,139 @@
 {
-  "_brand": {
+  "_brandColors": {
     "hues": {
       "brand1": {
         "value": 0,
         "type": "color",
-        "description": "Purple"
+        "description": "Purple",
+        "rawValue": "0"
       },
       "brand2": {
         "value": 0,
         "description": "Orange",
-        "type": "color"
+        "type": "color",
+        "rawValue": "0"
       },
       "brand3": {
         "value": 0,
         "description": "Blue",
-        "type": "color"
+        "type": "color",
+        "rawValue": "0"
       },
       "brand4": {
         "value": 0,
-        "type": "color"
+        "type": "color",
+        "rawValue": "0"
       }
     },
     "brand1": {
       "100": {
         "value": "#e0d7e0",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#e0d7e0"
       },
       "200": {
         "value": "#bb99ba",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#bb99ba"
       },
       "300": {
         "value": "#954e97",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#954e97"
       },
       "400": {
         "value": "#800088",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#800088"
       },
       "500": {
         "value": "#67166c",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#67166c"
       },
       "600": {
         "value": "#501a53",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#501a53"
       },
       "700": {
         "value": "#3d183e",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#3d183e"
       }
     },
     "brand2": {
       "100": {
         "value": "#fcc6b3",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#fcc6b3"
       },
       "200": {
         "value": "#ff9e7c",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#ff9e7c"
       },
       "300": {
         "value": "#ff6d3b",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#ff6d3b"
       },
       "400": {
         "value": "#ff4900",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#ff4900"
       },
       "500": {
         "value": "#d24717",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#d24717"
       },
       "600": {
         "value": "#af421d",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#af421d"
       },
       "700": {
         "value": "#86391f",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#86391f"
       }
     },
     "brand3": {
       "100": {
         "value": "#c9d3e7",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#c9d3e7"
       },
       "200": {
         "value": "#89a3de",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#89a3de"
       },
       "300": {
         "value": "#5f85e5",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#5f85e5"
       },
       "400": {
         "value": "#3261ff",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#3261ff"
       },
       "500": {
         "value": "#3155c1",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#3155c1"
       },
       "600": {
         "value": "#2d4892",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#2d4892"
       },
       "700": {
         "value": "#25355e",
-        "type": "color"
+        "type": "color",
+        "rawValue": "#25355e"
       }
     }
   },
@@ -117,34 +142,40 @@
       "prominentText": {
         "value": "#373636",
         "type": "color",
-        "description": "Description of use cases for standard.prominentText"
+        "description": "Description of use cases for standard.prominentText",
+        "rawValue": "{_globalColors.grey.700}"
       },
       "coreText": {
         "value": "#373636",
         "type": "color",
-        "description": "Description of use cases for standard.coreText"
+        "description": "Description of use cases for standard.coreText",
+        "rawValue": "{_globalColors.grey.700}"
       },
       "deemphasizedText": {
         "value": "#b8b8b8",
         "type": "color",
-        "description": "Description of use cases for standard.deemphasizedText"
+        "description": "Description of use cases for standard.deemphasizedText",
+        "rawValue": "{_globalColors.grey.400}"
       },
       "title": {
         "value": "#800088",
         "description": "Description of use cases for standard.title",
-        "type": "color"
+        "type": "color",
+        "rawValue": "{_brandColors.brand1.400}"
       }
     },
     "ui": {
       "coreText": {
         "value": "#373636",
         "type": "color",
-        "description": "Description of use cases for ui.coreText"
+        "description": "Description of use cases for ui.coreText",
+        "rawValue": "{text.standard.coreText}"
       },
       "deemphasizedText": {
         "value": "#b8b8b8",
         "type": "color",
-        "description": "Description of use cases for ui.deemphasizedText"
+        "description": "Description of use cases for ui.deemphasizedText",
+        "rawValue": "{_globalColors.grey.400}"
       }
     }
   },
@@ -154,7 +185,8 @@
         "default": {
           "value": "#3261ff",
           "type": "color",
-          "description": "Description of use cases for ui.bg.brand3.default"
+          "description": "Description of use cases for ui.bg.brand3.default",
+          "rawValue": "{_brandColors.brand3.400}"
         }
       }
     },
@@ -162,7 +194,8 @@
       "brand1": {
         "value": "#800088",
         "type": "color",
-        "description": "Description of use cases for ui.icon.brand1"
+        "description": "Description of use cases for ui.icon.brand1",
+        "rawValue": "{_brandColors.brand1.400}"
       }
     }
   },
@@ -171,66 +204,78 @@
       "default": {
         "value": "#800088",
         "type": "color",
-        "description": "Description of use cases for brand1.default"
+        "description": "Description of use cases for brand1.default",
+        "rawValue": "{_brandColors.brand1.400}"
       },
       "hover": {
         "value": "#67166c",
         "type": "color",
-        "description": "Description of use cases for brand1.hover"
+        "description": "Description of use cases for brand1.hover",
+        "rawValue": "{_brandColors.brand1.500}"
       },
       "active": {
         "value": "#501a53",
         "type": "color",
-        "description": "Description of use cases for brand1.active"
+        "description": "Description of use cases for brand1.active",
+        "rawValue": "{_brandColors.brand1.600}"
       },
       "disabled": {
         "value": "#bb99ba",
         "type": "color",
-        "description": "Description of use cases for brand1.disabled"
+        "description": "Description of use cases for brand1.disabled",
+        "rawValue": "{_brandColors.brand1.200}"
       }
     },
     "brand2": {
       "default": {
         "value": "#ff4900",
         "type": "color",
-        "description": "Description of use cases for brand2.default"
+        "description": "Description of use cases for brand2.default",
+        "rawValue": "{_brandColors.brand2.400}"
       },
       "hover": {
         "value": "#d24717",
         "type": "color",
-        "description": "Description of use cases for brand2.hover"
+        "description": "Description of use cases for brand2.hover",
+        "rawValue": "{_brandColors.brand2.500}"
       },
       "active": {
         "value": "#af421d",
         "type": "color",
-        "description": "Description of use cases for brand2.active"
+        "description": "Description of use cases for brand2.active",
+        "rawValue": "{_brandColors.brand2.600}"
       },
       "disabled": {
         "value": "#ff9e7c",
         "type": "color",
-        "description": "Description of use cases for brand2.disabled"
+        "description": "Description of use cases for brand2.disabled",
+        "rawValue": "{_brandColors.brand2.200}"
       }
     },
     "brand3": {
       "default": {
         "value": "#3261ff",
         "type": "color",
-        "description": "Description of use cases for brand3.default"
+        "description": "Description of use cases for brand3.default",
+        "rawValue": "{_brandColors.brand3.400}"
       },
       "hover": {
         "value": "#3155c1",
         "type": "color",
-        "description": "Description of use cases for brand3.hover"
+        "description": "Description of use cases for brand3.hover",
+        "rawValue": "{_brandColors.brand3.500}"
       },
       "active": {
         "value": "#2d4892",
         "type": "color",
-        "description": "Description of use cases for brand3.active"
+        "description": "Description of use cases for brand3.active",
+        "rawValue": "{_brandColors.brand3.600}"
       },
       "disabled": {
         "value": "#89a3de",
         "type": "color",
-        "description": "Description of use cases for brand3.disabled"
+        "description": "Description of use cases for brand3.disabled",
+        "rawValue": "{_brandColors.brand3.200}"
       }
     }
   },
@@ -238,289 +283,313 @@
     "base": {
       "value": "Proxima Nova",
       "description": "For base body copy",
-      "type": "fontFamilies"
+      "type": "fontFamilies",
+      "rawValue": "Proxima Nova"
     },
     "support1": {
       "value": "Mr Eaves San OT",
       "description": "For headings or accents",
-      "type": "fontFamilies"
+      "type": "fontFamilies",
+      "rawValue": "Mr Eaves San OT"
     },
     "support2": {
       "value": "Sofia Pro Soft",
       "description": "For specialized use cases",
-      "type": "fontFamilies"
+      "type": "fontFamilies",
+      "rawValue": "Sofia Pro Soft"
     }
   },
   "fontWeights": {
     "base": {
       "1": {
         "value": "Light",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Light"
       },
       "2": {
         "value": "Regular",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Regular"
       },
       "3": {
         "value": "Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Bold"
       },
       "4": {
         "value": "Black",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Black"
       }
     },
     "support1": {
       "1": {
         "value": "Light",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Light"
       },
       "2": {
         "value": "Regular",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Regular"
       },
       "3": {
         "value": "Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Bold"
       },
       "4": {
         "value": "Heavy",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Heavy"
       }
     },
     "support2": {
       "1": {
         "value": "Light",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Light"
       },
       "2": {
         "value": "Regular",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Regular"
       },
       "3": {
         "value": "Bold",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Bold"
       },
       "4": {
         "value": "Black",
-        "type": "fontWeights"
+        "type": "fontWeights",
+        "rawValue": "Black"
       }
     }
   },
   "baseFontSizes": {
     "small": {
       "value": 14,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "14"
     },
     "medium": {
       "value": 15,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "15"
     },
     "large": {
       "value": 16,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "16"
     }
   },
   "rootFontSize": {
     "value": 14,
-    "type": "fontSizes"
+    "type": "fontSizes",
+    "rawValue": "{baseFontSizes.small}"
   },
   "normalizedSize": {
     "base": {
       "value": 14.924,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "{rootFontSize} * {normalizationRatios.base}"
     },
     "support1": {
       "value": 16.66,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "{rootFontSize} * {normalizationRatios.support1}"
     },
     "support2": {
       "value": 14.924,
-      "type": "fontSizes"
+      "type": "fontSizes",
+      "rawValue": "{rootFontSize} * {normalizationRatios.support2}"
     }
   },
   "typeScale": {
     "value": 1.25,
-    "type": "fontSizes"
-  },
-  "remScale": {
-    "0": {
-      "value": 1,
-      "type": "fontSizes"
-    },
-    "1": {
-      "value": 1.25,
-      "type": "fontSizes"
-    },
-    "2": {
-      "value": 1.563,
-      "type": "fontSizes"
-    },
-    "3": {
-      "value": 1.953,
-      "type": "fontSizes"
-    },
-    "4": {
-      "value": 2.441,
-      "type": "fontSizes"
-    },
-    "5": {
-      "value": 3.052,
-      "type": "fontSizes"
-    },
-    "6": {
-      "value": 3.815,
-      "type": "fontSizes"
-    },
-    "neg1": {
-      "value": 0.8,
-      "type": "fontSizes"
-    }
+    "type": "fontSizes",
+    "description": "Major Third",
+    "rawValue": "1.25"
   },
   "fontSizes": {
     "base": {
       "0": {
         "value": 14.924,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base}"
       },
       "1": {
         "value": 18.655,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.1}"
       },
       "2": {
         "value": 23.326,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.2}"
       },
       "3": {
         "value": 29.147,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.3}"
       },
       "4": {
         "value": 36.429,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.4}"
       },
       "5": {
         "value": 45.548,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.5}"
       },
       "6": {
         "value": 56.935,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} * {remScale.6}"
       },
       "neg1": {
         "value": 11.939,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} / {remScale.1}"
       },
       "neg2": {
         "value": 9.551,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.base} / {remScale.1}^2"
       }
     },
     "support1": {
       "0": {
         "value": 16.66,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1}"
       },
       "1": {
         "value": 20.825,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.1}"
       },
       "2": {
         "value": 26.04,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.2}"
       },
       "3": {
         "value": 32.537,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.3}"
       },
       "4": {
         "value": 40.667,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.4}"
       },
       "5": {
         "value": 50.846,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.5}"
       },
       "6": {
         "value": 63.558,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} * {remScale.6}"
       },
       "neg1": {
         "value": 13.328,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support1} / {remScale.1}"
       }
     },
     "support2": {
       "0": {
         "value": 14.924,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2}"
       },
       "1": {
         "value": 18.655,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.1}"
       },
       "2": {
         "value": 23.326,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.2}"
       },
       "3": {
         "value": 29.147,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.3}"
       },
       "4": {
         "value": 36.429,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.4}"
       },
       "5": {
         "value": 45.548,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.5}"
       },
       "6": {
         "value": 56.935,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} * {remScale.6}"
       },
       "neg1": {
         "value": 11.939,
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "rawValue": "{normalizedSize.support2} / {remScale.1}"
       }
     }
   },
   "lineHeights": {
     "0": {
       "value": 20,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "20"
     },
     "1": {
       "value": 24,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "24"
     },
     "2": {
       "value": 28,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "28"
     },
     "3": {
       "value": 36,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "36"
     },
     "4": {
       "value": 44,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "44"
     },
     "5": {
       "value": 56,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "56"
     },
     "6": {
       "value": 68,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "68"
     },
     "7": {
       "value": 80,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "80"
     },
     "neg1": {
       "value": 16,
-      "type": "lineHeights"
+      "type": "lineHeights",
+      "rawValue": "16"
     }
   },
   "standard": {
@@ -1183,86 +1252,90 @@
       }
     }
   },
-  "typeScales": {
-    "majorThird": {
-      "value": 1.25,
-      "type": "other",
-      "description": "Major Third (1.25) scale"
-    },
-    "perfectFourth": {
-      "value": 1.33,
-      "type": "other",
-      "description": "Perfect Fourth (1.33) scale"
-    }
-  },
   "normalizationRatios": {
     "base": {
       "value": 1.066,
-      "type": "other"
+      "type": "other",
+      "rawValue": "1.0657"
     },
     "support1": {
       "value": 1.19,
-      "type": "other"
+      "type": "other",
+      "rawValue": "1.19"
     },
     "support2": {
       "value": 1.066,
-      "type": "other"
+      "type": "other",
+      "rawValue": "1.0657"
     }
   },
   "borderRadii": {
     "0": {
       "value": 0,
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "rawValue": "0"
     },
     "1": {
       "value": 4,
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "rawValue": "4"
     },
     "2": {
       "value": 8,
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "rawValue": "8"
     },
     "3": {
       "value": 16,
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "rawValue": "16"
     }
   },
   "icon": {
     "0": {
       "value": 14.924,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.0}"
     },
     "1": {
       "value": 18.655,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.1}"
     },
     "2": {
       "value": 23.326,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.2}"
     },
     "3": {
       "value": 29.147,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.3}"
     },
     "4": {
       "value": 36.429,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.4}"
     },
     "5": {
       "value": 45.548,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.5}"
     },
     "6": {
       "value": 56.935,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.6}"
     },
     "neg1": {
       "value": 11.939,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "{fontSizes.base.neg1}"
     },
     "button": {
       "value": 17.056,
-      "type": "sizing"
+      "type": "sizing",
+      "rawValue": "16 * {normalizationRatios.base}"
     }
   }
 }
