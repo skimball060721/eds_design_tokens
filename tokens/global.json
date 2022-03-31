@@ -1,5 +1,13 @@
 {
   "_colors": {
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
     "green": {
       "100": {
         "value": "#abc9a6",
@@ -93,14 +101,6 @@
       },
       "700": {
         "value": "#373636",
-        "type": "color"
-      },
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "white": {
-        "value": "#ffffff",
         "type": "color"
       }
     }

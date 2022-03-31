@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 31 Mar 2022 20:39:36 GMT
+ * Generated on Thu, 31 Mar 2022 22:34:25 GMT
  */
 
 :root {
@@ -29,6 +29,8 @@
   --colors_brand3_500: #3155c1;
   --colors_brand3_600: #2d4892;
   --colors_brand3_700: #25355e;
+  --colors_black: #000000;
+  --colors_white: #ffffff;
   --colors_green_100: #abc9a6;
   --colors_green_200: #7daf74;
   --colors_green_300: #23891a;
@@ -51,8 +53,6 @@
   --colors_grey_500: #949494;
   --colors_grey_600: #585757;
   --colors_grey_700: #373636;
-  --colors_grey_black: #000000;
-  --colors_grey_white: #ffffff;
   --text_standard_prominent_text: #373636;
   --text_standard_core_text: #373636;
   --text_standard_deemphasized_text: #b8b8b8;
