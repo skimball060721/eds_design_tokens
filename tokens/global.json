@@ -1,5 +1,5 @@
 {
-  "colors": {
+  "color": {
     "_base": {
       "black": {
         "value": "#000000",
@@ -8,6 +8,36 @@
       "white": {
         "value": "#ffffff",
         "type": "color"
+      },
+      "grey": {
+        "100": {
+          "value": "#f2f2f2",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e9e9e9",
+          "type": "color"
+        },
+        "300": {
+          "value": "#d3d3d3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#b8b8b8",
+          "type": "color"
+        },
+        "500": {
+          "value": "#949494",
+          "type": "color"
+        },
+        "600": {
+          "value": "#585757",
+          "type": "color"
+        },
+        "700": {
+          "value": "#373636",
+          "type": "color"
+        }
       },
       "green": {
         "100": {
@@ -74,139 +104,127 @@
           "value": "#972617",
           "type": "color"
         }
-      },
-      "grey": {
-        "100": {
-          "value": "#f2f2f2",
-          "type": "color"
-        },
-        "200": {
-          "value": "#e9e9e9",
-          "type": "color"
-        },
-        "300": {
-          "value": "#d3d3d3",
-          "type": "color"
-        },
-        "400": {
-          "value": "#b8b8b8",
-          "type": "color"
-        },
-        "500": {
-          "value": "#949494",
-          "type": "color"
-        },
-        "600": {
-          "value": "#585757",
-          "type": "color"
-        },
-        "700": {
-          "value": "#373636",
-          "type": "color"
-        }
       }
     },
     "text": {
-      "ui": {
-        "white": {
-          "value": "#ffffff",
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Description of use cases for text.white"
+      },
+      "success": {
+        "value": "#23891a",
+        "type": "color",
+        "description": "Description of use cases for text.success"
+      },
+      "warning": {
+        "value": "#fccd54",
+        "type": "color",
+        "description": "Description of use cases for text.warning"
+      },
+      "danger": {
+        "value": "#e52715",
+        "type": "color",
+        "description": "Description of use cases for text.danger"
+      }
+    },
+    "bg": {
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Description of use cases for bg.black"
+      },
+      "white": {
+        "value": "#ffffff",
+        "description": "Description of use cases for bg.white",
+        "type": "color"
+      },
+      "neutral": {
+        "weak": {
+          "value": "#f2f2f2",
           "type": "color",
-          "description": "Description of use cases for text.ui.white"
-        },
-        "success": {
+          "description": "Description of use cases for ui.bg.neutral.weak"
+        }
+      },
+      "success": {
+        "default": {
           "value": "#23891a",
           "type": "color",
-          "description": "Description of use cases for ui.success"
-        },
-        "warning": {
+          "description": "Description of use cases for bg.success.default"
+        }
+      },
+      "warning": {
+        "default": {
           "value": "#fccd54",
           "type": "color",
-          "description": "Description of use cases for ui.warning"
-        },
-        "danger": {
+          "description": "Description of use cases for bg.warning.default"
+        }
+      },
+      "danger": {
+        "default": {
           "value": "#e52715",
           "type": "color",
-          "description": "Description of use cases for ui.danger"
+          "description": "Description of use cases for bg.danger.default"
         }
       }
     },
-    "ui": {
-      "bg": {
-        "neutral": {
-          "white": {
-            "value": "#ffffff",
-            "description": "Description of use cases for ui.bg.white",
-            "type": "color"
-          },
-          "weak": {
-            "value": "#f2f2f2",
-            "type": "color",
-            "description": "Description of use cases for ui.bg.neutral.weak"
-          },
-          "strong": {
-            "value": "#000000",
-            "type": "color",
-            "description": "Description of use cases for ui.bg.neutral.strong"
-          }
-        },
-        "success": {
-          "default": {
-            "value": "#23891a",
-            "type": "color",
-            "description": "Description of use cases for ui.bg.success.default"
-          }
-        },
-        "warning": {
-          "default": {
-            "value": "#fccd54",
-            "type": "color",
-            "description": "Description of use cases for ui.bg.warning.default"
-          }
-        },
-        "danger": {
-          "default": {
-            "value": "#e52715",
-            "type": "color",
-            "description": "Description of use cases for ui.bg.danger.default"
-          }
-        }
+    "icon": {
+      "white": {
+        "value": "#ffffff",
+        "description": "Description of use cases for ui.icon.white",
+        "type": "color"
       },
-      "icon": {
-        "white": {
-          "value": "#ffffff",
-          "description": "Description of use cases for ui.icon.white",
-          "type": "color"
-        },
-        "neutral": {
-          "value": "#b8b8b8",
-          "type": "color",
-          "description": "Description of use cases for ui.icon.neutral"
-        },
-        "success": {
-          "value": "#23891a",
-          "type": "color",
-          "description": "Description of use cases for ui.icon.success"
-        },
-        "warning": {
-          "value": "#fccd54",
-          "type": "color",
-          "description": "Description of use cases for ui.icon.warning"
-        },
-        "danger": {
-          "value": "#e52715",
-          "type": "color",
-          "description": "Description of use cases for ui.icon.danger"
-        }
+      "neutral": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "description": "Description of use cases for ui.icon.neutral"
       },
-      "stroke": {
-        "black": {
-          "value": "#000000",
-          "description": "Description of use cases for ui.stroke.black",
-          "type": "color"
-        }
+      "success": {
+        "value": "#23891a",
+        "type": "color",
+        "description": "Description of use cases for ui.icon.success"
+      },
+      "warning": {
+        "value": "#fccd54",
+        "type": "color",
+        "description": "Description of use cases for ui.icon.warning"
+      },
+      "danger": {
+        "value": "#e52715",
+        "type": "color",
+        "description": "Description of use cases for ui.icon.danger"
+      }
+    },
+    "stroke": {
+      "black": {
+        "value": "#000000",
+        "description": "Description of use cases for stroke.black",
+        "type": "color"
       }
     },
     "interactive": {
+      "neutral": {
+        "default": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "description": "Description of use cases for interactive.neutral.default"
+        },
+        "hover": {
+          "value": "#949494",
+          "type": "color",
+          "description": "Description of use cases for interactive.neutral.hover"
+        },
+        "active": {
+          "value": "#585757",
+          "type": "color",
+          "description": "Description of use cases for interactive.neutral.active"
+        },
+        "disabled": {
+          "value": "#e9e9e9",
+          "type": "color",
+          "description": "Description of use cases for interactive.neutral.disabled"
+        }
+      },
       "success": {
         "default": {
           "value": "#23891a",
@@ -271,28 +289,6 @@
           "value": "#f4b1a4",
           "type": "color",
           "description": "Description of use cases for interactive.danger.disabled"
-        }
-      },
-      "neutral": {
-        "default": {
-          "value": "#b8b8b8",
-          "type": "color",
-          "description": "Description of use cases for interactive.neutral.default"
-        },
-        "hover": {
-          "value": "#949494",
-          "type": "color",
-          "description": "Description of use cases for interactive.neutral.hover"
-        },
-        "active": {
-          "value": "#585757",
-          "type": "color",
-          "description": "Description of use cases for interactive.neutral.active"
-        },
-        "disabled": {
-          "value": "#e9e9e9",
-          "type": "color",
-          "description": "Description of use cases for interactive.neutral.disabled"
         }
       }
     }

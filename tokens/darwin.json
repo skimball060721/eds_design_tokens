@@ -1,119 +1,119 @@
 {
-  "_colors": {
-    "hues": {
+  "color": {
+    "_base": {
+      "hues": {
+        "brand1": {
+          "value": 0,
+          "type": "color",
+          "description": "Purple"
+        },
+        "brand2": {
+          "value": 0,
+          "description": "Orange",
+          "type": "color"
+        },
+        "brand3": {
+          "value": 0,
+          "description": "Blue",
+          "type": "color"
+        },
+        "brand4": {
+          "value": 0,
+          "type": "color"
+        }
+      },
       "brand1": {
-        "value": 0,
-        "type": "color",
-        "description": "Purple"
+        "100": {
+          "value": "#e0d7e0",
+          "type": "color"
+        },
+        "200": {
+          "value": "#bb99ba",
+          "type": "color"
+        },
+        "300": {
+          "value": "#954e97",
+          "type": "color"
+        },
+        "400": {
+          "value": "#800088",
+          "type": "color"
+        },
+        "500": {
+          "value": "#67166c",
+          "type": "color"
+        },
+        "600": {
+          "value": "#501a53",
+          "type": "color"
+        },
+        "700": {
+          "value": "#3d183e",
+          "type": "color"
+        }
       },
       "brand2": {
-        "value": 0,
-        "description": "Orange",
-        "type": "color"
+        "100": {
+          "value": "#fcc6b3",
+          "type": "color"
+        },
+        "200": {
+          "value": "#ff9e7c",
+          "type": "color"
+        },
+        "300": {
+          "value": "#ff6d3b",
+          "type": "color"
+        },
+        "400": {
+          "value": "#ff4900",
+          "type": "color"
+        },
+        "500": {
+          "value": "#d24717",
+          "type": "color"
+        },
+        "600": {
+          "value": "#af421d",
+          "type": "color"
+        },
+        "700": {
+          "value": "#86391f",
+          "type": "color"
+        }
       },
       "brand3": {
-        "value": 0,
-        "description": "Blue",
-        "type": "color"
-      },
-      "brand4": {
-        "value": 0,
-        "type": "color"
+        "100": {
+          "value": "#c9d3e7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#89a3de",
+          "type": "color"
+        },
+        "300": {
+          "value": "#5f85e5",
+          "type": "color"
+        },
+        "400": {
+          "value": "#3261ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#3155c1",
+          "type": "color"
+        },
+        "600": {
+          "value": "#2d4892",
+          "type": "color"
+        },
+        "700": {
+          "value": "#25355e",
+          "type": "color"
+        }
       }
     },
-    "brand1": {
-      "100": {
-        "value": "#e0d7e0",
-        "type": "color"
-      },
-      "200": {
-        "value": "#bb99ba",
-        "type": "color"
-      },
-      "300": {
-        "value": "#954e97",
-        "type": "color"
-      },
-      "400": {
-        "value": "#800088",
-        "type": "color"
-      },
-      "500": {
-        "value": "#67166c",
-        "type": "color"
-      },
-      "600": {
-        "value": "#501a53",
-        "type": "color"
-      },
-      "700": {
-        "value": "#3d183e",
-        "type": "color"
-      }
-    },
-    "brand2": {
-      "100": {
-        "value": "#fcc6b3",
-        "type": "color"
-      },
-      "200": {
-        "value": "#ff9e7c",
-        "type": "color"
-      },
-      "300": {
-        "value": "#ff6d3b",
-        "type": "color"
-      },
-      "400": {
-        "value": "#ff4900",
-        "type": "color"
-      },
-      "500": {
-        "value": "#d24717",
-        "type": "color"
-      },
-      "600": {
-        "value": "#af421d",
-        "type": "color"
-      },
-      "700": {
-        "value": "#86391f",
-        "type": "color"
-      }
-    },
-    "brand3": {
-      "100": {
-        "value": "#c9d3e7",
-        "type": "color"
-      },
-      "200": {
-        "value": "#89a3de",
-        "type": "color"
-      },
-      "300": {
-        "value": "#5f85e5",
-        "type": "color"
-      },
-      "400": {
-        "value": "#3261ff",
-        "type": "color"
-      },
-      "500": {
-        "value": "#3155c1",
-        "type": "color"
-      },
-      "600": {
-        "value": "#2d4892",
-        "type": "color"
-      },
-      "700": {
-        "value": "#25355e",
-        "type": "color"
-      }
-    }
-  },
-  "text": {
-    "standard": {
+    "text": {
       "prominentText": {
         "value": "#373636",
         "type": "color",
@@ -135,20 +135,6 @@
         "type": "color"
       }
     },
-    "ui": {
-      "coreText": {
-        "value": "#373636",
-        "type": "color",
-        "description": "Description of use cases for ui.coreText"
-      },
-      "deemphasizedText": {
-        "value": "#b8b8b8",
-        "type": "color",
-        "description": "Description of use cases for ui.deemphasizedText"
-      }
-    }
-  },
-  "ui": {
     "bg": {
       "brand3": {
         "default": {
@@ -164,73 +150,73 @@
         "type": "color",
         "description": "Description of use cases for ui.icon.brand1"
       }
-    }
-  },
-  "interactive": {
-    "brand1": {
-      "default": {
-        "value": "#800088",
-        "type": "color",
-        "description": "Description of use cases for brand1.default"
-      },
-      "hover": {
-        "value": "#67166c",
-        "type": "color",
-        "description": "Description of use cases for brand1.hover"
-      },
-      "active": {
-        "value": "#501a53",
-        "type": "color",
-        "description": "Description of use cases for brand1.active"
-      },
-      "disabled": {
-        "value": "#bb99ba",
-        "type": "color",
-        "description": "Description of use cases for brand1.disabled"
-      }
     },
-    "brand2": {
-      "default": {
-        "value": "#ff4900",
-        "type": "color",
-        "description": "Description of use cases for brand2.default"
+    "interactive": {
+      "brand1": {
+        "default": {
+          "value": "#800088",
+          "type": "color",
+          "description": "Description of use cases for brand1.default"
+        },
+        "hover": {
+          "value": "#67166c",
+          "type": "color",
+          "description": "Description of use cases for brand1.hover"
+        },
+        "active": {
+          "value": "#501a53",
+          "type": "color",
+          "description": "Description of use cases for brand1.active"
+        },
+        "disabled": {
+          "value": "#bb99ba",
+          "type": "color",
+          "description": "Description of use cases for brand1.disabled"
+        }
       },
-      "hover": {
-        "value": "#d24717",
-        "type": "color",
-        "description": "Description of use cases for brand2.hover"
+      "brand2": {
+        "default": {
+          "value": "#ff4900",
+          "type": "color",
+          "description": "Description of use cases for brand2.default"
+        },
+        "hover": {
+          "value": "#d24717",
+          "type": "color",
+          "description": "Description of use cases for brand2.hover"
+        },
+        "active": {
+          "value": "#af421d",
+          "type": "color",
+          "description": "Description of use cases for brand2.active"
+        },
+        "disabled": {
+          "value": "#ff9e7c",
+          "type": "color",
+          "description": "Description of use cases for brand2.disabled"
+        }
       },
-      "active": {
-        "value": "#af421d",
-        "type": "color",
-        "description": "Description of use cases for brand2.active"
-      },
-      "disabled": {
-        "value": "#ff9e7c",
-        "type": "color",
-        "description": "Description of use cases for brand2.disabled"
-      }
-    },
-    "brand3": {
-      "default": {
-        "value": "#3261ff",
-        "type": "color",
-        "description": "Description of use cases for brand3.default"
-      },
-      "hover": {
-        "value": "#3155c1",
-        "type": "color",
-        "description": "Description of use cases for brand3.hover"
-      },
-      "active": {
-        "value": "#2d4892",
-        "type": "color",
-        "description": "Description of use cases for brand3.active"
-      },
-      "disabled": {
-        "value": "#89a3de",
-        "type": "color",
-        "description": "Description of use cases for brand3.disabled"
+      "brand3": {
+        "default": {
+          "value": "#3261ff",
+          "type": "color",
+          "description": "Description of use cases for brand3.default"
+        },
+        "hover": {
+          "value": "#3155c1",
+          "type": "color",
+          "description": "Description of use cases for brand3.hover"
+        },
+        "active": {
+          "value": "#2d4892",
+          "type": "color",
+          "description": "Description of use cases for brand3.active"
+        },
+        "disabled": {
+          "value": "#89a3de",
+          "type": "color",
+          "description": "Description of use cases for brand3.disabled"
+        }
       }
     }
   },
