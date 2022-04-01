@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 01 Apr 2022 05:50:37 GMT
+ * Generated on Fri, 01 Apr 2022 06:00:13 GMT
  */
 
 :root {
@@ -118,6 +118,10 @@
   --font_weights_support2_2: Regular;
   --font_weights_support2_3: Bold;
   --font_weights_support2_4: Black;
+  --size_border_radii_0: 0px;
+  --size_border_radii_1: 4px;
+  --size_border_radii_2: 8px;
+  --size_border_radii_3: 16px;
   --size_font_device_small: 14px;
   --size_font_device_medium: 15px;
   --size_font_device_large: 16px;
@@ -150,19 +154,6 @@
   --size_font_support2_5: 45.548px;
   --size_font_support2_6: 56.935px;
   --size_font_support2_neg1: 11.939px;
-  --size_line_heights_0: 20px;
-  --size_line_heights_1: 24px;
-  --size_line_heights_2: 28px;
-  --size_line_heights_3: 36px;
-  --size_line_heights_4: 44px;
-  --size_line_heights_5: 56px;
-  --size_line_heights_6: 68px;
-  --size_line_heights_7: 80px;
-  --size_line_heights_neg1: 16px;
-  --size_border_radii_0: 0px;
-  --size_border_radii_1: 4px;
-  --size_border_radii_2: 8px;
-  --size_border_radii_3: 16px;
   --size_icon_0: 14.924px;
   --size_icon_1: 18.655px;
   --size_icon_2: 23.326px;
@@ -172,6 +163,15 @@
   --size_icon_6: 56.935px;
   --size_icon_neg1: 11.939px;
   --size_icon_button: 17.056px;
+  --size_line_heights_0: 20px;
+  --size_line_heights_1: 24px;
+  --size_line_heights_2: 28px;
+  --size_line_heights_3: 36px;
+  --size_line_heights_4: 44px;
+  --size_line_heights_5: 56px;
+  --size_line_heights_6: 68px;
+  --size_line_heights_7: 80px;
+  --size_line_heights_neg1: 16px;
   --type_scale: 1.25;
   --standard_headline1_font_family: Mr Eaves San OT;
   --standard_headline1_font_weight: Heavy;

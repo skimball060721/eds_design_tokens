@@ -294,6 +294,24 @@
     }
   },
   "size": {
+    "borderRadii": {
+      "0": {
+        "value": 0,
+        "type": "borderRadius"
+      },
+      "1": {
+        "value": 4,
+        "type": "borderRadius"
+      },
+      "2": {
+        "value": 8,
+        "type": "borderRadius"
+      },
+      "3": {
+        "value": 16,
+        "type": "borderRadius"
+      }
+    },
     "font": {
       "device": {
         "small": {
@@ -434,62 +452,6 @@
         }
       }
     },
-    "lineHeights": {
-      "0": {
-        "value": 20,
-        "type": "lineHeights"
-      },
-      "1": {
-        "value": 24,
-        "type": "lineHeights"
-      },
-      "2": {
-        "value": 28,
-        "type": "lineHeights"
-      },
-      "3": {
-        "value": 36,
-        "type": "lineHeights"
-      },
-      "4": {
-        "value": 44,
-        "type": "lineHeights"
-      },
-      "5": {
-        "value": 56,
-        "type": "lineHeights"
-      },
-      "6": {
-        "value": 68,
-        "type": "lineHeights"
-      },
-      "7": {
-        "value": 80,
-        "type": "lineHeights"
-      },
-      "neg1": {
-        "value": 16,
-        "type": "lineHeights"
-      }
-    },
-    "borderRadii": {
-      "0": {
-        "value": 0,
-        "type": "borderRadius"
-      },
-      "1": {
-        "value": 4,
-        "type": "borderRadius"
-      },
-      "2": {
-        "value": 8,
-        "type": "borderRadius"
-      },
-      "3": {
-        "value": 16,
-        "type": "borderRadius"
-      }
-    },
     "icon": {
       "0": {
         "value": 14.924,
@@ -526,6 +488,44 @@
       "button": {
         "value": 17.056,
         "type": "sizing"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": 20,
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": 24,
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": 28,
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": 36,
+        "type": "lineHeights"
+      },
+      "4": {
+        "value": 44,
+        "type": "lineHeights"
+      },
+      "5": {
+        "value": 56,
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": 68,
+        "type": "lineHeights"
+      },
+      "7": {
+        "value": 80,
+        "type": "lineHeights"
+      },
+      "neg1": {
+        "value": 16,
+        "type": "lineHeights"
       }
     }
   },
