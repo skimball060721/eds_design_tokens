@@ -293,188 +293,246 @@
       }
     }
   },
-  "baseFontSizes": {
-    "small": {
-      "value": 14,
-      "type": "fontSizes"
+  "size": {
+    "font": {
+      "device": {
+        "small": {
+          "value": 14,
+          "type": "fontSizes"
+        },
+        "medium": {
+          "value": 15,
+          "type": "fontSizes"
+        },
+        "large": {
+          "value": 16,
+          "type": "fontSizes"
+        }
+      },
+      "root": {
+        "value": 14,
+        "type": "fontSizes"
+      },
+      "normalized": {
+        "base": {
+          "value": 14.924,
+          "type": "fontSizes"
+        },
+        "support1": {
+          "value": 16.66,
+          "type": "fontSizes"
+        },
+        "support2": {
+          "value": 14.924,
+          "type": "fontSizes"
+        }
+      },
+      "base": {
+        "0": {
+          "value": 14.924,
+          "type": "fontSizes"
+        },
+        "1": {
+          "value": 18.655,
+          "type": "fontSizes"
+        },
+        "2": {
+          "value": 23.326,
+          "type": "fontSizes"
+        },
+        "3": {
+          "value": 29.147,
+          "type": "fontSizes"
+        },
+        "4": {
+          "value": 36.429,
+          "type": "fontSizes"
+        },
+        "5": {
+          "value": 45.548,
+          "type": "fontSizes"
+        },
+        "6": {
+          "value": 56.935,
+          "type": "fontSizes"
+        },
+        "neg1": {
+          "value": 11.939,
+          "type": "fontSizes"
+        },
+        "neg2": {
+          "value": 9.551,
+          "type": "fontSizes"
+        }
+      },
+      "support1": {
+        "0": {
+          "value": 16.66,
+          "type": "fontSizes"
+        },
+        "1": {
+          "value": 20.825,
+          "type": "fontSizes"
+        },
+        "2": {
+          "value": 26.04,
+          "type": "fontSizes"
+        },
+        "3": {
+          "value": 32.537,
+          "type": "fontSizes"
+        },
+        "4": {
+          "value": 40.667,
+          "type": "fontSizes"
+        },
+        "5": {
+          "value": 50.846,
+          "type": "fontSizes"
+        },
+        "6": {
+          "value": 63.558,
+          "type": "fontSizes"
+        },
+        "neg1": {
+          "value": 13.328,
+          "type": "fontSizes"
+        }
+      },
+      "support2": {
+        "0": {
+          "value": 14.924,
+          "type": "fontSizes"
+        },
+        "1": {
+          "value": 18.655,
+          "type": "fontSizes"
+        },
+        "2": {
+          "value": 23.326,
+          "type": "fontSizes"
+        },
+        "3": {
+          "value": 29.147,
+          "type": "fontSizes"
+        },
+        "4": {
+          "value": 36.429,
+          "type": "fontSizes"
+        },
+        "5": {
+          "value": 45.548,
+          "type": "fontSizes"
+        },
+        "6": {
+          "value": 56.935,
+          "type": "fontSizes"
+        },
+        "neg1": {
+          "value": 11.939,
+          "type": "fontSizes"
+        }
+      }
     },
-    "medium": {
-      "value": 15,
-      "type": "fontSizes"
+    "lineHeights": {
+      "0": {
+        "value": 20,
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": 24,
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": 28,
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": 36,
+        "type": "lineHeights"
+      },
+      "4": {
+        "value": 44,
+        "type": "lineHeights"
+      },
+      "5": {
+        "value": 56,
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": 68,
+        "type": "lineHeights"
+      },
+      "7": {
+        "value": 80,
+        "type": "lineHeights"
+      },
+      "neg1": {
+        "value": 16,
+        "type": "lineHeights"
+      }
     },
-    "large": {
-      "value": 16,
-      "type": "fontSizes"
-    }
-  },
-  "rootFontSize": {
-    "value": 14,
-    "type": "fontSizes"
-  },
-  "normalizedSize": {
-    "base": {
-      "value": 14.924,
-      "type": "fontSizes"
+    "borderRadii": {
+      "0": {
+        "value": 0,
+        "type": "borderRadius"
+      },
+      "1": {
+        "value": 4,
+        "type": "borderRadius"
+      },
+      "2": {
+        "value": 8,
+        "type": "borderRadius"
+      },
+      "3": {
+        "value": 16,
+        "type": "borderRadius"
+      }
     },
-    "support1": {
-      "value": 16.66,
-      "type": "fontSizes"
-    },
-    "support2": {
-      "value": 14.924,
-      "type": "fontSizes"
+    "icon": {
+      "0": {
+        "value": 14.924,
+        "type": "sizing"
+      },
+      "1": {
+        "value": 18.655,
+        "type": "sizing"
+      },
+      "2": {
+        "value": 23.326,
+        "type": "sizing"
+      },
+      "3": {
+        "value": 29.147,
+        "type": "sizing"
+      },
+      "4": {
+        "value": 36.429,
+        "type": "sizing"
+      },
+      "5": {
+        "value": 45.548,
+        "type": "sizing"
+      },
+      "6": {
+        "value": 56.935,
+        "type": "sizing"
+      },
+      "neg1": {
+        "value": 11.939,
+        "type": "sizing"
+      },
+      "button": {
+        "value": 17.056,
+        "type": "sizing"
+      }
     }
   },
   "typeScale": {
     "value": 1.25,
-    "type": "fontSizes",
+    "type": "other",
     "description": "Major Third"
-  },
-  "fontSizes": {
-    "base": {
-      "0": {
-        "value": 14.924,
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": 18.655,
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": 23.326,
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": 29.147,
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": 36.429,
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": 45.548,
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": 56.935,
-        "type": "fontSizes"
-      },
-      "neg1": {
-        "value": 11.939,
-        "type": "fontSizes"
-      },
-      "neg2": {
-        "value": 9.551,
-        "type": "fontSizes"
-      }
-    },
-    "support1": {
-      "0": {
-        "value": 16.66,
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": 20.825,
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": 26.04,
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": 32.537,
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": 40.667,
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": 50.846,
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": 63.558,
-        "type": "fontSizes"
-      },
-      "neg1": {
-        "value": 13.328,
-        "type": "fontSizes"
-      }
-    },
-    "support2": {
-      "0": {
-        "value": 14.924,
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": 18.655,
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": 23.326,
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": 29.147,
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": 36.429,
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": 45.548,
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": 56.935,
-        "type": "fontSizes"
-      },
-      "neg1": {
-        "value": 11.939,
-        "type": "fontSizes"
-      }
-    }
-  },
-  "lineHeights": {
-    "0": {
-      "value": 20,
-      "type": "lineHeights"
-    },
-    "1": {
-      "value": 24,
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": 28,
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": 36,
-      "type": "lineHeights"
-    },
-    "4": {
-      "value": 44,
-      "type": "lineHeights"
-    },
-    "5": {
-      "value": 56,
-      "type": "lineHeights"
-    },
-    "6": {
-      "value": 68,
-      "type": "lineHeights"
-    },
-    "7": {
-      "value": 80,
-      "type": "lineHeights"
-    },
-    "neg1": {
-      "value": 16,
-      "type": "lineHeights"
-    }
   },
   "standard": {
     "headline1": {
@@ -1148,62 +1206,6 @@
     "support2": {
       "value": 1.066,
       "type": "other"
-    }
-  },
-  "borderRadii": {
-    "0": {
-      "value": 0,
-      "type": "borderRadius"
-    },
-    "1": {
-      "value": 4,
-      "type": "borderRadius"
-    },
-    "2": {
-      "value": 8,
-      "type": "borderRadius"
-    },
-    "3": {
-      "value": 16,
-      "type": "borderRadius"
-    }
-  },
-  "icon": {
-    "0": {
-      "value": 14.924,
-      "type": "sizing"
-    },
-    "1": {
-      "value": 18.655,
-      "type": "sizing"
-    },
-    "2": {
-      "value": 23.326,
-      "type": "sizing"
-    },
-    "3": {
-      "value": 29.147,
-      "type": "sizing"
-    },
-    "4": {
-      "value": 36.429,
-      "type": "sizing"
-    },
-    "5": {
-      "value": 45.548,
-      "type": "sizing"
-    },
-    "6": {
-      "value": 56.935,
-      "type": "sizing"
-    },
-    "neg1": {
-      "value": 11.939,
-      "type": "sizing"
-    },
-    "button": {
-      "value": 17.056,
-      "type": "sizing"
     }
   }
 }
