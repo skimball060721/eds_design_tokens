@@ -220,21 +220,23 @@
       }
     }
   },
-  "fontFamilies": {
-    "base": {
-      "value": "Proxima Nova",
-      "description": "For base body copy",
-      "type": "fontFamilies"
-    },
-    "support1": {
-      "value": "Mr Eaves San OT",
-      "description": "For headings or accents",
-      "type": "fontFamilies"
-    },
-    "support2": {
-      "value": "Sofia Pro Soft",
-      "description": "For specialized use cases",
-      "type": "fontFamilies"
+  "font": {
+    "family": {
+      "base": {
+        "value": "Proxima Nova",
+        "description": "For base body copy",
+        "type": "fontFamilies"
+      },
+      "support1": {
+        "value": "Mr Eaves San OT",
+        "description": "For headings or accents",
+        "type": "fontFamilies"
+      },
+      "support2": {
+        "value": "Sofia Pro Soft",
+        "description": "For specialized use cases",
+        "type": "fontFamilies"
+      }
     }
   },
   "fontWeights": {

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 01 Apr 2022 06:00:13 GMT
+ * Generated on Fri, 01 Apr 2022 06:31:52 GMT
  */
 
 :root {
@@ -103,9 +103,9 @@
   --color_interactive_danger_active: #972617;
   --color_interactive_danger_disabled: #f4b1a4;
   --color_stroke_black: #000000;
-  --font_families_base: Proxima Nova;
-  --font_families_support1: Mr Eaves San OT;
-  --font_families_support2: Sofia Pro Soft;
+  --font_family_base: "Proxima Nova";
+  --font_family_support1: "Mr Eaves San OT";
+  --font_family_support2: "Sofia Pro Soft";
   --font_weights_base_1: Light;
   --font_weights_base_2: Regular;
   --font_weights_base_3: Bold;
