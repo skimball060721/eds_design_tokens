@@ -237,61 +237,61 @@
         "description": "For specialized use cases",
         "type": "fontFamilies"
       }
-    }
-  },
-  "fontWeights": {
-    "base": {
-      "1": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "2": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "3": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "4": {
-        "value": "Black",
-        "type": "fontWeights"
-      }
     },
-    "support1": {
-      "1": {
-        "value": "Light",
-        "type": "fontWeights"
+    "weight": {
+      "base": {
+        "1": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "2": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "3": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "4": {
+          "value": "Black",
+          "type": "fontWeights"
+        }
       },
-      "2": {
-        "value": "Regular",
-        "type": "fontWeights"
+      "support1": {
+        "1": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "2": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "3": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "4": {
+          "value": "Heavy",
+          "type": "fontWeights"
+        }
       },
-      "3": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "4": {
-        "value": "Heavy",
-        "type": "fontWeights"
-      }
-    },
-    "support2": {
-      "1": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "2": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "3": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "4": {
-        "value": "Black",
-        "type": "fontWeights"
+      "support2": {
+        "1": {
+          "value": "Light",
+          "type": "fontWeights"
+        },
+        "2": {
+          "value": "Regular",
+          "type": "fontWeights"
+        },
+        "3": {
+          "value": "Bold",
+          "type": "fontWeights"
+        },
+        "4": {
+          "value": "Black",
+          "type": "fontWeights"
+        }
       }
     }
   },

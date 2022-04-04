@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 01 Apr 2022 06:31:52 GMT
+ * Generated on Mon, 04 Apr 2022 18:16:59 GMT
  */
 
 :root {
@@ -106,18 +106,18 @@
   --font_family_base: "Proxima Nova";
   --font_family_support1: "Mr Eaves San OT";
   --font_family_support2: "Sofia Pro Soft";
-  --font_weights_base_1: Light;
-  --font_weights_base_2: Regular;
-  --font_weights_base_3: Bold;
-  --font_weights_base_4: Black;
-  --font_weights_support1_1: Light;
-  --font_weights_support1_2: Regular;
-  --font_weights_support1_3: Bold;
-  --font_weights_support1_4: Heavy;
-  --font_weights_support2_1: Light;
-  --font_weights_support2_2: Regular;
-  --font_weights_support2_3: Bold;
-  --font_weights_support2_4: Black;
+  --font_weight_base_1: "Light";
+  --font_weight_base_2: "Regular";
+  --font_weight_base_3: "Bold";
+  --font_weight_base_4: "Black";
+  --font_weight_support1_1: "Light";
+  --font_weight_support1_2: "Regular";
+  --font_weight_support1_3: "Bold";
+  --font_weight_support1_4: "Heavy";
+  --font_weight_support2_1: "Light";
+  --font_weight_support2_2: "Regular";
+  --font_weight_support2_3: "Bold";
+  --font_weight_support2_4: "Black";
   --size_border_radii_0: 0px;
   --size_border_radii_1: 4px;
   --size_border_radii_2: 8px;
