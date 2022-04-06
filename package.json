@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "build": "node ./build.js",
+    "clean": "rm -rf build"
+  },
   "devDependencies": {
     "style-dictionary": "^3.7.0"
+  },
+  "dependencies": {
+    "token-transformer": "^0.0.20"
   }
 }

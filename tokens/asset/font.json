@@ -1,0 +1,10 @@
+{
+  "asset": {
+    "font": {
+      "proximanova": {
+        "name": { "value": "Proxima Nova" },
+        "ttf": { "value": "assets/fonts/Proxima-Nova-Regular.ttf" }
+      }
+    }
+  }
+}

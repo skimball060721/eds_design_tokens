@@ -292,46 +292,5 @@
         }
       }
     }
-  },
-  "remScale": {
-    "0": {
-      "value": 1,
-      "type": "other"
-    },
-    "1": {
-      "value": "1 * {typeScale}",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "2": {
-      "value": "1 * {typeScale}^2",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "3": {
-      "value": "1 * {typeScale}^3",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "4": {
-      "value": "1 * {typeScale}^4",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "5": {
-      "value": "1 * {typeScale}^5",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "6": {
-      "value": "1 * {typeScale}^6",
-      "type": "other",
-      "failedToResolve": true
-    },
-    "neg1": {
-      "value": "1 / {typeScale}",
-      "type": "other",
-      "failedToResolve": true
-    }
   }
 }

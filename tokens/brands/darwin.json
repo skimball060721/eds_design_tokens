@@ -315,20 +315,6 @@
       }
     },
     "font": {
-      "device": {
-        "small": {
-          "value": 14,
-          "type": "fontSizes"
-        },
-        "medium": {
-          "value": 15,
-          "type": "fontSizes"
-        },
-        "large": {
-          "value": 16,
-          "type": "fontSizes"
-        }
-      },
       "root": {
         "value": 14,
         "type": "fontSizes"
@@ -338,13 +324,15 @@
           "value": 14.924,
           "type": "fontSizes"
         },
-        "support1": {
-          "value": 16.66,
-          "type": "fontSizes"
-        },
-        "support2": {
-          "value": 14.924,
-          "type": "fontSizes"
+        "support": {
+          "primary": {
+            "value": 16.66,
+            "type": "fontSizes"
+          },
+          "secondary": {
+            "value": 14.924,
+            "type": "fontSizes"
+          }
         }
       },
       "base": {
@@ -381,7 +369,7 @@
           "type": "fontSizes"
         },
         "neg2": {
-          "value": 9.551,
+          "value": 9.548,
           "type": "fontSizes"
         }
       },
@@ -531,10 +519,12 @@
       }
     }
   },
-  "typeScale": {
-    "value": 1.25,
-    "type": "other",
-    "description": "Major Third"
+  "scale": {
+    "majorThird": {
+      "value": 1.25,
+      "type": "other",
+      "description": "Major Third"
+    }
   },
   "standard": {
     "headline1": {
@@ -1196,17 +1186,45 @@
       }
     }
   },
-  "normalizationRatios": {
+  "normalizationRatio": {
     "base": {
       "value": 1.066,
       "type": "other"
     },
-    "support1": {
-      "value": 1.19,
+    "support": {
+      "primary": {
+        "value": 1.19,
+        "type": "other"
+      },
+      "secondary": {
+        "value": 1.066,
+        "type": "other"
+      }
+    }
+  },
+  "typeScale": {
+    "1": {
+      "value": 1.25,
       "type": "other"
     },
-    "support2": {
-      "value": 1.066,
+    "2": {
+      "value": 1.563,
+      "type": "other"
+    },
+    "3": {
+      "value": 1.953,
+      "type": "other"
+    },
+    "4": {
+      "value": 2.441,
+      "type": "other"
+    },
+    "5": {
+      "value": 3.052,
+      "type": "other"
+    },
+    "6": {
+      "value": 3.815,
       "type": "other"
     }
   }
