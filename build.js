@@ -1,5 +1,27 @@
 const StyleDictionaryPackage = require("style-dictionary");
 
+StyleDictionaryPackage.registerTransform({
+  name: "typography/shorthand",
+  type: "value",
+  transitive: true,
+  matcher: (token) => token.type === "typography",
+  transformer: (token) => {
+    const { value } = token;
+    return `${value.fontWeight} ${value.fontSize}/${value.lineHeight} ${value.fontFamily}`;
+  },
+});
+
+StyleDictionaryPackage.registerTransformGroup({
+  name: "CSS",
+  transforms: [
+    "attribute/cti",
+    "name/cti/snake",
+    "size/px",
+    "color/css",
+    // "typography/shorthand",
+  ],
+});
+
 // HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
 
 function getStyleDictionaryConfig(brand) {
@@ -7,7 +29,7 @@ function getStyleDictionaryConfig(brand) {
     source: [`tokens/brands/${brand}.json`, "tokens/globals/**/*.json"],
     platforms: {
       web: {
-        transformGroup: "web",
+        transformGroup: "CSS",
         buildPath: `build/web/${brand}/`,
         files: [
           {
