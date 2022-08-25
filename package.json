@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "node ./build.js",
+    "build": "node ./style-dictionary/build.js",
     "clean": "rm -rf build"
   },
   "devDependencies": {

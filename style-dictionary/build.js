@@ -1,10 +1,10 @@
-const StyleDictionaryPackage = require("style-dictionary");
+const StyleDictionaryPackage = require('style-dictionary');
 
 StyleDictionaryPackage.registerTransform({
-  name: "typography/shorthand",
-  type: "value",
+  name: 'typography/shorthand',
+  type: 'value',
   transitive: true,
-  matcher: (token) => token.type === "typography",
+  matcher: (token) => token.type === 'typography',
   transformer: (token) => {
     const { value } = token;
     return `${value.fontWeight} ${value.fontSize}/${value.lineHeight} ${value.fontFamily}`;
@@ -12,12 +12,12 @@ StyleDictionaryPackage.registerTransform({
 });
 
 StyleDictionaryPackage.registerTransformGroup({
-  name: "CSS",
+  name: 'CSS',
   transforms: [
-    "attribute/cti",
-    "name/cti/snake",
-    "size/px",
-    "color/css",
+    'attribute/cti',
+    'name/cti/snake',
+    'size/px',
+    'color/css',
     // "typography/shorthand",
   ],
 });
@@ -26,15 +26,15 @@ StyleDictionaryPackage.registerTransformGroup({
 
 function getStyleDictionaryConfig(brand) {
   return {
-    source: [`tokens/brands/${brand}.json`, "tokens/globals/**/*.json"],
+    source: [`tokens/brands/${brand}.json`, 'tokens/globals/**/*.json'],
     platforms: {
       web: {
-        transformGroup: "CSS",
-        buildPath: `build/web/${brand}/`,
+        transformGroup: 'CSS',
+        buildPath: `./src/style-dictionary-dist/web/${brand}/`,
         files: [
           {
-            destination: "tokens.css",
-            format: "css/variables",
+            destination: 'tokens.css',
+            format: 'css/variables',
             options: {
               outputReferences: true,
             },
@@ -45,13 +45,13 @@ function getStyleDictionaryConfig(brand) {
   };
 }
 
-console.log("Build started…");
+console.log('Build started…');
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFERENT BRANDS AND PLATFORMS
 
-["darwin"].map(function (brand) {
-  ["web"].map(function (platform) {
-    console.log("\n===============================");
+['darwin'].map(function (brand) {
+  ['web'].map(function (platform) {
+    console.log('\n===============================');
     console.log(`\nProcessing: [${brand}]`);
 
     const StyleDictionary = StyleDictionaryPackage.extend(
@@ -60,9 +60,9 @@ console.log("Build started…");
 
     StyleDictionary.buildPlatform(platform);
 
-    console.log("\nEnd processing");
+    console.log('\nEnd processing');
   });
 });
 
-console.log("\n===============================");
-console.log("\nBuild completed!");
+console.log('\n===============================');
+console.log('\nBuild completed!');
