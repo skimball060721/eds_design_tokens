@@ -3,6 +3,7 @@
     "tokens",
     "core/color",
     "core/size",
-    "core/space"
+    "core/space",
+    "core/border"
   ]
 }
