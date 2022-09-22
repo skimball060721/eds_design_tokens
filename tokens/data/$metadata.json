@@ -8,6 +8,7 @@
     "core/typography",
     "semantic/light",
     "semantic/dark",
-    "comp/ui-card"
+    "comp/ui-card",
+    "comp/button"
   ]
 }
