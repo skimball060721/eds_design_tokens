@@ -1,9 +1,47 @@
 {
   "semantic": {
     "borderRadius": {
+      "actions": {
+        "value": "{borderRadius.4}",
+        "type": "borderRadius"
+      },
       "ui-card": {
         "value": "{borderRadius.4}",
         "type": "borderRadius"
+      }
+    },
+    "spacing": {
+      "actions": {
+        "xs": {
+          "padding-top": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.200}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        }
+      },
+      "ui": {
+        "sm": {
+          "space-between": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "space-around": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        }
       }
     }
   }
