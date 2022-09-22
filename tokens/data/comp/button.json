@@ -1,1 +1,14 @@
-{}
+{
+  "btn": {
+    "sm": {
+      "padding-left": {
+        "value": "{semantic.spacing.actions.sm.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.actions.sm.padding-right}",
+        "type": "spacing"
+      }
+    }
+  }
+}

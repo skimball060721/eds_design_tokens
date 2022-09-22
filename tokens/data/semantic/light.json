@@ -12,7 +12,7 @@
     },
     "spacing": {
       "actions": {
-        "xs": {
+        "sm": {
           "padding-top": {
             "value": "{space.100}",
             "type": "spacing"
