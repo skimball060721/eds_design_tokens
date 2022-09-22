@@ -5,6 +5,8 @@
     "core/size",
     "core/space",
     "core/border",
-    "core/typography"
+    "core/typography",
+    "semantic/light",
+    "semantic/dark"
   ]
 }
