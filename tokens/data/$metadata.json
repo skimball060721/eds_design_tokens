@@ -4,6 +4,7 @@
     "core/color",
     "core/size",
     "core/space",
-    "core/border"
+    "core/border",
+    "core/typography"
   ]
 }
