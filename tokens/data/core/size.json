@@ -1,62 +1,66 @@
 {
   "size": {
-    "2": {
+    "0": {
+      "value": "0",
+      "type": "sizing"
+    },
+    "25": {
       "value": "2",
       "type": "sizing"
     },
-    "4": {
+    "50": {
       "value": "4",
       "type": "sizing"
     },
-    "8": {
+    "100": {
       "value": "8",
       "type": "sizing"
     },
-    "16": {
+    "200": {
       "value": "16",
       "type": "sizing"
     },
-    "20": {
+    "250": {
       "value": "20",
       "type": "sizing"
     },
-    "24": {
+    "300": {
       "value": "24",
       "type": "sizing"
     },
-    "28": {
+    "350": {
       "value": "28",
       "type": "sizing"
     },
-    "32": {
+    "400": {
       "value": "32",
       "type": "sizing"
     },
-    "40": {
+    "500": {
       "value": "40",
       "type": "sizing"
     },
-    "44": {
+    "550": {
       "value": "44",
       "type": "sizing"
     },
-    "48": {
+    "600": {
       "value": "48",
       "type": "sizing"
     },
-    "52": {
+    "650": {
       "value": "52",
       "type": "sizing"
     },
-    "56": {
+    "700": {
       "value": "56",
       "type": "sizing"
     },
-    "64": {
+    "800": {
       "value": "64",
       "type": "sizing"
     },
-    "68": {
+    "850": {
       "value": "68",
       "type": "sizing"
     }

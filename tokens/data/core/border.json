@@ -1,15 +1,15 @@
 {
   "borderRadius": {
     "4": {
-      "value": "{size.4}",
+      "value": "{size.50}",
       "type": "borderRadius"
     },
     "8": {
-      "value": "{size.8}",
+      "value": "{size.100}",
       "type": "borderRadius"
     },
     "16": {
-      "value": "{size.16}",
+      "value": "{size.200}",
       "type": "borderRadius"
     }
   }

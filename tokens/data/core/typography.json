@@ -86,62 +86,62 @@
     }
   },
   "lineHeight": {
-    "16": {
-      "value": "{size.16}",
+    "1": {
+      "value": "{size.200}",
       "type": "lineHeights"
     },
-    "20": {
-      "value": "{size.20}",
+    "2": {
+      "value": "{size.250}",
       "type": "lineHeights"
     },
-    "24": {
-      "value": "{size.24}",
+    "3": {
+      "value": "{size.300}",
       "type": "lineHeights"
     },
-    "28": {
-      "value": "{size.28}",
+    "4": {
+      "value": "{size.350}",
       "type": "lineHeights"
     },
-    "32": {
-      "value": "{size.32}",
+    "5": {
+      "value": "{size.400}",
       "type": "lineHeights"
     },
-    "40": {
-      "value": "{size.40}",
+    "6": {
+      "value": "{size.500}",
       "type": "lineHeights"
     },
-    "48": {
-      "value": "{size.48}",
+    "7": {
+      "value": "{size.600}",
       "type": "lineHeights"
     },
-    "52": {
-      "value": "{size.52}",
+    "8": {
+      "value": "{size.650}",
       "type": "lineHeights"
     },
-    "56": {
-      "value": "{size.56}",
+    "9": {
+      "value": "{size.700}",
       "type": "lineHeights"
     },
-    "64": {
-      "value": "{size.64}",
+    "10": {
+      "value": "{size.800}",
       "type": "lineHeights"
     },
-    "68": {
-      "value": "{size.68}",
+    "11": {
+      "value": "{size.850}",
       "type": "lineHeights"
     }
   },
   "paragraphSpacing": {
     "16": {
-      "value": "{size.16}",
+      "value": "{size.200}",
       "type": "paragraphSpacing"
     },
     "24": {
-      "value": "{size.24}",
+      "value": "{size.300}",
       "type": "paragraphSpacing"
     },
     "32": {
-      "value": "{size.32}",
+      "value": "{size.400}",
       "type": "paragraphSpacing"
     }
   }
