@@ -45,158 +45,160 @@
       }
     },
     "font-size": {
-      "small": {
-        "xs": {
-          "value": "{semantic.font-size.body.xs} / {semantic.font-scale.xs}",
-          "type": "fontSizes"
+      "typography": {
+        "small": {
+          "xs": {
+            "value": "{semantic.font-size.body.xs} / {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.body.sm} / {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.body.md} / {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.body.lg} / {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.body.xl} / {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         },
-        "sm": {
-          "value": "{semantic.font-size.body.sm} / {semantic.font-scale.sm}",
-          "type": "fontSizes"
+        "body": {
+          "xs": {
+            "value": "{font-size.1}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{font-size.1}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{font-size.2}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{font-size.2}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{font-size.3}",
+            "type": "fontSizes"
+          }
         },
-        "md": {
-          "value": "{semantic.font-size.body.md} / {semantic.font-scale.md}",
-          "type": "fontSizes"
+        "h5": {
+          "xs": {
+            "value": "{semantic.font-size.body.xs} * {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.body.sm} * {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.body.md} * {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.body.lg} * {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.body.xl} * {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         },
-        "lg": {
-          "value": "{semantic.font-size.body.lg} / {semantic.font-scale.lg}",
-          "type": "fontSizes"
+        "h4": {
+          "xs": {
+            "value": "{semantic.font-size.h5.xs} * {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.h5.sm} * {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.h5.md} * {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.h5.lg} * {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.h5.xl} * {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         },
-        "xl": {
-          "value": "{semantic.font-size.body.xl} / {semantic.font-scale.xl}",
-          "type": "fontSizes"
-        }
-      },
-      "body": {
-        "xs": {
-          "value": "{font-size.1}",
-          "type": "fontSizes"
+        "h3": {
+          "xs": {
+            "value": "{semantic.font-size.h4.xs} * {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.h4.sm} * {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.h4.md} * {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.h4.lg} * {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.h4.xl} * {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         },
-        "sm": {
-          "value": "{font-size.1}",
-          "type": "fontSizes"
+        "h2": {
+          "xs": {
+            "value": "{semantic.font-size.h3.xs} * {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.h3.sm} * {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.h3.md} * {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.h3.lg} * {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.h3.xl} * {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         },
-        "md": {
-          "value": "{font-size.2}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{font-size.2}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{font-size.3}",
-          "type": "fontSizes"
-        }
-      },
-      "h5": {
-        "xs": {
-          "value": "{semantic.font-size.body.xs} * {semantic.font-scale.xs}",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "{semantic.font-size.body.sm} * {semantic.font-scale.sm}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.body.md} * {semantic.font-scale.md}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.body.lg} * {semantic.font-scale.lg}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{semantic.font-size.body.xl} * {semantic.font-scale.xl}",
-          "type": "fontSizes"
-        }
-      },
-      "h4": {
-        "xs": {
-          "value": "{semantic.font-size.h5.xs} * {semantic.font-scale.xs}",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "{semantic.font-size.h5.sm} * {semantic.font-scale.sm}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.h5.md} * {semantic.font-scale.md}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.h5.lg} * {semantic.font-scale.lg}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{semantic.font-size.h5.xl} * {semantic.font-scale.xl}",
-          "type": "fontSizes"
-        }
-      },
-      "h3": {
-        "xs": {
-          "value": "{semantic.font-size.h4.xs} * {semantic.font-scale.xs}",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "{semantic.font-size.h4.sm} * {semantic.font-scale.sm}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.h4.md} * {semantic.font-scale.md}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.h4.lg} * {semantic.font-scale.lg}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{semantic.font-size.h4.xl} * {semantic.font-scale.xl}",
-          "type": "fontSizes"
-        }
-      },
-      "h2": {
-        "xs": {
-          "value": "{semantic.font-size.h3.xs} * {semantic.font-scale.xs}",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "{semantic.font-size.h3.sm} * {semantic.font-scale.sm}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.h3.md} * {semantic.font-scale.md}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.h3.lg} * {semantic.font-scale.lg}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{semantic.font-size.h3.xl} * {semantic.font-scale.xl}",
-          "type": "fontSizes"
-        }
-      },
-      "h1": {
-        "xs": {
-          "value": "{semantic.font-size.h2.xs} * {semantic.font-scale.xs}",
-          "type": "fontSizes"
-        },
-        "sm": {
-          "value": "{semantic.font-size.h2.sm} * {semantic.font-scale.sm}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.h2.md} * {semantic.font-scale.md}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.h2.lg} * {semantic.font-scale.lg}",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "{semantic.font-size.h2.xl} * {semantic.font-scale.xl}",
-          "type": "fontSizes"
+        "h1": {
+          "xs": {
+            "value": "{semantic.font-size.h2.xs} * {semantic.font-scale.xs}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.h2.sm} * {semantic.font-scale.sm}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.h2.md} * {semantic.font-scale.md}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.h2.lg} * {semantic.font-scale.lg}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.h2.xl} * {semantic.font-scale.xl}",
+            "type": "fontSizes"
+          }
         }
       }
     },
