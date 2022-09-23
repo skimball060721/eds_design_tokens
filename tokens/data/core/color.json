@@ -325,28 +325,6 @@
           "description": "Description of use cases for color.interactive.neutral.disabled"
         }
       },
-      "success": {
-        "default": {
-          "value": "{color._base.green.300}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.success.default"
-        },
-        "hover": {
-          "value": "{color._base.green.400}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.success.hover"
-        },
-        "active": {
-          "value": "{color._base.green.500}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.success.active"
-        },
-        "disabled": {
-          "value": "{color._base.green.100}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.success.disabled"
-        }
-      },
       "warning": {
         "default": {
           "value": "{color._base.yellow.300}",
@@ -398,13 +376,6 @@
         "description": "Description of use cases for stroke.black",
         "type": "color"
       },
-      "success": {
-        "default": {
-          "value": "{color._base.green.300}",
-          "type": "color",
-          "description": "Description of use cases for color.stroke.success.default"
-        }
-      },
       "warning": {
         "default": {
           "value": "{color._base.yellow.300}",
@@ -425,11 +396,6 @@
         "value": "{color._base.white}",
         "type": "color",
         "description": "Description of use cases for text.white"
-      },
-      "success": {
-        "value": "{color._base.green.300}",
-        "type": "color",
-        "description": "Description of use cases for text.success"
       },
       "warning": {
         "value": "{color._base.yellow.300}",
