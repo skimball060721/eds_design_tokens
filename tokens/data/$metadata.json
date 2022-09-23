@@ -9,7 +9,6 @@
     "semantic/light",
     "semantic/dark",
     "comp/ui-card",
-    "comp/button",
-    "semantic/mobile"
+    "comp/button"
   ]
 }
