@@ -324,50 +324,6 @@
           "type": "color",
           "description": "Description of use cases for color.interactive.neutral.disabled"
         }
-      },
-      "warning": {
-        "default": {
-          "value": "{color._base.yellow.300}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.warning.default"
-        },
-        "hover": {
-          "value": "{color._base.yellow.400}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.warning.hover"
-        },
-        "active": {
-          "value": "{color._base.yellow.500}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.warning.active"
-        },
-        "disabled": {
-          "value": "{color._base.yellow.200}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.warning.disabled"
-        }
-      },
-      "danger": {
-        "default": {
-          "value": "{color._base.red.300}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.danger.default"
-        },
-        "hover": {
-          "value": "{color._base.red.400}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.danger.hover"
-        },
-        "active": {
-          "value": "{color._base.red.500}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.danger.active"
-        },
-        "disabled": {
-          "value": "{color._base.red.100}",
-          "type": "color",
-          "description": "Description of use cases for color.interactive.danger.disabled"
-        }
       }
     },
     "stroke": {
@@ -396,16 +352,6 @@
         "value": "{color._base.white}",
         "type": "color",
         "description": "Description of use cases for text.white"
-      },
-      "warning": {
-        "value": "{color._base.yellow.300}",
-        "type": "color",
-        "description": "Description of use cases for text.warning"
-      },
-      "danger": {
-        "value": "{color._base.red.300}",
-        "type": "color",
-        "description": "Description of use cases for text.danger"
       }
     }
   }

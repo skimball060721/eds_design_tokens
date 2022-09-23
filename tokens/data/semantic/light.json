@@ -34,6 +34,10 @@
       "disabled": {
         "value": "{color._base.green.100}",
         "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color._base.green.300}, 0.15)",
+        "type": "color"
       }
     },
     "warning": {
@@ -342,6 +346,26 @@
               "value": "{color._base.neutrals.transparent}",
               "type": "color"
             }
+          }
+        }
+      },
+      "feedback": {
+        "success": {
+          "border-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{semantic.success.weak}",
+            "type": "color"
           }
         }
       }
