@@ -204,23 +204,23 @@
     },
     "font-scale": {
       "xs": {
-        "value": "{scale.minorThird}",
+        "value": "{font-scale.minorThird}",
         "type": "other"
       },
       "sm": {
-        "value": "{scale.minorThird}",
+        "value": "{font-scale.minorThird}",
         "type": "other"
       },
       "md": {
-        "value": "{scale.majorThird}",
+        "value": "{font-scale.majorThird}",
         "type": "other"
       },
       "lg": {
-        "value": "{scale.majorThird}",
+        "value": "{font-scale.majorThird}",
         "type": "other"
       },
       "xl": {
-        "value": "{scale.majorThird}",
+        "value": "{font-scale.majorThird}",
         "type": "other"
       }
     },
