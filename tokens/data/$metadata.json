@@ -9,6 +9,12 @@
     "semantic/light",
     "semantic/dark",
     "comp/ui-card",
-    "comp/button"
+    "comp/button",
+    "breakpoints/xs",
+    "breakpoints/sm",
+    "breakpoints/md",
+    "breakpoints/lg",
+    "breakpoints/xl",
+    "breakpoints/xxl"
   ]
 }
