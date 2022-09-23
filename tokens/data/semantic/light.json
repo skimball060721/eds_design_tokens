@@ -480,6 +480,14 @@
         }
       }
     },
+    "sizing": {
+      "actions": {
+        "md": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        }
+      }
+    },
     "font-size": {
       "base": {
         "value": "{font-size.1}",
