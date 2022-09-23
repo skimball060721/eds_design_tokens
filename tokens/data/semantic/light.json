@@ -46,7 +46,7 @@
     },
     "font-size": {
       "base": {
-        "value": "{font-size.3}",
+        "value": "{font-size.1}",
         "type": "fontSizes"
       },
       "scale": {
