@@ -189,7 +189,7 @@
           },
           "hover": {
             "border": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.warning.hover}",
               "type": "color"
             },
             "text": {
@@ -197,11 +197,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.warning.hover}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.warning.hover}",
               "type": "color"
             },
             "quiet-bg": {
@@ -211,7 +211,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.warning.active}",
               "type": "color"
             },
             "text": {
@@ -219,11 +219,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.warning.active}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.warning.active}",
               "type": "color"
             },
             "quiet-bg": {
@@ -233,7 +233,7 @@
           },
           "disabled": {
             "border": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.warning.disabled}",
               "type": "color"
             },
             "text": {
@@ -241,11 +241,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.warning.disabled}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.warning.disabled}",
               "type": "color"
             },
             "quiet-bg": {
@@ -279,7 +279,7 @@
           },
           "hover": {
             "border": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.danger.hover}",
               "type": "color"
             },
             "text": {
@@ -287,11 +287,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.danger.hover}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.danger.hover}",
               "type": "color"
             },
             "quiet-bg": {
@@ -301,7 +301,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.danger.active}",
               "type": "color"
             },
             "text": {
@@ -309,11 +309,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.danger.active}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.danger.active}",
               "type": "color"
             },
             "quiet-bg": {
@@ -323,7 +323,7 @@
           },
           "disabled": {
             "border": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.danger.disabled}",
               "type": "color"
             },
             "text": {
@@ -331,11 +331,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.danger.disabled}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.disabled}",
+              "value": "{semantic.danger.disabled}",
               "type": "color"
             },
             "quiet-bg": {
