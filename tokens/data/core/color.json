@@ -243,11 +243,6 @@
           "value": "{color._base.green.300}",
           "type": "color",
           "description": "Description of use cases for bg.success.default"
-        },
-        "weak": {
-          "value": "rgba({color._base.green.300}, 0.15)",
-          "type": "color",
-          "description": "Description of use cases for bg.success.weak"
         }
       },
       "warning": {
@@ -255,11 +250,6 @@
           "value": "{color._base.yellow.300}",
           "type": "color",
           "description": "Description of use cases for bg.warning.default"
-        },
-        "weak": {
-          "value": "rgba({color._base.yellow.300}, 0.15)",
-          "type": "color",
-          "description": "Description of use cases for bg.warning.weak"
         }
       },
       "danger": {
@@ -267,11 +257,6 @@
           "value": "{color._base.red.300}",
           "type": "color",
           "description": "Description of use cases for bg.danger.default"
-        },
-        "weak": {
-          "value": "rgba({color._base.red.300}, 0.15)",
-          "type": "color",
-          "description": "Description of use cases for bg.danger.weak"
         }
       }
     },

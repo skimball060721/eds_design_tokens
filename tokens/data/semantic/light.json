@@ -56,6 +56,10 @@
       "disabled": {
         "value": "{color._base.yellow.200}",
         "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color._base.yellow.300}, 0.15)",
+        "type": "color"
       }
     },
     "danger": {
@@ -73,6 +77,10 @@
       },
       "disabled": {
         "value": "{color._base.red.100}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color._base.red.300}, 0.15)",
         "type": "color"
       }
     },
@@ -365,6 +373,42 @@
           },
           "background-color": {
             "value": "{semantic.success.weak}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "border-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color._base.neutrals.black}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{semantic.warning.weak}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "border-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{semantic.danger.weak}",
             "type": "color"
           }
         }
