@@ -81,7 +81,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{color.neutrals.white}",
+              "value": "{color._base.neutrals.white}",
               "type": "color"
             },
             "quiet-text": {
@@ -93,7 +93,7 @@
               "type": "color"
             },
             "quiet-bg": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{color._base.neutrals.transparent}",
               "type": "color"
             }
           },
@@ -103,7 +103,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{color.neutrals.white}",
+              "value": "{color._base.neutrals.white}",
               "type": "color"
             },
             "quiet-text": {
@@ -115,7 +115,7 @@
               "type": "color"
             },
             "quiet-bg": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{color._base.neutrals.transparent}",
               "type": "color"
             }
           },
@@ -125,7 +125,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{color.neutrals.white}",
+              "value": "{color._base.neutrals.white}",
               "type": "color"
             },
             "quiet-text": {
@@ -137,7 +137,7 @@
               "type": "color"
             },
             "quiet-bg": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{color._base.neutrals.transparent}",
               "type": "color"
             }
           },
@@ -147,7 +147,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{color.neutrals.white}",
+              "value": "{color._base.neutrals.white}",
               "type": "color"
             },
             "quiet-text": {
@@ -159,7 +159,7 @@
               "type": "color"
             },
             "quiet-bg": {
-              "value": "{color.neutrals.transparent}",
+              "value": "{color._base.neutrals.transparent}",
               "type": "color"
             }
           }
