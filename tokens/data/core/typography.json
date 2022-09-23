@@ -1,88 +1,76 @@
 {
-  "font": {
-    "family": {
-      "ibmPlexMono": {
-        "value": "IBM Plex Mono",
-        "type": "fontFamilies"
-      },
-      "proximaNova": {
-        "value": "Proxima Nova",
-        "type": "fontFamilies"
-      },
-      "mrEavesSanOT": {
-        "value": "Mr Eaves San OT",
-        "type": "fontFamilies"
-      },
-      "sofiaProSoft": {
-        "value": "Sofia Pro Soft",
-        "type": "fontFamilies"
-      }
+  "font-family": {
+    "ibmPlexMono": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
     },
-    "weight": {
-      "light": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "black": {
-        "value": "Black",
-        "type": "fontWeights"
-      },
-      "heavy": {
-        "value": "Heavy",
-        "type": "fontWeights"
-      }
+    "proximaNova": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
     },
-    "size": {
-      "base": {
-        "sm": {
-          "value": "16",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "15",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "14",
-          "type": "fontSizes"
-        },
-        "xl": {
-          "value": "15",
-          "type": "fontSizes"
-        },
-        "xxl": {
-          "value": "16",
-          "type": "fontSizes"
-        }
-      }
+    "mrEavesSanOT": {
+      "value": "Mr Eaves San OT",
+      "type": "fontFamilies"
     },
-    "nRatio": {
-      "proximaNova": {
-        "value": "1.0657",
-        "type": "other"
-      },
-      "mrEavesSanOT": {
-        "value": "1.19",
-        "type": "other"
-      }
+    "sofiaProSoft": {
+      "value": "Sofia Pro Soft",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "light": {
+      "value": "Light",
+      "type": "fontWeights"
     },
-    "scale": {
-      "majorThird": {
-        "value": "1.25",
-        "type": "other"
-      },
-      "minorThird": {
-        "value": "1.2",
-        "type": "other"
-      }
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "heavy": {
+      "value": "Heavy",
+      "type": "fontWeights"
+    }
+  },
+  "font-size": {
+    "1": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "15",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  },
+  "font-nRatio": {
+    "proximaNova": {
+      "value": "1.0657",
+      "type": "other"
+    },
+    "mrEavesSanOT": {
+      "value": "1.19",
+      "type": "other"
+    }
+  },
+  "font-scale": {
+    "majorThird": {
+      "value": "1.25",
+      "type": "other"
+    },
+    "minorThird": {
+      "value": "1.2",
+      "type": "other"
     }
   },
   "lineHeight": {
