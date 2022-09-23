@@ -45,183 +45,43 @@
       }
     },
     "font-size": {
+      "base": {
+        "value": "{font-size.3}",
+        "type": "fontSizes"
+      },
+      "scale": {
+        "value": "{font-scale.majorThird}",
+        "type": "other"
+      },
       "typography": {
         "small": {
-          "xs": {
-            "value": "{semantic.font-size.typography.body.xs} / {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.body.sm} / {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.body.md} / {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.body.lg} / {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.body.xl} / {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.body} / {semantic.font-size.scale}",
+          "type": "fontSizes"
         },
         "body": {
-          "xs": {
-            "value": "{font-size.1}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{font-size.1}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{font-size.2}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{font-size.2}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{font-size.3}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.base}",
+          "type": "fontSizes"
         },
         "h5": {
-          "xs": {
-            "value": "{semantic.font-size.typography.body.xs} * {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.body.sm} * {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.body.md} * {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.body.lg} * {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.body.xl} * {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.body} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         },
         "h4": {
-          "xs": {
-            "value": "{semantic.font-size.typography.h5.xs} * {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.h5.sm} * {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.h5.md} * {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.h5.lg} * {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.h5.xl} * {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.h5} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         },
         "h3": {
-          "xs": {
-            "value": "{semantic.font-size.typography.h4.xs} * {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.h4.sm} * {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.h4.md} * {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.h4.lg} * {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.h4.xl} * {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.h4} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         },
         "h2": {
-          "xs": {
-            "value": "{semantic.font-size.typography.h3.xs} * {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.h3.sm} * {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.h3.md} * {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.h3.lg} * {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.h3.xl} * {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.h3} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         },
         "h1": {
-          "xs": {
-            "value": "{semantic.font-size.typography.h2.xs} * {semantic.font-scale.xs}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.typography.h2.sm} * {semantic.font-scale.sm}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.typography.h2.md} * {semantic.font-scale.md}",
-            "type": "fontSizes"
-          },
-          "lg": {
-            "value": "{semantic.font-size.typography.h2.lg} * {semantic.font-scale.lg}",
-            "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.typography.h2.xl} * {semantic.font-scale.xl}",
-            "type": "fontSizes"
-          }
+          "value": "{semantic.font-size.typography.h2} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         }
-      }
-    },
-    "font-scale": {
-      "xs": {
-        "value": "{font-scale.minorThird}",
-        "type": "other"
-      },
-      "sm": {
-        "value": "{font-scale.minorThird}",
-        "type": "other"
-      },
-      "md": {
-        "value": "{font-scale.majorThird}",
-        "type": "other"
-      },
-      "lg": {
-        "value": "{font-scale.majorThird}",
-        "type": "other"
-      },
-      "xl": {
-        "value": "{font-scale.majorThird}",
-        "type": "other"
       }
     },
     "font-nRatio": {
