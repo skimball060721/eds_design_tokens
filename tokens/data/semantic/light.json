@@ -1,12 +1,12 @@
 {
   "semantic": {
-    "borderRadius": {
+    "border-radius": {
       "actions": {
-        "value": "{borderRadius.4}",
+        "value": "{border-radius.4}",
         "type": "borderRadius"
       },
       "ui-card": {
-        "value": "{borderRadius.4}",
+        "value": "{border-radius.4}",
         "type": "borderRadius"
       }
     },
