@@ -1,14 +1,6 @@
 {
   "color": {
     "_base": {
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "white": {
-        "value": "#ffffff",
-        "type": "color"
-      },
       "grey": {
         "100": {
           "value": "#f2f2f2",
@@ -210,6 +202,20 @@
         },
         "base": {
           "value": "#3261ff",
+          "type": "color"
+        }
+      },
+      "neutrals": {
+        "black": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "transparent": {
+          "value": "hsla(255,0%,100%,0.01)",
           "type": "color"
         }
       }
