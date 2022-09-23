@@ -111,7 +111,11 @@
     "test": {
       "success": {
         "value": {
-          "height": "{btn.md.height}"
+          "height": "{btn.md.height}",
+          "paddingLeft": "{semantic.spacing.actions.md.padding-left}",
+          "paddingRight": "{semantic.spacing.actions.md.padding-right}",
+          "fill": "{semantic.color.actions.success.default.bg}",
+          "borderRadius": "{semantic.border-radius.actions}"
         },
         "type": "composition"
       }
