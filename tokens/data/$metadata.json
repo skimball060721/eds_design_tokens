@@ -17,6 +17,10 @@
     "breakpoints/xl",
     "breakpoints/xxl",
     "darwin/light",
-    "darwin/dark"
+    "darwin/dark",
+    "hd/triple-s/light",
+    "hd/triple-s/dark",
+    "hd/alivia/light",
+    "hd/alivia/dark"
   ]
 }
