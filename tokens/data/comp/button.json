@@ -1,5 +1,9 @@
 {
   "btn": {
+    "border-radius": {
+      "value": "{semantic.border-radius.actions}",
+      "type": "borderRadius"
+    },
     "success": {
       "default": {
         "bg-color": {
