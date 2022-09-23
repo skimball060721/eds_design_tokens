@@ -237,7 +237,7 @@
               "type": "color"
             },
             "text": {
-              "value": "{color._base.neutrals.black}",
+              "value": "{color._base.neutrals.white}",
               "type": "color"
             },
             "quiet-text": {
