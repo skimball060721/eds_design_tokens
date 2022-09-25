@@ -15,6 +15,10 @@
     "sofiaProSoft": {
       "value": "Sofia Pro Soft",
       "type": "fontFamilies"
+    },
+    "heebo": {
+      "value": "Heebo",
+      "type": "fontFamilies"
     }
   },
   "font-weight": {
@@ -61,6 +65,10 @@
     "mrEavesSanOT": {
       "value": "1.19",
       "type": "other"
+    },
+    "heebo": {
+      "value": "1",
+      "type": "other"
     }
   },
   "font-scale": {
@@ -70,6 +78,10 @@
     },
     "minorThird": {
       "value": "1.2",
+      "type": "other"
+    },
+    "majorSecond": {
+      "value": "1.125",
       "type": "other"
     }
   },
