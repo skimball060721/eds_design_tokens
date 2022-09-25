@@ -621,7 +621,7 @@
             "value": "{line-height.400}",
             "type": "lineHeights"
           },
-          "": {
+          "3": {
             "value": "{line-height.500}",
             "type": "lineHeights"
           }
