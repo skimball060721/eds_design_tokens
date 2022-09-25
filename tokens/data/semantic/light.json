@@ -486,6 +486,64 @@
           "value": "{semantic.component.medium}",
           "type": "sizing"
         }
+      },
+      "icons": {
+        "xs": {
+          "value": "{semantic.font-size.typography.small}",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "{semantic.font-size.typography.body}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.font-size.typography.h5}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.font-size.typography.h4}",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "{semantic.font-size.typography.h3}",
+          "type": "sizing"
+        },
+        "xxl": {
+          "value": "{semantic.font-size.typography.h2}",
+          "type": "sizing"
+        },
+        "xxxl": {
+          "value": "{semantic.font-size.typography.h1}",
+          "type": "sizing"
+        }
+      }
+    },
+    "font-family": {
+      "typography": {
+        "headlines": {
+          "value": "{font-family.proximaNova}",
+          "type": "fontFamilies"
+        },
+        "headings": {
+          "value": "{font-family.proximaNova}",
+          "type": "fontFamilies"
+        },
+        "titles": {
+          "value": "{font-family.proximaNova}",
+          "type": "fontFamilies"
+        },
+        "body": {
+          "value": "{font-family.proximaNova}",
+          "type": "fontFamilies"
+        }
+      },
+      "actions": {
+        "value": "{font-family.proximaNova}",
+        "type": "fontFamilies"
+      },
+      "inputs": {
+        "value": "{font-family.proximaNova}",
+        "type": "fontFamilies"
       }
     },
     "font-size": {
@@ -540,6 +598,64 @@
       "body": {
         "value": "{font-nRatio.proximaNova}",
         "type": "other"
+      }
+    },
+    "line-height": {
+      "typography": {
+        "headlines": {
+          "1": {
+            "value": "{line-height.650}",
+            "type": "lineHeights"
+          },
+          "2": {
+            "value": "{line-height.800}",
+            "type": "lineHeights"
+          }
+        },
+        "headings": {
+          "1": {
+            "value": "{line-height.300}",
+            "type": "lineHeights"
+          },
+          "2": {
+            "value": "{line-height.400}",
+            "type": "lineHeights"
+          },
+          "": {
+            "value": "{line-height.500}",
+            "type": "lineHeights"
+          }
+        },
+        "titles": {
+          "1": {
+            "value": "{line-height.200}",
+            "type": "lineHeights"
+          },
+          "2": {
+            "value": "{line-height.300}",
+            "type": "lineHeights"
+          },
+          "3": {
+            "value": "{line-height.350}",
+            "type": "lineHeights"
+          }
+        },
+        "body": {
+          "value": "{line-height.300}",
+          "type": "lineHeights"
+        },
+        "small": {
+          "value": "{line-height.200}",
+          "type": "lineHeights"
+        }
+      },
+      "inputs": {
+        "value": "{line-height.250}",
+        "type": "lineHeights"
+      },
+      "actions": {
+        "value": "{line-height.250}",
+        "type": "lineHeights"
       }
     }
   }
