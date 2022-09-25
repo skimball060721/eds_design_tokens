@@ -586,6 +586,34 @@
         }
       }
     },
+    "font-weight": {
+      "typography": {
+        "headlines": {
+          "value": "{font-weight.black}",
+          "type": "fontWeights"
+        },
+        "headings": {
+          "1": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "2": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          }
+        },
+        "body": {
+          "1": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "2": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          }
+        }
+      }
+    },
     "font-nRatio": {
       "headlines": {
         "value": "{font-nRatio.proximaNova}",
