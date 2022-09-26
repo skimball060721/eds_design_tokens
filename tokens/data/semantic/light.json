@@ -661,7 +661,8 @@
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}"
+          "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}",
+          "type": "fontSizes"
         }
       }
     },
@@ -1030,7 +1031,7 @@
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
             "lineHeight": "{semantic.line-height.actions.2}",
-            "fontSize": "{semantic.font-size.actions}",
+            "fontSize": "{semantic.font-size.actions.md}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1043,10 +1044,10 @@
       "link": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
-            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.3}",
+            "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1057,10 +1058,10 @@
         },
         "small": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
-            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.1}",
+            "fontSize": "{semantic.font-size.actions.sm} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1071,10 +1072,10 @@
         },
         "large": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
-            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.3}",
+            "fontSize": "{semantic.font-size.actions.lg} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
