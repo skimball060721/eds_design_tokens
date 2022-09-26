@@ -6,10 +6,17 @@
         "type": "other"
       }
     },
-    "font-size": {
-      "actions": {
-        "value": "{font-size.3}",
-        "type": "fontSizes"
+    "utility": {
+      "button": {
+        "default": {
+          "value": {
+            "fontSize": "16",
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.2}"
+          },
+          "type": "typography"
+        }
       }
     }
   }
