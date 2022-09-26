@@ -984,10 +984,10 @@
       "badge": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
-            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.2}",
+            "lineHeight": "{semantic.line-height.typography.body.1}",
+            "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1060,10 +1060,10 @@
       "alert": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
-            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.2}",
+            "lineHeight": "{semantic.line-height.typography.body.2}",
+            "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -1076,10 +1076,10 @@
       "tag": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.1}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
-            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.1}",
+            "lineHeight": "{semantic.line-height.typography.body.1}",
+            "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
