@@ -709,10 +709,10 @@
       },
       "heading1": {
         "value": {
-          "fontFamily": "{semantic.font.family.headings}",
-          "fontWeight": "{semantic.font.weight.headings.2}",
-          "lineHeight": "{semantic.lineHeight.standard.heading1.lg}",
-          "fontSize": "{semantic.font.size.heading1.lg}",
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "lineHeight": "{semantic.line-height.typography.headings.3}",
+          "fontSize": "{semantic.font-size.typography.headings.lg}",
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
