@@ -5,6 +5,12 @@
         "value": "{font-nRatio.mrEavesSanOT}",
         "type": "other"
       }
+    },
+    "font-size": {
+      "actions": {
+        "value": "{font-size.3}",
+        "type": "fontSizes"
+      }
     }
   }
 }
