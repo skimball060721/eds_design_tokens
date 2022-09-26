@@ -578,6 +578,10 @@
           "value": "{font-weight.bold}",
           "type": "fontWeights"
         }
+      },
+      "actions": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
       }
     },
     "font-size": {
@@ -644,6 +648,10 @@
         }
       },
       "inputs": {
+        "value": "{semantic.font-size.base}",
+        "type": "fontSizes"
+      },
+      "actions": {
         "value": "{semantic.font-size.base}",
         "type": "fontSizes"
       }
@@ -992,10 +1000,10 @@
       "button": {
         "default": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "16 * {semantic.font.nRatio.body}",
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions}",
+            "fontSize": "{semantic.font-size.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
