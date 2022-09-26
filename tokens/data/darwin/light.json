@@ -18,6 +18,14 @@
           "type": "typography"
         }
       }
+    },
+    "font-family": {
+      "typography": {
+        "headlines": {
+          "value": "{font-family.mrEavesSanOT}",
+          "type": "fontFamilies"
+        }
+      }
     }
   }
 }
