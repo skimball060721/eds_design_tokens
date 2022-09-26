@@ -1,1 +1,10 @@
-{}
+{
+  "semantic": {
+    "font-nRatio": {
+      "headlines": {
+        "value": "{font-nRatio.mrEavesSanOT}",
+        "type": "other"
+      }
+    }
+  }
+}
