@@ -585,6 +585,28 @@
             "value": "{semantic.font-size.typography.heading.xxl} * {semantic.font-size.scale}",
             "type": "fontSizes"
           }
+        },
+        "body": {
+          "xs": {
+            "value": "{semantic.font-size.typography.body.sm} / {semantic.font-size.scale}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.typography.body.md} / {semantic.font-size.scale}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "semantic.font-size.base",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.typography.body.md} * {semantic.font-size.scale}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.typography.body.lg} * {semantic.font-size.scale}",
+            "type": "fontSizes"
+          }
         }
       }
     },
