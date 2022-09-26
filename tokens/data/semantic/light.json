@@ -716,8 +716,18 @@
         "type": "lineHeights"
       },
       "actions": {
-        "value": "{line-height.250}",
-        "type": "lineHeights"
+        "1": {
+          "value": "{line-height.200}",
+          "type": "lineHeights"
+        },
+        "2": {
+          "value": "{line-height.250}",
+          "type": "lineHeights"
+        },
+        "3": {
+          "value": "{line-height.300}",
+          "type": "lineHeights"
+        }
       }
     },
     "standard": {
@@ -1002,7 +1012,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions}",
+            "lineHeight": "{semantic.line-height.actions.2}",
             "fontSize": "{semantic.font-size.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
