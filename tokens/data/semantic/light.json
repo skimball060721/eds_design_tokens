@@ -528,10 +528,6 @@
           "value": "{font-family.proximaNova}",
           "type": "fontFamilies"
         },
-        "titles": {
-          "value": "{font-family.proximaNova}",
-          "type": "fontFamilies"
-        },
         "body": {
           "value": "{font-family.proximaNova}",
           "type": "fontFamilies"
