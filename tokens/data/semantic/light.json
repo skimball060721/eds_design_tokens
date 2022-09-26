@@ -773,6 +773,62 @@
         "type": "typography",
         "description": "Used to identify fourth-level sections in standard use cases."
       },
+      "subheading1": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "lineHeight": "{semantic.line-height.typography.headings.2}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
+          "paragraphSpacing": "32"
+        },
+        "type": "typography",
+        "description": "Page subheading typically paired with standard.headline2"
+      },
+      "subheading2": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
+          "paragraphSpacing": "24"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading1"
+      },
+      "subheading3": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}}",
+          "paragraphSpacing": "24"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading2"
+      },
+      "subheading4": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
+          "paragraphSpacing": "24"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading3"
+      },
+      "subheading5": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "",
+          "paragraphSpacing": "24"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading4"
+      },
       "title1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
@@ -817,10 +873,10 @@
       },
       "body": {
         "value": {
-          "fontFamily": "{semantic.font.family.body}",
-          "fontWeight": "{semantic.font.weight.body.1}",
-          "lineHeight": "{semantic.lineHeight.standard.body.lg}",
-          "fontSize": "{semantic.font.size.body.lg}",
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
           "paragraphSpacing": "24",
           "textDecoration": "none",
@@ -829,68 +885,12 @@
         "type": "typography",
         "description": "Used for general text and data"
       },
-      "subheading1": {
-        "value": {
-          "fontFamily": "{semantic.font.family.subheadings}",
-          "fontWeight": "{semantic.font.weight.headings.2}",
-          "lineHeight": "{semantic.lineHeight.standard.subheading1.lg}",
-          "fontSize": "{semantic.font.size.subheading1.lg}",
-          "paragraphSpacing": "32"
-        },
-        "type": "typography",
-        "description": "Page subheading typically paired with standard.headline2"
-      },
-      "subheading2": {
-        "value": {
-          "fontFamily": "{semantic.font.family.subheadings}",
-          "fontWeight": "{semantic.font.weight.headings.1}",
-          "lineHeight": "{semantic.lineHeight.standard.subheading2.lg}",
-          "fontSize": "{semantic.font.size.subheading2.lg}",
-          "paragraphSpacing": "24"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading1"
-      },
-      "subheading3": {
-        "value": {
-          "fontFamily": "{semantic.font.family.subheadings}",
-          "fontWeight": "{semantic.font.weight.headings.1}",
-          "lineHeight": "{semantic.lineHeight.standard.subheading2.lg}",
-          "fontSize": "{semantic.font.size.subheading2.lg}",
-          "paragraphSpacing": "24"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading2"
-      },
-      "subheading4": {
-        "value": {
-          "fontFamily": "{semantic.font.family.subheadings}",
-          "fontWeight": "{semantic.font.weight.headings.1}",
-          "lineHeight": "{semantic.lineHeight.standard.subheading2.lg}",
-          "fontSize": "{semantic.font.size.subheading3.lg}",
-          "paragraphSpacing": "24"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading3"
-      },
-      "subheading5": {
-        "value": {
-          "fontFamily": "{semantic.font.family.subheadings}",
-          "fontWeight": "{semantic.font.weight.headings.1}",
-          "lineHeight": "{semantic.lineHeight.standard.subheading2.lg}",
-          "fontSize": "{semantic.font.size.subheading3.lg}",
-          "letterSpacing": "",
-          "paragraphSpacing": "24"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading4"
-      },
       "caption": {
         "value": {
-          "fontFamily": "{semantic.font.family.body}",
-          "fontWeight": "{semantic.font.weight.body.1}",
-          "lineHeight": "{semantic.lineHeight.standard.caption.lg}",
-          "fontSize": "{semantic.font.size.caption.lg}",
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "fontSize": "{semantic.font-size.typography.body.sm}",
           "letterSpacing": "",
           "paragraphSpacing": "16",
           "textCase": "",
