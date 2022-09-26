@@ -678,7 +678,7 @@
             "type": "lineHeights"
           }
         },
-        "titles": {
+        "body": {
           "1": {
             "value": "{line-height.200}",
             "type": "lineHeights"
@@ -691,14 +691,6 @@
             "value": "{line-height.350}",
             "type": "lineHeights"
           }
-        },
-        "body": {
-          "value": "{line-height.300}",
-          "type": "lineHeights"
-        },
-        "small": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
         }
       },
       "inputs": {
