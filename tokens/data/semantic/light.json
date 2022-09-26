@@ -652,8 +652,17 @@
         "type": "fontSizes"
       },
       "actions": {
-        "value": "{semantic.font-size.base}",
-        "type": "fontSizes"
+        "sm": {
+          "value": "{semantic.font-size.actions.md} / {semantic.font-size.scale}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{semantic.font-size.base}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}"
+        }
       }
     },
     "font-nRatio": {
