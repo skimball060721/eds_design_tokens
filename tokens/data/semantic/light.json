@@ -916,26 +916,12 @@
     },
     "utility": {
       "input": {
-        "action": {
-          "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "{semantic.font.size.utility.lg.neg1}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography",
-          "description": "Used for secondary interactions in form elements."
-        },
         "label": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.2}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "fontFamily": "{semantic.font-family.inputs}",
+            "fontWeight": "{semantic.font-weight.inputs.2}",
+            "lineHeight": "{semantic.line-height.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -946,10 +932,10 @@
         },
         "content": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.1}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "fontFamily": "{semantic.font-family.inputs}",
+            "fontWeight": "{semantic.font-weight.inputs.1}",
+            "lineHeight": "{semantic.line-height.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -960,10 +946,10 @@
         },
         "description": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.body.1}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "fontFamily": "{semantic.font-family.inputs}",
+            "fontWeight": "{semantic.font-weight.inputs.1}",
+            "lineHeight": "{semantic.line-height.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -974,10 +960,10 @@
         },
         "feedback": {
           "value": {
-            "fontFamily": "{semantic.font.family.body}",
-            "fontWeight": "{semantic.font.weight.headings.1}",
-            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
-            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "fontFamily": "{semantic.font-family.inputs}",
+            "fontWeight": "{semantic.font-weight.inputs.1}",
+            "lineHeight": "{semantic.line-height.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
