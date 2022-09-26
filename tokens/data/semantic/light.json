@@ -489,31 +489,31 @@
       },
       "icons": {
         "xs": {
-          "value": "{semantic.font-size.typography.small}",
+          "value": "{semantic.font-size.typography.heading.xs}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{semantic.font-size.typography.body}",
+          "value": "{semantic.font-size.typography.heading.sm}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.font-size.typography.h5}",
+          "value": "{semantic.font-size.typography.heading.md}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.font-size.typography.h4}",
+          "value": "{semantic.font-size.typography.heading.lg}",
           "type": "sizing"
         },
         "xl": {
-          "value": "{semantic.font-size.typography.h3}",
+          "value": "{semantic.font-size.typography.heading.xl}",
           "type": "sizing"
         },
         "xxl": {
-          "value": "{semantic.font-size.typography.h2}",
+          "value": "{semantic.font-size.typography.heading.xxl}",
           "type": "sizing"
         },
         "xxxl": {
-          "value": "{semantic.font-size.typography.h1}",
+          "value": "{semantic.font-size.typography.heading.xxxl}",
           "type": "sizing"
         }
       }
