@@ -26,6 +26,14 @@
           "type": "fontFamilies"
         }
       }
+    },
+    "font-weight": {
+      "typography": {
+        "headlines": {
+          "value": "{font-weight.heavy}",
+          "type": "fontWeights"
+        }
+      }
     }
   }
 }
