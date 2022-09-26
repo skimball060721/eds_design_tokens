@@ -592,7 +592,7 @@
             "type": "fontSizes"
           },
           "md": {
-            "value": "semantic.font-size.base",
+            "value": "{semantic.font-size.base}",
             "type": "fontSizes"
           },
           "lg": {
@@ -775,10 +775,10 @@
       },
       "title1": {
         "value": {
-          "fontFamily": "{semantic.font.family.body}",
-          "fontWeight": "{semantic.font.weight.body.2}",
-          "lineHeight": "{semantic.lineHeight.standard.title1.lg}",
-          "fontSize": "{semantic.font.size.title1.lg}",
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.3}",
+          "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
@@ -789,10 +789,10 @@
       },
       "title2": {
         "value": {
-          "fontFamily": "{semantic.font.family.body}",
-          "fontWeight": "{semantic.font.weight.body.2}",
-          "lineHeight": "{semantic.lineHeight.standard.title2.lg}",
-          "fontSize": "{semantic.font.size.title2.lg}",
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
@@ -803,10 +803,10 @@
       },
       "title3": {
         "value": {
-          "fontFamily": "{semantic.font.family.body}",
-          "fontWeight": "{semantic.font.weight.body.2}",
-          "lineHeight": "{semantic.lineHeight.standard.title3.lg}",
-          "fontSize": "{semantic.font.size.title3.lg}",
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
           "letterSpacing": "12.5%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
