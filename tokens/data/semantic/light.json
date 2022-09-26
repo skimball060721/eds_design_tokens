@@ -542,6 +542,44 @@
         "type": "fontFamilies"
       }
     },
+    "font-weight": {
+      "typography": {
+        "headlines": {
+          "value": "{font-weight.black}",
+          "type": "fontWeights"
+        },
+        "headings": {
+          "1": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "2": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          }
+        },
+        "body": {
+          "1": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "2": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          }
+        }
+      },
+      "inputs": {
+        "1": {
+          "value": "{font-weight.regular}",
+          "type": "fontWeights"
+        },
+        "2": {
+          "value": "{font-weight.bold}",
+          "type": "fontWeights"
+        }
+      }
+    },
     "font-size": {
       "base": {
         "value": "{font-size.1}",
@@ -604,34 +642,10 @@
             "type": "fontSizes"
           }
         }
-      }
-    },
-    "font-weight": {
-      "typography": {
-        "headlines": {
-          "value": "{font-weight.black}",
-          "type": "fontWeights"
-        },
-        "headings": {
-          "1": {
-            "value": "{font-weight.regular}",
-            "type": "fontWeights"
-          },
-          "2": {
-            "value": "{font-weight.bold}",
-            "type": "fontWeights"
-          }
-        },
-        "body": {
-          "1": {
-            "value": "{font-weight.regular}",
-            "type": "fontWeights"
-          },
-          "2": {
-            "value": "{font-weight.bold}",
-            "type": "fontWeights"
-          }
-        }
+      },
+      "inputs": {
+        "value": "{semantic.font-size.base}",
+        "type": "fontSizes"
       }
     },
     "font-nRatio": {
@@ -898,6 +912,318 @@
         },
         "type": "typography",
         "description": "Description of use cases for standard.caption"
+      }
+    },
+    "utility": {
+      "input": {
+        "action": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Used for secondary interactions in form elements."
+        },
+        "label": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Description of use cases for utility.input.label"
+        },
+        "content": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Description of use cases for utility.input.content"
+        },
+        "description": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Description of use cases for utility.input.description"
+        },
+        "feedback": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.headings.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Description of use cases for utility.input.feedback"
+        }
+      },
+      "badge": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
+            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "capitalize"
+          },
+          "type": "typography",
+          "description": "Used for default badge labeling."
+        }
+      },
+      "button": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg1}",
+            "fontSize": "16 * {semantic.font.nRatio.body}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "capitalize"
+          },
+          "type": "typography",
+          "description": "Used for default button labeling."
+        }
+      },
+      "link": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Used for general hyperlinks."
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
+            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Description of use cases for utility.link.small"
+        },
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Used in place of standard.title2 when link is necessary."
+        }
+      },
+      "alert": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Used for default alert labeling."
+        }
+      },
+      "tag": {
+        "default": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.neg2}",
+            "fontSize": "{semantic.font.size.utility.lg.neg1}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "capitalize"
+          },
+          "type": "typography",
+          "description": "Used for default tag labels."
+        }
+      },
+      "overlay": {
+        "title": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.1}",
+            "fontSize": "{semantic.font.size.utility.lg.2}",
+            "textCase": "capitalize"
+          },
+          "type": "typography",
+          "description": "Used for titles of overlays such modals or action confirmations."
+        },
+        "heading1": {
+          "value": {
+            "fontFamily": "{semantic.font.family.headings}",
+            "fontWeight": "{semantic.font.weight.headings.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.2}",
+            "fontSize": "{semantic.font.size.utility.lg.3}",
+            "textCase": ""
+          },
+          "type": "typography",
+          "description": "Used for headings in overlay messages such action confirmations, empty states, or alerts."
+        },
+        "heading2": {
+          "value": {
+            "fontFamily": "{semantic.font.family.headings}",
+            "fontWeight": "{semantic.font.weight.headings.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.1}",
+            "fontSize": "{semantic.font.size.utility.lg.2}",
+            "textCase": "capitalize"
+          },
+          "type": "typography",
+          "description": "Used for top-level section in overlays such modals or action confirmations."
+        },
+        "heading3": {
+          "value": {
+            "fontFamily": "{semantic.font.family.headings}",
+            "fontWeight": "{semantic.font.weight.headings.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "none"
+          },
+          "type": "typography",
+          "description": "Used for second-level section in overlays such modals or action confirmations."
+        },
+        "heading4": {
+          "value": {
+            "fontFamily": "{semantic.font.family.headings}",
+            "fontWeight": "{semantic.font.weight.headings.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "textCase": "none",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Used for third-level section in overlays such modals or action confirmations."
+        },
+        "subheading1": {
+          "value": {
+            "fontFamily": "{semantic.font.family.subheadings}",
+            "fontWeight": "{semantic.font.weight.headings.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Overlay subheading typically paired with utility.overlay.title"
+        },
+        "subheading2": {
+          "value": {
+            "fontFamily": "{semantic.font.family.subheadings}",
+            "fontWeight": "{semantic.font.weight.headings.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Overlay section subheading typically paired with utility.overlay.heading2"
+        },
+        "subheading3": {
+          "value": {
+            "fontFamily": "{semantic.font.family.subheadings}",
+            "fontWeight": "{semantic.font.weight.headings.2}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Overlay subheading typically paired with utility.overlay.heading1"
+        },
+        "subheading4": {
+          "value": {
+            "fontFamily": "{semantic.font.family.subheadings}",
+            "fontWeight": "{semantic.font.weight.headings.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.0}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Overlay section subheading typically paired with utility.overlay.heading3"
+        },
+        "subheading5": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Overlay section subheading typically paired with utility.overlay.heading4"
+        },
+        "body": {
+          "value": {
+            "fontFamily": "{semantic.font.family.body}",
+            "fontWeight": "{semantic.font.weight.body.1}",
+            "lineHeight": "{semantic.lineHeight.utility.lg.0}",
+            "fontSize": "{semantic.font.size.utility.lg.1}",
+            "textCase": "",
+            "paragraphSpacing": "{paragraphSpacing.24}"
+          },
+          "type": "typography",
+          "description": "Used for body copy in overlay messages such as action confirmations, empty states, or alerts."
+        }
       }
     }
   }
