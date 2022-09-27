@@ -672,6 +672,44 @@
           "value": "{color.grey.400}",
           "type": "color"
         }
+      },
+      "status": {
+        "info": {
+          "border-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.info.weak}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "border-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.success.weak}",
+            "type": "color"
+          }
+        }
       }
     },
     "component": {
