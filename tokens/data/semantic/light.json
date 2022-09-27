@@ -412,6 +412,20 @@
             "type": "color"
           }
         }
+      },
+      "typography": {
+        "coreText": {
+          "value": "{color.grey.700}",
+          "type": "color"
+        },
+        "prominentText": {
+          "value": "{color.grey.600}",
+          "type": "color"
+        },
+        "deemphasizedText": {
+          "value": "{color.grey.400}",
+          "type": "color"
+        }
       }
     },
     "component": {
