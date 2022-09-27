@@ -84,6 +84,28 @@
         "type": "color"
       }
     },
+    "primary": {
+      "default": {
+        "value": "{color.teal.400}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.teal.500}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.teal.600}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.teal.200}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color.teal.300}, 0.15)",
+        "type": "color"
+      }
+    },
     "color": {
       "actions": {
         "success": {
@@ -1350,28 +1372,6 @@
           "type": "typography",
           "description": "Used for body copy in overlay messages such as action confirmations, empty states, or alerts."
         }
-      }
-    },
-    "primary": {
-      "default": {
-        "value": "{color.teal.400}",
-        "type": "color"
-      },
-      "emphasized": {
-        "value": "{color.teal.500}",
-        "type": "color"
-      },
-      "strong": {
-        "value": "{color.teal.600}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{color.teal.200}",
-        "type": "color"
-      },
-      "weak": {
-        "value": "rgba({color.teal.300}, 0.15)",
-        "type": "color"
       }
     }
   }
