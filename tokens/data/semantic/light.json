@@ -1366,7 +1366,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{color.teal.100}",
+        "value": "{color.teal.200}",
         "type": "color"
       },
       "weak": {
