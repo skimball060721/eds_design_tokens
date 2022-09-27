@@ -128,6 +128,28 @@
         "type": "color"
       }
     },
+    "info": {
+      "default": {
+        "value": "{color.blue.400}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.blue.500}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.blue.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.blue.200}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color.blue.400}, 0.15)",
+        "type": "color"
+      }
+    },
     "color": {
       "actions": {
         "success": {
