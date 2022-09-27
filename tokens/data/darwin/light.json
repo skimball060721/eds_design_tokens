@@ -1,5 +1,21 @@
 {
   "semantic": {
+    "font-family": {
+      "typography": {
+        "headlines": {
+          "value": "{font-family.mrEavesSanOT}",
+          "type": "fontFamilies"
+        }
+      }
+    },
+    "font-weight": {
+      "typography": {
+        "headlines": {
+          "value": "{font-weight.heavy}",
+          "type": "fontWeights"
+        }
+      }
+    },
     "font-nRatio": {
       "headlines": {
         "value": "{font-nRatio.mrEavesSanOT}",
@@ -16,22 +32,6 @@
             "lineHeight": "{semantic.line-height.actions.2}"
           },
           "type": "typography"
-        }
-      }
-    },
-    "font-family": {
-      "typography": {
-        "headlines": {
-          "value": "{font-family.mrEavesSanOT}",
-          "type": "fontFamilies"
-        }
-      }
-    },
-    "font-weight": {
-      "typography": {
-        "headlines": {
-          "value": "{font-weight.heavy}",
-          "type": "fontWeights"
         }
       }
     }
