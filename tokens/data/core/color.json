@@ -165,6 +165,34 @@
       }
     },
     "teal": {
+      "100": {
+        "value": "#5bebce",
+        "type": "color"
+      },
+      "200": {
+        "value": "#12d3ab",
+        "type": "color"
+      },
+      "300": {
+        "value": "#0fb794",
+        "type": "color"
+      },
+      "400": {
+        "value": "#0d9c7f",
+        "type": "color"
+      },
+      "500": {
+        "value": "#0b8169",
+        "type": "color"
+      },
+      "600": {
+        "value": "#096754",
+        "type": "color"
+      },
+      "700": {
+        "value": "#074e40",
+        "type": "color"
+      },
       "base": {
         "value": "#14e3b9",
         "type": "color"
