@@ -23,11 +23,11 @@
         "value": "{color.green.300}",
         "type": "color"
       },
-      "hover": {
+      "emphasized": {
         "value": "{color.green.400}",
         "type": "color"
       },
-      "active": {
+      "strong": {
         "value": "{color.green.500}",
         "type": "color"
       },
@@ -45,11 +45,11 @@
         "value": "{color.yellow.300}",
         "type": "color"
       },
-      "hover": {
+      "emphsized": {
         "value": "{color.yellow.400}",
         "type": "color"
       },
-      "active": {
+      "strong": {
         "value": "{color.yellow.500}",
         "type": "color"
       },
@@ -67,11 +67,11 @@
         "value": "{color.red.300}",
         "type": "color"
       },
-      "hover": {
+      "emphasized": {
         "value": "{color.red.400}",
         "type": "color"
       },
-      "active": {
+      "strong": {
         "value": "{color.red.500}",
         "type": "color"
       },
@@ -111,7 +111,7 @@
           },
           "hover": {
             "border": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.success.emphasized}",
               "type": "color"
             },
             "text": {
@@ -119,11 +119,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.success.emphasized}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.hover}",
+              "value": "{semantic.success.emphasized}",
               "type": "color"
             },
             "quiet-bg": {
@@ -133,7 +133,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.success.strong}",
               "type": "color"
             },
             "text": {
@@ -141,11 +141,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.success.strong}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.success.active}",
+              "value": "{semantic.success.strong}",
               "type": "color"
             },
             "quiet-bg": {
@@ -201,7 +201,7 @@
           },
           "hover": {
             "border": {
-              "value": "{semantic.warning.hover}",
+              "value": "{semantic.warning.emphsized}",
               "type": "color"
             },
             "text": {
@@ -209,11 +209,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.warning.hover}",
+              "value": "{semantic.warning.emphsized}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.warning.hover}",
+              "value": "{semantic.warning.emphsized}",
               "type": "color"
             },
             "quiet-bg": {
@@ -223,7 +223,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.warning.active}",
+              "value": "{semantic.warning.strong}",
               "type": "color"
             },
             "text": {
@@ -231,11 +231,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.warning.active}",
+              "value": "{semantic.warning.strong}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.warning.active}",
+              "value": "{semantic.warning.strong}",
               "type": "color"
             },
             "quiet-bg": {
@@ -291,7 +291,7 @@
           },
           "hover": {
             "border": {
-              "value": "{semantic.danger.hover}",
+              "value": "{semantic.danger.emphasized}",
               "type": "color"
             },
             "text": {
@@ -299,11 +299,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.danger.hover}",
+              "value": "{semantic.danger.emphasized}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.danger.hover}",
+              "value": "{semantic.danger.emphasized}",
               "type": "color"
             },
             "quiet-bg": {
@@ -313,7 +313,7 @@
           },
           "active": {
             "border": {
-              "value": "{semantic.danger.active}",
+              "value": "{semantic.danger.strong}",
               "type": "color"
             },
             "text": {
@@ -321,11 +321,11 @@
               "type": "color"
             },
             "quiet-text": {
-              "value": "{semantic.danger.active}",
+              "value": "{semantic.danger.strong}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.danger.active}",
+              "value": "{semantic.danger.strong}",
               "type": "color"
             },
             "quiet-bg": {
@@ -1260,6 +1260,28 @@
           "type": "typography",
           "description": "Used for body copy in overlay messages such as action confirmations, empty states, or alerts."
         }
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{color.teal.400}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.teal.500}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.teal.600}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.teal.100}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color.teal.300}, 0.15)",
+        "type": "color"
       }
     }
   }
