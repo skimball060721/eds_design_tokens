@@ -70,10 +70,14 @@
       "button": {
         "default": {
           "value": {
-            "fontSize": "16",
+            "fontSize": "{font-size.3}",
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.2}"
+            "lineHeight": "{semantic.line-height.actions.2}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
           },
           "type": "typography"
         }

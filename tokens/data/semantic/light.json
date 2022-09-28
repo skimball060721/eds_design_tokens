@@ -1064,6 +1064,10 @@
           "value": "{text-case.none}",
           "type": "textCase"
         }
+      },
+      "actions": {
+        "value": "{text-case.capitalize}",
+        "type": "textCase"
       }
     },
     "standard": {
@@ -1372,10 +1376,10 @@
             "fontWeight": "{semantic.font-weight.actions}",
             "lineHeight": "{semantic.line-height.actions.2}",
             "fontSize": "{semantic.font-size.actions.md}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
             "textDecoration": "none",
-            "textCase": "capitalize"
+            "textCase": "{semantic.text-case.actions}"
           },
           "type": "typography",
           "description": "Used for default button labeling."
@@ -1615,6 +1619,12 @@
             "value": "{letter-spacing.0}",
             "type": "letterSpacing"
           }
+        }
+      },
+      "actions": {
+        "none": {
+          "value": "{letter-spacing.0}",
+          "type": "letterSpacing"
         }
       }
     }
