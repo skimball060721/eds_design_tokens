@@ -1046,13 +1046,26 @@
         }
       }
     },
+    "text-case": {
+      "typography": {
+        "headlines": {
+          "value": "{text-case.uppercase}",
+          "type": "textCase"
+        },
+        "headings": {
+          "value": "{text-case.capitalize}",
+          "type": "textCase"
+        }
+      }
+    },
     "standard": {
       "headline1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.2}",
-          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}"
+          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}"
         },
         "type": "typography"
       },
@@ -1061,7 +1074,8 @@
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.1}",
-          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}"
+          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}"
         },
         "type": "typography"
       },
