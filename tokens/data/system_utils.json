@@ -60,8 +60,8 @@
           "fontSize": "{semantic.font-size.typography.heading.xxxl}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.2}",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none"
         },
         "type": "typography"
