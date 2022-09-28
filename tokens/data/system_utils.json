@@ -18,6 +18,40 @@
         "type": "color"
       }
     },
+    "color": {
+      "docs": {
+        "primary": {
+          "fg": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "fg": {
+            "value": "{semantic.secondary.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.secondary.default}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "fg": {
+            "value": "{semantic.tertiary.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.tertiary.default}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "standard": {
       "headline1": {
         "value": {
@@ -151,40 +185,6 @@
       "base": {
         "value": "{font-size.3}",
         "type": "fontSizes"
-      }
-    }
-  },
-  "color": {
-    "docs": {
-      "primary": {
-        "fg": {
-          "value": "{semantic.primary.default}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.primary.default}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "fg": {
-          "value": "{semantic.secondary.default}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.secondary.default}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "fg": {
-          "value": "{semantic.tertiary.default}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.tertiary.default}",
-          "type": "color"
-        }
       }
     }
   }
