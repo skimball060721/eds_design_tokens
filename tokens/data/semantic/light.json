@@ -1074,8 +1074,8 @@
           "lineHeight": "{semantic.line-height.typography.headlines.2}",
           "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none"
         },
         "type": "typography"
@@ -1087,8 +1087,8 @@
           "lineHeight": "{semantic.line-height.typography.headlines.1}",
           "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
-          "letterSpacing": "0",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none"
         },
         "type": "typography"
@@ -1099,10 +1099,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.2}",
           "lineHeight": "{semantic.line-height.typography.headings.3}",
           "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{semantic.text-case.typography.headings}"
         },
         "type": "typography",
         "description": "Used to identify top-level sections in standard use cases."
@@ -1113,10 +1113,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.2}",
           "lineHeight": "{semantic.line-height.typography.headings.2}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{semantic.text-case.typography.headings}"
         },
         "type": "typography",
         "description": "Used to identify second-level sections in standard use cases."
@@ -1127,10 +1127,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.2}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{semantic.text-case.typography.headings}"
         },
         "type": "typography",
         "description": "Used to identify third-level sections in standard use cases."
@@ -1141,10 +1141,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.2}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{semantic.text-case.typography.headings}"
         },
         "type": "typography",
         "description": "Used to identify fourth-level sections in standard use cases."
@@ -1155,7 +1155,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.2}",
           "lineHeight": "{semantic.line-height.typography.headings.2}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "32"
+          "paragraphSpacing": "{paragraphSpacing.4}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
         },
         "type": "typography",
         "description": "Page subheading typically paired with standard.headline2"
@@ -1166,7 +1169,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.1}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "24"
+          "paragraphSpacing": "{paragraphSpacing.3}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
         },
         "type": "typography",
         "description": "Section subheading typically paired with standard.heading1"
@@ -1177,7 +1183,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.1}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}}",
-          "paragraphSpacing": "24"
+          "paragraphSpacing": "{paragraphSpacing.3}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
         },
         "type": "typography",
         "description": "Section subheading typically paired with standard.heading2"
@@ -1188,7 +1197,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.1}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "24"
+          "paragraphSpacing": "{paragraphSpacing.3}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
         },
         "type": "typography",
         "description": "Section subheading typically paired with standard.heading3"
@@ -1199,8 +1211,10 @@
           "fontWeight": "{semantic.font-weight.typography.headings.1}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "",
-          "paragraphSpacing": "24"
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{paragraphSpacing.3}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
         },
         "type": "typography",
         "description": "Section subheading typically paired with standard.heading4"
@@ -1239,7 +1253,7 @@
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.1}",
           "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
-          "letterSpacing": "12.5%",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.md}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
           "textCase": "{text-case.uppercase}"
@@ -1583,6 +1597,22 @@
           },
           "sm": {
             "value": "{letter-spacing.5}",
+            "type": "letterSpacing"
+          },
+          "md": {
+            "value": "{letter-spacing.12}",
+            "type": "letterSpacing"
+          }
+        },
+        "headings": {
+          "none": {
+            "value": "{letter-spacing.0}",
+            "type": "letterSpacing"
+          }
+        },
+        "headlines": {
+          "none": {
+            "value": "{letter-spacing.0}",
             "type": "letterSpacing"
           }
         }
