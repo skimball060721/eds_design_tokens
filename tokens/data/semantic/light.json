@@ -1211,8 +1211,8 @@
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.3}",
           "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
           "textCase": "{text-case.capitalize}"
         },
@@ -1225,10 +1225,10 @@
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.2}",
           "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{text-case.capitalize}"
         },
         "type": "typography",
         "description": "Used to highlight primary content with modular sections."
@@ -1240,9 +1240,9 @@
           "lineHeight": "{semantic.line-height.typography.body.1}",
           "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
           "letterSpacing": "12.5%",
-          "paragraphSpacing": "0",
+          "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none",
-          "textCase": "uppercase"
+          "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
         "description": "Used to identify modular sections such as cards."
@@ -1253,10 +1253,10 @@
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "lineHeight": "{semantic.line-height.typography.body.2}",
           "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "24",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{paragraphSpacing.3}",
           "textDecoration": "none",
-          "textCase": "none"
+          "textCase": "{semantic.text-case.typography.body}"
         },
         "type": "typography",
         "description": "Used for general text and data"
@@ -1267,10 +1267,10 @@
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "lineHeight": "{semantic.line-height.typography.body.1}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
-          "letterSpacing": "",
-          "paragraphSpacing": "16",
-          "textCase": "",
-          "textDecoration": ""
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{paragraphSpacing.2}",
+          "textCase": "{text-case.none}",
+          "textDecoration": "none"
         },
         "type": "typography",
         "description": "Description of use cases for standard.caption"
