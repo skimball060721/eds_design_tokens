@@ -16,12 +16,12 @@
     "breakpoints/lg",
     "breakpoints/xl",
     "breakpoints/xxl",
-    "system_utils",
     "darwin/light",
     "darwin/dark",
     "hd/triple-s/light",
     "hd/triple-s/dark",
     "hd/alivia/light",
-    "hd/alivia/dark"
+    "hd/alivia/dark",
+    "system_utils"
   ]
 }

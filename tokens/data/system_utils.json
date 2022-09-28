@@ -1,34 +1,4 @@
 {
-  "color": {
-    "bg": {
-      "brand1": {
-        "value": "{color._base.purple.base}",
-        "type": "color"
-      },
-      "brand2": {
-        "value": "{color._base.orange.base}",
-        "type": "color"
-      },
-      "brand3": {
-        "value": "{color._base.teal.base}",
-        "type": "color"
-      }
-    },
-    "icon": {
-      "brand1": {
-        "value": "{color._base.purple.base}",
-        "type": "color"
-      },
-      "brand2": {
-        "value": "{color._base.orange.base}",
-        "type": "color"
-      },
-      "brand3": {
-        "value": "{color._base.teal.base}",
-        "type": "color"
-      }
-    }
-  },
   "size": {
     "font": {
       "0": {
@@ -224,6 +194,40 @@
       "default": {
         "value": "{color.teal.400}",
         "type": "color"
+      }
+    }
+  },
+  "color": {
+    "docs": {
+      "primary": {
+        "fg": {
+          "value": "{semantic.primary.default}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.primary.default}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "fg": {
+          "value": "{semantic.secondary.default}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.secondary.default}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "fg": {
+          "value": "{semantic.tertiary.default}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.tertiary.default}",
+          "type": "color"
+        }
       }
     }
   }
