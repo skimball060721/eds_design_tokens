@@ -35,7 +35,7 @@
       "headline2": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
-          "fontWeight": "{semantic.font-weight.typography.headlines.regular}",
+          "fontWeight": "{font-weight.regular}",
           "fontSize": "{semantic.font-size.typography.heading.xxl}",
           "textCase": "{text-case.capitalize}",
           "lineHeight": "{semantic.line-height.typography.headlines.1}",
@@ -145,16 +145,6 @@
           "textDecoration": "none"
         },
         "type": "typography"
-      }
-    },
-    "font-weight": {
-      "typography": {
-        "headlines": {
-          "regular": {
-            "value": "{font-weight.regular}",
-            "type": "fontWeights"
-          }
-        }
       }
     },
     "font-size": {
