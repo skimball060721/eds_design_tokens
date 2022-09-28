@@ -1,15 +1,5 @@
 {
   "color": {
-    "text": {
-      "coreText": {
-        "value": "{color._base.grey.700}",
-        "type": "color"
-      },
-      "deemphasizedText": {
-        "value": "{color._base.grey.400}",
-        "type": "color"
-      }
-    },
     "bg": {
       "brand1": {
         "value": "{color._base.purple.base}",
@@ -215,6 +205,26 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
+    }
+  },
+  "semantic": {
+    "primary": {
+      "default": {
+        "value": "{color.purple.400}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "default": {
+        "value": "{color.teal.400}",
+        "type": "color"
+      }
     }
   }
 }
