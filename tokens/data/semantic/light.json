@@ -857,12 +857,16 @@
           }
         },
         "body": {
-          "1": {
+          "regular": {
             "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "2": {
+          "bold": {
             "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          },
+          "mono": {
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           }
         }
@@ -1055,6 +1059,10 @@
         "headings": {
           "value": "{text-case.capitalize}",
           "type": "textCase"
+        },
+        "body": {
+          "value": "{text-case.none}",
+          "type": "textCase"
         }
       }
     },
@@ -1065,7 +1073,10 @@
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.2}",
           "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
-          "textCase": "{semantic.text-case.typography.headlines}"
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "textDecoration": "none"
         },
         "type": "typography"
       },
@@ -1075,7 +1086,10 @@
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.1}",
           "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
-          "textCase": "{semantic.text-case.typography.headlines}"
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "textDecoration": "none"
         },
         "type": "typography"
       },
@@ -1194,13 +1208,13 @@
       "title1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.3}",
           "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
-          "textCase": "capitalize"
+          "textCase": "{text-case.capitalize}"
         },
         "type": "typography",
         "description": "Used for secondary flows such as modals or large content sections."
@@ -1208,7 +1222,7 @@
       "title2": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.2}",
           "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
@@ -1222,7 +1236,7 @@
       "title3": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.2}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
           "lineHeight": "{semantic.line-height.typography.body.1}",
           "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
           "letterSpacing": "12.5%",
@@ -1236,7 +1250,7 @@
       "body": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.1}",
+          "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "lineHeight": "{semantic.line-height.typography.body.2}",
           "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
           "letterSpacing": "0%",
@@ -1250,7 +1264,7 @@
       "caption": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.1}",
+          "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "lineHeight": "{semantic.line-height.typography.body.1}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "letterSpacing": "",
@@ -1325,7 +1339,7 @@
         "default": {
           "value": {
             "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.2}",
+            "fontWeight": "{semantic.font-weight.typography.body.bold}",
             "lineHeight": "{semantic.line-height.typography.body.1}",
             "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
@@ -1401,7 +1415,7 @@
         "default": {
           "value": {
             "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.2}",
+            "fontWeight": "{semantic.font-weight.typography.body.bold}",
             "lineHeight": "{semantic.line-height.typography.body.2}",
             "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
@@ -1417,7 +1431,7 @@
         "default": {
           "value": {
             "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.1}",
+            "fontWeight": "{semantic.font-weight.typography.body.regular}",
             "lineHeight": "{semantic.line-height.typography.body.1}",
             "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
@@ -1557,6 +1571,20 @@
           },
           "type": "typography",
           "description": "Used for body copy in overlay messages such as action confirmations, empty states, or alerts."
+        }
+      }
+    },
+    "letter-spacing": {
+      "typography": {
+        "body": {
+          "none": {
+            "value": "{letter-spacing.0}",
+            "type": "letterSpacing"
+          },
+          "sm": {
+            "value": "{letter-spacing.5}",
+            "type": "letterSpacing"
+          }
         }
       }
     }
