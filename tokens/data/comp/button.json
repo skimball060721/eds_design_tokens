@@ -21,6 +21,32 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.default.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.primary.default.bg-color}",
+            "border": "{btn.primary.default.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.primary.default.bg-color}",
+            "border": "{btn.primary.default.border-color}"
+          },
+          "type": "composition"
         }
       },
       "hover": {
@@ -39,6 +65,32 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.hover.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.primary.hover.bg-color}",
+            "border": "{btn.primary.hover.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.primary.hover.bg-color}",
+            "border": "{btn.primary.hover.border-color}"
+          },
+          "type": "composition"
         }
       },
       "active": {
