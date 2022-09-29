@@ -746,7 +746,43 @@
     },
     "spacing": {
       "actions": {
+        "sm": {
+          "padding-top": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.200}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
         "md": {
+          "padding-top": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.200}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
+        "lg": {
           "padding-top": {
             "value": "{space.100}",
             "type": "spacing"
