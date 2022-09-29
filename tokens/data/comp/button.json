@@ -168,17 +168,48 @@
         "type": "sizing"
       }
     },
-    "test": {
-      "success": {
+    "demo": {
+      "sm": {
+        "value": {
+          "height": "{btn.sm.height}",
+          "paddingLeft": "{btn.sm.padding-left}",
+          "paddingRight": "{btn.lg.padding-right}",
+          "borderRadius": "{btn.border-radius}",
+          "paddingTop": "{btn.sm.padding-top}",
+          "paddingBottom": "{btn.sm.padding-bottom}"
+        },
+        "type": "composition"
+      },
+      "md": {
         "value": {
           "height": "{btn.md.height}",
-          "paddingLeft": "{semantic.spacing.actions.md.padding-left}",
-          "paddingRight": "{semantic.spacing.actions.md.padding-right}",
-          "fill": "{semantic.color.actions.success.default.bg}",
-          "borderRadius": "{semantic.border-radius.actions}"
+          "paddingLeft": "{btn.md.padding-left}",
+          "paddingRight": "{btn.md.padding-right}",
+          "borderRadius": "{semantic.border-radius.actions}",
+          "paddingTop": "{btn.md.padding-top}",
+          "paddingBottom": "{btn.md.padding-bottom}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{btn.lg.height}",
+          "paddingLeft": "{btn.lg.padding-left}",
+          "paddingRight": "{btn.lg.padding-right}",
+          "borderRadius": "{btn.border-radius}",
+          "paddingTop": "{btn.lg.padding-top}",
+          "paddingBottom": "{btn.lg.padding-bottom}"
         },
         "type": "composition"
       }
+    },
+    "font-family": {
+      "value": "{semantic.font-family.actions}",
+      "type": "fontFamilies"
+    },
+    "font-weight": {
+      "value": "{semantic.font-weight.actions}",
+      "type": "fontWeights"
     }
   }
 }
