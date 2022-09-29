@@ -25,55 +25,55 @@
       },
       "hover": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.hover.bg}",
+          "value": "{semantic.color.actions.primary.hover.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.hover.text}",
+          "value": "{semantic.color.actions.primary.hover.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.hover.border}",
+          "value": "{semantic.color.actions.primary.hover.border}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.hover.text}",
+          "value": "{semantic.color.actions.primary.hover.text}",
           "type": "color"
         }
       },
       "active": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.active.bg}",
+          "value": "{semantic.color.actions.primary.active.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.active.text}",
+          "value": "{semantic.color.actions.primary.active.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.active.border}",
+          "value": "{semantic.color.actions.primary.active.border}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.active.text}",
+          "value": "{semantic.color.actions.primary.active.text}",
           "type": "color"
         }
       },
       "disabled": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.disabled.bg}",
+          "value": "{semantic.color.actions.primary.disabled.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.disabled.text}",
+          "value": "{semantic.color.actions.primary.disabled.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.disabled.bg}",
+          "value": "{semantic.color.actions.primary.disabled.bg}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.disabled.text}",
+          "value": "{semantic.color.actions.primary.disabled.text}",
           "type": "color"
         }
       }
@@ -81,73 +81,73 @@
     "secondary": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.default.bg}",
+          "value": "{semantic.color.actions.secondary.default.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.primary.default.text}",
+          "value": "{semantic.color.actions.secondary.default.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.default.border}",
+          "value": "{semantic.color.actions.secondary.default.border}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.default.text}",
+          "value": "{semantic.color.actions.secondary.default.text}",
           "type": "color"
         }
       },
       "hover": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.hover.bg}",
+          "value": "{semantic.color.actions.secondary.hover.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.hover.text}",
+          "value": "{semantic.color.actions.secondary.hover.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.hover.border}",
+          "value": "{semantic.color.actions.secondary.hover.border}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.hover.text}",
+          "value": "{semantic.color.actions.secondary.hover.text}",
           "type": "color"
         }
       },
       "active": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.active.bg}",
+          "value": "{semantic.color.actions.secondary.active.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.active.text}",
+          "value": "{semantic.color.actions.secondary.active.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.active.border}",
+          "value": "{semantic.color.actions.secondary.active.border}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.active.text}",
+          "value": "{semantic.color.actions.secondary.active.text}",
           "type": "color"
         }
       },
       "disabled": {
         "bg-color": {
-          "value": "{semantic.color.actions.success.disabled.bg}",
+          "value": "{semantic.color.actions.secondary.disabled.bg}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.success.disabled.text}",
+          "value": "{semantic.color.actions.secondary.disabled.text}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.success.disabled.bg}",
+          "value": "{semantic.color.actions.secondary.disabled.bg}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.disabled.text}",
+          "value": "{semantic.color.actions.secondary.disabled.text}",
           "type": "color"
         }
       }
