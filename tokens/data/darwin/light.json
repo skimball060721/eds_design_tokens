@@ -82,6 +82,14 @@
           "type": "typography"
         }
       }
+    },
+    "font-size": {
+      "actions": {
+        "md": {
+          "value": "{font-size.3}",
+          "type": "fontSizes"
+        }
+      }
     }
   }
 }

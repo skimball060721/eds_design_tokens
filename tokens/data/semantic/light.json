@@ -780,8 +780,16 @@
     },
     "sizing": {
       "actions": {
+        "sm": {
+          "value": "{semantic.component.small}",
+          "type": "sizing"
+        },
         "md": {
           "value": "{semantic.component.medium}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.component.large}",
           "type": "sizing"
         }
       },
