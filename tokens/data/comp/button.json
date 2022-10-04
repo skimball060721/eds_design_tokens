@@ -481,6 +481,45 @@
         "icon-color": {
           "value": "{semantic.color.actions.success.default.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.default.bg-color}",
+            "border": "{btn.success.default.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.default.bg-color}",
+            "border": "{btn.success.default.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.default.bg-color}",
+            "border": "{btn.success.default.border-color}"
+          },
+          "type": "composition"
         }
       },
       "hover": {
@@ -499,6 +538,45 @@
         "icon-color": {
           "value": "{semantic.color.actions.success.hover.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.hover.bg-color}",
+            "border": "{btn.success.hover.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.hover.bg-color}",
+            "border": "{btn.success.hover.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.hover.bg-color}",
+            "border": "{btn.success.hover.border-color}"
+          },
+          "type": "composition"
         }
       },
       "active": {
@@ -517,6 +595,45 @@
         "icon-color": {
           "value": "{semantic.color.actions.success.active.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.active.bg-color}",
+            "border": "{btn.success.active.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.active.bg-color}",
+            "border": "{btn.success.active.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.active.bg-color}",
+            "border": "{btn.success.active.border-color}"
+          },
+          "type": "composition"
         }
       },
       "disabled": {
@@ -535,6 +652,45 @@
         "icon-color": {
           "value": "{semantic.color.actions.success.disabled.text}",
           "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.disabled.bg-color}",
+            "border": "{btn.success.disabled.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.disabled.bg-color}",
+            "border": "{btn.success.disabled.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.success.disabled.bg-color}",
+            "border": "{btn.success.disabled.border-color}"
+          },
+          "type": "composition"
         }
       }
     },
