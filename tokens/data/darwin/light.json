@@ -49,7 +49,7 @@
         "secondary": {
           "default": {
             "text": {
-              "value": "{color.secondary.default}",
+              "value": "{semantic.secondary.default}",
               "type": "color"
             },
             "bg": {
@@ -59,7 +59,7 @@
           },
           "hover": {
             "text": {
-              "value": "{color.secondary.emphasized}",
+              "value": "{semantic.secondary.emphasized}",
               "type": "color"
             },
             "bg": {

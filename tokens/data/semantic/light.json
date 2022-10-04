@@ -1711,6 +1711,12 @@
           "type": "letterSpacing"
         }
       }
+    },
+    "border-width": {
+      "actions": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      }
     }
   }
 }

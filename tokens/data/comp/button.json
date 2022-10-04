@@ -1033,6 +1033,10 @@
     "font-weight": {
       "value": "{semantic.font-weight.actions}",
       "type": "fontWeights"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.actions}",
+      "type": "borderWidth"
     }
   }
 }
