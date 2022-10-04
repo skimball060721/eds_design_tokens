@@ -780,6 +780,10 @@
           "padding-left": {
             "value": "{space.200}",
             "type": "spacing"
+          },
+          "itemSpacing": {
+            "value": "{space.50}",
+            "type": "spacing"
           }
         },
         "lg": {

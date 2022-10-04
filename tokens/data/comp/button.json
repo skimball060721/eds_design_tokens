@@ -329,6 +329,10 @@
         "value": "{semantic.spacing.actions.md.padding-bottom}",
         "type": "spacing"
       },
+      "itemSpacing": {
+        "value": "{semantic.spacing.actions.md.itemSpacing}",
+        "type": "spacing"
+      },
       "icon-size": {
         "value": "{btn.md.text-size}",
         "type": "sizing"
