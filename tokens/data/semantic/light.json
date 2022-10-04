@@ -752,7 +752,7 @@
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{space.200}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "padding-bottom": {
@@ -760,7 +760,11 @@
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{space.200}",
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "itemSpacing": {
+            "value": "{space.50}",
             "type": "spacing"
           }
         },
@@ -770,7 +774,7 @@
             "type": "spacing"
           },
           "padding-right": {
-            "value": "{space.200}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "padding-bottom": {
@@ -778,7 +782,7 @@
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{space.200}",
+            "value": "{space.100}",
             "type": "spacing"
           },
           "itemSpacing": {
@@ -801,6 +805,10 @@
           },
           "padding-left": {
             "value": "{space.200}",
+            "type": "spacing"
+          },
+          "itemSpacing": {
+            "value": "{space.50}",
             "type": "spacing"
           }
         }
@@ -1418,7 +1426,12 @@
         }
       },
       "button": {
-        "default": {
+        "sm": {
+          "value": "semantic.utility.button.md",
+          "type": "typography",
+          "description": "Used for default button labeling."
+        },
+        "md": {
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
@@ -1429,6 +1442,11 @@
             "textDecoration": "none",
             "textCase": "{semantic.text-case.actions}"
           },
+          "type": "typography",
+          "description": "Used for default button labeling."
+        },
+        "lg": {
+          "value": "semantic.utility.button.md",
           "type": "typography",
           "description": "Used for default button labeling."
         }
