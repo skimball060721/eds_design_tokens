@@ -19,7 +19,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.default.text}",
+          "value": "{semantic.color.actions.primary.default.icon}",
           "type": "color"
         },
         "sm": {
@@ -79,7 +79,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.hover.text}",
+          "value": "{semantic.color.actions.primary.hover.icon}",
           "type": "color"
         },
         "sm": {
@@ -139,7 +139,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.active.text}",
+          "value": "{semantic.color.actions.primary.active.icon}",
           "type": "color"
         },
         "sm": {
@@ -199,7 +199,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.disabled.text}",
+          "value": "{semantic.color.actions.primary.disabled.icon}",
           "type": "color"
         },
         "sm": {
@@ -261,7 +261,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.default.text}",
+          "value": "{semantic.color.actions.secondary.default.icon}",
           "type": "color"
         },
         "sm": {
@@ -321,7 +321,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.hover.text}",
+          "value": "{semantic.color.actions.secondary.hover.icon}",
           "type": "color"
         },
         "sm": {
@@ -381,7 +381,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.active.text}",
+          "value": "{semantic.color.actions.secondary.active.icon}",
           "type": "color"
         },
         "sm": {
@@ -441,7 +441,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.disabled.text}",
+          "value": "{semantic.color.actions.secondary.disabled.icon}",
           "type": "color"
         },
         "sm": {
@@ -503,7 +503,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.default.text}",
+          "value": "{semantic.color.actions.success.default.icon}",
           "type": "color"
         },
         "sm": {
@@ -563,7 +563,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.hover.text}",
+          "value": "{semantic.color.actions.success.hover.icon}",
           "type": "color"
         },
         "sm": {
@@ -623,7 +623,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.active.text}",
+          "value": "{semantic.color.actions.success.active.icon}",
           "type": "color"
         },
         "sm": {
@@ -683,7 +683,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.success.disabled.text}",
+          "value": "{semantic.color.actions.success.disabled.icon}",
           "type": "color"
         },
         "sm": {
@@ -745,7 +745,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.danger.default.text}",
+          "value": "{semantic.color.actions.danger.default.icon}",
           "type": "color"
         },
         "sm": {
@@ -805,7 +805,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.danger.hover.text}",
+          "value": "{semantic.color.actions.danger.hover.icon}",
           "type": "color"
         },
         "sm": {
@@ -865,7 +865,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.danger.active.text}",
+          "value": "{semantic.color.actions.danger.active.icon}",
           "type": "color"
         },
         "sm": {
@@ -925,7 +925,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.danger.disabled.text}",
+          "value": "{semantic.color.actions.danger.disabled.icon}",
           "type": "color"
         },
         "sm": {
