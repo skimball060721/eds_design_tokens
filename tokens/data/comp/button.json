@@ -694,6 +694,236 @@
         }
       }
     },
+    "danger": {
+      "default": {
+        "bg-color": {
+          "value": "{semantic.color.actions.danger.default.bg}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.danger.default.text}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.danger.default.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.actions.danger.default.text}",
+          "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.default.bg-color}",
+            "border": "{btn.danger.default.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.default.bg-color}",
+            "border": "{btn.danger.default.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.default.bg-color}",
+            "border": "{btn.danger.default.border-color}"
+          },
+          "type": "composition"
+        }
+      },
+      "hover": {
+        "bg-color": {
+          "value": "{semantic.color.actions.danger.hover.bg}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.danger.hover.text}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.danger.hover.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.actions.danger.hover.text}",
+          "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.hover.bg-color}",
+            "border": "{btn.danger.hover.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.hover.bg-color}",
+            "border": "{btn.danger.hover.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.hover.bg-color}",
+            "border": "{btn.danger.hover.border-color}"
+          },
+          "type": "composition"
+        }
+      },
+      "active": {
+        "bg-color": {
+          "value": "{semantic.color.actions.danger.active.bg}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.danger.active.text}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.danger.active.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.actions.danger.active.text}",
+          "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.active.bg-color}",
+            "border": "{btn.danger.active.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.active.bg-color}",
+            "border": "{btn.danger.active.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.active.bg-color}",
+            "border": "{btn.danger.active.border-color}"
+          },
+          "type": "composition"
+        }
+      },
+      "disabled": {
+        "bg-color": {
+          "value": "{semantic.color.actions.danger.disabled.bg}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.danger.disabled.text}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.actions.danger.disabled.bg}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.actions.danger.disabled.text}",
+          "type": "color"
+        },
+        "sm": {
+          "value": {
+            "height": "{btn.sm.height}",
+            "paddingTop": "{btn.sm.padding-top}",
+            "paddingRight": "{btn.sm.padding-right}",
+            "paddingBottom": "{btn.sm.padding-bottom}",
+            "paddingLeft": "{btn.sm.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.disabled.bg-color}",
+            "border": "{btn.danger.disabled.border-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{btn.md.height}",
+            "paddingTop": "{btn.md.padding-top}",
+            "paddingRight": "{btn.md.padding-right}",
+            "paddingBottom": "{btn.md.padding-bottom}",
+            "paddingLeft": "{btn.md.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.disabled.bg-color}",
+            "border": "{btn.danger.disabled.border-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{btn.lg.height}",
+            "paddingTop": "{btn.lg.padding-top}",
+            "paddingRight": "{btn.lg.padding-right}",
+            "paddingBottom": "{btn.lg.padding-bottom}",
+            "paddingLeft": "{btn.lg.padding-left}",
+            "borderRadius": "{btn.border-radius}",
+            "fill": "{btn.danger.disabled.bg-color}",
+            "border": "{btn.danger.disabled.border-color}"
+          },
+          "type": "composition"
+        }
+      }
+    },
     "sm": {
       "text-size": {
         "value": "{semantic.font-size.actions.sm}",
