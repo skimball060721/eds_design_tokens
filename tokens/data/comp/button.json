@@ -260,8 +260,8 @@
             "paddingBottom": "{btn.sm.padding-bottom}",
             "paddingLeft": "{btn.sm.padding-left}",
             "borderRadius": "{btn.border-radius}",
-            "fill": "{btn.primary.secondary.bg-color}",
-            "border": "{btn.primary.secondary.border-color}"
+            "fill": "{btn.secondary.default.bg-color}",
+            "border": "{btn.secondary.default.border-color}"
           },
           "type": "composition"
         },
@@ -273,8 +273,8 @@
             "paddingBottom": "{btn.md.padding-bottom}",
             "paddingLeft": "{btn.md.padding-left}",
             "borderRadius": "{btn.border-radius}",
-            "fill": "{btn.primary.secondary.bg-color}",
-            "border": "{btn.primary.secondary.border-color}"
+            "fill": "{btn.secondary.default.bg-color}",
+            "border": "{btn.secondary.default.border-color}"
           },
           "type": "composition"
         },
@@ -286,8 +286,8 @@
             "paddingBottom": "{btn.lg.padding-bottom}",
             "paddingLeft": "{btn.lg.padding-left}",
             "borderRadius": "{btn.border-radius}",
-            "fill": "{btn.primary.secondary.bg-color}",
-            "border": "{btn.primary.secondary.border-color}"
+            "fill": "{btn.secondary.default.bg-color}",
+            "border": "{btn.secondary.default.border-color}"
           },
           "type": "composition"
         }
