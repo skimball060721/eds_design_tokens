@@ -162,6 +162,10 @@
               "value": "{color.neutrals.white}",
               "type": "color"
             },
+            "icon": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
             "quiet-text": {
               "value": "{semantic.primary.default}",
               "type": "color"
@@ -181,6 +185,10 @@
               "type": "color"
             },
             "text": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "icon": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
