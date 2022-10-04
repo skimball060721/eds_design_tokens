@@ -1427,7 +1427,16 @@
       },
       "button": {
         "sm": {
-          "value": "semantic.utility.button.md",
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.2}",
+            "fontSize": "{semantic.font-size.actions.sm}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
+          },
           "type": "typography",
           "description": "Used for default button labeling."
         },
@@ -1446,7 +1455,16 @@
           "description": "Used for default button labeling."
         },
         "lg": {
-          "value": "semantic.utility.button.md",
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.2}",
+            "fontSize": "{semantic.font-size.actions.lg}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
+          },
           "type": "typography",
           "description": "Used for default button labeling."
         }
