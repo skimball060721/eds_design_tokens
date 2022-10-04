@@ -437,7 +437,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.secondary.disabled.bg}",
+          "value": "{semantic.color.actions.secondary.disabled.border}",
           "type": "color"
         },
         "icon-color": {
