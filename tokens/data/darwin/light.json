@@ -95,6 +95,10 @@
   "btn": {
     "secondary": {
       "default": {
+        "border-color": {
+          "value": "{semantic.primary.default}",
+          "type": "color"
+        },
         "text-color": {
           "value": "{semantic.primary.default}",
           "type": "color"
@@ -109,6 +113,10 @@
         }
       },
       "hover": {
+        "border-color": {
+          "value": "{semantic.primary.emphasized}",
+          "type": "color"
+        },
         "text-color": {
           "value": "{semantic.primary.emphasized}",
           "type": "color"
@@ -123,6 +131,10 @@
         }
       },
       "active": {
+        "border-color": {
+          "value": "{semantic.primary.strong}",
+          "type": "color"
+        },
         "text-color": {
           "value": "{semantic.primary.strong}",
           "type": "color"
@@ -137,6 +149,10 @@
         }
       },
       "disabled": {
+        "border-color": {
+          "value": "{semantic.primary.disabled}",
+          "type": "color"
+        },
         "text-color": {
           "value": "{semantic.primary.disabled}",
           "type": "color"
