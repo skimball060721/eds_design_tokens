@@ -162,11 +162,15 @@
               "value": "{color.neutrals.white}",
               "type": "color"
             },
+            "quiet-text": {
+              "value": "{semantic.primary.default}",
+              "type": "color"
+            },
             "icon": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-text": {
+            "quiet-icon": {
               "value": "{semantic.primary.default}",
               "type": "color"
             },
@@ -188,11 +192,15 @@
               "value": "{color.neutrals.white}",
               "type": "color"
             },
+            "quiet-text": {
+              "value": "{semantic.primary.emphasized}",
+              "type": "color"
+            },
             "icon": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-text": {
+            "quiet-icon": {
               "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
@@ -214,11 +222,15 @@
               "value": "{color.neutrals.white}",
               "type": "color"
             },
+            "quiet-text": {
+              "value": "{semantic.primary.strong}",
+              "type": "color"
+            },
             "icon": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-text": {
+            "quiet-icon": {
               "value": "{semantic.primary.strong}",
               "type": "color"
             },
@@ -240,11 +252,15 @@
               "value": "{color.neutrals.white}",
               "type": "color"
             },
+            "quiet-text": {
+              "value": "{semantic.primary.disabled}",
+              "type": "color"
+            },
             "icon": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-text": {
+            "quiet-icon": {
               "value": "{semantic.primary.disabled}",
               "type": "color"
             },
