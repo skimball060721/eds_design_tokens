@@ -24,43 +24,46 @@
         },
         "sm": {
           "value": {
-            "height": "{btn.sm.height}",
-            "paddingTop": "{btn.sm.padding-top}",
-            "paddingRight": "{btn.sm.padding-right}",
-            "paddingBottom": "{btn.sm.padding-bottom}",
-            "paddingLeft": "{btn.sm.padding-left}",
-            "borderRadius": "{btn.border-radius}",
-            "borderWidth": "{btn.border-width}",
-            "fill": "{btn.primary.default.bg-color}",
-            "border": "{btn.primary.default.border-color}"
+            "height": "{icon-btn.sm.height}",
+            "paddingTop": "{icon-btn.sm.padding-top}",
+            "paddingRight": "{icon-btn.sm.padding-right}",
+            "paddingBottom": "{icon-btn.sm.padding-bottom}",
+            "paddingLeft": "{icon-btn.sm.padding-left}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "borderWidth": "{icon-btn.border-width}",
+            "fill": "{icon-btn.primary.default.bg-color}",
+            "border": "{icon-btn.primary.default.border-color}",
+            "width": "{icon-btn.sm.width}"
           },
           "type": "composition"
         },
         "md": {
           "value": {
-            "height": "{btn.md.height}",
-            "paddingTop": "{btn.md.padding-top}",
-            "paddingRight": "{btn.md.padding-right}",
-            "paddingBottom": "{btn.md.padding-bottom}",
-            "paddingLeft": "{btn.md.padding-left}",
-            "borderRadius": "{btn.border-radius}",
-            "borderWidth": "{btn.border-width}",
-            "fill": "{btn.primary.default.bg-color}",
-            "border": "{btn.primary.default.border-color}"
+            "height": "{icon-btn.md.height}",
+            "paddingTop": "{icon-btn.md.padding-top}",
+            "paddingRight": "{icon-btn.md.padding-right}",
+            "paddingBottom": "{icon-btn.md.padding-bottom}",
+            "paddingLeft": "{icon-btn.md.padding-left}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "borderWidth": "{icon-btn.border-width}",
+            "fill": "{icon-btn.primary.default.bg-color}",
+            "border": "{icon-btn.primary.default.border-color}",
+            "width": "{icon-btn.md.width}"
           },
           "type": "composition"
         },
         "lg": {
           "value": {
-            "height": "{btn.lg.height}",
-            "paddingTop": "{btn.lg.padding-top}",
-            "paddingRight": "{btn.lg.padding-right}",
-            "paddingBottom": "{btn.lg.padding-bottom}",
-            "paddingLeft": "{btn.lg.padding-left}",
-            "borderRadius": "{btn.border-radius}",
-            "borderWidth": "{btn.border-width}",
-            "fill": "{btn.primary.default.bg-color}",
-            "border": "{btn.primary.default.border-color}"
+            "height": "{icon-btn.lg.height}",
+            "paddingTop": "{icon-btn.lg.padding-top}",
+            "paddingRight": "{icon-btn.lg.padding-right}",
+            "paddingBottom": "{icon-btn.lg.padding-bottom}",
+            "paddingLeft": "{icon-btn.lg.padding-left}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "borderWidth": "{icon-btn.border-width}",
+            "fill": "{icon-btn.primary.default.bg-color}",
+            "border": "{icon-btn.primary.default.border-color}",
+            "width": "{icon-btn.lg.width}"
           },
           "type": "composition"
         }
@@ -84,15 +87,15 @@
         },
         "sm": {
           "value": {
-            "height": "{btn.sm.height}",
-            "paddingTop": "{btn.sm.padding-top}",
-            "paddingRight": "{btn.sm.padding-right}",
-            "paddingBottom": "{btn.sm.padding-bottom}",
-            "paddingLeft": "{btn.sm.padding-left}",
-            "borderRadius": "{btn.border-radius}",
-            "borderWidth": "{btn.border-width}",
-            "fill": "{btn.primary.hover.bg-color}",
-            "border": "{btn.primary.hover.border-color}"
+            "height": "{icon-btn.sm.height}",
+            "paddingTop": "{icon-btn.sm.padding-top}",
+            "paddingRight": "{icon-btn.sm.padding-right}",
+            "paddingBottom": "{icon-btn.sm.padding-bottom}",
+            "paddingLeft": "{icon-btn.sm.padding-left}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "borderWidth": "{icon-btn.border-width}",
+            "fill": "{icon-btn.primary.hover.bg-color}",
+            "border": "{icon-btn.primary.hover.border-color}"
           },
           "type": "composition"
         },
@@ -998,15 +1001,31 @@
         "type": "spacing"
       },
       "icon-size": {
-        "value": "{btn.sm.text-size}",
+        "value": "{icon-btn.sm.text-size}",
         "type": "sizing"
       },
       "height": {
         "value": "{semantic.sizing.actions.sm}",
         "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.actions.sm}",
+        "type": "sizing"
       }
     },
     "md": {
+      "icon-size": {
+        "value": "{icon-btn.md.text-size}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.actions.md}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.actions.md}",
+        "type": "sizing"
+      },
       "text-size": {
         "value": "{semantic.font-size.actions.md}",
         "type": "fontSizes"
@@ -1030,17 +1049,21 @@
       "itemSpacing": {
         "value": "{semantic.spacing.actions.md.itemSpacing}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{btn.md.text-size}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.md}",
-        "type": "sizing"
       }
     },
     "lg": {
+      "icon-size": {
+        "value": "{icon-btn.lg.text-size}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.actions.lg}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.actions.lg}",
+        "type": "sizing"
+      },
       "text-size": {
         "value": "{semantic.font-size.actions.lg}",
         "type": "fontSizes"
@@ -1064,14 +1087,6 @@
       "itemSpacing": {
         "value": "{semantic.spacing.actions.lg.itemSpacing}",
         "type": "spacing"
-      },
-      "icon-size": {
-        "value": "{btn.lg.text-size}",
-        "type": "sizing"
-      },
-      "height": {
-        "value": "{semantic.sizing.actions.lg}",
-        "type": "sizing"
       }
     },
     "font-family": {
