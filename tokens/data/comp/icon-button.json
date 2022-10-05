@@ -245,7 +245,7 @@
     "secondary": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.actions.secondary.default.bg}",
+          "value": "{btn.secondary.default.bg-color}",
           "type": "color"
         },
         "border-color": {
@@ -253,7 +253,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.default.icon}",
+          "value": "{btn.secondary.default.icon-color}",
           "type": "color"
         },
         "sm": {
@@ -304,7 +304,7 @@
       },
       "hover": {
         "bg-color": {
-          "value": "{semantic.color.actions.secondary.hover.bg}",
+          "value": "{btn.secondary.hover.bg-color}",
           "type": "color"
         },
         "border-color": {
@@ -312,7 +312,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.hover.icon}",
+          "value": "{btn.secondary.hover.icon-color}",
           "type": "color"
         },
         "sm": {
@@ -363,7 +363,7 @@
       },
       "active": {
         "bg-color": {
-          "value": "{semantic.color.actions.secondary.active.bg}",
+          "value": "{btn.secondary.active.bg-color}",
           "type": "color"
         },
         "border-color": {
@@ -371,7 +371,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.active.icon}",
+          "value": "{btn.secondary.active.icon-color}",
           "type": "color"
         },
         "sm": {
@@ -422,7 +422,7 @@
       },
       "disabled": {
         "bg-color": {
-          "value": "{semantic.color.actions.secondary.disabled.bg}",
+          "value": "{btn.secondary.disabled.bg-color}",
           "type": "color"
         },
         "border-color": {
@@ -430,7 +430,7 @@
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.disabled.icon}",
+          "value": "{btn.secondary.disabled.icon-color}",
           "type": "color"
         },
         "sm": {
