@@ -158,6 +158,10 @@
               "value": "{semantic.primary.default}",
               "type": "color"
             },
+            "quiet-border": {
+              "value": "{color.neutrals.transparent}",
+              "type": "color"
+            },
             "text": {
               "value": "{color.neutrals.white}",
               "type": "color"
