@@ -100,6 +100,24 @@
           "value": "{semantic.color.actions.primary.hover.icon-color}",
           "type": "color"
         },
+        "quiet": {
+          "bg-color": {
+            "value": "{semantic.color.actions.primary.hover.quiet.bg-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.primary.hover.quiet.text-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.primary.hover.quiet.border-color}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.actions.primary.hover.quiet.icon-color}",
+            "type": "color"
+          }
+        },
         "sm": {
           "value": {
             "height": "{btn.sm.height}",
@@ -160,6 +178,24 @@
           "value": "{semantic.color.actions.primary.active.icon-color}",
           "type": "color"
         },
+        "quiet": {
+          "bg-color": {
+            "value": "{semantic.color.actions.primary.active.quiet.bg-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.primary.active.quiet.text-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.primary.active.quiet.border-color}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.actions.primary.active.quiet.icon-color}",
+            "type": "color"
+          }
+        },
         "sm": {
           "value": {
             "height": "{btn.sm.height}",
@@ -219,6 +255,24 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.disabled.icon-color}",
           "type": "color"
+        },
+        "quiet": {
+          "bg-color": {
+            "value": "{semantic.color.actions.primary.disabled.quiet.bg-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.primary.disabled.quiet.text-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.primary.disabled.quiet.border-color}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.actions.primary.disabled.quiet.icon-color}",
+            "type": "color"
+          }
         },
         "sm": {
           "value": {
