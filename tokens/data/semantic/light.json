@@ -1014,12 +1014,18 @@
         "type": "sizing"
       }
     },
-    "border-radius": {
-      "actions": {
+    "actions": {
+      "border-radius": {
         "value": "{border-radius.4}",
         "type": "borderRadius"
       },
-      "ui-card": {
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      }
+    },
+    "ui-card": {
+      "border-radius": {
         "value": "{border-radius.4}",
         "type": "borderRadius"
       }
@@ -1996,12 +2002,6 @@
           "value": "{letter-spacing.0}",
           "type": "letterSpacing"
         }
-      }
-    },
-    "border-width": {
-      "actions": {
-        "value": "{border-width.2}",
-        "type": "borderWidth"
       }
     }
   }

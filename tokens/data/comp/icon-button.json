@@ -1,7 +1,7 @@
 {
   "icon-btn": {
     "border-radius": {
-      "value": "{semantic.border-radius.actions}",
+      "value": "{semantic.actions.border-radius}",
       "type": "borderRadius"
     },
     "primary": {
@@ -361,7 +361,7 @@
       "type": "fontWeights"
     },
     "border-width": {
-      "value": "{semantic.border-width.actions}",
+      "value": "{semantic.actions.border-width}",
       "type": "borderWidth"
     }
   }
