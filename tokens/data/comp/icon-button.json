@@ -18,6 +18,45 @@
           "value": "{semantic.color.actions.primary.default.icon-color}",
           "type": "color"
         },
+        "sm": {
+          "value": {
+            "height": "{icon-btn.size.height.sm}",
+            "width": "{icon-btn.width.sm}",
+            "paddingTop": "{icon-btn.padding-top.sm}",
+            "paddingRight": "{icon-btn.padding-right.sm}",
+            "paddingBottom": "{icon-btn.padding-bottom.sm}",
+            "paddingLeft": "{icon-btn.padding-left.sm}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "fill": "{icon-btn.primary.default.bg-color}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "height": "{icon-btn.size.height.md}",
+            "width": "{icon-btn.width.md}",
+            "paddingTop": "{icon-btn.padding-top.md}",
+            "paddingRight": "{icon-btn.padding-right.md}",
+            "paddingBottom": "{icon-btn.padding-bottom.md}",
+            "paddingLeft": "{icon-btn.padding-left.md}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "fill": "{icon-btn.primary.default.bg-color}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "height": "{icon-btn.size.height.lg}",
+            "width": "{icon-btn.width.lg}",
+            "paddingTop": "{icon-btn.padding-top.lg}",
+            "paddingRight": "{icon-btn.padding-right.lg}",
+            "paddingBottom": "{icon-btn.padding-bottom.lg}",
+            "paddingLeft": "{icon-btn.padding-left.lg}",
+            "borderRadius": "{icon-btn.border-radius}",
+            "fill": "{icon-btn.primary.default.bg-color}"
+          },
+          "type": "composition"
+        },
         "quiet": {
           "bg-color": {
             "value": "{semantic.color.actions.primary.default.quiet.bg-color}",
@@ -33,7 +72,7 @@
           },
           "sm": {
             "value": {
-              "height": "{btn.size.height.sm}",
+              "height": "{icon-btn.size.height.sm}",
               "width": "{icon-btn.width.sm}",
               "paddingTop": "{icon-btn.padding-top.sm}",
               "paddingRight": "{icon-btn.padding-right.sm}",
@@ -46,7 +85,7 @@
           },
           "md": {
             "value": {
-              "height": "{btn.size.height.md}",
+              "height": "{icon-btn.size.height.md}",
               "width": "{icon-btn.width.md}",
               "paddingTop": "{icon-btn.padding-top.md}",
               "paddingRight": "{icon-btn.padding-right.md}",
@@ -59,7 +98,7 @@
           },
           "lg": {
             "value": {
-              "height": "{btn.size.height.lg}",
+              "height": "{icon-btn.size.height.lg}",
               "width": "{icon-btn.width.lg}",
               "paddingTop": "{icon-btn.padding-top.lg}",
               "paddingRight": "{icon-btn.padding-right.lg}",
@@ -70,45 +109,6 @@
             },
             "type": "composition"
           }
-        },
-        "sm": {
-          "value": {
-            "height": "{btn.size.height.sm}",
-            "width": "{icon-btn.width.sm}",
-            "paddingTop": "{icon-btn.padding-top.sm}",
-            "paddingRight": "{icon-btn.padding-right.sm}",
-            "paddingBottom": "{icon-btn.padding-bottom.sm}",
-            "paddingLeft": "{icon-btn.padding-left.sm}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.default.bg-color}"
-          },
-          "type": "composition"
-        },
-        "md": {
-          "value": {
-            "height": "{btn.size.height.md}",
-            "width": "{icon-btn.width.md}",
-            "paddingTop": "{icon-btn.padding-top.md}",
-            "paddingRight": "{icon-btn.padding-right.md}",
-            "paddingBottom": "{icon-btn.padding-bottom.md}",
-            "paddingLeft": "{icon-btn.padding-left.md}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.default.bg-color}"
-          },
-          "type": "composition"
-        },
-        "lg": {
-          "value": {
-            "height": "{btn.size.height.lg}",
-            "width": "{icon-btn.width.lg}",
-            "paddingTop": "{icon-btn.padding-top.lg}",
-            "paddingRight": "{icon-btn.padding-right.lg}",
-            "paddingBottom": "{icon-btn.padding-bottom.lg}",
-            "paddingLeft": "{icon-btn.padding-left.lg}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.default.bg-color}"
-          },
-          "type": "composition"
         }
       },
       "hover": {
