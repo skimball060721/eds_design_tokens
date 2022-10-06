@@ -256,19 +256,19 @@
         "type": "fontSizes"
       },
       "padding-left": {
-        "value": "{semantic.spacing.actions.sm.padding-left}",
+        "value": "{semantic.spacing.actions.padding-left.sm}",
         "type": "spacing"
       },
       "padding-right": {
-        "value": "{semantic.spacing.actions.sm.padding-right}",
+        "value": "{semantic.spacing.actions.padding-right.sm}",
         "type": "spacing"
       },
       "padding-top": {
-        "value": "{semantic.spacing.actions.sm.padding-top}",
+        "value": "{semantic.spacing.actions.padding-top.sm}",
         "type": "spacing"
       },
       "padding-bottom": {
-        "value": "{semantic.spacing.actions.sm.padding-bottom}",
+        "value": "{semantic.spacing.actions.padding-bottom.sm}",
         "type": "spacing"
       },
       "icon-size": {
@@ -302,19 +302,19 @@
         "type": "fontSizes"
       },
       "padding-left": {
-        "value": "{semantic.spacing.actions.md.padding-left}",
+        "value": "{semantic.spacing.actions.padding-left.md}",
         "type": "spacing"
       },
       "padding-right": {
-        "value": "{semantic.spacing.actions.md.padding-right}",
+        "value": "{semantic.spacing.actions.padding-right.md}",
         "type": "spacing"
       },
       "padding-top": {
-        "value": "{semantic.spacing.actions.md.padding-top}",
+        "value": "{semantic.spacing.actions.padding-top.md}",
         "type": "spacing"
       },
       "padding-bottom": {
-        "value": "{semantic.spacing.actions.md.padding-bottom}",
+        "value": "{semantic.spacing.actions.padding-bottom.md}",
         "type": "spacing"
       }
     },
@@ -336,19 +336,19 @@
         "type": "fontSizes"
       },
       "padding-left": {
-        "value": "{semantic.spacing.actions.lg.padding-left}",
+        "value": "{semantic.spacing.actions.padding-left.lg}",
         "type": "spacing"
       },
       "padding-right": {
-        "value": "{semantic.spacing.actions.lg.padding-right}",
+        "value": "{semantic.spacing.actions.padding-right.lg}",
         "type": "spacing"
       },
       "padding-top": {
-        "value": "{semantic.spacing.actions.lg.padding-top}",
+        "value": "{semantic.spacing.actions.padding-top.lg}",
         "type": "spacing"
       },
       "padding-bottom": {
-        "value": "{semantic.spacing.actions.lg.padding-bottom}",
+        "value": "{semantic.spacing.actions.padding-bottom.lg}",
         "type": "spacing"
       }
     },

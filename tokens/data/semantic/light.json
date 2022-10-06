@@ -1026,80 +1026,86 @@
     },
     "spacing": {
       "actions": {
-        "sm": {
-          "padding-top": {
+        "padding-top": {
+          "sm": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-right": {
+          "md": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-bottom": {
+          "lg": {
             "value": "{space.100}",
-            "type": "spacing"
-          },
-          "padding-left": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "itemSpacing": {
-            "value": "{space.50}",
             "type": "spacing"
           }
         },
-        "md": {
-          "padding-top": {
+        "padding-right": {
+          "sm": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-right": {
+          "md": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-bottom": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "padding-left": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "itemSpacing": {
-            "value": "{space.50}",
+          "lg": {
+            "value": "{space.200}",
             "type": "spacing"
           }
         },
-        "lg": {
-          "padding-top": {
+        "padding-bottom": {
+          "sm": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-right": {
-            "value": "{space.200}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
+          "md": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-left": {
-            "value": "{space.200}",
+          "lg": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-left": {
+          "sm": {
+            "value": "{space.100}",
             "type": "spacing"
           },
-          "itemSpacing": {
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
+        "itemSpacing": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "lg": {
             "value": "{space.50}",
             "type": "spacing"
           }
         }
       },
       "ui": {
-        "sm": {
-          "space-between": {
+        "space-between": {
+          "sm": {
             "value": "{space.100}",
             "type": "spacing"
-          },
-          "space-around": {
+          }
+        },
+        "space-around": {
+          "sm": {
             "value": "{space.200}",
             "type": "spacing"
           }
