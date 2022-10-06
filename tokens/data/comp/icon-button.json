@@ -43,36 +43,6 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.hover.icon}",
           "type": "color"
-        },
-        "md": {
-          "value": {
-            "height": "{icon-btn.md.height}",
-            "width": "{icon-btn.md.width}",
-            "paddingTop": "{icon-btn.md.padding-top}",
-            "paddingRight": "{icon-btn.md.padding-right}",
-            "paddingBottom": "{icon-btn.md.padding-bottom}",
-            "paddingLeft": "{icon-btn.md.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.hover.bg-color}",
-            "border": "{icon-btn.primary.hover.border-color}"
-          },
-          "type": "composition"
-        },
-        "lg": {
-          "value": {
-            "height": "{icon-btn.lg.height}",
-            "width": "{icon-btn.lg.width}",
-            "paddingTop": "{icon-btn.lg.padding-top}",
-            "paddingRight": "{icon-btn.lg.padding-right}",
-            "paddingBottom": "{icon-btn.lg.padding-bottom}",
-            "paddingLeft": "{icon-btn.lg.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.hover.bg-color}",
-            "border": "{icon-btn.primary.hover.border-color}"
-          },
-          "type": "composition"
         }
       },
       "active": {
