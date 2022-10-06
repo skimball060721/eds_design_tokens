@@ -20,7 +20,7 @@
         },
         "sm": {
           "value": {
-            "height": "{icon-btn.size.height.sm}",
+            "height": "{icon-btn.height.sm}",
             "width": "{icon-btn.width.sm}",
             "paddingTop": "{icon-btn.padding-top.sm}",
             "paddingRight": "{icon-btn.padding-right.sm}",
@@ -33,7 +33,7 @@
         },
         "md": {
           "value": {
-            "height": "{icon-btn.size.height.md}",
+            "height": "{icon-btn.height.md}",
             "width": "{icon-btn.width.md}",
             "paddingTop": "{icon-btn.padding-top.md}",
             "paddingRight": "{icon-btn.padding-right.md}",
@@ -46,7 +46,7 @@
         },
         "lg": {
           "value": {
-            "height": "{icon-btn.size.height.lg}",
+            "height": "{icon-btn.height.lg}",
             "width": "{icon-btn.width.lg}",
             "paddingTop": "{icon-btn.padding-top.lg}",
             "paddingRight": "{icon-btn.padding-right.lg}",
@@ -72,7 +72,7 @@
           },
           "sm": {
             "value": {
-              "height": "{icon-btn.size.height.sm}",
+              "height": "{icon-btn.height.sm}",
               "width": "{icon-btn.width.sm}",
               "paddingTop": "{icon-btn.padding-top.sm}",
               "paddingRight": "{icon-btn.padding-right.sm}",
@@ -85,7 +85,7 @@
           },
           "md": {
             "value": {
-              "height": "{icon-btn.size.height.md}",
+              "height": "{icon-btn.height.md}",
               "width": "{icon-btn.width.md}",
               "paddingTop": "{icon-btn.padding-top.md}",
               "paddingRight": "{icon-btn.padding-right.md}",
@@ -98,7 +98,7 @@
           },
           "lg": {
             "value": {
-              "height": "{icon-btn.size.height.lg}",
+              "height": "{icon-btn.height.lg}",
               "width": "{icon-btn.width.lg}",
               "paddingTop": "{icon-btn.padding-top.lg}",
               "paddingRight": "{icon-btn.padding-right.lg}",
