@@ -7,27 +7,27 @@
     "primary": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.default.bg}",
+          "value": "{semantic.color.actions.primary.default.bg-color}",
           "type": "color"
         },
         "quiet-bg-color": {
-          "value": "{semantic.color.actions.primary.default.quiet-bg}",
+          "value": "{semantic.color.actions.primary.default.quiet.bg-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.default.border}",
+          "value": "{semantic.color.actions.primary.default.border-color}",
           "type": "color"
         },
         "quiet-border-color": {
-          "value": "{semantic.color.actions.primary.default.quiet-border}",
+          "value": "{semantic.color.actions.primary.default.quiet.border-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.default.icon}",
+          "value": "{semantic.color.actions.primary.default.icon-color}",
           "type": "color"
         },
         "quiet-icon-color": {
-          "value": "{semantic.color.actions.primary.default.quiet-icon}",
+          "value": "{semantic.color.actions.primary.default.quiet.icon-color}",
           "type": "color"
         }
       },
@@ -269,10 +269,6 @@
         "value": "{semantic.spacing.actions.sm.padding-bottom}",
         "type": "spacing"
       },
-      "itemSpacing": {
-        "value": "{semantic.spacing.actions.sm.itemSpacing}",
-        "type": "spacing"
-      },
       "icon-size": {
         "value": "{icon-btn.sm.text-size}",
         "type": "sizing"
@@ -318,10 +314,6 @@
       "padding-bottom": {
         "value": "{semantic.spacing.actions.md.padding-bottom}",
         "type": "spacing"
-      },
-      "itemSpacing": {
-        "value": "{semantic.spacing.actions.md.itemSpacing}",
-        "type": "spacing"
       }
     },
     "lg": {
@@ -355,10 +347,6 @@
       },
       "padding-bottom": {
         "value": "{semantic.spacing.actions.lg.padding-bottom}",
-        "type": "spacing"
-      },
-      "itemSpacing": {
-        "value": "{semantic.spacing.actions.lg.itemSpacing}",
         "type": "spacing"
       }
     },

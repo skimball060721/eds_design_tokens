@@ -7,19 +7,19 @@
     "primary": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.default.bg}",
+          "value": "{semantic.color.actions.primary.default.bg-color}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.primary.default.text}",
+          "value": "{semantic.color.actions.primary.default.text-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.default.border}",
+          "value": "{semantic.color.actions.primary.default.border-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.default.icon}",
+          "value": "{semantic.color.actions.primary.default.icon-color}",
           "type": "color"
         },
         "sm": {

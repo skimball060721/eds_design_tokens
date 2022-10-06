@@ -154,36 +154,38 @@
       "actions": {
         "primary": {
           "default": {
-            "border": {
+            "border-color": {
               "value": "{semantic.primary.default}",
               "type": "color"
             },
-            "quiet-border": {
-              "value": "{color.neutrals.transparent}",
-              "type": "color"
+            "quiet": {
+              "border-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "text-color": {
+                "value": "{semantic.primary.default}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{semantic.primary.default}",
+                "type": "color"
+              },
+              "bg-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
             },
-            "text": {
+            "text-color": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-text": {
-              "value": "{semantic.primary.default}",
-              "type": "color"
-            },
-            "icon": {
+            "icon-color": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
-            "quiet-icon": {
+            "bg-color": {
               "value": "{semantic.primary.default}",
-              "type": "color"
-            },
-            "bg": {
-              "value": "{semantic.primary.default}",
-              "type": "color"
-            },
-            "quiet-bg": {
-              "value": "{color.neutrals.transparent}",
               "type": "color"
             }
           },
