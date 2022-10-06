@@ -133,7 +133,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.sm}",
             "paddingLeft": "{icon-btn.padding-left.sm}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.hover.bg-color}"
+            "fill": "{icon-btn.primary.hover.bg-color}",
+            "border": "{icon-btn.primary.hover.border-color}"
           },
           "type": "composition"
         },
@@ -146,7 +147,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.md}",
             "paddingLeft": "{icon-btn.padding-left.md}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.hover.bg-color}"
+            "fill": "{icon-btn.primary.hover.bg-color}",
+            "border": "{icon-btn.primary.hover.border-color}"
           },
           "type": "composition"
         },
@@ -159,7 +161,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.lg}",
             "paddingLeft": "{icon-btn.padding-left.lg}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.primary.hover.bg-color}"
+            "fill": "{icon-btn.primary.hover.bg-color}",
+            "border": "{icon-btn.primary.hover.border-color}"
           },
           "type": "composition"
         },
@@ -375,7 +378,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.sm}",
             "paddingLeft": "{icon-btn.padding-left.sm}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.secondary.default.bg-color}"
+            "fill": "{icon-btn.secondary.default.bg-color}",
+            "border": "{icon-btn.secondary.default.border-color}"
           },
           "type": "composition"
         },
@@ -388,7 +392,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.md}",
             "paddingLeft": "{icon-btn.padding-left.md}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.secondary.default.bg-color}"
+            "fill": "{icon-btn.secondary.default.bg-color}",
+            "border": "{icon-btn.secondary.default.border-color}"
           },
           "type": "composition"
         },
@@ -401,7 +406,8 @@
             "paddingBottom": "{icon-btn.padding-bottom.lg}",
             "paddingLeft": "{icon-btn.padding-left.lg}",
             "borderRadius": "{icon-btn.border-radius}",
-            "fill": "{icon-btn.secondary.default.bg-color}"
+            "fill": "{icon-btn.secondary.default.bg-color}",
+            "border": "{icon-btn.secondary.default.border-color}"
           },
           "type": "composition"
         },
