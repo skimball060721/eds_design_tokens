@@ -67,19 +67,19 @@
       },
       "hover": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.hover.bg}",
+          "value": "{semantic.color.actions.primary.hover.bg-color}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.primary.hover.text}",
+          "value": "{semantic.color.actions.primary.hover.text-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.hover.border}",
+          "value": "{semantic.color.actions.primary.hover.border-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.hover.icon}",
+          "value": "{semantic.color.actions.primary.hover.icon-color}",
           "type": "color"
         },
         "sm": {
@@ -127,19 +127,19 @@
       },
       "active": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.active.bg}",
+          "value": "{semantic.color.actions.primary.active.bg-color}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.primary.active.text}",
+          "value": "{semantic.color.actions.primary.active.text-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.active.border}",
+          "value": "{semantic.color.actions.primary.active.border-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.active.icon}",
+          "value": "{semantic.color.actions.primary.active.icon-color}",
           "type": "color"
         },
         "sm": {
@@ -187,19 +187,19 @@
       },
       "disabled": {
         "bg-color": {
-          "value": "{semantic.color.actions.primary.disabled.bg}",
+          "value": "{semantic.color.actions.primary.disabled.bg-color}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.actions.primary.disabled.text}",
+          "value": "{semantic.color.actions.primary.disabled.text-color}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.actions.primary.disabled.bg}",
+          "value": "{semantic.color.actions.primary.disabled.bg-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.primary.disabled.icon}",
+          "value": "{semantic.color.actions.primary.disabled.icon-color}",
           "type": "color"
         },
         "sm": {
