@@ -45,7 +45,7 @@
         "value": "{color.yellow.300}",
         "type": "color"
       },
-      "emphsized": {
+      "emphasized": {
         "value": "{color.yellow.400}",
         "type": "color"
       },
