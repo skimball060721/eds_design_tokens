@@ -191,7 +191,7 @@
           },
           "hover": {
             "border-color": {
-              "value": "{semantic.primary.hover}",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "text-color": {
@@ -203,7 +203,7 @@
               "type": "color"
             },
             "bg-color": {
-              "value": "{semantic.primary.hover}",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "quiet": {
@@ -212,11 +212,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.primary.hover}",
+                "value": "{semantic.primary.emphasized}",
                 "type": "color"
               },
               "icon-color": {
-                "value": "{semantic.primary.hover}",
+                "value": "{semantic.primary.emphasized}",
                 "type": "color"
               },
               "bg-color": {
@@ -227,7 +227,7 @@
           },
           "active": {
             "border-color": {
-              "value": "{semantic.primary.active}",
+              "value": "{semantic.primary.strong}",
               "type": "color"
             },
             "text-color": {
@@ -239,7 +239,7 @@
               "type": "color"
             },
             "bg-color": {
-              "value": "{semantic.primary.active}",
+              "value": "{semantic.primary.strong}",
               "type": "color"
             },
             "quiet": {
@@ -248,11 +248,11 @@
                 "type": "color"
               },
               "text-color": {
-                "value": "{semantic.primary.active}",
+                "value": "{semantic.primary.strong}",
                 "type": "color"
               },
               "icon-color": {
-                "value": "{semantic.primary.active}",
+                "value": "{semantic.primary.strong}",
                 "type": "color"
               },
               "bg-color": {
