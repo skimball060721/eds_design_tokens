@@ -993,23 +993,23 @@
       }
     },
     "component": {
-      "extra-small": {
+      "xs": {
         "value": "{size.300}",
         "type": "sizing"
       },
-      "small": {
+      "sm": {
         "value": "{size.400}",
         "type": "sizing"
       },
-      "medium": {
+      "md": {
         "value": "{size.500}",
         "type": "sizing"
       },
-      "large": {
+      "lg": {
         "value": "{size.600}",
         "type": "sizing"
       },
-      "extra-large": {
+      "xl": {
         "value": "{size.700}",
         "type": "sizing"
       }
@@ -1121,15 +1121,15 @@
     "sizing": {
       "actions": {
         "sm": {
-          "value": "{semantic.component.small}",
+          "value": "{semantic.component.sm}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.component.medium}",
+          "value": "{semantic.component.md}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.component.large}",
+          "value": "{semantic.component.lg}",
           "type": "sizing"
         }
       },
