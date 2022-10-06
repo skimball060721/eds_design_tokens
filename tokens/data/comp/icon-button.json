@@ -57,51 +57,6 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.active.icon}",
           "type": "color"
-        },
-        "sm": {
-          "value": {
-            "height": "{icon-btn.sm.height}",
-            "width": "{icon-btn.sm.width}",
-            "paddingTop": "{icon-btn.sm.padding-top}",
-            "paddingRight": "{icon-btn.sm.padding-right}",
-            "paddingBottom": "{icon-btn.sm.padding-bottom}",
-            "paddingLeft": "{icon-btn.sm.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.active.bg-color}",
-            "border": "{icon-btn.primary.active.border-color}"
-          },
-          "type": "composition"
-        },
-        "md": {
-          "value": {
-            "height": "{icon-btn.md.height}",
-            "width": "{icon-btn.md.width}",
-            "paddingTop": "{icon-btn.md.padding-top}",
-            "paddingRight": "{icon-btn.md.padding-right}",
-            "paddingBottom": "{icon-btn.md.padding-bottom}",
-            "paddingLeft": "{icon-btn.md.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.active.bg-color}",
-            "border": "{icon-btn.primary.active.border-color}"
-          },
-          "type": "composition"
-        },
-        "lg": {
-          "value": {
-            "height": "{icon-btn.lg.height}",
-            "width": "{icon-btn.lg.width}",
-            "paddingTop": "{icon-btn.lg.padding-top}",
-            "paddingRight": "{icon-btn.lg.padding-right}",
-            "paddingBottom": "{icon-btn.lg.padding-bottom}",
-            "paddingLeft": "{icon-btn.lg.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.active.bg-color}",
-            "border": "{icon-btn.primary.active.border-color}"
-          },
-          "type": "composition"
         }
       },
       "disabled": {
@@ -116,51 +71,6 @@
         "icon-color": {
           "value": "{semantic.color.actions.primary.disabled.icon}",
           "type": "color"
-        },
-        "sm": {
-          "value": {
-            "height": "{icon-btn.sm.height}",
-            "width": "{icon-btn.sm.width}",
-            "paddingTop": "{icon-btn.sm.padding-top}",
-            "paddingRight": "{icon-btn.sm.padding-right}",
-            "paddingBottom": "{icon-btn.sm.padding-bottom}",
-            "paddingLeft": "{icon-btn.sm.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.disabled.bg-color}",
-            "border": "{icon-btn.primary.disabled.border-color}"
-          },
-          "type": "composition"
-        },
-        "md": {
-          "value": {
-            "height": "{icon-btn.md.height}",
-            "width": "{icon-btn.md.width}",
-            "paddingTop": "{icon-btn.md.padding-top}",
-            "paddingRight": "{icon-btn.md.padding-right}",
-            "paddingBottom": "{icon-btn.md.padding-bottom}",
-            "paddingLeft": "{icon-btn.md.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.disabled.bg-color}",
-            "border": "{icon-btn.primary.disabled.border-color}"
-          },
-          "type": "composition"
-        },
-        "lg": {
-          "value": {
-            "height": "{icon-btn.lg.height}",
-            "width": "{icon-btn.lg.width}",
-            "paddingTop": "{icon-btn.lg.padding-top}",
-            "paddingRight": "{icon-btn.lg.padding-right}",
-            "paddingBottom": "{icon-btn.lg.padding-bottom}",
-            "paddingLeft": "{icon-btn.lg.padding-left}",
-            "borderRadius": "{icon-btn.border-radius}",
-            "borderWidth": "{icon-btn.border-width}",
-            "fill": "{icon-btn.primary.disabled.bg-color}",
-            "border": "{icon-btn.primary.disabled.border-color}"
-          },
-          "type": "composition"
         }
       }
     },
