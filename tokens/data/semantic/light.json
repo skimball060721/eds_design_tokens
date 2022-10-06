@@ -881,6 +881,152 @@
               }
             }
           }
+        },
+        "info": {
+          "default": {
+            "border-color": {
+              "value": "{semantic.info.default}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.info.default}",
+              "type": "color"
+            },
+            "quiet": {
+              "border-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "text-color": {
+                "value": "{semantic.info.default}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{semantic.info.default}",
+                "type": "color"
+              },
+              "bg-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
+            }
+          },
+          "hover": {
+            "border-color": {
+              "value": "{semantic.info.emphasized}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.info.emphasized}",
+              "type": "color"
+            },
+            "quiet": {
+              "border-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "text-color": {
+                "value": "{semantic.info.emphasized}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{semantic.info.emphasized}",
+                "type": "color"
+              },
+              "bg-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
+            }
+          },
+          "active": {
+            "border-color": {
+              "value": "{semantic.info.strong}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.info.strong}",
+              "type": "color"
+            },
+            "quiet": {
+              "border-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "text-color": {
+                "value": "{semantic.info.strong}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{semantic.info.strong}",
+                "type": "color"
+              },
+              "bg-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
+            }
+          },
+          "disabled": {
+            "border-color": {
+              "value": "{semantic.info.disabled}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.info.disabled}",
+              "type": "color"
+            },
+            "quiet": {
+              "border-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "text-color": {
+                "value": "{semantic.info.disabled}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{semantic.info.disabled}",
+                "type": "color"
+              },
+              "bg-color": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "feedback": {
