@@ -5,16 +5,20 @@
         "value": "{color.grey.400}",
         "type": "color"
       },
-      "hover": {
+      "emphasized": {
         "value": "{color.grey.500}",
         "type": "color"
       },
-      "active": {
+      "strong": {
         "value": "{color.grey.600}",
         "type": "color"
       },
-      "disabled": {
+      "muted": {
         "value": "{color.grey.200}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color.grey.300}, 0.15)",
         "type": "color"
       }
     },
