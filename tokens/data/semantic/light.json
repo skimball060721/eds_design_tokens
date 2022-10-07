@@ -2,23 +2,23 @@
   "semantic": {
     "neutral": {
       "default": {
-        "value": "{color.grey.400}",
+        "value": "{color.grey.700}",
         "type": "color"
       },
       "emphasized": {
-        "value": "{color.grey.500}",
+        "value": "{color.neutrals.black}",
         "type": "color"
       },
       "strong": {
-        "value": "{color.grey.600}",
+        "value": "{color.neutrals.black}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.grey.200}",
+        "value": "{color.grey.500}",
         "type": "color"
       },
       "weak": {
-        "value": "rgba({color.grey.300}, 0.15)",
+        "value": "rgba({color.grey.700}, 0.15)",
         "type": "color"
       }
     },
