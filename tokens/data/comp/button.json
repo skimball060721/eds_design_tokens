@@ -620,20 +620,18 @@
       "value": "{semantic.font-weight.actions}",
       "type": "fontWeights"
     },
-    "size": {
-      "height": {
-        "sm": {
-          "value": "{semantic.sizing.actions.sm}",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "{semantic.sizing.actions.md}",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "{semantic.sizing.actions.lg}",
-          "type": "sizing"
-        }
+    "height": {
+      "sm": {
+        "value": "{semantic.sizing.actions.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.sizing.actions.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{semantic.sizing.actions.lg}",
+        "type": "sizing"
       }
     },
     "padding-left": {
@@ -716,7 +714,7 @@
     },
     "sm": {
       "value": {
-        "height": "{btn.size.height.sm}",
+        "height": "{btn.height.sm}",
         "paddingTop": "{btn.padding-top.sm}",
         "paddingRight": "{btn.padding-right.sm}",
         "paddingBottom": "{btn.padding-bottom.sm}",
@@ -728,7 +726,7 @@
     },
     "md": {
       "value": {
-        "height": "{btn.size.height.md}",
+        "height": "{btn.height.md}",
         "paddingTop": "{btn.padding-top.md}",
         "paddingRight": "{btn.padding-right.md}",
         "paddingBottom": "{btn.padding-bottom.md}",
@@ -740,7 +738,7 @@
     },
     "lg": {
       "value": {
-        "height": "{btn.size.height.lg}",
+        "height": "{btn.height.lg}",
         "paddingTop": "{btn.padding-top.lg}",
         "paddingRight": "{btn.padding-right.lg}",
         "paddingBottom": "{btn.padding-bottom.lg}",
