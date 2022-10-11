@@ -1360,6 +1360,16 @@
         "type": "borderWidth"
       }
     },
+    "status": {
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
+      "border-radius": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      }
+    },
     "ui-card": {
       "border-radius": {
         "value": "{border-radius.4}",
@@ -1545,6 +1555,10 @@
         "value": "{font-family.proximaNova}",
         "type": "fontFamilies"
       },
+      "status": {
+        "value": "{font-family.proximaNova}",
+        "type": "fontFamilies"
+      },
       "inputs": {
         "value": "{font-family.proximaNova}",
         "type": "fontFamilies"
@@ -1592,6 +1606,10 @@
         }
       },
       "actions": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
+      },
+      "status": {
         "value": "{font-weight.bold}",
         "type": "fontWeights"
       }
@@ -1676,6 +1694,10 @@
           "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}",
           "type": "fontSizes"
         }
+      },
+      "status": {
+        "value": "{semantic.font-size.base} / {semantic.font-size.scale}",
+        "type": "fontSizes"
       }
     },
     "font-nRatio": {
@@ -1696,6 +1718,10 @@
         "type": "other"
       },
       "actions": {
+        "value": "{font-nRatio.proximaNova}",
+        "type": "other"
+      },
+      "status": {
         "value": "{font-nRatio.proximaNova}",
         "type": "other"
       }
@@ -1758,6 +1784,10 @@
           "value": "{line-height.300}",
           "type": "lineHeights"
         }
+      },
+      "status": {
+        "value": "{line-height.200}",
+        "type": "lineHeights"
       }
     },
     "text-case": {
@@ -1776,6 +1806,10 @@
         }
       },
       "actions": {
+        "value": "{text-case.capitalize}",
+        "type": "textCase"
+      },
+      "status": {
         "value": "{text-case.capitalize}",
         "type": "textCase"
       }
@@ -2364,6 +2398,10 @@
           "value": "{letter-spacing.0}",
           "type": "letterSpacing"
         }
+      },
+      "status": {
+        "value": "{letter-spacing.0}",
+        "type": "letterSpacing"
       }
     }
   }
