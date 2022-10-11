@@ -21,6 +21,7 @@
     "hd/alivia/light",
     "hd/alivia/dark",
     "system_utils",
-    "comp/icon-button"
+    "comp/icon-button",
+    "comp/badge"
   ]
 }
