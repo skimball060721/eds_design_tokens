@@ -1256,15 +1256,15 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{semantic.info.default}",
+            "value": "{color.neutrals.white}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{semantic.info.default}",
+            "value": "{color.neutrals.white}",
             "type": "color"
           },
           "bg-color": {
-            "value": "{semantic.info.weak}",
+            "value": "{semantic.info.default}",
             "type": "color"
           }
         },
@@ -1274,21 +1274,25 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{semantic.success.default}",
+            "value": "{color.neutrals.white}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{semantic.success.default}",
+            "value": "{color.neutrals.white}",
             "type": "color"
           },
           "bg-color": {
-            "value": "{semantic.success.weak}",
+            "value": "{semantic.success.default}",
             "type": "color"
           }
         }
       }
     },
     "component": {
+      "xxs": {
+        "value": "{size.250}",
+        "type": "sizing"
+      },
       "xs": {
         "value": "{size.300}",
         "type": "sizing"
@@ -1412,6 +1416,28 @@
             "type": "spacing"
           }
         }
+      },
+      "status": {
+        "padding-top": {
+          "value": "{space.50}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{space.50}",
+          "type": "spacing"
+        },
+        "itemSpacing": {
+          "value": "{space.50}",
+          "type": "spacing"
+        }
       }
     },
     "sizing": {
@@ -1458,6 +1484,10 @@
           "value": "{semantic.font-size.typography.heading.xxxl}",
           "type": "sizing"
         }
+      },
+      "status": {
+        "value": "{semantic.component.xxs}",
+        "type": "sizing"
       }
     },
     "font-family": {
