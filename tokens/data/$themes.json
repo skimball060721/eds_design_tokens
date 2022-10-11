@@ -1226,7 +1226,31 @@
       "btn.danger.disabled.quiet.bg-color": "S:239f84ed21063c4b20ac4befe403026f55d7f1a6,",
       "btn.danger.disabled.quiet.text-color": "S:8da005c29d04e536d379257992e2ae6275419a4a,",
       "btn.danger.disabled.quiet.border-color": "S:970eff68cccebf5ffcee56fa82effb7e82450dec,",
-      "btn.danger.disabled.quiet.icon-color": "S:ff35989a24bac30f512d554bc3973f8c5db674af,"
+      "btn.danger.disabled.quiet.icon-color": "S:ff35989a24bac30f512d554bc3973f8c5db674af,",
+      "badge.success.border-color": "S:27685fb2f70b86163038ef894f794bcd52864ce9,",
+      "badge.success.bg-color": "S:a600f1dfc6218d80994b0d9db20e524396e0dcd8,",
+      "badge.success.text-color": "S:33cd7b92d3346a1c4da73c1f5d3f1f552aab6a4d,",
+      "badge.success.icon-color": "S:1780f9b2c39d88f1a226570504ad61b00015aecc,",
+      "badge.warning.border-color": "S:12caae3f480adc134111afe0048d9546cf6bf74e,",
+      "badge.warning.bg-color": "S:1cd3fe4f790ee2d216bdf9bffbb82976aa36a3a1,",
+      "badge.warning.text-color": "S:3d2f18ab8d9819ba367ab8198ce04ab3c66179c4,",
+      "badge.warning.icon-color": "S:457c39e571bddc27b9441406df6d1342e439ea7e,",
+      "badge.danger.border-color": "S:517cad053b8e293abf934f97131859e4a8398b3e,",
+      "badge.danger.bg-color": "S:0fa81a358b3dc90028cf7e4bebdefc3a090f94d3,",
+      "badge.danger.text-color": "S:1f39ef69609a7b3eba281fde5254e1fa54e3070a,",
+      "badge.danger.icon-color": "S:73e56e43800074d23b635a38df141cfd4e9bc666,",
+      "badge.info.border-color": "S:9d6d4c862e94e5dafeeb1a2ef3737b6684dd5a7e,",
+      "badge.info.bg-color": "S:71cb1480b3714359a498c7473569c0ae36aed0ac,",
+      "badge.info.text-color": "S:899e30214e952a3a539af05412fc4f8f300d717e,",
+      "badge.info.icon-color": "S:73d02f183aab0adcfaf212602988f620a2ebdc18,",
+      "semantic.color.status.warning.border-color": "S:61dd41ee262fe0821251237fb13a2d794668dbb0,",
+      "semantic.color.status.warning.text-color": "S:91c8cc400305bb49e88ddc202d95ea29968d8375,",
+      "semantic.color.status.warning.icon-color": "S:3a4969df451025b7a90aca58b211be2ba98ca3ec,",
+      "semantic.color.status.warning.bg-color": "S:e74a68610b8186e9446c2e36ecee71626b23547c,",
+      "semantic.color.status.danger.border-color": "S:acaf132fdf0123dfbc1a84930c360d5f69dcd29c,",
+      "semantic.color.status.danger.text-color": "S:140cd3a1910f6db54678fc3d9dbe7fa636c0e9eb,",
+      "semantic.color.status.danger.icon-color": "S:58ed82c433a2c1f8d5adcd2050c94d5219d9129b,",
+      "semantic.color.status.danger.bg-color": "S:41bebea8171d7e767a5206f73c464fc2dd1a3ad1,"
     }
   }
 ]
