@@ -1250,24 +1250,6 @@
         }
       },
       "status": {
-        "info": {
-          "border-color": {
-            "value": "{semantic.info.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "bg-color": {
-            "value": "{semantic.info.default}",
-            "type": "color"
-          }
-        },
         "success": {
           "border-color": {
             "value": "{semantic.success.default}",
@@ -1283,6 +1265,60 @@
           },
           "bg-color": {
             "value": "{semantic.success.default}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "border-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "border-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "border-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.info.default}",
             "type": "color"
           }
         }
