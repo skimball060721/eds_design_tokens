@@ -1166,5 +1166,34 @@
       "btn.danger.disabled.quiet.border-color": "S:64fc56e8893ec24f7794bece21daf8bb43126759,",
       "btn.danger.disabled.quiet.icon-color": "S:7c4b32ab37c9808511b32ffa87d4ad73edf45ed6,"
     }
+  },
+  {
+    "id": "09112e3effdb4ca6cea0312168199c68c2b64c82",
+    "name": "Triple-S - Light",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/size": "source",
+      "core/space": "source",
+      "core/border": "source",
+      "core/typography": "source",
+      "comp/ui-card": "enabled",
+      "comp/button": "enabled",
+      "semantic": "enabled",
+      "breakpoints/xs": "disabled",
+      "breakpoints/sm": "disabled",
+      "breakpoints/md": "disabled",
+      "breakpoints/lg": "disabled",
+      "breakpoints/xl": "disabled",
+      "breakpoints/xxl": "disabled",
+      "darwin/light": "disabled",
+      "darwin/dark": "disabled",
+      "hd/triple-s/light": "enabled",
+      "hd/triple-s/dark": "disabled",
+      "hd/alivia/light": "disabled",
+      "hd/alivia/dark": "disabled",
+      "system_utils": "disabled",
+      "comp/icon-button": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

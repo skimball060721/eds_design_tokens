@@ -1,1 +1,10 @@
-{}
+{
+  "semantic": {
+    "font-family": {
+      "actions": {
+        "value": "{font-family.heebo}",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}
