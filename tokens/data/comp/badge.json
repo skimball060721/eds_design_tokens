@@ -32,24 +32,6 @@
       "value": "{semantic.spacing.status.itemSpacing}",
       "type": "spacing"
     },
-    "info": {
-      "border-color": {
-        "value": "{semantic.color.status.info.border-color}",
-        "type": "color"
-      },
-      "bg-color": {
-        "value": "{semantic.color.status.info.bg-color}",
-        "type": "color"
-      },
-      "text-color": {
-        "value": "{semantic.color.status.info.text-color}",
-        "type": "color"
-      },
-      "icon-color": {
-        "value": "{semantic.color.status.info.icon-color}",
-        "type": "color"
-      }
-    },
     "success": {
       "border-color": {
         "value": "{semantic.color.status.success.border-color}",
@@ -65,6 +47,60 @@
       },
       "icon-color": {
         "value": "{semantic.color.status.success.icon-color}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "border-color": {
+        "value": "{semantic.color.status.warning.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.warning.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.warning.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.warning.icon-color}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "border-color": {
+        "value": "{semantic.color.status.danger.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.danger.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.danger.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.danger.icon-color}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "border-color": {
+        "value": "{semantic.color.status.info.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.info.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.info.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.info.icon-color}",
         "type": "color"
       }
     }
