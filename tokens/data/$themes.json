@@ -1195,5 +1195,34 @@
       "comp/icon-button": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7a710571653dfdca45814f8fe98bcb79d1899973",
+    "name": "Alivia - Light",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/size": "source",
+      "core/space": "source",
+      "core/border": "source",
+      "core/typography": "source",
+      "comp/ui-card": "enabled",
+      "comp/button": "enabled",
+      "semantic": "enabled",
+      "breakpoints/xs": "disabled",
+      "breakpoints/sm": "disabled",
+      "breakpoints/md": "disabled",
+      "breakpoints/lg": "disabled",
+      "breakpoints/xl": "disabled",
+      "breakpoints/xxl": "disabled",
+      "darwin/light": "disabled",
+      "darwin/dark": "disabled",
+      "hd/triple-s/light": "disabled",
+      "hd/triple-s/dark": "disabled",
+      "hd/alivia/light": "enabled",
+      "hd/alivia/dark": "disabled",
+      "system_utils": "disabled",
+      "comp/icon-button": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
