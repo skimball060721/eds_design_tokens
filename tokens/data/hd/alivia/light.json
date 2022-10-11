@@ -1,1 +1,32 @@
-{}
+{
+  "semantic": {
+    "primary": {
+      "default": {
+        "value": "{color.alivia.magenta.400}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.alivia.magenta.500}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.alivia.magenta.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.alivia.magenta.200}",
+        "type": "color"
+      },
+      "weak": {
+        "value": "rgba({color.alivia.magenta.400}, 0.15)",
+        "type": "color"
+      }
+    },
+    "font-family": {
+      "actions": {
+        "value": "{font-family.heebo}",
+        "type": "fontFamilies"
+      }
+    }
+  }
+}
