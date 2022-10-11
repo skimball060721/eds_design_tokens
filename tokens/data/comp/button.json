@@ -612,14 +612,6 @@
         "type": "sizing"
       }
     },
-    "font-family": {
-      "value": "{semantic.font-family.actions}",
-      "type": "fontFamilies"
-    },
-    "font-weight": {
-      "value": "{semantic.font-weight.actions}",
-      "type": "fontWeights"
-    },
     "height": {
       "sm": {
         "value": "{semantic.sizing.actions.sm}",

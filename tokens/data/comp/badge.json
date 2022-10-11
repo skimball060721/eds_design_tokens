@@ -103,6 +103,27 @@
         "value": "{semantic.color.status.info.icon-color}",
         "type": "color"
       }
+    },
+    "border-radius": {
+      "value": "{semantic.status.border-radius}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.status.border-width}",
+      "type": "borderWidth"
+    },
+    "default": {
+      "value": {
+        "height": "{badge.height}",
+        "paddingTop": "{badge.padding-top}",
+        "paddingRight": "{badge.padding-right}",
+        "paddingBottom": "{badge.padding-bottom}",
+        "paddingLeft": "{badge.padding-left}",
+        "itemSpacing": "{badge.itemSpacing}",
+        "borderRadius": "{badge.border-radius}",
+        "borderWidth": "{badge.border-width}"
+      },
+      "type": "composition"
     }
   }
 }
