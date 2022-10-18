@@ -1360,6 +1360,16 @@
         "type": "borderWidth"
       }
     },
+    "feedback": {
+      "border-radius": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      }
+    },
     "status": {
       "border-width": {
         "value": "{border-width.2}",
@@ -1451,70 +1461,24 @@
       },
       "feedback": {
         "padding-top": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
+          "value": "{space.100}",
+          "type": "spacing"
         },
         "padding-right": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
+          "value": "{space.200}",
+          "type": "spacing"
         },
         "padding-bottom": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
+          "value": "{space.100}",
+          "type": "spacing"
         },
         "padding-left": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
+          "value": "{space.200}",
+          "type": "spacing"
         },
         "itemSpacing": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.50}",
-            "type": "spacing"
-          }
+          "value": "{space.200}",
+          "type": "spacing"
         }
       },
       "ui": {
