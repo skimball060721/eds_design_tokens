@@ -1,5 +1,77 @@
 {
   "alert": {
+    "success": {
+      "border-color": {
+        "value": "{semantic.color.feedback.success.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.feedback.success.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.success.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.success.icon-color}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "border-color": {
+        "value": "{semantic.color.feedback.warning.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.feedback.warning.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.warning.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.warning.icon-color}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "border-color": {
+        "value": "{semantic.color.feedback.danger.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.feedback.danger.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.danger.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.danger.icon-color}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "border-color": {
+        "value": "{semantic.color.feedback.info.border-color}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.feedback.info.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.info.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.info.icon-color}",
+        "type": "color"
+      }
+    },
     "height": {
       "sm": {
         "value": "{semantic.sizing.alerts.sm}",
@@ -30,6 +102,14 @@
       "value": "{semantic.spacing.feedback.itemSpacing}",
       "type": "spacing"
     },
+    "border-radius": {
+      "value": "{semantic.feedback.border-radius}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.feedback.border-width}",
+      "type": "borderWidth"
+    },
     "sm": {
       "value": {
         "height": "{alert.height.sm}",
@@ -53,14 +133,6 @@
         "borderWidth": "{alert.border-width}"
       },
       "type": "composition"
-    },
-    "border-radius": {
-      "value": "{semantic.feedback.border-radius}",
-      "type": "borderRadius"
-    },
-    "border-width": {
-      "value": "{semantic.feedback.border-width}",
-      "type": "borderWidth"
     }
   }
 }
