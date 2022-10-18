@@ -6,7 +6,7 @@
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.feedback.success.bg-color}",
+        "value": "#DEEDDD",
         "type": "color"
       },
       "text-color": {
@@ -24,7 +24,7 @@
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.feedback.warning.bg-color}",
+        "value": "#FFF7E5",
         "type": "color"
       },
       "text-color": {
@@ -42,7 +42,7 @@
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.feedback.danger.bg-color}",
+        "value": "#FBDFDC",
         "type": "color"
       },
       "text-color": {
@@ -60,7 +60,7 @@
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.feedback.info.bg-color}",
+        "value": "#E0E7FF",
         "type": "color"
       },
       "text-color": {
@@ -118,7 +118,8 @@
         "paddingBottom": "{alert.padding-bottom}",
         "paddingLeft": "{alert.padding-left}",
         "borderRadius": "{alert.border-radius}",
-        "borderWidth": "{alert.border-width}"
+        "borderWidth": "{alert.border-width}",
+        "itemSpacing": "{alert.itemSpacing}"
       },
       "type": "composition"
     },
@@ -130,7 +131,8 @@
         "paddingBottom": "{alert.padding-bottom}",
         "paddingLeft": "{alert.padding-left}",
         "borderRadius": "{alert.border-radius}",
-        "borderWidth": "{alert.border-width}"
+        "borderWidth": "{alert.border-width}",
+        "itemSpacing": "{alert.itemSpacing}"
       },
       "type": "composition"
     }
