@@ -25,7 +25,8 @@
       "hd/alivia/dark": "disabled",
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
-      "comp/badge": "disabled"
+      "comp/badge": "disabled",
+      "comp/alert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,7 +56,8 @@
       "hd/alivia/dark": "disabled",
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
-      "comp/badge": "disabled"
+      "comp/badge": "disabled",
+      "comp/alert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -85,7 +87,8 @@
       "comp/ui-card": "enabled",
       "comp/button": "enabled",
       "comp/icon-button": "enabled",
-      "comp/badge": "enabled"
+      "comp/badge": "enabled",
+      "comp/alert": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:a49156011dfbc5ce9393879c4d8f254658b0dca5,",
@@ -694,7 +697,8 @@
       "hd/alivia/dark": "disabled",
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
-      "comp/badge": "enabled"
+      "comp/badge": "enabled",
+      "comp/alert": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:425c7a70d67cf1221e6e269a5e8273baf358f9c5,",
