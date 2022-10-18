@@ -1,1 +1,14 @@
-{}
+{
+  "alert": {
+    "height": {
+      "sm": {
+        "value": "{semantic.sizing.alerts.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.sizing.alerts.md}",
+        "type": "sizing"
+      }
+    }
+  }
+}

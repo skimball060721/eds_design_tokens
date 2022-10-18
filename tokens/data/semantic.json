@@ -1534,6 +1534,16 @@
       "status": {
         "value": "{semantic.component.xxs}",
         "type": "sizing"
+      },
+      "alerts": {
+        "sm": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.xl}",
+          "type": "sizing"
+        }
       }
     },
     "font-family": {
