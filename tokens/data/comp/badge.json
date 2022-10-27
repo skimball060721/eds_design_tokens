@@ -120,6 +120,10 @@
         "borderWidth": "{badge.border-width}"
       },
       "type": "composition"
+    },
+    "text-content": {
+      "value": "{semantic.utility.badge.default}",
+      "type": "typography"
     }
   }
 }
