@@ -14,53 +14,17 @@
       "value": "{semantic.color.typography.prominentText}",
       "type": "color"
     },
-    "padding-top": {
-      "xs": {
-        "value": "{space.0}",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{space.25}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "3",
-        "type": "spacing"
-      }
-    },
-    "padding-bottom": {
-      "xs": {
-        "value": "{space.0}",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{space.25}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "3",
-        "type": "spacing"
-      }
-    },
     "xxl": {
       "value": {
-        "paddingTop": "{headline.padding-top.xs}",
-        "paddingBottom": "{headline.padding-bottom.xs}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
       },
       "type": "composition"
     },
     "xxxl": {
       "value": {
-        "paddingTop": "{headline.padding-top.md}",
-        "paddingBottom": "{headline.padding-bottom.md}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
       },
       "type": "composition"
     }
