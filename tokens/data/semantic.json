@@ -1540,6 +1540,44 @@
           "value": "{space.50}",
           "type": "spacing"
         }
+      },
+      "typography": {
+        "padding-top": {
+          "xs": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "1",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "3",
+            "type": "spacing"
+          }
+        },
+        "padding-bottom": {
+          "xs": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "1",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "3",
+            "type": "spacing"
+          }
+        }
       }
     },
     "sizing": {
