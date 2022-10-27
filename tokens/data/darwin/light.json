@@ -167,5 +167,11 @@
         }
       }
     }
+  },
+  "standard": {
+    "headline1": {
+      "value": "{semantic.standard.headline1}",
+      "type": "typography"
+    }
   }
 }
