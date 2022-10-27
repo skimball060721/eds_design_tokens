@@ -24,10 +24,17 @@
         "type": "color"
       }
     },
-    "lg": {
+    "xs": {
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
       },
       "type": "composition"
     },
@@ -35,6 +42,13 @@
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
       },
       "type": "composition"
     }
