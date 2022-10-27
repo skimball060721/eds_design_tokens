@@ -15,36 +15,52 @@
       "type": "color"
     },
     "padding-top": {
-      "xxl": {
+      "xs": {
         "value": "{space.0}",
         "type": "spacing"
       },
-      "xxxl": {
+      "sm": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "md": {
         "value": "{space.25}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "3",
         "type": "spacing"
       }
     },
     "padding-bottom": {
-      "xxl": {
+      "xs": {
         "value": "{space.0}",
         "type": "spacing"
       },
-      "xxxl": {
+      "sm": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "md": {
         "value": "{space.25}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "3",
         "type": "spacing"
       }
     },
     "xxl": {
       "value": {
-        "paddingTop": "{headline.padding-top.xxl}",
-        "paddingBottom": "{headline.padding-bottom.xxl}"
+        "paddingTop": "{headline.padding-top.xs}",
+        "paddingBottom": "{headline.padding-bottom.xs}"
       },
       "type": "composition"
     },
     "xxxl": {
       "value": {
-        "paddingTop": "{headline.padding-top.xxxl}",
-        "paddingBottom": "{headline.padding-bottom.xxxl}"
+        "paddingTop": "{headline.padding-top.md}",
+        "paddingBottom": "{headline.padding-bottom.md}"
       },
       "type": "composition"
     }
