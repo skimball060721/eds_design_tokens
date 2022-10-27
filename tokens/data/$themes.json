@@ -1395,7 +1395,13 @@
       "btn.text-content.sm": "S:22eb8a0a6ad3967feb32cbca30863c7679a6efb3,",
       "btn.text-content.md": "S:f7f4293f001d3be8deed7442475d5516da7d716e,",
       "btn.text-content.lg": "S:3e5b8f68617913d2dafecc45947b5c046516065c,",
-      "badge.text-content": "S:03bb1ac51de2b528641d991d6c0f065494787243,"
+      "badge.text-content": "S:03bb1ac51de2b528641d991d6c0f065494787243,",
+      "heading.text-content.xs": "S:9a608f8622fdf9577e748e34e3f8f4519fe7095f,",
+      "heading.text-content.sm": "S:f32ae020b42205f9a9995a64550b00abc0ee4f26,",
+      "heading.text-content.md": "S:396003deae354ca153ef57504c139d66cbe7b8a2,",
+      "heading.text-content.lg": "S:29116cd64814e457a97c944e9526e6fe2d3051fe,",
+      "headline.text-content.xxl": "S:363f00d123501564b00399e39db09eda3cff928a,",
+      "headline.text-content.xxxl": "S:57243a469f475bb711cb47c33cd96e84d2567f22,"
     }
   }
 ]
