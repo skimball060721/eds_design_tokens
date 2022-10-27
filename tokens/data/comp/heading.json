@@ -1,1 +1,22 @@
-{}
+{
+  "heading": {
+    "text-content": {
+      "xs": {
+        "value": "{semantic.standard.heading4}",
+        "type": "typography"
+      },
+      "sm": {
+        "value": "{semantic.standard.heading3}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{semantic.standard.heading2}",
+        "type": "typography"
+      },
+      "lg": {
+        "value": "{semantic.standard.heading1}",
+        "type": "typography"
+      }
+    }
+  }
+}
