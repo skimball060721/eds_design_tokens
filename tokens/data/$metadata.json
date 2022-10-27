@@ -5,9 +5,12 @@
     "core/space",
     "core/border",
     "core/typography",
+    "semantic",
     "comp/ui-card",
     "comp/button",
-    "semantic",
+    "comp/icon-button",
+    "comp/badge",
+    "comp/alert",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
@@ -20,9 +23,6 @@
     "hd/triple-s/dark",
     "hd/alivia/light",
     "hd/alivia/dark",
-    "system_utils",
-    "comp/icon-button",
-    "comp/badge",
-    "comp/alert"
+    "system_utils"
   ]
 }

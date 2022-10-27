@@ -66,23 +66,6 @@
         "type": "other"
       }
     },
-    "utility": {
-      "button": {
-        "default": {
-          "value": {
-            "fontSize": "{font-size.3}",
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.2}",
-            "letterSpacing": "{semantic.letter-spacing.actions.none}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textDecoration": "none",
-            "textCase": "{semantic.text-case.actions}"
-          },
-          "type": "typography"
-        }
-      }
-    },
     "font-size": {
       "actions": {
         "md": {
@@ -172,6 +155,22 @@
     "headline1": {
       "value": "{semantic.standard.headline1}",
       "type": "typography"
+    }
+  },
+  "utility": {
+    "button": {
+      "sm": {
+        "value": "{semantic.utility.button.sm}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{semantic.utility.button.md}",
+        "type": "typography"
+      },
+      "lg": {
+        "value": "{semantic.utility.button.lg}",
+        "type": "typography"
+      }
     }
   }
 }
