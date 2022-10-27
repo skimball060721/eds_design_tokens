@@ -1383,7 +1383,10 @@
       "semantic.utility.overlay.subheading3": "S:0e94ca8ded24a6f59b43393a0f759f6621dcfb08,",
       "semantic.utility.overlay.subheading4": "S:0cce95dfb9fd95575859605dc8f34dc3242f6d23,",
       "semantic.utility.overlay.subheading5": "S:48a08b3bbc25f3bff85d3e492a3e55d455f9a9e6,",
-      "semantic.utility.overlay.body": "S:90327f6584137ba245dbacee7de7cb04798834fd,"
+      "semantic.utility.overlay.body": "S:90327f6584137ba245dbacee7de7cb04798834fd,",
+      "btn.text-content.sm": "S:22eb8a0a6ad3967feb32cbca30863c7679a6efb3,",
+      "btn.text-content.md": "S:f7f4293f001d3be8deed7442475d5516da7d716e,",
+      "btn.text-content.lg": "S:3e5b8f68617913d2dafecc45947b5c046516065c,"
     }
   }
 ]
