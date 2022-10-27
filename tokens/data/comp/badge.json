@@ -1,11 +1,7 @@
 {
   "badge": {
-    "font-size": {
-      "value": "{semantic.font-size.status}",
-      "type": "fontSizes"
-    },
     "icon-size": {
-      "value": "{badge.font-size}",
+      "value": "{semantic.font-size.status}",
       "type": "sizing"
     },
     "height": {
