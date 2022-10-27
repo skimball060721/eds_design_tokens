@@ -1,1 +1,12 @@
-{}
+{
+  "headline": {
+    "xxl": {
+      "value": "{semantic.standard.headline2}",
+      "type": "typography"
+    },
+    "xxxl": {
+      "value": "{semantic.standard.headline1}",
+      "type": "typography"
+    }
+  }
+}
