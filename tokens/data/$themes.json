@@ -738,7 +738,17 @@
       "semantic.utility.overlay.subheading3": "S:141ec3043bc8da0c925eed5432a3887dd734ae39,",
       "semantic.utility.overlay.subheading4": "S:289ea34c0bf59e7591f28fa7bf5ab422aea1ee17,",
       "semantic.utility.overlay.subheading5": "S:100e9906bb1246aee07dfe1d6d6b744f56dbd088,",
-      "semantic.utility.overlay.body": "S:d0a6273232be9dfbcec8062b6bf219b06edba55f,"
+      "semantic.utility.overlay.body": "S:d0a6273232be9dfbcec8062b6bf219b06edba55f,",
+      "heading.text-content.xs": "S:f1ee48c984e6b4053f13bc4e04edc0d718fdce12,",
+      "heading.text-content.sm": "S:6a9da76ff3da802a99e8342fbfc8f88c1c027f6e,",
+      "heading.text-content.md": "S:16820b2d844004746fdc2171e33bfbcff362a4ff,",
+      "heading.text-content.lg": "S:b9df138d3eb1a6e84c4ac6f5880d164cb2558fa9,",
+      "headline.text-content.xxl": "S:c81ef3f1b90b552770993820e9a305125022e30d,",
+      "headline.text-content.xxxl": "S:9e4a870ba50c79e2ff2657cc0ef6a71eb0a1eef2,",
+      "badge.text-content": "S:0988497a1701ff5a34a58594c1fd4c0c4856e2f6,",
+      "btn.text-content.sm": "S:611b6617b87f40ad19808f1f6dfb69b12fbcab25,",
+      "btn.text-content.md": "S:ecf60c72c613dd42f0077f3faac57122a7d220d3,",
+      "btn.text-content.lg": "S:03813d8323a37b4efa6c48f927f4b5f55f1d1a1b,"
     }
   },
   {
