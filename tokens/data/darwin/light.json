@@ -150,27 +150,5 @@
         }
       }
     }
-  },
-  "standard": {
-    "headline1": {
-      "value": "{semantic.standard.headline1}",
-      "type": "typography"
-    }
-  },
-  "utility": {
-    "button": {
-      "sm": {
-        "value": "{semantic.utility.button.sm}",
-        "type": "typography"
-      },
-      "md": {
-        "value": "{semantic.utility.button.md}",
-        "type": "typography"
-      },
-      "lg": {
-        "value": "{semantic.utility.button.lg}",
-        "type": "typography"
-      }
-    }
   }
 }
