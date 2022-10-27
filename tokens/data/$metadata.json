@@ -12,6 +12,7 @@
     "comp/badge",
     "comp/alert",
     "comp/headline",
+    "comp/heading",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",

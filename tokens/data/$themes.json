@@ -27,7 +27,8 @@
       "comp/icon-button": "enabled",
       "comp/badge": "disabled",
       "comp/alert": "disabled",
-      "comp/headline": "disabled"
+      "comp/headline": "disabled",
+      "comp/heading": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +60,8 @@
       "comp/icon-button": "enabled",
       "comp/badge": "disabled",
       "comp/alert": "disabled",
-      "comp/headline": "disabled"
+      "comp/headline": "disabled",
+      "comp/heading": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -91,7 +93,8 @@
       "comp/icon-button": "enabled",
       "comp/badge": "enabled",
       "comp/alert": "enabled",
-      "comp/headline": "enabled"
+      "comp/headline": "enabled",
+      "comp/heading": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:425c7a70d67cf1221e6e269a5e8273baf358f9c5,",
@@ -747,7 +750,8 @@
       "comp/icon-button": "enabled",
       "comp/badge": "enabled",
       "comp/alert": "enabled",
-      "comp/headline": "enabled"
+      "comp/headline": "enabled",
+      "comp/heading": "enabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:a49156011dfbc5ce9393879c4d8f254658b0dca5,",
