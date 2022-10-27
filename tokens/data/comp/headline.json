@@ -11,8 +11,10 @@
       }
     },
     "default": {
-      "value": "{semantic.color.typography.prominentText}",
-      "type": "color"
+      "text-color": {
+        "value": "{semantic.color.typography.prominentText}",
+        "type": "color"
+      }
     },
     "xxl": {
       "value": {
