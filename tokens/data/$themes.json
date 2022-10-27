@@ -762,7 +762,7 @@
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
       "comp/badge": "enabled",
-      "comp/alert": "disabled"
+      "comp/alert": "enabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:425c7a70d67cf1221e6e269a5e8273baf358f9c5,",
