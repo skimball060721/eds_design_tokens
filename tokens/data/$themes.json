@@ -26,7 +26,8 @@
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
       "comp/badge": "disabled",
-      "comp/alert": "disabled"
+      "comp/alert": "disabled",
+      "comp/headline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -57,7 +58,8 @@
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
       "comp/badge": "disabled",
-      "comp/alert": "disabled"
+      "comp/alert": "disabled",
+      "comp/headline": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -88,7 +90,8 @@
       "comp/button": "enabled",
       "comp/icon-button": "enabled",
       "comp/badge": "enabled",
-      "comp/alert": "enabled"
+      "comp/alert": "enabled",
+      "comp/headline": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:a49156011dfbc5ce9393879c4d8f254658b0dca5,",
@@ -762,7 +765,8 @@
       "system_utils": "disabled",
       "comp/icon-button": "enabled",
       "comp/badge": "enabled",
-      "comp/alert": "enabled"
+      "comp/alert": "enabled",
+      "comp/headline": "enabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:425c7a70d67cf1221e6e269a5e8273baf358f9c5,",
