@@ -584,31 +584,17 @@
         }
       }
     },
-    "font-size": {
+    "icon-size": {
       "sm": {
         "value": "{semantic.font-size.actions.sm}",
-        "type": "fontSizes"
+        "type": "sizing"
       },
       "md": {
         "value": "{semantic.font-size.actions.md}",
-        "type": "fontSizes"
+        "type": "sizing"
       },
       "lg": {
         "value": "{semantic.font-size.actions.lg}",
-        "type": "fontSizes"
-      }
-    },
-    "icon-size": {
-      "sm": {
-        "value": "{btn.font-size.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{btn.font-size.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{btn.font-size.lg}",
         "type": "sizing"
       }
     },
@@ -739,6 +725,20 @@
         "borderWidth": "{btn.border-width}"
       },
       "type": "composition"
+    },
+    "text-content": {
+      "sm": {
+        "value": "{semantic.utility.button.sm}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{semantic.utility.button.md}",
+        "type": "typography"
+      },
+      "lg": {
+        "value": "{semantic.utility.button.lg}",
+        "type": "typography"
+      }
     }
   }
 }
