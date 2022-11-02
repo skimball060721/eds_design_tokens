@@ -694,8 +694,6 @@
       "semantic.standard.title3": "S:f48cf99ee44ce4e1d86b0b230ee6ec931f9d8ccd,",
       "semantic.standard.body": "S:9a1d245dec677afeaa1b081dce7350a8a778bb73,",
       "semantic.standard.caption": "S:43ce1b2856c19b991b0a7507d15181c1cc175021,",
-      "semantic.utility.input.label": "S:b7700a74b30f27520f25e24bffb227223b52738e,",
-      "semantic.utility.input.content": "S:9a252b1e51c5b834e7c7a153b32227fad7171b64,",
       "semantic.utility.input.description": "S:9f4fe511fa27285dbafdfa7b712330f865c70ea7,",
       "semantic.utility.input.feedback": "S:1a63d77f2e0dc852f95e1bf6344f1b765ff2870a,",
       "semantic.utility.badge.default": "S:b317b5e6f2d537317e2eff3da3b44773476fcac2,",
@@ -746,7 +744,9 @@
       "alert.info.border-color": "S:c76e4e3ea4bde5e0bf9e9ef622cbef07f18f5bac,",
       "alert.info.bg-color": "S:876448a19d58f0a18b67d6d4358a0cb76f8beb3b,",
       "alert.info.text-color": "S:94ea752b95b797fbc0b2a20d968147eef503a85a,",
-      "alert.info.icon-color": "S:7c9a4ec422d77a9e6f671ba6b187240d0114d35c,"
+      "alert.info.icon-color": "S:7c9a4ec422d77a9e6f671ba6b187240d0114d35c,",
+      "semantic.utility.input.label.sm": "S:b7700a74b30f27520f25e24bffb227223b52738e,",
+      "semantic.utility.input.content.sm": "S:9a252b1e51c5b834e7c7a153b32227fad7171b64,"
     }
   },
   {
@@ -1399,10 +1399,6 @@
       "semantic.standard.title3": "S:1b64c401cf9b2a96e4093d9b7c0045dd2637aa52,",
       "semantic.standard.body": "S:002220d8aa8f26d5818fa37c4562cc736c3bd7d8,",
       "semantic.standard.caption": "S:cba38094979da1edc9132cd0913474bdb8336ceb,",
-      "semantic.utility.input.label": "S:53854cb5e7ac136ac53985ccdb45b0de8df4dc7c,",
-      "semantic.utility.input.content": "S:943a6025bf553752fa0eb52291ea8f3ea258a232,",
-      "semantic.utility.input.description": "S:d2972d3f6a0364e17d594a0aebf5131a789196ce,",
-      "semantic.utility.input.feedback": "S:fe88c1ea668a87c01f4c8b102e977fde5dd62b05,",
       "semantic.utility.badge.default": "S:ade3ce1bb65c15e1e5bea891d863eb69f8d20055,",
       "semantic.utility.button.sm": "S:c7dc83080daff47cb4e21298a4c9f5af71e666bf,",
       "semantic.utility.button.md": "S:6f7d48c4ec578d0bc239986b1cf4bbfa54208c37,",
@@ -1435,7 +1431,9 @@
       "btn.text-content.md": "S:ecf60c72c613dd42f0077f3faac57122a7d220d3,",
       "btn.text-content.lg": "S:03813d8323a37b4efa6c48f927f4b5f55f1d1a1b,",
       "heading.default.text-color": "S:0d9dc9392561d1a653738e23cd476999639aa33a,",
-      "headline.default.text-color": "S:0ba72868bbebd952b430ac164e4cf6faff2ae418,"
+      "headline.default.text-color": "S:0ba72868bbebd952b430ac164e4cf6faff2ae418,",
+      "semantic.utility.input.label.sm": "S:53854cb5e7ac136ac53985ccdb45b0de8df4dc7c,",
+      "semantic.utility.input.content.sm": "S:943a6025bf553752fa0eb52291ea8f3ea258a232,"
     }
   }
 ]

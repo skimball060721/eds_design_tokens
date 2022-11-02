@@ -1738,11 +1738,11 @@
         }
       },
       "inputs": {
-        "1": {
+        "regular": {
           "value": "{font-weight.regular}",
           "type": "fontWeights"
         },
-        "2": {
+        "bold": {
           "value": "{font-weight.bold}",
           "type": "fontWeights"
         }
@@ -1835,7 +1835,7 @@
       },
       "inputs": {
         "sm": {
-          "value": "{semantic.font-size.actions.md} / {semantic.font-size.scale}",
+          "value": "{semantic.font-size.inputs.md} / {semantic.font-size.scale}",
           "type": "fontSizes"
         },
         "md": {
@@ -1843,7 +1843,7 @@
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}",
+          "value": "{semantic.font-size.inputs.md} * {semantic.font-size.scale}",
           "type": "fontSizes"
         }
       },
@@ -1920,8 +1920,18 @@
         }
       },
       "inputs": {
-        "value": "{line-height.250}",
-        "type": "lineHeights"
+        "1": {
+          "value": "{line-height.200}",
+          "type": "lineHeights"
+        },
+        "2": {
+          "value": "{line-height.300}",
+          "type": "lineHeights"
+        },
+        "3": {
+          "value": "{line-height.350}",
+          "type": "lineHeights"
+        }
       },
       "actions": {
         "1": {
@@ -2168,7 +2178,7 @@
           "lineHeight": "{semantic.line-height.typography.body.2}",
           "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{paragraphSpacing.3}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.body}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.body}"
         },
@@ -2193,60 +2203,127 @@
     "utility": {
       "input": {
         "label": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.2}",
-            "lineHeight": "{semantic.line-height.inputs}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
+          "sm": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.bold}",
+              "lineHeight": "{semantic.line-height.inputs.1}",
+              "fontSize": "{semantic.font-size.inputs.sm} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
           },
-          "type": "typography",
-          "description": "Description of use cases for utility.input.label"
+          "md": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.bold}",
+              "lineHeight": "{semantic.line-height.inputs.2}",
+              "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
+          },
+          "lg": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.bold}",
+              "lineHeight": "{semantic.line-height.inputs.3}",
+              "fontSize": "{semantic.font-size.inputs.lg} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
+          }
         },
         "content": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.1}",
-            "lineHeight": "{semantic.line-height.inputs}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
+          "sm": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.1}",
+              "fontSize": "{semantic.font-size.inputs.sm} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
           },
-          "type": "typography",
-          "description": "Description of use cases for utility.input.content"
+          "md": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.2}",
+              "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
+          },
+          "lg": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.3}",
+              "fontSize": "{semantic.font-size.inputs.lg} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
+          }
         },
         "description": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.1}",
-            "lineHeight": "{semantic.line-height.inputs}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
+          "sm": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.1}",
+              "fontSize": "{semantic.font-size.inputs.sm} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
           },
-          "type": "typography",
-          "description": "Description of use cases for utility.input.description"
-        },
-        "feedback": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.1}",
-            "lineHeight": "{semantic.line-height.inputs}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.body}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
+          "md": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.2}",
+              "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
           },
-          "type": "typography",
-          "description": "Description of use cases for utility.input.feedback"
+          "lg": {
+            "value": {
+              "fontFamily": "{semantic.font-family.inputs}",
+              "fontWeight": "{semantic.font-weight.inputs.regular}",
+              "lineHeight": "{semantic.line-height.inputs.3}",
+              "fontSize": "{semantic.font-size.inputs.lg} * {semantic.font-nRatio.inputs}",
+              "letterSpacing": "0%",
+              "paragraphSpacing": "0",
+              "textDecoration": "none",
+              "textCase": "none"
+            },
+            "type": "typography"
+          }
         }
       },
       "badge": {
@@ -2568,6 +2645,12 @@
       "status": {
         "value": "{letter-spacing.0}",
         "type": "letterSpacing"
+      }
+    },
+    "paragraph-spacing": {
+      "body": {
+        "value": "{paragraphSpacing.3}",
+        "type": "paragraphSpacing"
       }
     }
   }
