@@ -13,6 +13,7 @@
     "comp/alert",
     "comp/headline",
     "comp/heading",
+    "comp/input",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
