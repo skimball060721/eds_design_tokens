@@ -1378,6 +1378,22 @@
         "type": "borderWidth"
       }
     },
+    "inputs": {
+      "border-radius": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "sm": {
+          "value": "{border-width.1}",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "{border-width.2}",
+          "type": "borderWidth"
+        }
+      }
+    },
     "feedback": {
       "border-radius": {
         "value": "{border-radius.4}",
@@ -1803,11 +1819,21 @@
           }
         }
       },
-      "inputs": {
-        "value": "{semantic.font-size.base}",
-        "type": "fontSizes"
-      },
       "actions": {
+        "sm": {
+          "value": "{semantic.font-size.actions.md} / {semantic.font-size.scale}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{semantic.font-size.base}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}",
+          "type": "fontSizes"
+        }
+      },
+      "inputs": {
         "sm": {
           "value": "{semantic.font-size.actions.md} / {semantic.font-size.scale}",
           "type": "fontSizes"
