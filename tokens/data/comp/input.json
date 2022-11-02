@@ -1,1 +1,42 @@
-{}
+{
+  "input": {
+    "icon-size": {
+      "sm": {
+        "value": "{semantic.font-size.inputs.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.font-size.inputs.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{semantic.font-size.inputs.lg}",
+        "type": "sizing"
+      }
+    },
+    "height": {
+      "sm": {
+        "value": "{semantic.sizing.inputs.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.sizing.inputs.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{semantic.sizing.inputs.lg}",
+        "type": "sizing"
+      }
+    },
+    "itemSpacing": {
+      "sm": {
+        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{semantic.spacing.inputs.itemSpacing.md}",
+        "type": "spacing"
+      }
+    }
+  }
+}

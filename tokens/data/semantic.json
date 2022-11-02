@@ -1600,6 +1600,10 @@
           "sm": {
             "value": "{space.50}",
             "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
           }
         }
       }
