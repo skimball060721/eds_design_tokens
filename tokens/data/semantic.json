@@ -1578,10 +1578,32 @@
             "type": "spacing"
           }
         }
+      },
+      "inputs": {
+        "itemSpacing": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "sizing": {
       "actions": {
+        "sm": {
+          "value": "{semantic.component.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.component.lg}",
+          "type": "sizing"
+        }
+      },
+      "inputs": {
         "sm": {
           "value": "{semantic.component.sm}",
           "type": "sizing"
