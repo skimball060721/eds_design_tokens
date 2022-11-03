@@ -164,8 +164,14 @@
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.neutral.default}",
-        "type": "color"
+        "default": {
+          "value": "{semantic.neutral.default}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.neutral.subtle}",
+          "type": "color"
+        }
       },
       "text-color": {
         "default": {
@@ -1396,6 +1402,10 @@
           "text-color": {
             "value": "{semantic.inputs.text-color.placeholder}",
             "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.inputs.icon-color.default}",
+            "type": "color"
           }
         },
         "filled": {
@@ -1409,6 +1419,10 @@
           },
           "text-color": {
             "value": "{semantic.inputs.text-color.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.inputs.icon-color.default}",
             "type": "color"
           }
         },
@@ -1424,9 +1438,17 @@
           "text-color": {
             "value": "{semantic.inputs.text-color.default}",
             "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.inputs.icon-color.default}",
+            "type": "color"
           }
         },
         "disabled": {
+          "icon-color": {
+            "value": "{semantic.inputs.icon-color.disabled}",
+            "type": "color"
+          },
           "bg-color": {
             "value": "{semantic.inputs.bg-color}",
             "type": "color"

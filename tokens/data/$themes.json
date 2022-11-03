@@ -1443,16 +1443,12 @@
       "input.success.border-color": "S:7df0941ca3deec64f12b6d3b7820e7d3f7a0eeaa,",
       "input.disabled.bg-color": "S:564df662c5cc6fa2db67652b8d3773c88035739a,",
       "input.disabled.text-color": "S:948d8448faf35f8b0e44218a5e7b4450b3a5ffe8,",
-      "input.disabled.border-color-copy": "S:c19967a2d3eee392cdc7bd631ed1f1f0a5d4cd38,",
       "input.active.bg-color": "S:cb71aa81f68a0e2dfa18d8913d60ad68002b661d,",
-      "input.active.text-color-copy": "S:64be5fa6dbbb95a3425bdcf9e866525a8d94f4fe,",
-      "input.active.border-color-copy": "S:9bd238c28740a5069e0e67c172935e6cf6943b48,",
       "input.filled.bg-color": "S:4b2ed2571f8bc31c66a3ecb8bf1e9c675e09361d,",
       "input.filled.text-color": "S:73663cbe9ba06d585af7bd125a8aa21c2c22ce5a,",
       "input.filled.border-color": "S:6186079b4dbd93d25bf1b383745976b2821998e3,",
       "semantic.neutral.subtle": "S:c1546442f9e7e8e9cd24f9ead433637ee531c244,",
       "semantic.inputs.bg-color": "S:305fa0343aceb94d9d7ba77cd48c75824f807da3,",
-      "semantic.inputs.icon-color": "S:f614a56b8bd4f1482068d237e900cec9c83c94fb,",
       "semantic.inputs.text-color.default": "S:1842390ea5ab0bdbcca126033c512ffb92a8c764,",
       "semantic.inputs.text-color.placeholder": "S:c0c377c474e560a8a2f7dcc5e755faa1788f14ca,",
       "semantic.inputs.text-color.disabled": "S:ec870dfd282955393a145a0d789e33d5571e8a19,",
@@ -1483,7 +1479,11 @@
       "input.text-content.description": "S:435998fa0f9e8068896ff7e50aa52ab0265ab0f7,",
       "semantic.utility.input.label": "S:d814e6799afa22585dfa58fa141e1671183cdc78,",
       "semantic.utility.input.content": "S:630a9ccba2437837b92140b3b916259483dcb4d7,",
-      "semantic.utility.input.description": "S:6c8e53e2e26daa265c9dace7659acd21731a4a2a,"
+      "semantic.utility.input.description": "S:6c8e53e2e26daa265c9dace7659acd21731a4a2a,",
+      "semantic.inputs.icon-color.default": "S:f614a56b8bd4f1482068d237e900cec9c83c94fb,",
+      "input.active.text-color": "S:64be5fa6dbbb95a3425bdcf9e866525a8d94f4fe,",
+      "input.active.border-color": "S:9bd238c28740a5069e0e67c172935e6cf6943b48,",
+      "input.disabled.border-color": "S:c19967a2d3eee392cdc7bd631ed1f1f0a5d4cd38,"
     }
   }
 ]
