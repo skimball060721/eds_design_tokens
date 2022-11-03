@@ -1976,18 +1976,8 @@
         }
       },
       "inputs": {
-        "sm": {
-          "value": "{semantic.font-size.inputs.md} / {semantic.font-size.scale}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.base}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.inputs.md} * {semantic.font-size.scale}",
-          "type": "fontSizes"
-        }
+        "value": "{semantic.font-size.base}",
+        "type": "fontSizes"
       },
       "status": {
         "value": "{semantic.font-size.base} / {semantic.font-size.scale}",
@@ -2349,7 +2339,7 @@
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.bold}",
             "lineHeight": "{semantic.line-height.inputs.2}",
-            "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -2362,7 +2352,7 @@
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.regular}",
             "lineHeight": "{semantic.line-height.inputs.2}",
-            "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -2375,7 +2365,7 @@
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.regular}",
             "lineHeight": "{semantic.line-height.inputs.2}",
-            "fontSize": "{semantic.font-size.inputs.md} * {semantic.font-nRatio.inputs}",
+            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",

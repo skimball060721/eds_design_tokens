@@ -1,18 +1,8 @@
 {
   "input": {
     "icon-size": {
-      "sm": {
-        "value": "{semantic.font-size.inputs.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{semantic.font-size.inputs.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{semantic.font-size.inputs.lg}",
-        "type": "sizing"
-      }
+      "value": "{semantic.font-size.inputs}",
+      "type": "sizing"
     },
     "height": {
       "sm": {
