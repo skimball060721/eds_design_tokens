@@ -158,6 +158,44 @@
         "type": "color"
       }
     },
+    "inputs": {
+      "bg-color": {
+        "value": "{semantic.bg.surface}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.neutral.default}",
+        "type": "color"
+      },
+      "text-color": {
+        "default": {
+          "value": "{semantic.neutral.default}",
+          "type": "color"
+        },
+        "placeholder": {
+          "value": "{semantic.neutral.muted}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.neutral.subtle}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{semantic.neutral.muted}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.neutral.default}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.neutral.subtle}",
+          "type": "color"
+        }
+      }
+    },
     "color": {
       "actions": {
         "primary": {
@@ -1341,44 +1379,6 @@
           },
           "bg-color": {
             "value": "{semantic.info.default}",
-            "type": "color"
-          }
-        }
-      },
-      "inputs": {
-        "bg-color": {
-          "value": "{semantic.bg.surface}",
-          "type": "color"
-        },
-        "icon-color": {
-          "value": "{semantic.neutral.default}",
-          "type": "color"
-        },
-        "text-color": {
-          "default": {
-            "value": "{semantic.neutral.default}",
-            "type": "color"
-          },
-          "placeholder": {
-            "value": "{semantic.neutral.muted}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.neutral.subtle}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{semantic.neutral.muted}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.neutral.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.neutral.subtle}",
             "type": "color"
           }
         }
