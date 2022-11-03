@@ -1350,21 +1350,35 @@
           "value": "{semantic.bg.surface}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.neutral.default}",
-          "type": "color"
-        },
         "icon-color": {
           "value": "{semantic.neutral.default}",
           "type": "color"
         },
-        "placeholder": {
-          "value": "{semantic.neutral.subtle}",
-          "type": "color"
+        "text-color": {
+          "default": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{semantic.neutral.muted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          }
         },
         "border": {
           "default": {
             "value": "{semantic.neutral.muted}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
             "type": "color"
           }
         }
