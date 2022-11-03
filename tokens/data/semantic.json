@@ -1439,6 +1439,34 @@
             "value": "{semantic.inputs.text-color.disabled}",
             "type": "color"
           }
+        },
+        "danger": {
+          "bg-color": {
+            "value": "{semantic.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.inputs.text-color.default}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "bg-color": {
+            "value": "{semantic.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.inputs.text-color.default}",
+            "type": "color"
+          }
         }
       }
     },
