@@ -102,7 +102,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.inputs.default.text-color}",
+        "value": "{semantic.color.inputs.danger.text-color}",
         "type": "color"
       },
       "border-color": {
