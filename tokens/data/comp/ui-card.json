@@ -1,7 +1,7 @@
 {
   "ui-card": {
     "borderRadius": {
-      "value": "{semantic.ui-card.border-radius}",
+      "value": "{semantic.border-radius.ui-card}",
       "type": "borderRadius"
     }
   }

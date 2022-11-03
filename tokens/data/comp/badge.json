@@ -101,11 +101,11 @@
       }
     },
     "border-radius": {
-      "value": "{semantic.status.border-radius}",
+      "value": "{semantic.border-radius.status}",
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.status.border-width}",
+      "value": "{semantic.border-width.status}",
       "type": "borderWidth"
     },
     "default": {

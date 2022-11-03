@@ -103,11 +103,11 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{semantic.feedback.border-radius}",
+      "value": "{semantic.border-radius.feedback}",
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.feedback.border-width}",
+      "value": "{semantic.border-width.feedback}",
       "type": "borderWidth"
     },
     "sm": {

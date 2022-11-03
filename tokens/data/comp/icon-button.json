@@ -797,11 +797,11 @@
       }
     },
     "border-radius": {
-      "value": "{semantic.actions.border-radius}",
+      "value": "{semantic.border-radius.actions}",
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.actions.border-width}",
+      "value": "{semantic.border-width.actions}",
       "type": "borderWidth"
     },
     "sm": {

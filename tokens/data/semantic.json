@@ -1396,22 +1396,42 @@
         "type": "sizing"
       }
     },
-    "actions": {
-      "border-radius": {
+    "border-radius": {
+      "actions": {
         "value": "{border-radius.4}",
         "type": "borderRadius"
       },
-      "border-width": {
-        "value": "{border-width.2}",
-        "type": "borderWidth"
+      "inputs": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "feedback": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "status": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "ui-card": {
+        "value": "{border-radius.4}",
+        "type": "borderRadius"
       }
     },
-    "inputs": {
-      "border-radius": {
-        "value": "{border-radius.4}",
-        "type": "borderRadius"
+    "border-width": {
+      "actions": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
       },
-      "border-width": {
+      "status": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
+      "feedback": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
+      "inputs": {
         "sm": {
           "value": "{border-width.1}",
           "type": "borderWidth"
@@ -1420,32 +1440,6 @@
           "value": "{border-width.2}",
           "type": "borderWidth"
         }
-      }
-    },
-    "feedback": {
-      "border-radius": {
-        "value": "{border-radius.4}",
-        "type": "borderRadius"
-      },
-      "border-width": {
-        "value": "{border-width.2}",
-        "type": "borderWidth"
-      }
-    },
-    "status": {
-      "border-width": {
-        "value": "{border-width.2}",
-        "type": "borderWidth"
-      },
-      "border-radius": {
-        "value": "{border-radius.4}",
-        "type": "borderRadius"
-      }
-    },
-    "ui-card": {
-      "border-radius": {
-        "value": "{border-radius.4}",
-        "type": "borderRadius"
       }
     },
     "spacing": {
