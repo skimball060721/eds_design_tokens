@@ -147,6 +147,22 @@
         "value": "{semantic.border-width.inputs.md}",
         "type": "borderWidth"
       }
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.inputs.padding-top}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{semantic.spacing.inputs.padding-right}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.inputs.padding-bottom}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{semantic.spacing.inputs.padding-left}",
+      "type": "spacing"
     }
   }
 }
