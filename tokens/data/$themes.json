@@ -1431,9 +1431,7 @@
       "btn.text-content.md": "S:ecf60c72c613dd42f0077f3faac57122a7d220d3,",
       "btn.text-content.lg": "S:03813d8323a37b4efa6c48f927f4b5f55f1d1a1b,",
       "heading.default.text-color": "S:0d9dc9392561d1a653738e23cd476999639aa33a,",
-      "headline.default.text-color": "S:0ba72868bbebd952b430ac164e4cf6faff2ae418,",
-      "semantic.utility.input.label.sm": "S:53854cb5e7ac136ac53985ccdb45b0de8df4dc7c,",
-      "semantic.utility.input.content.sm": "S:943a6025bf553752fa0eb52291ea8f3ea258a232,"
+      "headline.default.text-color": "S:0ba72868bbebd952b430ac164e4cf6faff2ae418,"
     }
   }
 ]

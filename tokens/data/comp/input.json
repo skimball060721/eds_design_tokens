@@ -38,20 +38,18 @@
         "type": "spacing"
       }
     },
-    "label": {
-      "text-content": {
-        "sm": {
-          "value": "{semantic.utility.input.label.sm}",
-          "type": "typography"
-        },
-        "md": {
-          "value": "{semantic.utility.input.label.md}",
-          "type": "typography"
-        },
-        "lg": {
-          "value": "{semantic.utility.input.label.lg}",
-          "type": "typography"
-        }
+    "text-content": {
+      "label": {
+        "value": "{semantic.utility.input.label}",
+        "type": "typography"
+      },
+      "content": {
+        "value": "{semantic.utility.input.content}",
+        "type": "typography"
+      },
+      "description": {
+        "value": "{semantic.utility.input.description}",
+        "type": "typography"
       }
     },
     "default": {
@@ -69,37 +67,37 @@
       },
       "sm": {
         "value": {
-          "sizing": "{input.height.sm}",
           "paddingTop": "{input.padding-top}",
           "paddingRight": "{input.padding-right}",
           "paddingBottom": "{input.padding-bottom}",
           "paddingLeft": "{input.padding-left}",
           "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.default}"
+          "borderWidth": "{input.border-width.default}",
+          "height": "{input.height.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "sizing": "{input.height.md}",
           "paddingTop": "{input.padding-top}",
           "paddingRight": "{input.padding-right}",
           "paddingBottom": "{input.padding-bottom}",
           "paddingLeft": "{input.padding-left}",
           "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.default}"
+          "borderWidth": "{input.border-width.default}",
+          "height": "{input.height.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{input.height.lg}",
           "paddingTop": "{input.padding-top}",
           "paddingRight": "{input.padding-right}",
           "paddingBottom": "{input.padding-bottom}",
           "paddingLeft": "{input.padding-left}",
           "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.default}"
+          "borderWidth": "{input.border-width.default}",
+          "height": "{input.height.lg}"
         },
         "type": "composition"
       }
@@ -159,39 +157,39 @@
         "value": "{semantic.color.inputs.active.border-color}",
         "type": "color"
       },
-      "md": {
+      "sm": {
         "value": {
-          "sizing": "{input.height.md}",
           "paddingTop": "{input.padding-top}",
           "paddingRight": "{input.padding-right}",
           "paddingBottom": "{input.padding-bottom}",
           "paddingLeft": "{input.padding-left}",
           "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.active}"
+          "borderWidth": "{input.border-width.active}",
+          "height": "{input.height.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "paddingTop": "{input.padding-top}",
+          "paddingRight": "{input.padding-right}",
+          "paddingBottom": "{input.padding-bottom}",
+          "paddingLeft": "{input.padding-left}",
+          "borderRadius": "{input.border-radius}",
+          "borderWidth": "{input.border-width.active}",
+          "height": "{input.height.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "sizing": "{input.height.lg}",
           "paddingTop": "{input.padding-top}",
           "paddingRight": "{input.padding-right}",
           "paddingBottom": "{input.padding-bottom}",
           "paddingLeft": "{input.padding-left}",
           "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.active}"
-        },
-        "type": "composition"
-      },
-      "sm": {
-        "value": {
-          "sizing": "{input.height.sm}",
-          "paddingTop": "{input.padding-top}",
-          "paddingRight": "{input.padding-right}",
-          "paddingBottom": "{input.padding-bottom}",
-          "paddingLeft": "{input.padding-left}",
-          "borderRadius": "{input.border-radius}",
-          "borderWidth": "{input.border-width.active}"
+          "borderWidth": "{input.border-width.active}",
+          "height": "{input.height.lg}"
         },
         "type": "composition"
       }
