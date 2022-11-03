@@ -137,6 +137,16 @@
         "value": "{semantic.color.inputs.filled.border-color}",
         "type": "color"
       }
+    },
+    "border-width": {
+      "default": {
+        "value": "{semantic.border-width.inputs.sm}",
+        "type": "borderWidth"
+      },
+      "active": {
+        "value": "{semantic.border-width.inputs.md}",
+        "type": "borderWidth"
+      }
     }
   }
 }
