@@ -53,6 +53,90 @@
           "type": "typography"
         }
       }
+    },
+    "default": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.default.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.default.text-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.inputs.default.border-color}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.danger.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.default.text-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.inputs.danger.border-color}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.success.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.success.text-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.inputs.success.border-color}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.disabled.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.disabled.text-color}",
+        "type": "color"
+      },
+      "border-color-copy": {
+        "value": "{semantic.color.inputs.disabled.border-color}",
+        "type": "color"
+      }
+    },
+    "active": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.active.bg-color}",
+        "type": "color"
+      },
+      "text-color-copy": {
+        "value": "{semantic.color.inputs.active.text-color}",
+        "type": "color"
+      },
+      "border-color-copy": {
+        "value": "{semantic.color.inputs.active.border-color}",
+        "type": "color"
+      }
+    },
+    "filled": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.filled.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.filled.text-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.inputs.filled.border-color}",
+        "type": "color"
+      }
     }
   }
 }
