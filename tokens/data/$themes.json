@@ -1480,10 +1480,19 @@
       "semantic.utility.input.label": "S:d814e6799afa22585dfa58fa141e1671183cdc78,",
       "semantic.utility.input.content": "S:630a9ccba2437837b92140b3b916259483dcb4d7,",
       "semantic.utility.input.description": "S:6c8e53e2e26daa265c9dace7659acd21731a4a2a,",
-      "semantic.inputs.icon-color.default": "S:f614a56b8bd4f1482068d237e900cec9c83c94fb,",
-      "input.active.text-color": "S:64be5fa6dbbb95a3425bdcf9e866525a8d94f4fe,",
-      "input.active.border-color": "S:9bd238c28740a5069e0e67c172935e6cf6943b48,",
-      "input.disabled.border-color": "S:c19967a2d3eee392cdc7bd631ed1f1f0a5d4cd38,"
+      "semantic.inputs.icon-color.default": "S:10e25e6ff2e9e7c81c1f7e29d726ac21a9218205,",
+      "input.active.text-color": "S:918484901c9d337dbb8fe10c9a9c592061ef5fc5,",
+      "input.active.border-color": "S:99294bd4852623ed1a3f6585dc51ea60b40617c4,",
+      "input.disabled.border-color": "S:2eaaf89598b1bb5f53003ac8b4dddeabe5c861fd,",
+      "input.default.icon-color": "S:5968051113530a954683799b383f97a062cd8415,",
+      "input.disabled.icon-color": "S:6f41f8f308435910bfe0454a82003aa38739e15e,",
+      "input.active.icon-color": "S:1bc68501539c08ff1236f24fce994dc017b3d378,",
+      "input.filled.icon-color": "S:3aae7f82696810267f9f15df473ff5855a5cfe7c,",
+      "semantic.inputs.icon-color.disabled": "S:9b0d73bdd19fe121829ab2258c537ee011f3eea0,",
+      "semantic.color.inputs.default.icon-color": "S:2efe141098fead179365b657ccbe00aabba091cb,",
+      "semantic.color.inputs.filled.icon-color": "S:ac626566143773012a6a52d29bc728342ae245db,",
+      "semantic.color.inputs.active.icon-color": "S:cbf454d1ec02831cfd1233c56de68d927f8bba01,",
+      "semantic.color.inputs.disabled.icon-color": "S:f7c481ed25f673dec35a431c57abdd20226b7b51,"
     }
   }
 ]
