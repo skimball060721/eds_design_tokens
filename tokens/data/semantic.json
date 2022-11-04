@@ -90,6 +90,10 @@
       "weak": {
         "value": "rgba({color.yellow.300}, 0.15)",
         "type": "color"
+      },
+      "on-warning": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
       }
     },
     "danger": {
@@ -112,6 +116,10 @@
       "weak": {
         "value": "rgba({color.red.300}, 0.15)",
         "type": "color"
+      },
+      "on-danger": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "info": {
@@ -133,6 +141,10 @@
       },
       "weak": {
         "value": "rgba({color.blue.400}, 0.15)",
+        "type": "color"
+      },
+      "on-info": {
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     },
@@ -159,6 +171,10 @@
       },
       "weak": {
         "value": "rgba({color.grey.700}, 0.15)",
+        "type": "color"
+      },
+      "on-neutral": {
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     },
@@ -507,11 +523,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "bg-color": {
@@ -543,11 +559,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "bg-color": {
@@ -579,11 +595,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "bg-color": {
@@ -615,11 +631,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.success.on-success}",
               "type": "color"
             },
             "bg-color": {
@@ -653,11 +669,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "bg-color": {
@@ -689,11 +705,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "bg-color": {
@@ -725,11 +741,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.warning.on-warning}",
               "type": "color"
             },
             "bg-color": {
@@ -799,11 +815,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "bg-color": {
@@ -835,11 +851,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "bg-color": {
@@ -871,11 +887,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "bg-color": {
@@ -907,11 +923,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             },
             "bg-color": {
@@ -945,11 +961,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "bg-color": {
@@ -981,11 +997,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "bg-color": {
@@ -1017,11 +1033,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "bg-color": {
@@ -1053,11 +1069,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.info.on-info}",
               "type": "color"
             },
             "bg-color": {
@@ -1091,11 +1107,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "bg-color": {
@@ -1127,11 +1143,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "bg-color": {
@@ -1163,11 +1179,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "bg-color": {
@@ -1199,11 +1215,11 @@
               "type": "color"
             },
             "text-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "icon-color": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.neutral.on-neutral}",
               "type": "color"
             },
             "bg-color": {
@@ -1233,11 +1249,11 @@
       },
       "feedback": {
         "success": {
-          "border-color": {
-            "value": "{semantic.success.default}",
+          "bg-color": {
+            "value": "{semantic.success.weak}",
             "type": "color"
           },
-          "text-color": {
+          "border-color": {
             "value": "{semantic.success.default}",
             "type": "color"
           },
@@ -1245,35 +1261,43 @@
             "value": "{semantic.success.default}",
             "type": "color"
           },
-          "bg-color": {
-            "value": "{semantic.success.weak}",
+          "text-color": {
+            "value": "{semantic.color.typography.coreText}",
+            "type": "color"
+          },
+          "on-success": {
+            "value": "{semantic.success.default}",
             "type": "color"
           }
         },
         "warning": {
-          "border-color": {
-            "value": "{semantic.warning.default}",
+          "bg-color": {
+            "value": "{semantic.warning.weak}",
             "type": "color"
           },
-          "text-color": {
-            "value": "{color.neutrals.black}",
+          "border-color": {
+            "value": "{semantic.warning.default}",
             "type": "color"
           },
           "icon-color": {
             "value": "{semantic.warning.default}",
             "type": "color"
           },
-          "bg-color": {
-            "value": "{semantic.warning.weak}",
+          "text-color": {
+            "value": "{semantic.color.typography.coreText}",
+            "type": "color"
+          },
+          "on-warning": {
+            "value": "{semantic.warning.default}",
             "type": "color"
           }
         },
         "danger": {
-          "border-color": {
-            "value": "{semantic.danger.default}",
+          "bg-color": {
+            "value": "{semantic.danger.weak}",
             "type": "color"
           },
-          "text-color": {
+          "border-color": {
             "value": "{semantic.danger.default}",
             "type": "color"
           },
@@ -1281,17 +1305,21 @@
             "value": "{semantic.danger.default}",
             "type": "color"
           },
-          "bg-color": {
-            "value": "{semantic.danger.weak}",
+          "text-color": {
+            "value": "{semantic.color.typography.coreText}",
+            "type": "color"
+          },
+          "on-danger": {
+            "value": "{semantic.danger.default}",
             "type": "color"
           }
         },
         "info": {
-          "border-color": {
-            "value": "{semantic.info.default}",
+          "bg-color": {
+            "value": "{semantic.info.weak}",
             "type": "color"
           },
-          "text-color": {
+          "border-color": {
             "value": "{semantic.info.default}",
             "type": "color"
           },
@@ -1299,8 +1327,12 @@
             "value": "{semantic.info.default}",
             "type": "color"
           },
-          "bg-color": {
-            "value": "{semantic.info.weak}",
+          "text-color": {
+            "value": "{semantic.color.typography.coreText}",
+            "type": "color"
+          },
+          "on-info": {
+            "value": "{semantic.info.default}",
             "type": "color"
           }
         }

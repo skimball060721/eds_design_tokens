@@ -10,7 +10,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.feedback.success.text-color}",
+        "value": "{semantic.color.feedback.success.on-success}",
         "type": "color"
       },
       "icon-color": {
@@ -28,7 +28,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.feedback.warning.text-color}",
+        "value": "{semantic.color.feedback.warning.on-warning}",
         "type": "color"
       },
       "icon-color": {
@@ -46,7 +46,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.feedback.danger.text-color}",
+        "value": "{semantic.color.feedback.danger.on-danger}",
         "type": "color"
       },
       "icon-color": {
@@ -64,7 +64,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.feedback.info.text-color}",
+        "value": "{semantic.color.feedback.info.on-info}",
         "type": "color"
       },
       "icon-color": {
