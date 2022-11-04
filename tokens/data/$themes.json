@@ -728,25 +728,25 @@
       "headline.default.text-color": "S:d06e9c2d7ed4c10d3ef8ab747f3f8558bd58661f,",
       "alert.success.border-color": "S:90da35e8c775342e5138247a460d28c45bb4aee0,",
       "alert.success.bg-color": "S:0654c70ade86660f0a9ccdf3f2e0b2b84a0a6925,",
-      "alert.success.text-color": "S:213e8d03bce8c9cb1e43746769a7a789517e81a5,",
       "alert.success.icon-color": "S:22edf1a14148aaaa045c329f6ee1ccdb0e11d57b,",
       "alert.warning.border-color": "S:07637ba302b0f3237e1a3b342f4355e98609bf9c,",
       "alert.warning.bg-color": "S:00a08ff23e0436cfcee29c982a6190ba4ec0bfc4,",
-      "alert.warning.text-color": "S:4271599ccbae66b4b64d5fca090f9bc096d5a51b,",
       "alert.warning.icon-color": "S:46d8901437053096b887fafd9add043608653056,",
       "alert.danger.border-color": "S:27b15f5aa6a4443e520d4606df90918275a1b7ad,",
       "alert.danger.bg-color": "S:79b73a06bab0f10268ad3bd486cd02279a4c43d1,",
-      "alert.danger.text-color": "S:59a4d4bad7835cdc0adfe2d8b09311b2064300c2,",
       "alert.danger.icon-color": "S:d55a20939c4b9838be0b2022a0ecdac9cb8744c2,",
       "alert.info.border-color": "S:c76e4e3ea4bde5e0bf9e9ef622cbef07f18f5bac,",
       "alert.info.bg-color": "S:876448a19d58f0a18b67d6d4358a0cb76f8beb3b,",
-      "alert.info.text-color": "S:94ea752b95b797fbc0b2a20d968147eef503a85a,",
       "alert.info.icon-color": "S:7c9a4ec422d77a9e6f671ba6b187240d0114d35c,",
       "semantic.utility.input.label.sm": "S:b7700a74b30f27520f25e24bffb227223b52738e,",
       "semantic.utility.input.content.sm": "S:9a252b1e51c5b834e7c7a153b32227fad7171b64,",
       "semantic.color.feedback.success.on-success": "S:533f768b7d07dddd7e3ba7bb3b0bf922f81414af,",
       "semantic.color.feedback.danger.on-danger": "S:c31791afa5b6ba5c9c607b733457cc489c8a2705,",
-      "semantic.color.feedback.warning.on-warning": "S:d28d6251bcc25ad4bf90089abe9819d8d50100b1,"
+      "semantic.color.feedback.warning.on-warning": "S:d28d6251bcc25ad4bf90089abe9819d8d50100b1,",
+      "alert.success.on-success": "S:213e8d03bce8c9cb1e43746769a7a789517e81a5,",
+      "alert.warning.on-warning": "S:4271599ccbae66b4b64d5fca090f9bc096d5a51b,",
+      "alert.danger.on-danger": "S:59a4d4bad7835cdc0adfe2d8b09311b2064300c2,",
+      "alert.info.on-info": "S:94ea752b95b797fbc0b2a20d968147eef503a85a,"
     }
   },
   {
@@ -1359,19 +1359,15 @@
       "semantic.color.status.danger.bg-color": "S:2830fff890495b114c96eea92e09e588bcdd4504,",
       "alert.success.border-color": "S:71165ce2183853a5833e031fc2d2a4e085b216cd,",
       "alert.success.bg-color": "S:ec1fa9814431a361a4392c8686e8399202547e3e,",
-      "alert.success.text-color": "S:875982d9fcfbe3f48b8ccaff6a879ffcbc14012f,",
       "alert.success.icon-color": "S:35cbb7e4c811e76f6ef375c139aa89b906d4018a,",
       "alert.warning.border-color": "S:6710d642ef287be51f8d81c9ce8ce0e41f1d0244,",
       "alert.warning.bg-color": "S:535846c374bdb725d8d6f6ea1d952652ea9dc2a7,",
-      "alert.warning.text-color": "S:8562832818f44e5f3b300c92b82c37905660e63b,",
       "alert.warning.icon-color": "S:aac4e2d3a92f1744bf0b436f0375075001ed3e71,",
       "alert.danger.border-color": "S:0ce4139db101e8a839ae930c9106279acf7ee7f7,",
       "alert.danger.bg-color": "S:2db65198115d6e3415aec9d0017a303de793f4da,",
-      "alert.danger.text-color": "S:425b2f3ac0ed6e079cfdf278672278052fe5b8ba,",
       "alert.danger.icon-color": "S:875a95deab324ede87d308a9e2ccc1788a936826,",
       "alert.info.border-color": "S:fd0f4841de4acd545aaf2af49cdde51896cff6a2,",
       "alert.info.bg-color": "S:e9cdfa0814d7ddebaaafa6040457e586851f0a8e,",
-      "alert.info.text-color": "S:67b42326761e715b5ba0c2c9fb92575dcc1248ea,",
       "alert.info.icon-color": "S:92edd429f9d6d114edb531b38a9bb2cb5725708f,",
       "semantic.color.feedback.success.bg-color": "S:cc2217487b39e58dfe88a61948732eb1d10d7f1c,",
       "semantic.color.feedback.warning.bg-color": "S:2dccacb41cfbaf4168d0cfe6327f54461e8424f8,",
@@ -1486,7 +1482,11 @@
       "semantic.color.feedback.success.on-success": "S:2d8acd557930f9437a342434aee83f4c6a3075f6,",
       "semantic.color.feedback.danger.on-danger": "S:ebe858d3960a17da8d899b898cebf90f3a8eaddb,",
       "semantic.color.feedback.warning.on-warning": "S:df214830184400ce2b7f68499d660b2e80b8fc94,",
-      "semantic.color.feedback.info.on-info": "S:bf4d505ce3d65e9c952996cd09855c33ad024946,"
+      "semantic.color.feedback.info.on-info": "S:bf4d505ce3d65e9c952996cd09855c33ad024946,",
+      "alert.success.on-success": "S:875982d9fcfbe3f48b8ccaff6a879ffcbc14012f,",
+      "alert.warning.on-warning": "S:8562832818f44e5f3b300c92b82c37905660e63b,",
+      "alert.danger.on-danger": "S:425b2f3ac0ed6e079cfdf278672278052fe5b8ba,",
+      "alert.info.on-info": "S:67b42326761e715b5ba0c2c9fb92575dcc1248ea,"
     }
   }
 ]

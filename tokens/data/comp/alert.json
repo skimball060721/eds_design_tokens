@@ -1,74 +1,90 @@
 {
   "alert": {
     "success": {
-      "border-color": {
-        "value": "{semantic.color.feedback.success.border-color}",
-        "type": "color"
-      },
       "bg-color": {
         "value": "#DEEDDD",
         "type": "color"
       },
-      "text-color": {
-        "value": "{semantic.color.feedback.success.on-success}",
+      "border-color": {
+        "value": "{semantic.color.feedback.success.border-color}",
         "type": "color"
       },
       "icon-color": {
         "value": "{semantic.color.feedback.success.icon-color}",
         "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.success.text-color}",
+        "type": "color"
+      },
+      "on-success": {
+        "value": "{semantic.color.feedback.success.on-success}",
+        "type": "color"
       }
     },
     "warning": {
-      "border-color": {
-        "value": "{semantic.color.feedback.warning.border-color}",
-        "type": "color"
-      },
       "bg-color": {
         "value": "#FFF7E5",
         "type": "color"
       },
-      "text-color": {
-        "value": "{semantic.color.feedback.warning.on-warning}",
+      "border-color": {
+        "value": "{semantic.color.feedback.warning.border-color}",
         "type": "color"
       },
       "icon-color": {
         "value": "{semantic.color.feedback.warning.icon-color}",
         "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.warning.text-color}",
+        "type": "color"
+      },
+      "on-warning": {
+        "value": "{semantic.color.feedback.warning.on-warning}",
+        "type": "color"
       }
     },
     "danger": {
-      "border-color": {
-        "value": "{semantic.color.feedback.danger.border-color}",
-        "type": "color"
-      },
       "bg-color": {
         "value": "#FBDFDC",
         "type": "color"
       },
-      "text-color": {
-        "value": "{semantic.color.feedback.danger.on-danger}",
+      "border-color": {
+        "value": "{semantic.color.feedback.danger.border-color}",
         "type": "color"
       },
       "icon-color": {
         "value": "{semantic.color.feedback.danger.icon-color}",
         "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.danger.text-color}",
+        "type": "color"
+      },
+      "on-danger": {
+        "value": "{semantic.color.feedback.danger.on-danger}",
+        "type": "color"
       }
     },
     "info": {
-      "border-color": {
-        "value": "{semantic.color.feedback.info.border-color}",
-        "type": "color"
-      },
       "bg-color": {
         "value": "#E0E7FF",
         "type": "color"
       },
-      "text-color": {
-        "value": "{semantic.color.feedback.info.on-info}",
+      "border-color": {
+        "value": "{semantic.color.feedback.info.border-color}",
         "type": "color"
       },
       "icon-color": {
         "value": "{semantic.color.feedback.info.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.info.text-color}",
+        "type": "color"
+      },
+      "on-info": {
+        "value": "{semantic.color.feedback.info.on-info}",
         "type": "color"
       }
     },
