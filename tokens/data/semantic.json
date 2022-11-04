@@ -1288,7 +1288,7 @@
             "type": "color"
           },
           "on-warning": {
-            "value": "{semantic.warning.default}",
+            "value": "{semantic.color.typography.coreText}",
             "type": "color"
           }
         },
