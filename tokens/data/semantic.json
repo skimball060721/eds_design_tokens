@@ -64,6 +64,10 @@
       "weak": {
         "value": "rgba({color.green.300}, 0.15)",
         "type": "color"
+      },
+      "on-success": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "warning": {
@@ -1445,10 +1449,6 @@
           }
         },
         "disabled": {
-          "icon-color": {
-            "value": "{semantic.inputs.icon-color.disabled}",
-            "type": "color"
-          },
           "bg-color": {
             "value": "{semantic.inputs.bg-color}",
             "type": "color"
@@ -1460,33 +1460,9 @@
           "text-color": {
             "value": "{semantic.inputs.text-color.disabled}",
             "type": "color"
-          }
-        },
-        "danger": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
           },
-          "border-color": {
-            "value": "{semantic.danger.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.default}",
-            "type": "color"
-          }
-        },
-        "success": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.success.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.default}",
+          "icon-color": {
+            "value": "{semantic.inputs.icon-color.disabled}",
             "type": "color"
           }
         }
@@ -1865,10 +1841,6 @@
         "value": "{font-family.proximaNova}",
         "type": "fontFamilies"
       },
-      "feedback": {
-        "value": "{font-family.proximaNova}",
-        "type": "fontFamilies"
-      },
       "inputs": {
         "value": "{font-family.proximaNova}",
         "type": "fontFamilies"
@@ -1920,10 +1892,6 @@
         "type": "fontWeights"
       },
       "status": {
-        "value": "{font-weight.bold}",
-        "type": "fontWeights"
-      },
-      "feedback": {
         "value": "{font-weight.bold}",
         "type": "fontWeights"
       }
@@ -2002,20 +1970,6 @@
         },
         "lg": {
           "value": "{semantic.font-size.actions.md} * {semantic.font-size.scale}",
-          "type": "fontSizes"
-        }
-      },
-      "feedback": {
-        "sm": {
-          "value": "{semantic.font-size.feedback.md} / {semantic.font-size.scale}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.base}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.feedback.md} * {semantic.font-size.scale}",
           "type": "fontSizes"
         }
       },
@@ -2123,20 +2077,6 @@
           "type": "lineHeights"
         }
       },
-      "feedback": {
-        "1": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
-        },
-        "2": {
-          "value": "{line-height.250}",
-          "type": "lineHeights"
-        },
-        "3": {
-          "value": "{line-height.300}",
-          "type": "lineHeights"
-        }
-      },
       "status": {
         "value": "{line-height.200}",
         "type": "lineHeights"
@@ -2163,10 +2103,6 @@
       },
       "status": {
         "value": "{text-case.capitalize}",
-        "type": "textCase"
-      },
-      "feedback": {
-        "value": "{text-case.none}",
         "type": "textCase"
       }
     },
@@ -2540,45 +2476,34 @@
           "description": "Used in place of standard.title2 when link is necessary."
         }
       },
-      "feedback": {
+      "alert": {
         "sm": {
           "value": {
-            "fontFamily": "{semantic.font-family.feedback}",
-            "fontWeight": "{semantic.font-weight.feedback}",
-            "lineHeight": "{semantic.line-height.feedback.1}",
-            "fontSize": "{semantic.font-size.feedback.sm}",
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.bold}",
+            "lineHeight": "{semantic.line-height.typography.body.2}",
+            "fontSize": "{semantic.font-size.typography.body.md}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
-            "textCase": "{semantic.text-case.feedback}"
+            "textCase": "none"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "Used for default alert labeling."
         },
         "md": {
           "value": {
-            "fontFamily": "{semantic.font-family.feedback}",
-            "fontWeight": "{semantic.font-weight.feedback}",
-            "lineHeight": "{semantic.line-height.feedback.2}",
-            "fontSize": "{semantic.font-size.feedback.md}",
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.bold}",
+            "lineHeight": "{semantic.line-height.typography.body.2}",
+            "fontSize": "{semantic.font-size.typography.body.lg}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
-            "textCase": "{semantic.text-case.feedback}"
+            "textCase": "none"
           },
-          "type": "typography"
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{semantic.font-family.feedback}",
-            "fontWeight": "{semantic.font-weight.feedback}",
-            "lineHeight": "{semantic.line-height.feedback.3}",
-            "fontSize": "{semantic.font-size.feedback.lg}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "{semantic.text-case.feedback}"
-          },
-          "type": "typography"
+          "type": "typography",
+          "description": "Used for default alert labeling."
         }
       },
       "tag": {

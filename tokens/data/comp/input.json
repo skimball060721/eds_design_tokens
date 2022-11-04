@@ -98,29 +98,29 @@
     },
     "danger": {
       "bg-color": {
-        "value": "{semantic.color.inputs.danger.bg-color}",
+        "value": "{semantic.inputs.bg-color}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.inputs.danger.text-color}",
+        "value": "{semantic.inputs.text-color.default}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.inputs.danger.border-color}",
+        "value": "{semantic.color.feedback.danger.border-color}",
         "type": "color"
       }
     },
     "success": {
       "bg-color": {
-        "value": "{semantic.color.inputs.success.bg-color}",
+        "value": "{semantic.inputs.bg-color}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.inputs.success.text-color}",
+        "value": "{semantic.inputs.text-color.default}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.inputs.success.border-color}",
+        "value": "{semantic.color.feedback.success.border-color}",
         "type": "color"
       }
     },
