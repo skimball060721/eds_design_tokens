@@ -1499,7 +1499,9 @@
       "semantic.color.feedback.success.text-color": "S:2d8acd557930f9437a342434aee83f4c6a3075f6,",
       "semantic.color.feedback.warning.text-color": "S:df214830184400ce2b7f68499d660b2e80b8fc94,",
       "semantic.color.feedback.danger.text-color": "S:ebe858d3960a17da8d899b898cebf90f3a8eaddb,",
-      "semantic.color.feedback.info.text-color": "S:bf4d505ce3d65e9c952996cd09855c33ad024946,"
+      "semantic.color.feedback.info.text-color": "S:bf4d505ce3d65e9c952996cd09855c33ad024946,",
+      "alert.text-content.sm": "S:64137757178d9dd8a43902e00b21123b2ce52b80,",
+      "alert.text-content.md": "S:79325c13a4940fa52925801dd42d5f488ab7ea78,"
     }
   }
 ]
