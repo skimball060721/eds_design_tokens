@@ -2,11 +2,11 @@
   "headline": {
     "text-content": {
       "xxl": {
-        "value": "{semantic.standard.headline2}",
+        "value": "{semantic.typography.headline2}",
         "type": "typography"
       },
       "xxxl": {
-        "value": "{semantic.standard.headline1}",
+        "value": "{semantic.typography.headline1}",
         "type": "typography"
       }
     },

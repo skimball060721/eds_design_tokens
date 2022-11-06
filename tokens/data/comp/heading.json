@@ -2,19 +2,19 @@
   "heading": {
     "text-content": {
       "xs": {
-        "value": "{semantic.standard.heading4}",
+        "value": "{semantic.typography.heading4}",
         "type": "typography"
       },
       "sm": {
-        "value": "{semantic.standard.heading3}",
+        "value": "{semantic.typography.heading3}",
         "type": "typography"
       },
       "md": {
-        "value": "{semantic.standard.heading2}",
+        "value": "{semantic.typography.heading2}",
         "type": "typography"
       },
       "lg": {
-        "value": "{semantic.standard.heading1}",
+        "value": "{semantic.typography.heading1}",
         "type": "typography"
       }
     },
