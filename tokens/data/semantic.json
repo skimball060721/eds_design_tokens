@@ -1876,6 +1876,10 @@
       "inputs": {
         "value": "{font-family.proximaNova}",
         "type": "fontFamilies"
+      },
+      "feedback": {
+        "value": "{font-family.proximaNova}",
+        "type": "fontFamilies"
       }
     },
     "font-weight": {
@@ -1924,6 +1928,10 @@
         "type": "fontWeights"
       },
       "status": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
+      },
+      "feedback": {
         "value": "{font-weight.bold}",
         "type": "fontWeights"
       }
@@ -2012,6 +2020,16 @@
       "status": {
         "value": "{semantic.font-size.base} / {semantic.font-size.scale}",
         "type": "fontSizes"
+      },
+      "feedback": {
+        "sm": {
+          "value": "{semantic.font-size.base}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{semantic.font-size.feedback.sm} * {semantic.font-size.scale}",
+          "type": "fontSizes"
+        }
       }
     },
     "font-nRatio": {
@@ -2508,34 +2526,32 @@
           "description": "Used in place of standard.title2 when link is necessary."
         }
       },
-      "alert": {
+      "feedback": {
         "sm": {
           "value": {
-            "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.bold}",
+            "fontFamily": "{semantic.font-family.feedback}",
+            "fontWeight": "{semantic.font-weight.feedback}",
             "lineHeight": "{semantic.line-height.typography.body.2}",
-            "fontSize": "{semantic.font-size.typography.body.md}",
+            "fontSize": "{semantic.font-size.feedback.sm}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography",
-          "description": "Used for default alert labeling."
+          "type": "typography"
         },
         "md": {
           "value": {
-            "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.bold}",
+            "fontFamily": "{semantic.font-family.feedback}",
+            "fontWeight": "{semantic.font-weight.feedback}",
             "lineHeight": "{semantic.line-height.typography.body.2}",
-            "fontSize": "{semantic.font-size.typography.body.lg}",
+            "fontSize": "{semantic.font-size.feedback.md}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
             "textCase": "none"
           },
-          "type": "typography",
-          "description": "Used for default alert labeling."
+          "type": "typography"
         }
       },
       "tag": {

@@ -154,11 +154,11 @@
     },
     "text-content": {
       "sm": {
-        "value": "{semantic.utility.alert.sm}",
+        "value": "{semantic.utility.feedback.sm}",
         "type": "typography"
       },
       "md": {
-        "value": "{semantic.utility.alert.md}",
+        "value": "{semantic.utility.feedback.md}",
         "type": "typography"
       }
     }
