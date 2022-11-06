@@ -115,7 +115,7 @@
       "type": "spacing"
     },
     "itemSpacing": {
-      "value": "{semantic.spacing.feedback.itemSpacing.lg}",
+      "value": "{semantic.spacing.feedback.itemSpacing.sm}",
       "type": "spacing"
     },
     "border-radius": {
