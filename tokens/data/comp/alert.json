@@ -161,6 +161,16 @@
         "value": "{semantic.utility.feedback.md}",
         "type": "typography"
       }
+    },
+    "icon-size": {
+      "sm": {
+        "value": "{semantic.font-size.feedback.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.font-size.feedback.md}",
+        "type": "sizing"
+      }
     }
   }
 }
