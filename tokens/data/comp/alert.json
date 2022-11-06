@@ -151,6 +151,16 @@
         "itemSpacing": "{alert.itemSpacing}"
       },
       "type": "composition"
+    },
+    "text-content": {
+      "sm": {
+        "value": "{semantic.utility.alert.sm}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{semantic.utility.alert.md}",
+        "type": "typography"
+      }
     }
   }
 }
