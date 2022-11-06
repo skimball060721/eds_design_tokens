@@ -2168,6 +2168,10 @@
       "status": {
         "value": "{text-case.capitalize}",
         "type": "textCase"
+      },
+      "feedback": {
+        "value": "{text-case.none}",
+        "type": "textCase"
       }
     },
     "standard": {
@@ -2550,7 +2554,7 @@
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
-            "textCase": "none"
+            "textCase": "{semantic.text-case.feedback}"
           },
           "type": "typography"
         },
@@ -2563,7 +2567,7 @@
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
-            "textCase": "none"
+            "textCase": "{semantic.text-case.feedback}"
           },
           "type": "typography"
         }
