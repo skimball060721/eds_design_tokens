@@ -2440,8 +2440,8 @@
           "type": "typography"
         }
       },
-      "badge": {
-        "default": {
+      "status": {
+        "badge": {
           "value": {
             "fontFamily": "{semantic.font-family.status}",
             "fontWeight": "{semantic.font-weight.status}",
@@ -2452,8 +2452,20 @@
             "textDecoration": "none",
             "textCase": "{semantic.text-case.status}"
           },
-          "type": "typography",
-          "description": "Used for default badge labeling."
+          "type": "typography"
+        },
+        "tag": {
+          "value": {
+            "fontFamily": "{semantic.font-family.typography.body}",
+            "fontWeight": "{semantic.font-weight.typography.body.regular}",
+            "lineHeight": "{semantic.line-height.typography.body.1}",
+            "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "capitalize"
+          },
+          "type": "typography"
         }
       },
       "button": {
@@ -2570,22 +2582,6 @@
             "textCase": "{semantic.text-case.feedback}"
           },
           "type": "typography"
-        }
-      },
-      "tag": {
-        "default": {
-          "value": {
-            "fontFamily": "{semantic.font-family.typography.body}",
-            "fontWeight": "{semantic.font-weight.typography.body.regular}",
-            "lineHeight": "{semantic.line-height.typography.body.1}",
-            "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "capitalize"
-          },
-          "type": "typography",
-          "description": "Used for default tag labels."
         }
       },
       "overlay": {

@@ -122,7 +122,7 @@
       "type": "composition"
     },
     "text-content": {
-      "value": "{semantic.utility.badge.default}",
+      "value": "{semantic.utility.status.badge}",
       "type": "typography"
     }
   }
