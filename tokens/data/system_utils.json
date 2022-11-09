@@ -82,7 +82,7 @@
       "heading1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "fontSize": "{semantic.font-size.typography.heading.xl}",
           "textCase": "{text-case.none}",
           "lineHeight": "{semantic.line-height.typography.headings.3}",
@@ -95,7 +95,7 @@
       "heading2": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "fontSize": "{semantic.font-size.typography.heading.lg}",
           "textCase": "{text-case.none}",
           "lineHeight": "{semantic.line-height.typography.headings.3}",
@@ -108,7 +108,7 @@
       "heading3": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "fontSize": "{semantic.font-size.typography.heading.sm}",
           "textCase": "{text-case.none}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",

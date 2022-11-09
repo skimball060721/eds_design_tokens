@@ -1860,6 +1860,10 @@
           "value": "{font-family.proximaNova}",
           "type": "fontFamilies"
         },
+        "subheadings": {
+          "value": "{font-family.proximaNova}",
+          "type": "fontFamilies"
+        },
         "body": {
           "value": "{font-family.proximaNova}",
           "type": "fontFamilies"
@@ -1889,11 +1893,21 @@
           "type": "fontWeights"
         },
         "headings": {
-          "1": {
+          "regular": {
             "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "2": {
+          "bold": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
+          }
+        },
+        "subheadings": {
+          "regular": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "bold": {
             "value": "{font-weight.bold}",
             "type": "fontWeights"
           }
@@ -2038,6 +2052,10 @@
         "type": "other"
       },
       "headings": {
+        "value": "{font-nRatio.proximaNova}",
+        "type": "other"
+      },
+      "subheadings": {
         "value": "{font-nRatio.proximaNova}",
         "type": "other"
       },
@@ -2204,7 +2222,7 @@
       "heading1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.3}",
           "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2218,7 +2236,7 @@
       "heading2": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.2}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2232,7 +2250,7 @@
       "heading3": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2246,7 +2264,7 @@
       "heading4": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2259,12 +2277,12 @@
       },
       "subheading1": {
         "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.2}",
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.2}",
-          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
           "paragraphSpacing": "{paragraphSpacing.4}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
         },
@@ -2274,7 +2292,7 @@
       "subheading2": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "paragraphSpacing": "{paragraphSpacing.3}",
@@ -2288,9 +2306,9 @@
       "subheading3": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "paragraphSpacing": "{paragraphSpacing.3}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "textDecoration": "none",
@@ -2302,7 +2320,7 @@
       "subheading4": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "paragraphSpacing": "{paragraphSpacing.3}",
@@ -2316,7 +2334,7 @@
       "subheading5": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.1}",
+          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.1}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2732,6 +2750,12 @@
           }
         },
         "headings": {
+          "none": {
+            "value": "{letter-spacing.0}",
+            "type": "letterSpacing"
+          }
+        },
+        "subheadings": {
           "none": {
             "value": "{letter-spacing.0}",
             "type": "letterSpacing"
