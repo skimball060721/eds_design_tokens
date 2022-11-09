@@ -1507,7 +1507,8 @@
       "heading.deemphasized.text-color": "S:3499a03504e6d1062b4fc2c4efa208b4dc5d1f5b,",
       "subheading.text-content.xs": "S:28a9c34d27389e6e0a06eca654e7fd68f9414e05,",
       "subheading.text-content.sm": "S:46b1459fb4e8fc676abdbac7bdd20659bd1ad731,",
-      "subheading.text-content.md": "S:a153b914f573b0e3ea084a953c01bf91cd25ff49,"
+      "subheading.text-content.md": "S:a153b914f573b0e3ea084a953c01bf91cd25ff49,",
+      "semantic.inputs.icon-color.required": "S:85ebc1698b1d0175dc720d566141c58f247f011e,"
     }
   }
 ]
