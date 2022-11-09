@@ -30,15 +30,15 @@
     },
     "text-content": {
       "label": {
-        "value": "{semantic.utility.input.label}",
+        "value": "{semantic.inputs.label}",
         "type": "typography"
       },
       "content": {
-        "value": "{semantic.utility.input.content}",
+        "value": "{semantic.inputs.content}",
         "type": "typography"
       },
       "description": {
-        "value": "{semantic.utility.input.description}",
+        "value": "{semantic.inputs.description}",
         "type": "typography"
       }
     },

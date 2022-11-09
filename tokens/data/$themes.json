@@ -675,7 +675,6 @@
       "semantic.color.status.danger.text-color": "S:954493ba7c0db57889e6f210544d685c9abf8e44,",
       "semantic.color.status.danger.icon-color": "S:00e46f522f6fbb4564bba7682eebde90645252d3,",
       "semantic.color.status.danger.bg-color": "S:82307cdeae25b9b80c5c4062f280f6145b284ac0,",
-      "semantic.utility.input.description": "S:9f4fe511fa27285dbafdfa7b712330f865c70ea7,",
       "semantic.utility.input.feedback": "S:1a63d77f2e0dc852f95e1bf6344f1b765ff2870a,",
       "semantic.utility.button.sm": "S:019485dc03403f310987e94cd7efb261cfc91c59,",
       "semantic.utility.button.md": "S:c8df23637c9bd44a46797376aa57601b22ca53e1,",
@@ -727,10 +726,6 @@
       "alert.warning.on-warning": "S:4271599ccbae66b4b64d5fca090f9bc096d5a51b,",
       "alert.danger.on-danger": "S:59a4d4bad7835cdc0adfe2d8b09311b2064300c2,",
       "alert.info.on-info": "S:94ea752b95b797fbc0b2a20d968147eef503a85a,",
-      "semantic.utility.feedback.sm": "S:d00cc589c585c54216d1a87c665ce75ccf4d64fd,",
-      "semantic.utility.feedback.md": "S:d9c60c7abdf4318ac9e069c37b109cce59689504,",
-      "semantic.utility.status.badge": "S:b317b5e6f2d537317e2eff3da3b44773476fcac2,",
-      "semantic.utility.status.tag": "S:45f12826d9856006b1a47dd63738c822d834ee8c,",
       "semantic.typography.headline1": "S:4e743bf63e691bc7ee5f0cf800013d7d0f528e7e,",
       "semantic.typography.headline2": "S:ef9b319c5724801c6c08c33e90ae868b54131735,",
       "semantic.typography.heading1": "S:372c8ac75adc9ec028ec4df6d505e2abe7f1d915,",
@@ -745,7 +740,12 @@
       "semantic.typography.title2": "S:0c728401281bc6e397f1ebf8ed53acc39828ec52,",
       "semantic.typography.title3": "S:f48cf99ee44ce4e1d86b0b230ee6ec931f9d8ccd,",
       "semantic.typography.body": "S:9a1d245dec677afeaa1b081dce7350a8a778bb73,",
-      "semantic.typography.caption": "S:43ce1b2856c19b991b0a7507d15181c1cc175021,"
+      "semantic.typography.caption": "S:43ce1b2856c19b991b0a7507d15181c1cc175021,",
+      "semantic.inputs.description": "S:9f4fe511fa27285dbafdfa7b712330f865c70ea7,",
+      "semantic.statuses.badge": "S:b317b5e6f2d537317e2eff3da3b44773476fcac2,",
+      "semantic.statuses.tag": "S:45f12826d9856006b1a47dd63738c822d834ee8c,",
+      "semantic.feedback.sm": "S:d00cc589c585c54216d1a87c665ce75ccf4d64fd,",
+      "semantic.feedback.md": "S:d9c60c7abdf4318ac9e069c37b109cce59689504,"
     }
   },
   {
@@ -1442,9 +1442,6 @@
       "input.text-content.label": "S:e12585dbad5d57e643a6763244b9d134932c6362,",
       "input.text-content.content": "S:adb711e8a9b08b37f77e600fe450b4a7b97cc6a9,",
       "input.text-content.description": "S:435998fa0f9e8068896ff7e50aa52ab0265ab0f7,",
-      "semantic.utility.input.label": "S:d814e6799afa22585dfa58fa141e1671183cdc78,",
-      "semantic.utility.input.content": "S:630a9ccba2437837b92140b3b916259483dcb4d7,",
-      "semantic.utility.input.description": "S:6c8e53e2e26daa265c9dace7659acd21731a4a2a,",
       "semantic.inputs.icon-color.default": "S:10e25e6ff2e9e7c81c1f7e29d726ac21a9218205,",
       "input.active.text-color": "S:918484901c9d337dbb8fe10c9a9c592061ef5fc5,",
       "input.active.border-color": "S:99294bd4852623ed1a3f6585dc51ea60b40617c4,",
@@ -1481,10 +1478,6 @@
       "semantic.color.feedback.info.text-color": "S:bf4d505ce3d65e9c952996cd09855c33ad024946,",
       "alert.text-content.sm": "S:64137757178d9dd8a43902e00b21123b2ce52b80,",
       "alert.text-content.md": "S:79325c13a4940fa52925801dd42d5f488ab7ea78,",
-      "semantic.utility.feedback.sm": "S:ff97ea63c4eba2111400bf6e325e16ef3bbaa216,",
-      "semantic.utility.feedback.md": "S:c9fe6982231fcbae56df853454d92f3e547c9953,",
-      "semantic.utility.status.badge": "S:ce700eae97050eb064cd9e7677e149414b58ec5a,",
-      "semantic.utility.status.tag": "S:dbc7d72c8e1dc0a2ee3c2b917ede13a8d7fe92a3,",
       "semantic.typography.headline1": "S:8330a5cdfa911f9db587d49cb87aea7ea7a547d9,",
       "semantic.typography.headline2": "S:a7bb45b78ac6329f6e9aac90cc7902de7444ea90,",
       "semantic.typography.heading1": "S:4b9d5895bbcda84e253813baee46479ac9932ae9,",
@@ -1498,7 +1491,14 @@
       "semantic.typography.title3": "S:1b64c401cf9b2a96e4093d9b7c0045dd2637aa52,",
       "semantic.typography.body": "S:002220d8aa8f26d5818fa37c4562cc736c3bd7d8,",
       "semantic.typography.caption": "S:cba38094979da1edc9132cd0913474bdb8336ceb,",
-      "semantic.typography.subheading3": "S:5a4bc295f499c86c79f28417e502c9c195471f88,"
+      "semantic.typography.subheading3": "S:5a4bc295f499c86c79f28417e502c9c195471f88,",
+      "semantic.inputs.label": "S:d814e6799afa22585dfa58fa141e1671183cdc78,",
+      "semantic.inputs.content": "S:630a9ccba2437837b92140b3b916259483dcb4d7,",
+      "semantic.inputs.description": "S:6c8e53e2e26daa265c9dace7659acd21731a4a2a,",
+      "semantic.statuses.badge": "S:ce700eae97050eb064cd9e7677e149414b58ec5a,",
+      "semantic.statuses.tag": "S:dbc7d72c8e1dc0a2ee3c2b917ede13a8d7fe92a3,",
+      "semantic.feedback.sm": "S:ff97ea63c4eba2111400bf6e325e16ef3bbaa216,",
+      "semantic.feedback.md": "S:c9fe6982231fcbae56df853454d92f3e547c9953,"
     }
   }
 ]
