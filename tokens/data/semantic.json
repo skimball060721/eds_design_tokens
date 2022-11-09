@@ -2156,8 +2156,10 @@
         }
       },
       "status": {
-        "value": "{line-height.200}",
-        "type": "lineHeights"
+        "200": {
+          "value": "{line-height.200}",
+          "type": "lineHeights"
+        }
       }
     },
     "text-case": {
@@ -2431,7 +2433,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.status}",
             "fontWeight": "{semantic.font-weight.status}",
-            "lineHeight": "{semantic.line-height.status}",
+            "lineHeight": "{semantic.line-height.status.200}",
             "fontSize": "{semantic.font-size.status} * {semantic.font-nRatio.status}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
