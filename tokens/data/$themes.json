@@ -745,7 +745,12 @@
       "semantic.statuses.badge": "S:b317b5e6f2d537317e2eff3da3b44773476fcac2,",
       "semantic.statuses.tag": "S:45f12826d9856006b1a47dd63738c822d834ee8c,",
       "semantic.feedback.sm": "S:d00cc589c585c54216d1a87c665ce75ccf4d64fd,",
-      "semantic.feedback.md": "S:d9c60c7abdf4318ac9e069c37b109cce59689504,"
+      "semantic.feedback.md": "S:d9c60c7abdf4318ac9e069c37b109cce59689504,",
+      "subheading.text-content.xs": "S:3f90566261c90c56b3fd90dc3188f83e3f42ba9d,",
+      "subheading.text-content.sm": "S:9fd44c22c8e68ef6918a4ae6bf507b28a19d91f0,",
+      "subheading.text-content.md": "S:21cf20e1a9a55420606187fc98a93a2d495904c5,",
+      "alert.text-content.sm": "S:d623720d45ad765d595949b86bd2ed98293eb8b4,",
+      "alert.text-content.md": "S:4fce2c1cfc2e9cb592357817df7565c2e746d8db,"
     }
   },
   {
