@@ -2293,12 +2293,12 @@
       },
       "subheading2": {
         "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.subheadings}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
         },
@@ -2307,12 +2307,12 @@
       },
       "subheading3": {
         "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.subheadings}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
         },
