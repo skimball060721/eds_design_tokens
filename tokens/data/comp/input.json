@@ -19,12 +19,12 @@
       }
     },
     "itemSpacing": {
-      "sm": {
-        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
-        "type": "spacing"
-      },
       "xs": {
         "value": "{semantic.spacing.inputs.itemSpacing.xs}",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
         "type": "spacing"
       },
       "md": {
