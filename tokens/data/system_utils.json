@@ -59,7 +59,7 @@
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "fontSize": "{semantic.font-size.typography.heading.xxxl}",
           "textCase": "{semantic.text-case.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.2}",
+          "lineHeight": "{semantic.line-height.typography.headlines.800}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textDecoration": "none"
@@ -72,7 +72,7 @@
           "fontWeight": "{font-weight.regular}",
           "fontSize": "{semantic.font-size.typography.heading.xxl}",
           "textCase": "{text-case.capitalize}",
-          "lineHeight": "{semantic.line-height.typography.headlines.1}",
+          "lineHeight": "{semantic.line-height.typography.headlines.650}",
           "letterSpacing": "0",
           "paragraphSpacing": "0",
           "textDecoration": "none"
@@ -85,7 +85,7 @@
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "fontSize": "{semantic.font-size.typography.heading.xl}",
           "textCase": "{text-case.none}",
-          "lineHeight": "{semantic.line-height.typography.headings.3}",
+          "lineHeight": "{semantic.line-height.typography.headings.500}",
           "letterSpacing": "0",
           "paragraphSpacing": "0",
           "textDecoration": "none"
@@ -98,7 +98,7 @@
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
           "fontSize": "{semantic.font-size.typography.heading.lg}",
           "textCase": "{text-case.none}",
-          "lineHeight": "{semantic.line-height.typography.headings.3}",
+          "lineHeight": "{semantic.line-height.typography.headings.500}",
           "letterSpacing": "0",
           "paragraphSpacing": "0",
           "textDecoration": "none"
@@ -111,7 +111,7 @@
           "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "fontSize": "{semantic.font-size.typography.heading.sm}",
           "textCase": "{text-case.none}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
           "letterSpacing": "0",
           "paragraphSpacing": "0",
           "textDecoration": "none"
@@ -125,7 +125,7 @@
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "textCase": "{text-case.uppercase}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.sm}",
-          "lineHeight": "{semantic.line-height.typography.body.1}"
+          "lineHeight": "{semantic.line-height.typography.body.200}"
         },
         "type": "typography"
       },
@@ -135,7 +135,7 @@
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "fontSize": "{semantic.font-size.typography.body.md}",
           "textCase": "{semantic.text-case.typography.body}",
-          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}"
         },
         "type": "typography"
@@ -146,7 +146,7 @@
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "textCase": "{semantic.text-case.typography.body}",
-          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "0"
         },
@@ -160,7 +160,7 @@
           "fontWeight": "{semantic.font-weight.typography.body.mono}",
           "fontSize": "{semantic.font-size.typography.body.md}",
           "textCase": "{semantic.text-case.typography.body}",
-          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "0",
           "textDecoration": "none"
@@ -173,7 +173,7 @@
           "fontWeight": "{semantic.font-weight.typography.body.mono}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "textCase": "{semantic.text-case.typography.body}",
-          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "0",
           "textDecoration": "none"

@@ -2079,82 +2079,78 @@
     "line-height": {
       "typography": {
         "headlines": {
-          "1": {
+          "650": {
             "value": "{line-height.650}",
             "type": "lineHeights"
           },
-          "2": {
+          "800": {
             "value": "{line-height.800}",
             "type": "lineHeights"
           }
         },
         "headings": {
-          "1": {
+          "300": {
             "value": "{line-height.300}",
             "type": "lineHeights"
           },
-          "2": {
+          "400": {
             "value": "{line-height.400}",
             "type": "lineHeights"
           },
-          "3": {
+          "500": {
             "value": "{line-height.500}",
             "type": "lineHeights"
           }
         },
         "body": {
-          "1": {
+          "200": {
             "value": "{line-height.200}",
             "type": "lineHeights"
           },
-          "2": {
+          "300": {
             "value": "{line-height.300}",
-            "type": "lineHeights"
-          },
-          "3": {
-            "value": "{line-height.350}",
             "type": "lineHeights"
           }
         }
       },
       "inputs": {
-        "1": {
+        "200": {
           "value": "{line-height.200}",
           "type": "lineHeights"
         },
-        "2": {
+        "300": {
           "value": "{line-height.300}",
           "type": "lineHeights"
         },
-        "3": {
+        "350": {
           "value": "{line-height.350}",
           "type": "lineHeights"
         }
       },
       "feedback": {
-        "1": {
+        "200": {
           "value": "{line-height.200}",
           "type": "lineHeights"
         },
-        "2": {
+        "300": {
           "value": "{line-height.300}",
           "type": "lineHeights"
         },
-        "3": {
+        "350": {
           "value": "{line-height.350}",
           "type": "lineHeights"
         }
       },
       "actions": {
-        "1": {
+        "200": {
           "value": "{line-height.200}",
           "type": "lineHeights"
         },
-        "2": {
+        "250": {
           "value": "{line-height.250}",
           "type": "lineHeights"
         },
-        "3": {
+        "300": {
           "value": "{line-height.300}",
           "type": "lineHeights"
         }
@@ -2197,7 +2193,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.2}",
+          "lineHeight": "{semantic.line-height.typography.headlines.800}",
           "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
@@ -2210,7 +2206,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.1}",
+          "lineHeight": "{semantic.line-height.typography.headlines.650}",
           "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
@@ -2223,7 +2219,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.3}",
+          "lineHeight": "{semantic.line-height.typography.headings.500}",
           "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2237,7 +2233,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.2}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2251,7 +2247,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2265,7 +2261,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2279,7 +2275,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.subheadings}",
           "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.2}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
           "paragraphSpacing": "{paragraphSpacing.4}",
           "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
@@ -2293,7 +2289,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "paragraphSpacing": "{paragraphSpacing.3}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2307,21 +2303,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
           "fontWeight": "{semantic.font-weight.typography.headings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "{paragraphSpacing.3}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading2"
-      },
-      "subheading4": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "paragraphSpacing": "{paragraphSpacing.3}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
@@ -2331,25 +2313,11 @@
         "type": "typography",
         "description": "Section subheading typically paired with standard.heading3"
       },
-      "subheading5": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.1}",
-          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{paragraphSpacing.3}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading4"
-      },
       "title1": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.3}",
+          "lineHeight": "{semantic.line-height.typography.body.350}",
           "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2363,7 +2331,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
           "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2377,7 +2345,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
           "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
           "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.md}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2391,7 +2359,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
-          "lineHeight": "{semantic.line-height.typography.body.2}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
           "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.body}",
@@ -2405,7 +2373,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.body}",
           "fontWeight": "{semantic.font-weight.typography.body.regular}",
-          "lineHeight": "{semantic.line-height.typography.body.1}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
           "paragraphSpacing": "{paragraphSpacing.2}",
@@ -2422,7 +2390,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.bold}",
-            "lineHeight": "{semantic.line-height.inputs.2}",
+            "lineHeight": "{semantic.line-height.inputs.300}",
             "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2435,7 +2403,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.regular}",
-            "lineHeight": "{semantic.line-height.inputs.2}",
+            "lineHeight": "{semantic.line-height.inputs.300}",
             "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2448,7 +2416,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.inputs}",
             "fontWeight": "{semantic.font-weight.inputs.regular}",
-            "lineHeight": "{semantic.line-height.inputs.2}",
+            "lineHeight": "{semantic.line-height.inputs.300}",
             "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2476,7 +2444,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.typography.body}",
             "fontWeight": "{semantic.font-weight.typography.body.regular}",
-            "lineHeight": "{semantic.line-height.typography.body.1}",
+            "lineHeight": "{semantic.line-height.typography.body.200}",
             "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2491,7 +2459,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.2}",
+            "lineHeight": "{semantic.line-height.actions.250}",
             "fontSize": "{semantic.font-size.actions.sm}",
             "letterSpacing": "{semantic.letter-spacing.actions.none}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2505,7 +2473,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.2}",
+            "lineHeight": "{semantic.line-height.actions.250}",
             "fontSize": "{semantic.font-size.actions.md}",
             "letterSpacing": "{semantic.letter-spacing.actions.none}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2519,7 +2487,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.2}",
+            "lineHeight": "{semantic.line-height.actions.250}",
             "fontSize": "{semantic.font-size.actions.lg}",
             "letterSpacing": "{semantic.letter-spacing.actions.none}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -2535,7 +2503,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.3}",
+            "lineHeight": "{semantic.line-height.actions.300}",
             "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2549,7 +2517,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.1}",
+            "lineHeight": "{semantic.line-height.actions.200}",
             "fontSize": "{semantic.font-size.actions.sm} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2563,7 +2531,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.actions}",
             "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.3}",
+            "lineHeight": "{semantic.line-height.actions.300}",
             "fontSize": "{semantic.font-size.actions.lg} * {semantic.font-nRatio.actions}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2579,7 +2547,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.feedback}",
             "fontWeight": "{semantic.font-weight.feedback}",
-            "lineHeight": "{semantic.line-height.feedback.2}",
+            "lineHeight": "{semantic.line-height.feedback.300}",
             "fontSize": "{semantic.font-size.feedback.sm}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
@@ -2592,7 +2560,7 @@
           "value": {
             "fontFamily": "{semantic.font-family.feedback}",
             "fontWeight": "{semantic.font-weight.feedback}",
-            "lineHeight": "{semantic.line-height.feedback.2}",
+            "lineHeight": "{semantic.line-height.feedback.300}",
             "fontSize": "{semantic.font-size.feedback.md}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",

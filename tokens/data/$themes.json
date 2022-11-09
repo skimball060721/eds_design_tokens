@@ -739,8 +739,7 @@
       "semantic.typography.heading4": "S:7fa7a9a0cd6c8c41d7a7c4886a988a1c56964266,",
       "semantic.typography.subheading1": "S:f11a901b7bc66f7bf457bb9db5a4cf488db4e3c5,",
       "semantic.typography.subheading2": "S:132649f12c9afe9e29446a58f015852e38bfd243,",
-      "semantic.typography.subheading3": "S:85859aa40c76270e293a178f758fc56be9cf5355,",
-      "semantic.typography.subheading4": "S:5c7832f161dcdbfa6bf05522f5ea8b327bc2df82,",
+      "semantic.typography.subheading3": "S:5c7832f161dcdbfa6bf05522f5ea8b327bc2df82,",
       "semantic.typography.subheading5": "S:7c1fe07c7d7cd8247d01ef131681397ff47d9dad,",
       "semantic.typography.title1": "S:587e8c56a72c10bb0b3f6ff97c811c4b1ba22784,",
       "semantic.typography.title2": "S:0c728401281bc6e397f1ebf8ed53acc39828ec52,",
@@ -1494,14 +1493,12 @@
       "semantic.typography.heading4": "S:0211f8ac2cce7fec08f48dbba0d8bad1d68c8620,",
       "semantic.typography.subheading1": "S:d2ec806471923327a2111f5b2a4bf000ce36a678,",
       "semantic.typography.subheading2": "S:6fe613fdcb8fdae8381f8f7e339454a13cd930f2,",
-      "semantic.typography.subheading3": "S:022f43ef171431e43b57de1baa3b578800cfd59d,",
-      "semantic.typography.subheading4": "S:5a4bc295f499c86c79f28417e502c9c195471f88,",
-      "semantic.typography.subheading5": "S:88d8bb3156a7fc5ad55376917fdb709133e3a8ce,",
       "semantic.typography.title1": "S:7e8ef093019c6a7e220308b7c22312e4697e9455,",
       "semantic.typography.title2": "S:cab540d52f569fb0153c8ae5c99a4457b3205a39,",
       "semantic.typography.title3": "S:1b64c401cf9b2a96e4093d9b7c0045dd2637aa52,",
       "semantic.typography.body": "S:002220d8aa8f26d5818fa37c4562cc736c3bd7d8,",
-      "semantic.typography.caption": "S:cba38094979da1edc9132cd0913474bdb8336ceb,"
+      "semantic.typography.caption": "S:cba38094979da1edc9132cd0913474bdb8336ceb,",
+      "semantic.typography.subheading3": "S:5a4bc295f499c86c79f28417e502c9c195471f88,"
     }
   }
 ]
