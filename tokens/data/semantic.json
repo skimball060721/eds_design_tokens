@@ -1788,6 +1788,10 @@
       },
       "inputs": {
         "itemSpacing": {
+          "xs": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
           "sm": {
             "value": "{space.50}",
             "type": "spacing"
