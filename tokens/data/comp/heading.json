@@ -24,10 +24,17 @@
         "type": "color"
       }
     },
+    "deemphasized": {
+      "text-color": {
+        "value": "{semantic.color.typography.deemphasizedText}",
+        "type": "color"
+      }
+    },
     "xs": {
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}",
+        "horizontalPadding": "{semantic.spacing.typography.padding-bottom.xs}"
       },
       "type": "composition"
     },
@@ -49,6 +56,43 @@
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    }
+  },
+  "subheading": {
+    "text-content": {
+      "xs": {
+        "value": "{semantic.typography.subheading3}",
+        "type": "typography"
+      },
+      "sm": {
+        "value": "{semantic.typography.subheading2}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{semantic.typography.subheading1}",
+        "type": "typography"
+      }
+    },
+    "xs": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
       },
       "type": "composition"
     }
