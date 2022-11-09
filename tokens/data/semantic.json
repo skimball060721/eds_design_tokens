@@ -2110,6 +2110,10 @@
           "300": {
             "value": "{line-height.300}",
             "type": "lineHeights"
+          },
+          "350": {
+            "value": "{line-height.350}",
+            "type": "lineHeights"
           }
         }
       },
@@ -2199,7 +2203,7 @@
           "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
           "textDecoration": "none"
         },
         "type": "typography"
@@ -2212,7 +2216,7 @@
           "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
           "textDecoration": "none"
         },
         "type": "typography"
@@ -2224,7 +2228,7 @@
           "lineHeight": "{semantic.line-height.typography.headings.500}",
           "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
@@ -2238,7 +2242,7 @@
           "lineHeight": "{semantic.line-height.typography.headings.400}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
@@ -2252,7 +2256,7 @@
           "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
@@ -2266,7 +2270,7 @@
           "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
@@ -2279,7 +2283,7 @@
           "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
           "lineHeight": "{semantic.line-height.typography.headings.400}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{paragraphSpacing.4}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.400}",
           "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
@@ -2293,7 +2297,7 @@
           "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "{paragraphSpacing.3}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
@@ -2307,7 +2311,7 @@
           "fontWeight": "{semantic.font-weight.typography.headings.regular}",
           "lineHeight": "{semantic.line-height.typography.headings.300}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "paragraphSpacing": "{paragraphSpacing.3}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "textDecoration": "none",
           "textCase": "{text-case.none}"
@@ -2364,7 +2368,7 @@
           "lineHeight": "{semantic.line-height.typography.body.300}",
           "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.body}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.body}"
         },
@@ -2378,7 +2382,7 @@
           "lineHeight": "{semantic.line-height.typography.body.200}",
           "fontSize": "{semantic.font-size.typography.body.sm}",
           "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{paragraphSpacing.2}",
+          "paragraphSpacing": "{paragraphSpacing.200}",
           "textCase": "{text-case.none}",
           "textDecoration": "none"
         },
@@ -2750,9 +2754,37 @@
       }
     },
     "paragraph-spacing": {
-      "body": {
-        "value": "{paragraphSpacing.3}",
-        "type": "paragraphSpacing"
+      "typography": {
+        "body": {
+          "0": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "300": {
+            "value": "{paragraphSpacing.300}",
+            "type": "paragraphSpacing"
+          }
+        },
+        "headlines": {
+          "0": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          }
+        },
+        "headings": {
+          "0": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "300": {
+            "value": "{paragraphSpacing.300}",
+            "type": "paragraphSpacing"
+          },
+          "400": {
+            "value": "{paragraphSpacing.400}",
+            "type": "paragraphSpacing"
+          }
+        }
       }
     },
     "bg": {

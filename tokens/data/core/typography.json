@@ -136,19 +136,19 @@
       "value": "0",
       "type": "paragraphSpacing"
     },
-    "1": {
+    "100": {
       "value": "8",
       "type": "paragraphSpacing"
     },
-    "2": {
+    "200": {
       "value": "16",
       "type": "paragraphSpacing"
     },
-    "3": {
+    "300": {
       "value": "24",
       "type": "paragraphSpacing"
     },
-    "4": {
+    "400": {
       "value": "32",
       "type": "paragraphSpacing"
     }
