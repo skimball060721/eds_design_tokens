@@ -2479,6 +2479,10 @@
           "textCase": "capitalize"
         },
         "type": "typography"
+      },
+      "bg-color": {
+        "value": "{semantic.bg.muted}",
+        "type": "color"
       }
     },
     "utility": {
@@ -2686,6 +2690,10 @@
     "bg": {
       "surface": {
         "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.grey.500}",
         "type": "color"
       }
     }
