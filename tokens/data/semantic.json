@@ -1583,8 +1583,14 @@
         "type": "borderRadius"
       },
       "status": {
-        "value": "{border-radius.4}",
-        "type": "borderRadius"
+        "none": {
+          "value": "{border-radius.0}",
+          "type": "borderRadius"
+        },
+        "sm": {
+          "value": "{border-radius.4}",
+          "type": "borderRadius"
+        }
       },
       "ui-card": {
         "value": "{border-radius.4}",
@@ -1732,24 +1738,34 @@
       },
       "status": {
         "padding-top": {
-          "value": "{space.50}",
-          "type": "spacing"
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
         },
         "padding-right": {
-          "value": "{space.100}",
-          "type": "spacing"
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
         },
         "padding-left": {
-          "value": "{space.100}",
-          "type": "spacing"
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
         },
         "padding-bottom": {
-          "value": "{space.50}",
-          "type": "spacing"
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
         },
         "itemSpacing": {
-          "value": "{space.50}",
-          "type": "spacing"
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
         }
       },
       "typography": {
