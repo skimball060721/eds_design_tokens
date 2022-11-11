@@ -1,5 +1,323 @@
 {
   "semantic": {
+    "component": {
+      "xxs": {
+        "value": "{size.250}",
+        "type": "sizing"
+      },
+      "xs": {
+        "value": "{size.300}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{size.400}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{size.500}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{size.600}",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "{size.700}",
+        "type": "sizing"
+      }
+    },
+    "sizing": {
+      "actions": {
+        "sm": {
+          "value": "{semantic.component.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.component.lg}",
+          "type": "sizing"
+        }
+      },
+      "inputs": {
+        "sm": {
+          "value": "{semantic.component.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.component.lg}",
+          "type": "sizing"
+        }
+      },
+      "icons": {
+        "xs": {
+          "value": "{semantic.font-size.typography.heading.xs}",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "{semantic.font-size.typography.heading.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.font-size.typography.heading.md}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.font-size.typography.heading.lg}",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "{semantic.font-size.typography.heading.xl}",
+          "type": "sizing"
+        },
+        "xxl": {
+          "value": "{semantic.font-size.typography.heading.xxl}",
+          "type": "sizing"
+        },
+        "xxxl": {
+          "value": "{semantic.font-size.typography.heading.xxxl}",
+          "type": "sizing"
+        }
+      },
+      "status": {
+        "value": "{semantic.component.xxs}",
+        "type": "sizing"
+      },
+      "alerts": {
+        "sm": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.xl}",
+          "type": "sizing"
+        }
+      }
+    },
+    "spacing": {
+      "actions": {
+        "padding-top": {
+          "sm": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-right": {
+          "sm": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
+        "padding-bottom": {
+          "sm": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-left": {
+          "sm": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        },
+        "itemSpacing": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        }
+      },
+      "feedback": {
+        "padding-top": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{space.200}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{space.200}",
+          "type": "spacing"
+        },
+        "itemSpacing": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        }
+      },
+      "ui": {
+        "space-between": {
+          "sm": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "space-around": {
+          "sm": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        }
+      },
+      "status": {
+        "padding-top": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        },
+        "padding-right": {
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-left": {
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-bottom": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        },
+        "itemSpacing": {
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        }
+      },
+      "typography": {
+        "padding-top": {
+          "xs": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "1",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "3",
+            "type": "spacing"
+          }
+        },
+        "padding-bottom": {
+          "xs": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "1",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "3",
+            "type": "spacing"
+          }
+        }
+      },
+      "inputs": {
+        "itemSpacing": {
+          "xs": {
+            "value": "{space.25}",
+            "type": "spacing"
+          },
+          "sm": {
+            "value": "{space.50}",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "{space.100}",
+            "type": "spacing"
+          }
+        },
+        "padding-top": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{space.100}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{space.100}",
+          "type": "spacing"
+        }
+      }
+    },
     "fg": {
       "default": {
         "value": "{color.neutrals.black}",
@@ -297,34 +615,6 @@
           "paragraphSpacing": "0",
           "textDecoration": "none",
           "textCase": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "statuses": {
-      "badge": {
-        "value": {
-          "fontFamily": "{semantic.font-family.status}",
-          "fontWeight": "{semantic.font-weight.status}",
-          "lineHeight": "{semantic.line-height.status.200}",
-          "fontSize": "{semantic.font-size.status} * {semantic.font-nRatio.status}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.status}"
-        },
-        "type": "typography"
-      },
-      "tag": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.regular}",
-          "lineHeight": "{semantic.line-height.typography.body.200}",
-          "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "capitalize"
         },
         "type": "typography"
       }
@@ -1625,32 +1915,6 @@
         }
       }
     },
-    "component": {
-      "xxs": {
-        "value": "{size.250}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{size.300}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{size.400}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{size.500}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{size.600}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{size.700}",
-        "type": "sizing"
-      }
-    },
     "border-radius": {
       "actions": {
         "value": "{border-radius.4}",
@@ -1703,296 +1967,346 @@
         }
       }
     },
-    "spacing": {
-      "actions": {
-        "padding-top": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
+    "actions": {
+      "button": {
+        "sm": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.250}",
+            "fontSize": "{semantic.font-size.actions.sm}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
           },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
+          "type": "typography",
+          "description": "Used for default button labeling."
         },
-        "padding-right": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
+        "md": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.250}",
+            "fontSize": "{semantic.font-size.actions.md}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
           },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
+          "type": "typography",
+          "description": "Used for default button labeling."
         },
-        "padding-bottom": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
+        "lg": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.250}",
+            "fontSize": "{semantic.font-size.actions.lg}",
+            "letterSpacing": "{semantic.letter-spacing.actions.none}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "textDecoration": "none",
+            "textCase": "{semantic.text-case.actions}"
           },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
-        },
-        "padding-left": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
-        },
-        "itemSpacing": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.50}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "{space.50}",
-            "type": "spacing"
-          }
+          "type": "typography",
+          "description": "Used for default button labeling."
         }
       },
-      "feedback": {
-        "padding-top": {
-          "value": "{space.100}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{space.200}",
-          "type": "spacing"
-        },
-        "padding-bottom": {
-          "value": "{space.100}",
-          "type": "spacing"
-        },
-        "padding-left": {
-          "value": "{space.200}",
-          "type": "spacing"
-        },
-        "itemSpacing": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
+      "link": {
+        "sm": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.200}",
+            "fontSize": "{semantic.font-size.actions.sm} * {semantic.font-nRatio.actions}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
           },
-          "lg": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
-        }
-      },
-      "ui": {
-        "space-between": {
-          "sm": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
+          "type": "typography",
+          "description": "Description of use cases for utility.link.small"
         },
-        "space-around": {
-          "sm": {
-            "value": "{space.200}",
-            "type": "spacing"
-          }
-        }
-      },
-      "status": {
-        "padding-top": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          }
-        },
-        "padding-right": {
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
-        },
-        "padding-left": {
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
-        },
-        "padding-bottom": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          }
-        },
-        "itemSpacing": {
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          }
-        }
-      },
-      "typography": {
-        "padding-top": {
-          "xs": {
-            "value": "{space.0}",
-            "type": "spacing"
+        "md": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.300}",
+            "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
           },
-          "sm": {
-            "value": "1",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.25}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "3",
-            "type": "spacing"
-          }
+          "type": "typography",
+          "description": "Used for general hyperlinks."
         },
-        "padding-bottom": {
-          "xs": {
-            "value": "{space.0}",
-            "type": "spacing"
+        "lg": {
+          "value": {
+            "fontFamily": "{semantic.font-family.actions}",
+            "fontWeight": "{semantic.font-weight.actions}",
+            "lineHeight": "{semantic.line-height.actions.300}",
+            "fontSize": "{semantic.font-size.actions.lg} * {semantic.font-nRatio.actions}",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
           },
-          "sm": {
-            "value": "1",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.25}",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "3",
-            "type": "spacing"
-          }
-        }
-      },
-      "inputs": {
-        "itemSpacing": {
-          "xs": {
-            "value": "{space.25}",
-            "type": "spacing"
-          },
-          "sm": {
-            "value": "{space.50}",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "{space.100}",
-            "type": "spacing"
-          }
-        },
-        "padding-top": {
-          "value": "{space.100}",
-          "type": "spacing"
-        },
-        "padding-right": {
-          "value": "{space.100}",
-          "type": "spacing"
-        },
-        "padding-bottom": {
-          "value": "{space.100}",
-          "type": "spacing"
-        },
-        "padding-left": {
-          "value": "{space.100}",
-          "type": "spacing"
+          "type": "typography",
+          "description": "Used in place of standard.title2 when link is necessary."
         }
       }
     },
-    "sizing": {
-      "actions": {
-        "sm": {
-          "value": "{semantic.component.sm}",
-          "type": "sizing"
+    "feedback": {
+      "sm": {
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.sm}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
         },
-        "md": {
-          "value": "{semantic.component.md}",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "{semantic.component.lg}",
-          "type": "sizing"
-        }
+        "type": "typography"
       },
-      "inputs": {
-        "sm": {
-          "value": "{semantic.component.sm}",
-          "type": "sizing"
+      "md": {
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.md}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
         },
-        "md": {
-          "value": "{semantic.component.md}",
-          "type": "sizing"
+        "type": "typography"
+      }
+    },
+    "statuses": {
+      "badge": {
+        "value": {
+          "fontFamily": "{semantic.font-family.status}",
+          "fontWeight": "{semantic.font-weight.status}",
+          "lineHeight": "{semantic.line-height.status.200}",
+          "fontSize": "{semantic.font-size.status} * {semantic.font-nRatio.status}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.status}"
         },
-        "lg": {
-          "value": "{semantic.component.lg}",
-          "type": "sizing"
-        }
+        "type": "typography"
       },
-      "icons": {
-        "xs": {
-          "value": "{semantic.font-size.typography.heading.xs}",
-          "type": "sizing"
+      "tag": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.regular}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
+          "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "capitalize"
         },
-        "sm": {
-          "value": "{semantic.font-size.typography.heading.sm}",
-          "type": "sizing"
+        "type": "typography"
+      }
+    },
+    "typography": {
+      "headline1": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.800}",
+          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
         },
-        "md": {
-          "value": "{semantic.font-size.typography.heading.md}",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "{semantic.font-size.typography.heading.lg}",
-          "type": "sizing"
-        },
-        "xl": {
-          "value": "{semantic.font-size.typography.heading.xl}",
-          "type": "sizing"
-        },
-        "xxl": {
-          "value": "{semantic.font-size.typography.heading.xxl}",
-          "type": "sizing"
-        },
-        "xxxl": {
-          "value": "{semantic.font-size.typography.heading.xxxl}",
-          "type": "sizing"
-        }
+        "type": "typography"
       },
-      "status": {
-        "value": "{semantic.component.xxs}",
-        "type": "sizing"
-      },
-      "alerts": {
-        "sm": {
-          "value": "{semantic.component.md}",
-          "type": "sizing"
+      "headline2": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.650}",
+          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
         },
-        "md": {
-          "value": "{semantic.component.xl}",
-          "type": "sizing"
-        }
+        "type": "typography"
+      },
+      "heading1": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.500}",
+          "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify top-level sections in standard use cases."
+      },
+      "heading2": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify second-level sections in standard use cases."
+      },
+      "heading3": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify third-level sections in standard use cases."
+      },
+      "heading4": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify fourth-level sections in standard use cases."
+      },
+      "subheading1": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.400}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Page subheading typically paired with standard.headline2"
+      },
+      "subheading2": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading1"
+      },
+      "subheading3": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading3"
+      },
+      "title1": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
+          "lineHeight": "{semantic.line-height.typography.body.350}",
+          "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+          "textDecoration": "none",
+          "textCase": "{text-case.capitalize}"
+        },
+        "type": "typography",
+        "description": "Used for secondary flows such as modals or large content sections."
+      },
+      "title2": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
+          "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+          "textDecoration": "none",
+          "textCase": "{text-case.capitalize}"
+        },
+        "type": "typography",
+        "description": "Used to highlight primary content with modular sections."
+      },
+      "title3": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.bold}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
+          "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.md}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+          "textDecoration": "none",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "Used to identify modular sections such as cards."
+      },
+      "body": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.regular}",
+          "lineHeight": "{semantic.line-height.typography.body.300}",
+          "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.body}"
+        },
+        "type": "typography",
+        "description": "Used for general text and data"
+      },
+      "caption": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.body}",
+          "fontWeight": "{semantic.font-weight.typography.body.regular}",
+          "lineHeight": "{semantic.line-height.typography.body.200}",
+          "fontSize": "{semantic.font-size.typography.body.sm}",
+          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.200}",
+          "textCase": "{text-case.none}",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "description": "Description of use cases for standard.caption"
       }
     },
     "font-family": {
@@ -2337,320 +2651,6 @@
       "feedback": {
         "value": "{text-case.none}",
         "type": "textCase"
-      }
-    },
-    "typography": {
-      "headline1": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headlines}",
-          "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.800}",
-          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
-          "textCase": "{semantic.text-case.typography.headlines}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "headline2": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headlines}",
-          "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.650}",
-          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
-          "textCase": "{semantic.text-case.typography.headlines}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
-          "textDecoration": "none"
-        },
-        "type": "typography"
-      },
-      "heading1": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.500}",
-          "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headings}"
-        },
-        "type": "typography",
-        "description": "Used to identify top-level sections in standard use cases."
-      },
-      "heading2": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.400}",
-          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headings}"
-        },
-        "type": "typography",
-        "description": "Used to identify second-level sections in standard use cases."
-      },
-      "heading3": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headings}"
-        },
-        "type": "typography",
-        "description": "Used to identify third-level sections in standard use cases."
-      },
-      "heading4": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
-          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headings}"
-        },
-        "type": "typography",
-        "description": "Used to identify fourth-level sections in standard use cases."
-      },
-      "subheading1": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.400}",
-          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.400}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Page subheading typically paired with standard.headline2"
-      },
-      "subheading2": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading1"
-      },
-      "subheading3": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading3"
-      },
-      "title1": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.350}",
-          "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
-          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
-          "textDecoration": "none",
-          "textCase": "{text-case.capitalize}"
-        },
-        "type": "typography",
-        "description": "Used for secondary flows such as modals or large content sections."
-      },
-      "title2": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.300}",
-          "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
-          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
-          "textDecoration": "none",
-          "textCase": "{text-case.capitalize}"
-        },
-        "type": "typography",
-        "description": "Used to highlight primary content with modular sections."
-      },
-      "title3": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.bold}",
-          "lineHeight": "{semantic.line-height.typography.body.200}",
-          "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
-          "letterSpacing": "{semantic.letter-spacing.typography.body.md}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
-          "textDecoration": "none",
-          "textCase": "{text-case.uppercase}"
-        },
-        "type": "typography",
-        "description": "Used to identify modular sections such as cards."
-      },
-      "body": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.regular}",
-          "lineHeight": "{semantic.line-height.typography.body.300}",
-          "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
-          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.body}"
-        },
-        "type": "typography",
-        "description": "Used for general text and data"
-      },
-      "caption": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.body}",
-          "fontWeight": "{semantic.font-weight.typography.body.regular}",
-          "lineHeight": "{semantic.line-height.typography.body.200}",
-          "fontSize": "{semantic.font-size.typography.body.sm}",
-          "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.200}",
-          "textCase": "{text-case.none}",
-          "textDecoration": "none"
-        },
-        "type": "typography",
-        "description": "Description of use cases for standard.caption"
-      }
-    },
-    "actions": {
-      "button": {
-        "sm": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.250}",
-            "fontSize": "{semantic.font-size.actions.sm}",
-            "letterSpacing": "{semantic.letter-spacing.actions.none}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textDecoration": "none",
-            "textCase": "{semantic.text-case.actions}"
-          },
-          "type": "typography",
-          "description": "Used for default button labeling."
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.250}",
-            "fontSize": "{semantic.font-size.actions.md}",
-            "letterSpacing": "{semantic.letter-spacing.actions.none}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textDecoration": "none",
-            "textCase": "{semantic.text-case.actions}"
-          },
-          "type": "typography",
-          "description": "Used for default button labeling."
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.250}",
-            "fontSize": "{semantic.font-size.actions.lg}",
-            "letterSpacing": "{semantic.letter-spacing.actions.none}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "textDecoration": "none",
-            "textCase": "{semantic.text-case.actions}"
-          },
-          "type": "typography",
-          "description": "Used for default button labeling."
-        }
-      },
-      "link": {
-        "sm": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.200}",
-            "fontSize": "{semantic.font-size.actions.sm} * {semantic.font-nRatio.actions}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography",
-          "description": "Description of use cases for utility.link.small"
-        },
-        "md": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.300}",
-            "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography",
-          "description": "Used for general hyperlinks."
-        },
-        "lg": {
-          "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.300}",
-            "fontSize": "{semantic.font-size.actions.lg} * {semantic.font-nRatio.actions}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography",
-          "description": "Used in place of standard.title2 when link is necessary."
-        }
-      }
-    },
-    "feedback": {
-      "sm": {
-        "value": {
-          "fontFamily": "{semantic.font-family.feedback}",
-          "fontWeight": "{semantic.font-weight.feedback}",
-          "lineHeight": "{semantic.line-height.feedback.300}",
-          "fontSize": "{semantic.font-size.feedback.sm}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.feedback}"
-        },
-        "type": "typography"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{semantic.font-family.feedback}",
-          "fontWeight": "{semantic.font-weight.feedback}",
-          "lineHeight": "{semantic.line-height.feedback.300}",
-          "fontSize": "{semantic.font-size.feedback.md}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "{semantic.text-case.feedback}"
-        },
-        "type": "typography"
       }
     },
     "letter-spacing": {
