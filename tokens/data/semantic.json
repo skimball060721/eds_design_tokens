@@ -1487,7 +1487,7 @@
             "type": "color"
           },
           "on-warning": {
-            "value": "{semantic.color.typography.coreText}",
+            "value": "{semantic.warning.on-warning}",
             "type": "color"
           }
         },
