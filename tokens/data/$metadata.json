@@ -14,6 +14,7 @@
     "comp/headline",
     "comp/heading",
     "comp/input",
+    "comp/tag",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
