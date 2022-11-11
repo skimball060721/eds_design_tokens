@@ -1,5 +1,19 @@
 {
   "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.grey.700}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.grey.500}",
+        "type": "color"
+      }
+    },
     "bg": {
       "surface": {
         "value": "{color.neutrals.white}",
@@ -2703,20 +2717,6 @@
             "type": "paragraphSpacing"
           }
         }
-      }
-    },
-    "fg": {
-      "default": {
-        "value": "{color.neutrals.black}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{color.grey.700}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{color.grey.500}",
-        "type": "color"
       }
     }
   }
