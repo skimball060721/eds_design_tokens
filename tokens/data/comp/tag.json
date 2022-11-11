@@ -50,8 +50,26 @@
       "type": "composition"
     },
     "text-content": {
-      "value": "{semantic.statuses.badge}",
+      "value": "{semantic.statuses.tag}",
       "type": "typography"
+    },
+    "neutral": {
+      "bg-color": {
+        "value": "{semantic.color.status.neutral.bg-color}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.status.neutral.border-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.neutral.text-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.neutral.icon-color}",
+        "type": "color"
+      }
     }
   }
 }
