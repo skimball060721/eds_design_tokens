@@ -52,6 +52,10 @@
       "weak": {
         "value": "rgba({color.teal.400}, 0.15)",
         "type": "color"
+      },
+      "on-primary": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "secondary": {
@@ -73,6 +77,10 @@
       },
       "weak": {
         "value": "rgba({color.grey.400}, 0.15)",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     },
