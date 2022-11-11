@@ -532,94 +532,127 @@
         "type": "color"
       }
     },
-    "inputs": {
-      "bg-color": {
-        "value": "{semantic.bg.surface}",
-        "type": "color"
-      },
-      "icon-color": {
+    "color": {
+      "inputs": {
+        "bg-color": {
+          "value": "{semantic.bg.surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "default": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          },
+          "required": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          }
+        },
+        "text-color": {
+          "default": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{semantic.neutral.muted}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "default": {
+            "value": "{semantic.neutral.muted}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          }
+        },
         "default": {
-          "value": "{semantic.neutral.default}",
-          "type": "color"
+          "bg-color": {
+            "value": "{semantic.color.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.inputs.border-color.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.text-color.placeholder}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.inputs.icon-color.default}",
+            "type": "color"
+          }
         },
-        "disabled": {
-          "value": "{semantic.neutral.subtle}",
-          "type": "color"
-        },
-        "required": {
-          "value": "{semantic.danger.default}",
-          "type": "color"
-        }
-      },
-      "text-color": {
-        "default": {
-          "value": "{semantic.neutral.default}",
-          "type": "color"
-        },
-        "placeholder": {
-          "value": "{semantic.neutral.muted}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{semantic.neutral.subtle}",
-          "type": "color"
-        }
-      },
-      "border-color": {
-        "default": {
-          "value": "{semantic.neutral.muted}",
-          "type": "color"
+        "filled": {
+          "bg-color": {
+            "value": "{semantic.color.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.inputs.border-color.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.text-color.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.inputs.icon-color.default}",
+            "type": "color"
+          }
         },
         "active": {
-          "value": "{semantic.neutral.default}",
-          "type": "color"
+          "bg-color": {
+            "value": "{semantic.color.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.inputs.border-color.active}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.text-color.default}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.inputs.icon-color.default}",
+            "type": "color"
+          }
         },
         "disabled": {
-          "value": "{semantic.neutral.subtle}",
-          "type": "color"
+          "bg-color": {
+            "value": "{semantic.color.inputs.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.inputs.border-color.disabled}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.text-color.disabled}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.inputs.icon-color.disabled}",
+            "type": "color"
+          }
         }
       },
-      "label": {
-        "value": {
-          "fontFamily": "{semantic.font-family.inputs}",
-          "fontWeight": "{semantic.font-weight.inputs.bold}",
-          "lineHeight": "{semantic.line-height.inputs.300}",
-          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
-        "type": "typography"
-      },
-      "content": {
-        "value": {
-          "fontFamily": "{semantic.font-family.inputs}",
-          "fontWeight": "{semantic.font-weight.inputs.regular}",
-          "lineHeight": "{semantic.line-height.inputs.300}",
-          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
-        "type": "typography"
-      },
-      "description": {
-        "value": {
-          "fontFamily": "{semantic.font-family.inputs}",
-          "fontWeight": "{semantic.font-weight.inputs.regular}",
-          "lineHeight": "{semantic.line-height.inputs.300}",
-          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
-        "type": "typography"
-      }
-    },
-    "color": {
       "status": {
         "neutral": {
           "border-color": {
@@ -1839,80 +1872,47 @@
           "value": "{color.grey.500}",
           "type": "color"
         }
+      }
+    },
+    "inputs": {
+      "label": {
+        "value": {
+          "fontFamily": "{semantic.font-family.inputs}",
+          "fontWeight": "{semantic.font-weight.inputs.bold}",
+          "lineHeight": "{semantic.line-height.inputs.300}",
+          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
       },
-      "inputs": {
-        "default": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.inputs.border-color.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.placeholder}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.inputs.icon-color.default}",
-            "type": "color"
-          }
+      "content": {
+        "value": {
+          "fontFamily": "{semantic.font-family.inputs}",
+          "fontWeight": "{semantic.font-weight.inputs.regular}",
+          "lineHeight": "{semantic.line-height.inputs.300}",
+          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
         },
-        "filled": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.inputs.border-color.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.inputs.icon-color.default}",
-            "type": "color"
-          }
+        "type": "typography"
+      },
+      "description": {
+        "value": {
+          "fontFamily": "{semantic.font-family.inputs}",
+          "fontWeight": "{semantic.font-weight.inputs.regular}",
+          "lineHeight": "{semantic.line-height.inputs.300}",
+          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
         },
-        "active": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.inputs.border-color.active}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.inputs.icon-color.default}",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "bg-color": {
-            "value": "{semantic.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.inputs.border-color.disabled}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.inputs.text-color.disabled}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.inputs.icon-color.disabled}",
-            "type": "color"
-          }
-        }
+        "type": "typography"
       }
     },
     "border-radius": {
