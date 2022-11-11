@@ -30,73 +30,73 @@
     },
     "success": {
       "border-color": {
-        "value": "{semantic.color.status.success.border-color}",
+        "value": "{semantic.color.status.border-color.success}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.status.success.bg-color}",
+        "value": "{semantic.color.status.bg-color.success}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.status.success.text-color}",
+        "value": "{semantic.color.status.text-color.white}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.status.success.icon-color}",
+        "value": "{semantic.color.status.icon-color.white}",
         "type": "color"
       }
     },
     "warning": {
       "border-color": {
-        "value": "{semantic.color.status.warning.border-color}",
+        "value": "{semantic.color.status.border-color.warning}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.status.warning.bg-color}",
+        "value": "{semantic.color.status.bg-color.warning}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.status.warning.text-color}",
+        "value": "{semantic.color.status.text-color.black}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.status.warning.icon-color}",
+        "value": "{semantic.color.status.icon-color.black}",
         "type": "color"
       }
     },
     "danger": {
       "border-color": {
-        "value": "{semantic.color.status.danger.border-color}",
+        "value": "{semantic.color.status.border-color.danger}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.status.danger.bg-color}",
+        "value": "{semantic.color.status.bg-color.danger}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.status.danger.text-color}",
+        "value": "{semantic.color.status.text-color.white}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.status.danger.icon-color}",
+        "value": "{semantic.color.status.icon-color.white}",
         "type": "color"
       }
     },
     "info": {
       "border-color": {
-        "value": "{semantic.color.status.info.border-color}",
+        "value": "{semantic.color.status.border-color.info}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.status.info.bg-color}",
+        "value": "{semantic.color.status.bg-color.info}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.status.info.text-color}",
+        "value": "{semantic.color.status.text-color.white}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.status.info.icon-color}",
+        "value": "{semantic.color.status.icon-color.white}",
         "type": "color"
       }
     },

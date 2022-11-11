@@ -55,19 +55,19 @@
     },
     "neutral": {
       "bg-color": {
-        "value": "{semantic.color.status.neutral.bg-color}",
+        "value": "{semantic.color.status.bg-color.neutral}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.status.neutral.border-color}",
+        "value": "{semantic.color.status.border-color.neutral}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.status.neutral.text-color}",
+        "value": "{semantic.color.status.text-color.black}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.status.neutral.icon-color}",
+        "value": "{semantic.color.status.icon-color.black}",
         "type": "color"
       }
     }
