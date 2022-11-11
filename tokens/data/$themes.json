@@ -676,12 +676,6 @@
       "semantic.color.status.danger.icon-color": "S:00e46f522f6fbb4564bba7682eebde90645252d3,",
       "semantic.color.status.danger.bg-color": "S:82307cdeae25b9b80c5c4062f280f6145b284ac0,",
       "semantic.utility.input.feedback": "S:1a63d77f2e0dc852f95e1bf6344f1b765ff2870a,",
-      "semantic.utility.button.sm": "S:019485dc03403f310987e94cd7efb261cfc91c59,",
-      "semantic.utility.button.md": "S:c8df23637c9bd44a46797376aa57601b22ca53e1,",
-      "semantic.utility.button.lg": "S:c775d8213ad601fc8078c31b4fae7cfedec1d54a,",
-      "semantic.utility.link.default": "S:d7a70d474772ef7b49e0ff56b6bbd8e40d135292,",
-      "semantic.utility.link.small": "S:1ca80612b2d724e4fb67398306bda6737209c315,",
-      "semantic.utility.link.large": "S:404f04361e411aad21a1a151f39309a6e6eb9539,",
       "semantic.utility.overlay.title": "S:09fbf30567b8bd054703641a27dc7e85c276f7a4,",
       "semantic.utility.overlay.heading1": "S:75c6045a4943ae0c339a72043407f4d2aad4dc3e,",
       "semantic.utility.overlay.heading2": "S:4929b04ae34ba7b89c172b2afb6eb697b171b7cb,",
@@ -750,7 +744,13 @@
       "subheading.text-content.sm": "S:9fd44c22c8e68ef6918a4ae6bf507b28a19d91f0,",
       "subheading.text-content.md": "S:21cf20e1a9a55420606187fc98a93a2d495904c5,",
       "alert.text-content.sm": "S:d623720d45ad765d595949b86bd2ed98293eb8b4,",
-      "alert.text-content.md": "S:4fce2c1cfc2e9cb592357817df7565c2e746d8db,"
+      "alert.text-content.md": "S:4fce2c1cfc2e9cb592357817df7565c2e746d8db,",
+      "semantic.actions.button.sm": "S:019485dc03403f310987e94cd7efb261cfc91c59,",
+      "semantic.actions.button.md": "S:c8df23637c9bd44a46797376aa57601b22ca53e1,",
+      "semantic.actions.button.lg": "S:c775d8213ad601fc8078c31b4fae7cfedec1d54a,",
+      "semantic.actions.link.md": "S:d7a70d474772ef7b49e0ff56b6bbd8e40d135292,",
+      "semantic.actions.link.sm": "S:1ca80612b2d724e4fb67398306bda6737209c315,",
+      "semantic.actions.link.lg": "S:404f04361e411aad21a1a151f39309a6e6eb9539,"
     }
   },
   {
@@ -1378,12 +1378,6 @@
       "semantic.color.feedback.info.border-color": "S:58591c603f44bbfe6dc9481e898154a3c203252a,",
       "semantic.color.feedback.info.icon-color": "S:e8d6830b03a8e99e2da2c85d074b39bc2cb0c301,",
       "semantic.color.feedback.info.bg-color": "S:1f768b60c1f83e21579216b0779a086719df5aa3,",
-      "semantic.utility.button.sm": "S:28233b5457e7baecc7a438a6bc14ff52bb0e99f8,",
-      "semantic.utility.button.md": "S:c56282d4ff024f4b5192f9f720182111bcca01e9,",
-      "semantic.utility.button.lg": "S:f3873d328e843e6162e55046dce85d2c258d61d2,",
-      "semantic.utility.link.default": "S:396d4e64bdcd5bb0597541da1329a7d9c16a0d92,",
-      "semantic.utility.link.small": "S:b14cc8c28ea0f13de1ac0881a1545ec64125f779,",
-      "semantic.utility.link.large": "S:b1ff42a5593b72b18cf6a6a7ddb9daae235d1dbe,",
       "heading.text-content.xs": "S:f1ee48c984e6b4053f13bc4e04edc0d718fdce12,",
       "heading.text-content.sm": "S:6a9da76ff3da802a99e8342fbfc8f88c1c027f6e,",
       "heading.text-content.md": "S:16820b2d844004746fdc2171e33bfbcff362a4ff,",
@@ -1496,7 +1490,13 @@
       "subheading.text-content.xs": "S:28a9c34d27389e6e0a06eca654e7fd68f9414e05,",
       "subheading.text-content.sm": "S:46b1459fb4e8fc676abdbac7bdd20659bd1ad731,",
       "subheading.text-content.md": "S:a153b914f573b0e3ea084a953c01bf91cd25ff49,",
-      "semantic.inputs.icon-color.required": "S:85ebc1698b1d0175dc720d566141c58f247f011e,"
+      "semantic.inputs.icon-color.required": "S:85ebc1698b1d0175dc720d566141c58f247f011e,",
+      "semantic.actions.button.sm": "S:28233b5457e7baecc7a438a6bc14ff52bb0e99f8,",
+      "semantic.actions.button.md": "S:c56282d4ff024f4b5192f9f720182111bcca01e9,",
+      "semantic.actions.button.lg": "S:f3873d328e843e6162e55046dce85d2c258d61d2,",
+      "semantic.actions.link.md": "S:396d4e64bdcd5bb0597541da1329a7d9c16a0d92,",
+      "semantic.actions.link.sm": "S:b14cc8c28ea0f13de1ac0881a1545ec64125f779,",
+      "semantic.actions.link.lg": "S:b1ff42a5593b72b18cf6a6a7ddb9daae235d1dbe,"
     }
   }
 ]

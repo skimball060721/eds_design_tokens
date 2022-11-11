@@ -728,15 +728,15 @@
     },
     "text-content": {
       "sm": {
-        "value": "{semantic.utility.button.sm}",
+        "value": "{semantic.actions.button.sm}",
         "type": "typography"
       },
       "md": {
-        "value": "{semantic.utility.button.md}",
+        "value": "{semantic.actions.button.md}",
         "type": "typography"
       },
       "lg": {
-        "value": "{semantic.utility.button.lg}",
+        "value": "{semantic.actions.button.lg}",
         "type": "typography"
       }
     }
