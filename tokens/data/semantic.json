@@ -1692,77 +1692,17 @@
           "disabled": {
             "value": "{semantic.neutral.subtle}",
             "type": "color"
-          }
-        },
-        "default": {
-          "bg-color": {
-            "value": "{semantic.color.inputs.bg-color}",
+          },
+          "success": {
+            "value": "{semantic.color.feedback.success.border-color}",
             "type": "color"
           },
-          "border-color": {
-            "value": "{semantic.color.inputs.border-color.default}",
+          "warning": {
+            "value": "{semantic.color.feedback.warning.border-color}",
             "type": "color"
           },
-          "text-color": {
-            "value": "{semantic.color.inputs.text-color.placeholder}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.default}",
-            "type": "color"
-          }
-        },
-        "filled": {
-          "bg-color": {
-            "value": "{semantic.color.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.color.inputs.border-color.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.inputs.text-color.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.default}",
-            "type": "color"
-          }
-        },
-        "active": {
-          "bg-color": {
-            "value": "{semantic.color.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.color.inputs.border-color.active}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.inputs.text-color.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.default}",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "bg-color": {
-            "value": "{semantic.color.inputs.bg-color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.color.inputs.border-color.disabled}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.inputs.text-color.disabled}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.disabled}",
+          "danger": {
+            "value": "{semantic.color.feedback.danger.border-color}",
             "type": "color"
           }
         }
