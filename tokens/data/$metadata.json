@@ -6,7 +6,6 @@
     "core/border",
     "core/typography",
     "semantic",
-    "comp/ui-card",
     "comp/button",
     "comp/icon-button",
     "comp/badge",

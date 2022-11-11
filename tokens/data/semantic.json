@@ -201,10 +201,6 @@
         "value": "{color.grey.400}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.grey.700}, 0.15)",
-        "type": "color"
-      },
       "on-neutral": {
         "value": "{color.neutrals.white}",
         "type": "color"
@@ -323,13 +319,101 @@
           "textCase": "capitalize"
         },
         "type": "typography"
-      },
-      "bg-color": {
-        "value": "{semantic.bg.muted}",
-        "type": "color"
       }
     },
     "color": {
+      "status": {
+        "neutral": {
+          "border-color": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.neutral.subtle}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "border-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.success.on-success}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.success.on-success}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "border-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.warning.on-warning}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.warning.on-warning}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "border-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.danger.on-danger}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.danger.on-danger}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "border-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.info.on-info}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.info.on-info}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          }
+        }
+      },
       "actions": {
         "primary": {
           "default": {
@@ -1456,80 +1540,6 @@
         "deemphasizedText": {
           "value": "{color.grey.500}",
           "type": "color"
-        }
-      },
-      "status": {
-        "success": {
-          "border-color": {
-            "value": "{semantic.success.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "bg-color": {
-            "value": "{semantic.success.default}",
-            "type": "color"
-          }
-        },
-        "warning": {
-          "border-color": {
-            "value": "{semantic.warning.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          },
-          "bg-color": {
-            "value": "{semantic.warning.default}",
-            "type": "color"
-          }
-        },
-        "danger": {
-          "border-color": {
-            "value": "{semantic.danger.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "bg-color": {
-            "value": "{semantic.danger.default}",
-            "type": "color"
-          }
-        },
-        "info": {
-          "border-color": {
-            "value": "{semantic.info.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "bg-color": {
-            "value": "{semantic.info.default}",
-            "type": "color"
-          }
         }
       },
       "inputs": {
