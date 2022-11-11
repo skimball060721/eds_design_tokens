@@ -1,8 +1,0 @@
-{
-  "ui-card": {
-    "borderRadius": {
-      "value": "{semantic.border-radius.ui-card}",
-      "type": "borderRadius"
-    }
-  }
-}
