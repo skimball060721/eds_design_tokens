@@ -48,19 +48,19 @@
     },
     "default": {
       "bg-color": {
-        "value": "{semantic.color.inputs.default.bg-color}",
+        "value": "{semantic.color.inputs.bg-color}",
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.inputs.default.text-color}",
+        "value": "{semantic.color.inputs.text-color.placeholder}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.inputs.default.border-color}",
+        "value": "{semantic.color.inputs.border-color.default}",
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.inputs.default.icon-color}",
+        "value": "{semantic.color.inputs.icon-color.default}",
         "type": "color"
       },
       "sm": {
