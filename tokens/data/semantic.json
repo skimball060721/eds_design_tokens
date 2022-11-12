@@ -1083,148 +1083,92 @@
           }
         },
         "neutral": {
-          "default": {
-            "border-color": {
+          "border-color": {
+            "default": {
               "value": "{semantic.neutral.default}",
               "type": "color"
             },
-            "text-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "bg-color": {
-              "value": "{semantic.neutral.default}",
-              "type": "color"
-            },
-            "quiet": {
-              "border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{semantic.neutral.default}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{semantic.neutral.default}",
-                "type": "color"
-              },
-              "bg-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              }
-            }
-          },
-          "hover": {
-            "border-color": {
+            "hover": {
               "value": "{semantic.neutral.emphasized}",
               "type": "color"
             },
-            "text-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "bg-color": {
-              "value": "{semantic.neutral.emphasized}",
-              "type": "color"
-            },
-            "quiet": {
-              "border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{semantic.neutral.emphasized}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{semantic.neutral.emphasized}",
-                "type": "color"
-              },
-              "bg-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              }
-            }
-          },
-          "active": {
-            "border-color": {
+            "active": {
               "value": "{semantic.neutral.strong}",
               "type": "color"
             },
-            "text-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "bg-color": {
-              "value": "{semantic.neutral.strong}",
-              "type": "color"
-            },
-            "quiet": {
-              "border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{semantic.neutral.strong}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{semantic.neutral.strong}",
-                "type": "color"
-              },
-              "bg-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              }
-            }
-          },
-          "disabled": {
-            "border-color": {
-              "value": "{semantic.neutral.muted}",
-              "type": "color"
-            },
-            "text-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "icon-color": {
-              "value": "{semantic.neutral.on-neutral}",
-              "type": "color"
-            },
-            "bg-color": {
+            "disabled": {
               "value": "{semantic.neutral.muted}",
               "type": "color"
             },
             "quiet": {
-              "border-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              },
-              "text-color": {
-                "value": "{semantic.neutral.muted}",
-                "type": "color"
-              },
-              "icon-color": {
-                "value": "{semantic.neutral.muted}",
-                "type": "color"
-              },
-              "bg-color": {
-                "value": "{color.neutrals.transparent}",
-                "type": "color"
-              }
+              "value": "{color.neutrals.transparent}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "default": {
+              "value": "{semantic.neutral.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.neutral.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.neutral.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.neutral.muted}",
+              "type": "color"
+            },
+            "on-neutral": {
+              "value": "{semantic.neutral.on-neutral}",
+              "type": "color"
+            }
+          },
+          "icon-color": {
+            "default": {
+              "value": "{semantic.neutral.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.neutral.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.neutral.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.neutral.muted}",
+              "type": "color"
+            },
+            "on-neutral": {
+              "value": "{semantic.neutral.on-neutral}",
+              "type": "color"
+            }
+          },
+          "bg-color": {
+            "default": {
+              "value": "{semantic.neutral.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.neutral.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.neutral.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.neutral.muted}",
+              "type": "color"
+            },
+            "quiet": {
+              "value": "{color.neutrals.transparent}",
+              "type": "color"
             }
           }
         }
