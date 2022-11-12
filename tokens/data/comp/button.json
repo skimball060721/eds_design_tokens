@@ -154,16 +154,16 @@
           "value": "{semantic.color.actions.secondary.bg-color.default}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.actions.secondary.text-color.on-secondary}",
-          "type": "color"
-        },
         "border-color": {
           "value": "{semantic.color.actions.secondary.border-color.default}",
           "type": "color"
         },
         "icon-color": {
           "value": "{semantic.color.actions.secondary.icon-color.on-secondary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.secondary.text-color.on-secondary}",
           "type": "color"
         }
       },
@@ -172,16 +172,16 @@
           "value": "{semantic.color.actions.secondary.bg-color.hover}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.actions.secondary.hover.text-color}",
-          "type": "color"
-        },
         "border-color": {
           "value": "{semantic.color.actions.secondary.border-color.hover}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.hover.icon-color}",
+          "value": "{semantic.color.actions.secondary.icon-color.on-secondary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.secondary.text-color.on-secondary}",
           "type": "color"
         }
       },
@@ -190,16 +190,16 @@
           "value": "{semantic.color.actions.secondary.bg-color.active}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.actions.secondary.active.text-color}",
-          "type": "color"
-        },
         "border-color": {
           "value": "{semantic.color.actions.secondary.border-color.active}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.active.icon-color}",
+          "value": "{semantic.color.actions.secondary.icon-color.on-secondary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.secondary.text-color.on-secondary}",
           "type": "color"
         }
       },
@@ -208,16 +208,16 @@
           "value": "{semantic.color.actions.secondary.bg-color.disabled}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.actions.secondary.disabled.text-color}",
-          "type": "color"
-        },
         "border-color": {
           "value": "{semantic.color.actions.secondary.border-color.disabled}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.secondary.disabled.icon-color}",
+          "value": "{semantic.color.actions.secondary.icon-color.on-secondary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.actions.secondary.text-color.on-secondary}",
           "type": "color"
         }
       },
@@ -227,10 +227,6 @@
             "value": "{semantic.color.actions.secondary.bg-color.quiet}",
             "type": "color"
           },
-          "text-color": {
-            "value": "{semantic.color.actions.secondary.text-color.default}",
-            "type": "color"
-          },
           "border-color": {
             "value": "{semantic.color.actions.secondary.border-color.quiet}",
             "type": "color"
@@ -238,59 +234,63 @@
           "icon-color": {
             "value": "{semantic.color.actions.secondary.icon-color.default}",
             "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.secondary.text-color.default}",
+            "type": "color"
           }
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.secondary.hover.quiet.bg-color}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.actions.secondary.text-color.hover}",
+            "value": "{semantic.color.actions.secondary.bg-color.quiet}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.actions.secondary.hover.quiet.border-color}",
+            "value": "{semantic.color.actions.secondary.border-color.quiet}",
             "type": "color"
           },
           "icon-color": {
             "value": "{semantic.color.actions.secondary.icon-color.hover}",
             "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.secondary.text-color.hover}",
+            "type": "color"
           }
         },
         "active": {
           "bg-color": {
-            "value": "{semantic.color.actions.secondary.active.quiet.bg-color}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.actions.secondary.text-color.active}",
+            "value": "{semantic.color.actions.secondary.bg-color.quiet}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.actions.secondary.active.quiet.border-color}",
+            "value": "{semantic.color.actions.secondary.border-color.quiet}",
             "type": "color"
           },
           "icon-color": {
             "value": "{semantic.color.actions.secondary.icon-color.active}",
             "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.secondary.text-color.active}",
+            "type": "color"
           }
         },
         "disabled": {
           "bg-color": {
-            "value": "{semantic.color.actions.secondary.disabled.quiet.bg-color}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.actions.secondary.text-color.disabled}",
+            "value": "{semantic.color.actions.secondary.bg-color.quiet}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.actions.secondary.disabled.quiet.border-color}",
+            "value": "{semantic.color.actions.secondary.border-color.quiet}",
             "type": "color"
           },
           "icon-color": {
             "value": "{semantic.color.actions.secondary.icon-color.disabled}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.secondary.text-color.disabled}",
             "type": "color"
           }
         }
