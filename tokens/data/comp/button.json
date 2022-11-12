@@ -92,24 +92,6 @@
             "type": "color"
           }
         },
-        "active": {
-          "bg-color": {
-            "value": "{semantic.color.actions.primary.bg-color.quiet}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.color.actions.primary.border-color.quiet}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.actions.primary.text-color.active}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.color.actions.primary.icon-color.active}",
-            "type": "color"
-          }
-        },
         "hover": {
           "bg-color": {
             "value": "{semantic.color.actions.primary.bg-color.quiet}",
@@ -125,6 +107,24 @@
           },
           "icon-color": {
             "value": "{semantic.color.actions.primary.icon-color.hover}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg-color": {
+            "value": "{semantic.color.actions.primary.bg-color.quiet}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.primary.border-color.quiet}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.actions.primary.text-color.active}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.actions.primary.icon-color.active}",
             "type": "color"
           }
         },
