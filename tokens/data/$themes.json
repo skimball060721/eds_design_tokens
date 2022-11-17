@@ -29,7 +29,8 @@
       "comp/headline": "disabled",
       "comp/heading": "disabled",
       "comp/input": "disabled",
-      "comp/tag": "disabled"
+      "comp/tag": "disabled",
+      "comp/checkbox": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -63,7 +64,8 @@
       "comp/headline": "disabled",
       "comp/heading": "disabled",
       "comp/input": "disabled",
-      "comp/tag": "disabled"
+      "comp/tag": "disabled",
+      "comp/checkbox": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -97,7 +99,8 @@
       "comp/headline": "enabled",
       "comp/heading": "enabled",
       "comp/input": "disabled",
-      "comp/tag": "disabled"
+      "comp/tag": "disabled",
+      "comp/checkbox": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:00741b3674a544c0e4b51a54d3e215f7acb0d1c4,",
@@ -769,7 +772,8 @@
       "comp/headline": "enabled",
       "comp/heading": "enabled",
       "comp/input": "enabled",
-      "comp/tag": "enabled"
+      "comp/tag": "enabled",
+      "comp/checkbox": "enabled"
     },
     "$figmaStyleReferences": {
       "tag.neutral.bg-color": "S:e4129ebcf0245841f95fd326b643c36666122cc3,",
