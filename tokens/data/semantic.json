@@ -53,6 +53,10 @@
         "lg": {
           "value": "{semantic.component.lg}",
           "type": "sizing"
+        },
+        "xxl": {
+          "value": "{size.1450}",
+          "type": "sizing"
         }
       },
       "icons": {

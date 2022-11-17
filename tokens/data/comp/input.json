@@ -16,6 +16,10 @@
       "lg": {
         "value": "{semantic.sizing.inputs.lg}",
         "type": "sizing"
+      },
+      "xxl": {
+        "value": "{semantic.sizing.inputs.xxl}",
+        "type": "sizing"
       }
     },
     "itemSpacing": {
@@ -98,6 +102,18 @@
           "height": "{input.height.lg}"
         },
         "type": "composition"
+      },
+      "xxl": {
+        "value": {
+          "paddingTop": "{input.padding-top}",
+          "paddingRight": "{input.padding-right}",
+          "paddingBottom": "{input.padding-bottom}",
+          "paddingLeft": "{input.padding-left}",
+          "borderRadius": "{input.border-radius}",
+          "borderWidth": "{input.border-width.default}",
+          "height": "{input.height.xxl}"
+        },
+        "type": "composition"
       }
     },
     "filled": {
@@ -168,6 +184,18 @@
           "borderRadius": "{input.border-radius}",
           "borderWidth": "{input.border-width.active}",
           "height": "{input.height.lg}"
+        },
+        "type": "composition"
+      },
+      "xxl": {
+        "value": {
+          "paddingTop": "{input.padding-top}",
+          "paddingRight": "{input.padding-right}",
+          "paddingBottom": "{input.padding-bottom}",
+          "paddingLeft": "{input.padding-left}",
+          "borderRadius": "{input.border-radius}",
+          "borderWidth": "{input.border-width.active}",
+          "height": "{input.height.xxl}"
         },
         "type": "composition"
       }

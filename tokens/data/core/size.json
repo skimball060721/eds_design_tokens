@@ -63,6 +63,10 @@
     "850": {
       "value": "68",
       "type": "sizing"
+    },
+    "1450": {
+      "value": "116",
+      "type": "sizing"
     }
   }
 }
