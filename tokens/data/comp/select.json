@@ -104,7 +104,7 @@
         "type": "color"
       },
       "text-color": {
-        "value": "{semantic.color.inputs.text-color.placeholder}",
+        "value": "{semantic.color.inputs.text-color.default}",
         "type": "color"
       },
       "border-color": {
