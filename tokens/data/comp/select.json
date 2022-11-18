@@ -170,34 +170,6 @@
         "type": "color"
       }
     },
-    "success": {
-      "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
-        "type": "color"
-      },
-      "text-color": {
-        "value": "{semantic.color.inputs.text-color.default}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{semantic.color.inputs.border-color.success}",
-        "type": "color"
-      }
-    },
-    "warning": {
-      "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
-        "type": "color"
-      },
-      "text-color": {
-        "value": "{semantic.color.inputs.text-color.default}",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "{semantic.color.inputs.border-color.warning}",
-        "type": "color"
-      }
-    },
     "danger": {
       "bg-color": {
         "value": "{semantic.color.inputs.bg-color}",
