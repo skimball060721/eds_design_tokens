@@ -773,7 +773,8 @@
       "comp/heading": "enabled",
       "comp/input": "enabled",
       "comp/tag": "enabled",
-      "comp/checkbox": "enabled"
+      "comp/checkbox": "enabled",
+      "comp/select": "enabled"
     },
     "$figmaStyleReferences": {
       "tag.neutral.bg-color": "S:e4129ebcf0245841f95fd326b643c36666122cc3,",
