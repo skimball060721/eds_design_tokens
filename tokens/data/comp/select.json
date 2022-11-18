@@ -1,100 +1,50 @@
 {
   "select": {
     "icon-size": {
-      "sm": {
-        "value": "{semantic.font-size.actions.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{semantic.font-size.actions.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{semantic.font-size.actions.lg}",
-        "type": "sizing"
-      }
+      "value": "{semantic.font-size.inputs}",
+      "type": "sizing"
     },
     "height": {
       "sm": {
-        "value": "{semantic.sizing.actions.sm}",
+        "value": "{semantic.sizing.inputs.sm}",
         "type": "sizing"
       },
       "md": {
-        "value": "{semantic.sizing.actions.md}",
+        "value": "{semantic.sizing.inputs.md}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{semantic.sizing.actions.lg}",
+        "value": "{semantic.sizing.inputs.lg}",
         "type": "sizing"
       }
     },
     "padding-left": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-left.sm}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-left.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-left.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.inputs.padding-left}",
+      "type": "spacing"
     },
     "padding-right": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-right.sm}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-right.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-right.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.inputs.padding-right}",
+      "type": "spacing"
     },
     "padding-top": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-top.sm}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-top.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-top.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.inputs.padding-top}",
+      "type": "spacing"
     },
     "padding-bottom": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-bottom.sm}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-bottom.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-bottom.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.inputs.padding-bottom}",
+      "type": "spacing"
     },
     "itemSpacing": {
+      "xs": {
+        "value": "{semantic.spacing.inputs.itemSpacing.xs}",
+        "type": "spacing"
+      },
       "sm": {
-        "value": "{semantic.spacing.actions.itemSpacing.sm}",
+        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
         "type": "spacing"
       },
       "md": {
-        "value": "{semantic.spacing.actions.itemSpacing.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.itemSpacing.lg}",
+        "value": "{semantic.spacing.inputs.itemSpacing.md}",
         "type": "spacing"
       }
     },
@@ -114,6 +64,42 @@
       "icon-color": {
         "value": "{semantic.color.inputs.icon-color.default}",
         "type": "color"
+      },
+      "sm": {
+        "value": {
+          "height": "{select.height.sm}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.default}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{select.height.md}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.default}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{select.height.lg}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.default}"
+        },
+        "type": "composition"
       }
     },
     "filled": {
@@ -150,6 +136,42 @@
       "icon-color": {
         "value": "{semantic.color.inputs.icon-color.default}",
         "type": "color"
+      },
+      "sm": {
+        "value": {
+          "height": "{select.height.sm}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.active}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "{select.height.md}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.active}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "{select.height.lg}",
+          "paddingTop": "{select.padding-top}",
+          "paddingRight": "{select.padding-right}",
+          "paddingBottom": "{select.padding-bottom}",
+          "paddingLeft": "{select.padding-left}",
+          "borderRadius": "{select.border-radius}",
+          "borderWidth": "{select.border-width.active}"
+        },
+        "type": "composition"
       }
     },
     "disabled": {
@@ -185,60 +207,22 @@
       }
     },
     "border-radius": {
-      "value": "{semantic.border-radius.actions}",
+      "value": "{semantic.border-radius.inputs}",
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.border-width.actions}",
-      "type": "borderWidth"
-    },
-    "sm": {
-      "value": {
-        "height": "{btn.height.sm}",
-        "paddingTop": "{btn.padding-top.sm}",
-        "paddingRight": "{btn.padding-right.sm}",
-        "paddingBottom": "{btn.padding-bottom.sm}",
-        "paddingLeft": "{btn.padding-left.sm}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "{btn.border-width}"
+      "default": {
+        "value": "{semantic.border-width.inputs.sm}",
+        "type": "borderWidth"
       },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "height": "{btn.height.md}",
-        "paddingTop": "{btn.padding-top.md}",
-        "paddingRight": "{btn.padding-right.md}",
-        "paddingBottom": "{btn.padding-bottom.md}",
-        "paddingLeft": "{btn.padding-left.md}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "{btn.border-width}"
-      },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "height": "{btn.height.lg}",
-        "paddingTop": "{btn.padding-top.lg}",
-        "paddingRight": "{btn.padding-right.lg}",
-        "paddingBottom": "{btn.padding-bottom.lg}",
-        "paddingLeft": "{btn.padding-left.lg}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "{btn.border-width}"
-      },
-      "type": "composition"
+      "active": {
+        "value": "{semantic.border-width.inputs.md}",
+        "type": "borderWidth"
+      }
     },
     "text-content": {
-      "sm": {
-        "value": "{semantic.actions.button.sm}",
-        "type": "typography"
-      },
       "md": {
-        "value": "{semantic.actions.button.md}",
-        "type": "typography"
-      },
-      "lg": {
-        "value": "{semantic.actions.button.lg}",
+        "value": "{semantic.inputs.content}",
         "type": "typography"
       }
     }
