@@ -1914,6 +1914,10 @@
           }
         },
         "body": {
+          "light": {
+            "value": "{font-weight.light}",
+            "type": "fontWeights"
+          },
           "regular": {
             "value": "{font-weight.regular}",
             "type": "fontWeights"

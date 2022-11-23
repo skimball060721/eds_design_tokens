@@ -19,7 +19,7 @@
     "value": "{semantic.typography.heading3}",
     "type": "typography"
   },
-  "title": {
+  "title1": {
     "value": {
       "fontFamily": "{semantic.font-family.typography.body}",
       "fontWeight": "{semantic.font-weight.typography.body.bold}",
@@ -27,6 +27,17 @@
       "textCase": "{text-case.uppercase}",
       "letterSpacing": "{semantic.letter-spacing.typography.body.sm}",
       "lineHeight": "{semantic.line-height.typography.body.200}"
+    },
+    "type": "typography"
+  },
+  "title2": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.bold}",
+      "fontSize": "{semantic.font-size.typography.body.lg}",
+      "textCase": "{text-case.none}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "lineHeight": "{semantic.line-height.typography.body.300}"
     },
     "type": "typography"
   },
