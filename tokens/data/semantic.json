@@ -345,16 +345,16 @@
         "value": "{color.neutrals.white}",
         "type": "color"
       },
-      "canvas": {
-        "value": "{color.neutrals.white}",
-        "type": "color"
-      },
       "muted": {
         "value": "{color.grey.500}",
         "type": "color"
       },
       "subtle": {
         "value": "{color.grey.400}",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.grey.100}",
         "type": "color"
       }
     },
