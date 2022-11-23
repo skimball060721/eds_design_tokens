@@ -1,64 +1,4 @@
 {
-  "semantic": {
-    "primary": {
-      "default": {
-        "value": "{color.purple.400}",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "default": {
-        "value": "{color.orange.400}",
-        "type": "color"
-      }
-    },
-    "tertiary": {
-      "default": {
-        "value": "{color.teal.400}",
-        "type": "color"
-      }
-    },
-    "color": {
-      "docs": {
-        "primary": {
-          "fg": {
-            "value": "{semantic.primary.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.primary.default}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "fg": {
-            "value": "{semantic.secondary.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.secondary.default}",
-            "type": "color"
-          }
-        },
-        "tertiary": {
-          "fg": {
-            "value": "{semantic.tertiary.default}",
-            "type": "color"
-          },
-          "icon-color": {
-            "value": "{semantic.tertiary.default}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "font-size": {
-      "base": {
-        "value": "{font-size.3}",
-        "type": "fontSizes"
-      }
-    }
-  },
   "headline1": {
     "value": "{semantic.typography.headline1}",
     "type": "typography"
@@ -123,5 +63,13 @@
       "textDecoration": "none"
     },
     "type": "typography"
+  },
+  "semantic": {
+    "font-size": {
+      "base": {
+        "value": "{font-size.3}",
+        "type": "fontSizes"
+      }
+    }
   }
 }
