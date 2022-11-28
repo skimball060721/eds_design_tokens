@@ -6,5 +6,19 @@
         "type": "fontSizes"
       }
     }
+  },
+  "utilities": {
+    "height": {
+      "header": {
+        "sm": {
+          "value": "{size.500}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{size.2000}",
+          "type": "sizing"
+        }
+      }
+    }
   }
 }
