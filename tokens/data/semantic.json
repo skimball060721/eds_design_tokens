@@ -338,6 +338,10 @@
       "accent": {
         "value": "{semantic.primary.default}",
         "type": "color"
+      },
+      "on-strong": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     },
     "bg": {
@@ -355,6 +359,10 @@
       },
       "canvas": {
         "value": "{color.grey.100}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.neutrals.black}",
         "type": "color"
       }
     },
@@ -1413,50 +1421,6 @@
         "accent": {
           "value": "{semantic.primary.default}",
           "type": "color"
-        }
-      },
-      "utilities": {
-        "bg-color": {
-          "strong": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          },
-          "surface": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          }
-        },
-        "text-color": {
-          "coreText": {
-            "value": "{color.grey.700}",
-            "type": "color"
-          },
-          "on-bg": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "deemphasizedText": {
-            "value": "{color.grey.300}",
-            "type": "color"
-          }
-        },
-        "fg-color": {
-          "subtle": {
-            "value": "{color.grey.300}",
-            "type": "color"
-          },
-          "abarca": {
-            "value": "{color.purple.base}",
-            "type": "color"
-          },
-          "darwin": {
-            "value": "{color.orange.base}",
-            "type": "color"
-          },
-          "hd": {
-            "value": "{color.teal.base}",
-            "type": "color"
-          }
         }
       }
     },
