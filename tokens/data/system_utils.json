@@ -39,42 +39,6 @@
     "deemphasizedText": {
       "value": "{color.grey.300}",
       "type": "color"
-    },
-    "heading1": {
-      "value": {
-        "fontFamily": "{semantic.font-family.typography.headings}",
-        "fontWeight": "{semantic.font-weight.typography.headings.regular}",
-        "lineHeight": "AUTO",
-        "fontSize": "{semantic.font-size.typography.heading.xxl}",
-        "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-        "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-        "textCase": "{semantic.text-case.typography.headings}"
-      },
-      "type": "typography"
-    },
-    "heading2": {
-      "value": {
-        "fontFamily": "{semantic.font-family.typography.headings}",
-        "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-        "lineHeight": "AUTO",
-        "fontSize": "{semantic.font-size.typography.heading.lg}",
-        "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
-        "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
-        "textCase": "{semantic.text-case.typography.headings}"
-      },
-      "type": "typography"
-    },
-    "title": {
-      "value": {
-        "fontFamily": "{semantic.font-family.typography.body}",
-        "fontWeight": "{semantic.font-weight.typography.body.bold}",
-        "lineHeight": "AUTO",
-        "fontSize": "{semantic.font-size.typography.body.sm}",
-        "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-        "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography"
     }
   }
 }
