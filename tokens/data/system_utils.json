@@ -6,39 +6,5 @@
         "type": "fontSizes"
       }
     }
-  },
-  "fg": {
-    "accent1": {
-      "value": "{color.purple.base}",
-      "type": "color"
-    },
-    "accent2": {
-      "value": "{color.orange.base}",
-      "type": "color"
-    },
-    "accent3": {
-      "value": "{color.teal.base}",
-      "type": "color"
-    }
-  },
-  "bg": {
-    "strong": {
-      "value": "{color.neutrals.black}",
-      "type": "color"
-    }
-  },
-  "typography": {
-    "on-bg": {
-      "value": "{color.neutrals.white}",
-      "type": "color"
-    },
-    "coreText": {
-      "value": "{color.grey.700}",
-      "type": "color"
-    },
-    "deemphasizedText": {
-      "value": "{color.grey.300}",
-      "type": "color"
-    }
   }
 }
