@@ -19,6 +19,30 @@
           "type": "sizing"
         }
       }
+    },
+    "spacing": {
+      "sm": {
+        "value": "{space.200}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "sm": {
+          "value": "{utilities.spacing.sm}",
+          "type": "spacing"
+        }
+      },
+      "padding-right": {
+        "sm": {
+          "value": "{utilities.spacing.sm}",
+          "type": "spacing"
+        }
+      },
+      "itemSpacing": {
+        "sm": {
+          "value": "{utilities.spacing.sm}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }
