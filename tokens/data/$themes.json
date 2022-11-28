@@ -1478,5 +1478,41 @@
       "icon-btn.neutral.quiet.disabled.border-color": "S:e7c36f7e2810c7c47094a28b4a2fbc8ed404040f,",
       "icon-btn.neutral.quiet.disabled.icon-color": "S:1c4eb87ceb5c0e39c20aca59a8017d9a378602d2,"
     }
+  },
+  {
+    "id": "0ebb97d70843f7ad877d96241769c112b2ca2d9c",
+    "name": "System Utilities",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/size": "source",
+      "core/space": "source",
+      "core/border": "source",
+      "core/typography": "source",
+      "semantic": "enabled",
+      "breakpoints/xs": "disabled",
+      "breakpoints/sm": "disabled",
+      "breakpoints/md": "disabled",
+      "breakpoints/lg": "disabled",
+      "breakpoints/xl": "disabled",
+      "breakpoints/xxl": "disabled",
+      "darwin/light": "disabled",
+      "darwin/dark": "disabled",
+      "hd/triple-s/light": "disabled",
+      "hd/triple-s/dark": "disabled",
+      "hd/alivia/light": "disabled",
+      "hd/alivia/dark": "disabled",
+      "system_utils": "enabled",
+      "comp/button": "disabled",
+      "comp/icon-button": "disabled",
+      "comp/badge": "disabled",
+      "comp/alert": "disabled",
+      "comp/headline": "disabled",
+      "comp/heading": "disabled",
+      "comp/input": "disabled",
+      "comp/tag": "disabled",
+      "comp/checkbox": "disabled",
+      "comp/select": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
