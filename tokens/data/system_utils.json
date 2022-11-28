@@ -1,80 +1,4 @@
 {
-  "headline1": {
-    "value": "{semantic.typography.headline1}",
-    "type": "typography"
-  },
-  "headline2": {
-    "value": "{semantic.typography.headline2}",
-    "type": "typography"
-  },
-  "heading1": {
-    "value": "{semantic.typography.heading1}",
-    "type": "typography"
-  },
-  "heading2": {
-    "value": "{semantic.typography.heading2}",
-    "type": "typography"
-  },
-  "heading3": {
-    "value": "{semantic.typography.heading3}",
-    "type": "typography"
-  },
-  "title1": {
-    "value": {
-      "fontFamily": "{semantic.font-family.typography.body}",
-      "fontWeight": "{semantic.font-weight.typography.body.bold}",
-      "fontSize": "{semantic.font-size.typography.body.sm}",
-      "textCase": "{text-case.uppercase}",
-      "letterSpacing": "{semantic.letter-spacing.typography.body.sm}",
-      "lineHeight": "{semantic.line-height.typography.body.200}"
-    },
-    "type": "typography"
-  },
-  "title2": {
-    "value": {
-      "fontFamily": "{semantic.font-family.typography.body}",
-      "fontWeight": "{semantic.font-weight.typography.body.bold}",
-      "fontSize": "{semantic.font-size.typography.body.lg}",
-      "textCase": "{text-case.none}",
-      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-      "lineHeight": "{semantic.line-height.typography.body.300}"
-    },
-    "type": "typography"
-  },
-  "body": {
-    "value": "{semantic.typography.body}",
-    "type": "typography"
-  },
-  "caption": {
-    "value": "{semantic.typography.caption}",
-    "type": "typography"
-  },
-  "code1": {
-    "value": {
-      "fontFamily": "{font-family.ibmPlexMono}",
-      "fontWeight": "{semantic.font-weight.typography.body.mono}",
-      "fontSize": "{semantic.font-size.typography.body.md}",
-      "textCase": "{semantic.text-case.typography.body}",
-      "lineHeight": "{semantic.line-height.typography.body.300}",
-      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-      "paragraphSpacing": "0",
-      "textDecoration": "none"
-    },
-    "type": "typography"
-  },
-  "code2": {
-    "value": {
-      "fontFamily": "{font-family.ibmPlexMono}",
-      "fontWeight": "{semantic.font-weight.typography.body.mono}",
-      "fontSize": "{semantic.font-size.typography.body.sm}",
-      "textCase": "{semantic.text-case.typography.body}",
-      "lineHeight": "{semantic.line-height.typography.body.200}",
-      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-      "paragraphSpacing": "0",
-      "textDecoration": "none"
-    },
-    "type": "typography"
-  },
   "semantic": {
     "font-size": {
       "base": {
@@ -116,5 +40,17 @@
       "value": "{color.grey.300}",
       "type": "color"
     }
+  },
+  "heading1": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.headings}",
+      "fontWeight": "{semantic.font-weight.typography.headings.regular}",
+      "lineHeight": "AUTO",
+      "fontSize": "{semantic.font-size.typography.heading.xxl}",
+      "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+      "textCase": "{semantic.text-case.typography.headings}"
+    },
+    "type": "typography"
   }
 }
