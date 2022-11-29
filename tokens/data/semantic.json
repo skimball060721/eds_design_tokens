@@ -1969,6 +1969,10 @@
         "type": "fontSizes"
       },
       "scale": {
+        "0": {
+          "value": "{semantic.font-size.base}",
+          "type": "fontSizes"
+        },
         "value": "{font-scale.majorThird}",
         "type": "other"
       },
