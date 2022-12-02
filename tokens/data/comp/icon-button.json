@@ -711,18 +711,8 @@
       }
     },
     "icon-size": {
-      "sm": {
-        "value": "{icon-btn.font-size.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{icon-btn.font-size.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{icon-btn.font-size.lg}",
-        "type": "sizing"
-      }
+      "value": "{icon-btn.font-size.lg}",
+      "type": "sizing"
     },
     "height": {
       "sm": {
