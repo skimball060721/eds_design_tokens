@@ -803,7 +803,25 @@
       "icon-btn.neutral.quiet.active.icon-color": "S:6b7cce3cf2deeacc28567f4199c66185d40feedc,",
       "icon-btn.neutral.quiet.disabled.bg-color": "S:6a4f634beb111a3e226a1e53e033b9512432661f,",
       "icon-btn.neutral.quiet.disabled.border-color": "S:e7c36f7e2810c7c47094a28b4a2fbc8ed404040f,",
-      "icon-btn.neutral.quiet.disabled.icon-color": "S:1c4eb87ceb5c0e39c20aca59a8017d9a378602d2,"
+      "icon-btn.neutral.quiet.disabled.icon-color": "S:1c4eb87ceb5c0e39c20aca59a8017d9a378602d2,",
+      "select.default.bg-color": "S:14c4228415c760f9c02d5c5af9cf2d6f7442c064,",
+      "select.default.text-color": "S:63f14eca0831a4b0636bbd733506680820eec599,",
+      "select.default.border-color": "S:333f09bccc08a0ec73120ffcefc504973639412e,",
+      "select.default.icon-color": "S:1ff321dbb9a4c9c0bc369d0f4fb7f73da72473bc,",
+      "select.active.bg-color": "S:bde6f7dd2161148b99d2cf67c4a6467057d85fd4,",
+      "select.active.text-color": "S:8d4bdc61d41c79f3b84bece0debedd907815a3f9,",
+      "select.active.border-color": "S:a23b02b755d630e9e07bfbbe3c91ff56c4434de7,",
+      "select.active.icon-color": "S:dd904ced8a35ffe9433dd06c02fa0b4b0bf9aab0,",
+      "select.disabled.bg-color": "S:8cb48eb339f69bef1389566b08871ba7d605df00,",
+      "select.disabled.text-color": "S:512c56448f73c37a7d0fafad862b6861c08763b6,",
+      "select.disabled.border-color": "S:b4a5615707e33ca4b4fc5ecda4e1cd91a9690bf7,",
+      "select.disabled.icon-color": "S:04bdef976d9c575424da43533503b76225e9b4f2,",
+      "select.danger.bg-color": "S:c65e04a628ed16ec1c566efb9b7d47a699a5e9f4,",
+      "select.danger.text-color": "S:d07328f63fe0952328584346604b6e105ffb0336,",
+      "select.danger.border-color": "S:2278515eda81cdc2a6b875ab54123f6467d7885d,",
+      "semantic.fg.accent": "S:b311826f17791ac7d27f5df84cf0881c384a1dc2,",
+      "semantic.fg.on-strong": "S:7380ab8dc8cf2062e416843e640ee73586354ad2,",
+      "semantic.bg.strong": "S:b941833a4051402817a7b2011dbf8f48239257b2,"
     }
   },
   {
