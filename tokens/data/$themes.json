@@ -870,7 +870,7 @@
       "core/border": "source",
       "core/typography": "source",
       "comp/button": "enabled",
-      "semantic": "enabled",
+      "semantic": "source",
       "breakpoints/xs": "disabled",
       "breakpoints/sm": "disabled",
       "breakpoints/md": "disabled",
