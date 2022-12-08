@@ -48,11 +48,11 @@
     },
     "neutral": {
       "border-color": {
-        "value": "{semantic.color.status.border-color.success}",
+        "value": "{semantic.color.status.border-color.neutral.strong}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{semantic.color.status.bg-color.success}",
+        "value": "{semantic.color.status.bg-color.neutral.strong}",
         "type": "color"
       },
       "text-color": {
