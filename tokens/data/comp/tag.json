@@ -55,11 +55,11 @@
     },
     "neutral": {
       "bg-color": {
-        "value": "{semantic.color.status.bg-color.neutral}",
+        "value": "{semantic.color.status.bg-color.neutral.subtle}",
         "type": "color"
       },
       "border-color": {
-        "value": "{semantic.color.status.border-color.neutral}",
+        "value": "{semantic.color.status.border-color.neutral.subtle}",
         "type": "color"
       },
       "text-color": {

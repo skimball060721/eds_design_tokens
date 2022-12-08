@@ -46,6 +46,24 @@
         "type": "color"
       }
     },
+    "neutral": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.success}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.success}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.white}",
+        "type": "color"
+      }
+    },
     "warning": {
       "border-color": {
         "value": "{semantic.color.status.border-color.warning}",

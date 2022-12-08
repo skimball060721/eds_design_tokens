@@ -1342,8 +1342,14 @@
       "status": {
         "border-color": {
           "neutral": {
-            "value": "{semantic.neutral.subtle}",
-            "type": "color"
+            "subtle": {
+              "value": "{semantic.neutral.subtle}",
+              "type": "color"
+            },
+            "strong": {
+              "value": "{semantic.neutral.strong}",
+              "type": "color"
+            }
           },
           "success": {
             "value": "{semantic.success.default}",
@@ -1384,8 +1390,14 @@
         },
         "bg-color": {
           "neutral": {
-            "value": "{semantic.neutral.subtle}",
-            "type": "color"
+            "subtle": {
+              "value": "{semantic.neutral.subtle}",
+              "type": "color"
+            },
+            "strong": {
+              "value": "{semantic.neutral.strong}",
+              "type": "color"
+            }
           },
           "success": {
             "value": "{semantic.success.default}",

@@ -668,7 +668,6 @@
       "semantic.color.inputs.border-color.success": "S:0c187f8cb8cd46425ff629fc035683bffb8338a8,",
       "semantic.color.inputs.border-color.warning": "S:4ed27f33509b7f6735247977b10d94c5bfaa3176,",
       "semantic.color.inputs.border-color.danger": "S:0a6be1f7e93be892aec6eb73c9eb705e526684e5,",
-      "semantic.color.status.border-color.neutral": "S:f3469f6efaec865405edea051d7fc820a9d33c87,",
       "semantic.color.status.border-color.success": "S:f2843b692f941e7746d12abf27dfa817d2669d03,",
       "semantic.color.status.border-color.warning": "S:fdc6eddb5f15aab6bd9f389eeb195a1b4f0075bd,",
       "semantic.color.status.border-color.danger": "S:6e955889bbd4843f46c87ca45253964826086128,",
@@ -677,7 +676,6 @@
       "semantic.color.status.text-color.white": "S:f6d257b97e8c1294ba496e5c0ebb5e026a9c506c,",
       "semantic.color.status.icon-color.black": "S:b122d97ee0b0b2ffb7771a63cfc3ac4ca53e04ee,",
       "semantic.color.status.icon-color.white": "S:28af07c0bc5ed1a5cd0cd7861198b109335ffda7,",
-      "semantic.color.status.bg-color.neutral": "S:23e251d8e0c51e14e4fa2d12165be34c95a010c0,",
       "semantic.color.status.bg-color.success": "S:4d02d759a249cbe4947dcfcf76e2ffa484f75a9e,",
       "semantic.color.status.bg-color.warning": "S:108e08a3cc10a30bbaf1683eb645976a15f255ab,",
       "semantic.color.status.bg-color.danger": "S:a02ae80ba4e4b70f765c08943babf1d8bfccc571,",
@@ -821,7 +819,9 @@
       "select.danger.border-color": "S:2278515eda81cdc2a6b875ab54123f6467d7885d,",
       "semantic.fg.accent": "S:b311826f17791ac7d27f5df84cf0881c384a1dc2,",
       "semantic.fg.on-strong": "S:7380ab8dc8cf2062e416843e640ee73586354ad2,",
-      "semantic.bg.strong": "S:b941833a4051402817a7b2011dbf8f48239257b2,"
+      "semantic.bg.strong": "S:b941833a4051402817a7b2011dbf8f48239257b2,",
+      "semantic.color.status.border-color.neutral.subtle": "S:f3469f6efaec865405edea051d7fc820a9d33c87,",
+      "semantic.color.status.bg-color.neutral.subtle": "S:23e251d8e0c51e14e4fa2d12165be34c95a010c0,"
     }
   },
   {
