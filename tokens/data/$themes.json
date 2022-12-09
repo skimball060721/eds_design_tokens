@@ -829,7 +829,13 @@
       "badge.neutral.icon-color": "S:e711afe786293aeab57cf51bf239c69aebcdf5a1,",
       "semantic.color.feedback.danger.on-bg": "S:a0bfe37a1054716efb0c5bde5f696c815607264d,",
       "semantic.color.status.border-color.neutral.strong": "S:7a96deec4ce7f42794b4f9383a2827d7442ea3ed,",
-      "semantic.color.status.bg-color.neutral.strong": "S:da473468a02ced0fb706f23ae7bad3193688a80b,"
+      "semantic.color.status.bg-color.neutral.strong": "S:da473468a02ced0fb706f23ae7bad3193688a80b,",
+      "alert.success.on-bg": "S:0b504d5937ad84b6b32479ee4b9294ca904f45b7,",
+      "alert.warning.on-bg": "S:df55c7a836b1147820551ee76a752e02c30cd4ab,",
+      "alert.info.on-bg": "S:4cc9386dc12001f719032a118765e8148b7f7491,",
+      "semantic.color.feedback.success.on-bg": "S:af655e496de6999663608bf60c90a7e289db1e42,",
+      "semantic.color.feedback.warning.on-bg": "S:3035edb6ca6a0f05d05876d973df855ee68ef8f2,",
+      "semantic.color.feedback.info.on-bg": "S:abcfc8ed68d5c84ce495856d7f6281997819c4d9,"
     }
   },
   {
