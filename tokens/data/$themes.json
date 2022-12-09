@@ -820,8 +820,16 @@
       "semantic.fg.accent": "S:b311826f17791ac7d27f5df84cf0881c384a1dc2,",
       "semantic.fg.on-strong": "S:7380ab8dc8cf2062e416843e640ee73586354ad2,",
       "semantic.bg.strong": "S:b941833a4051402817a7b2011dbf8f48239257b2,",
-      "semantic.color.status.border-color.neutral.subtle": "S:f3469f6efaec865405edea051d7fc820a9d33c87,",
-      "semantic.color.status.bg-color.neutral.subtle": "S:23e251d8e0c51e14e4fa2d12165be34c95a010c0,"
+      "semantic.color.status.border-color.neutral.subtle": "S:5525f0f42dc3bd353646a1f86b6f4431f494d8ce,",
+      "semantic.color.status.bg-color.neutral.subtle": "S:ba89be24aad290f00359e543534ce2979aac71c1,",
+      "alert.danger.on-bg": "S:ef7c709c64bc3d868d64ecd8df45b7f4c549c0d7,",
+      "badge.neutral.border-color": "S:9a1b6caaba8480c796b0c9d74cb89ae684fe5147,",
+      "badge.neutral.bg-color": "S:0451051fec7de2e66887569f7713a1cef1a38e15,",
+      "badge.neutral.text-color": "S:813be2d3e5d0727fccc21139b8d1bcc3b18ab513,",
+      "badge.neutral.icon-color": "S:e711afe786293aeab57cf51bf239c69aebcdf5a1,",
+      "semantic.color.feedback.danger.on-bg": "S:a0bfe37a1054716efb0c5bde5f696c815607264d,",
+      "semantic.color.status.border-color.neutral.strong": "S:7a96deec4ce7f42794b4f9383a2827d7442ea3ed,",
+      "semantic.color.status.bg-color.neutral.strong": "S:da473468a02ced0fb706f23ae7bad3193688a80b,"
     }
   },
   {
