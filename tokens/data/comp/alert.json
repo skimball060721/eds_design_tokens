@@ -17,6 +17,10 @@
         "value": "{semantic.color.feedback.success.text-color}",
         "type": "color"
       },
+      "on-bg": {
+        "value": "{semantic.color.feedback.success.on-bg}",
+        "type": "color"
+      },
       "on-success": {
         "value": "{semantic.color.feedback.success.on-success}",
         "type": "color"
@@ -37,6 +41,10 @@
       },
       "text-color": {
         "value": "{semantic.color.feedback.warning.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.warning.on-bg}",
         "type": "color"
       },
       "on-warning": {
@@ -85,6 +93,10 @@
       },
       "text-color": {
         "value": "{semantic.color.feedback.info.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.info.on-bg}",
         "type": "color"
       },
       "on-info": {

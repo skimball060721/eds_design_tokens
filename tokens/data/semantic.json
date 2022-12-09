@@ -1204,6 +1204,10 @@
             "type": "color"
           },
           "text-color": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "on-bg": {
             "value": "{semantic.color.typography.coreText}",
             "type": "color"
           },
@@ -1226,6 +1230,10 @@
             "type": "color"
           },
           "text-color": {
+            "value": "{semantic.color.typography.coreText}",
+            "type": "color"
+          },
+          "on-bg": {
             "value": "{semantic.color.typography.coreText}",
             "type": "color"
           },
@@ -1274,6 +1282,10 @@
             "type": "color"
           },
           "text-color": {
+            "value": "{semantic.info.default}",
+            "type": "color"
+          },
+          "on-bg": {
             "value": "{semantic.color.typography.coreText}",
             "type": "color"
           },
