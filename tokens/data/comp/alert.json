@@ -61,6 +61,10 @@
         "value": "{semantic.color.feedback.danger.text-color}",
         "type": "color"
       },
+      "on-bg": {
+        "value": "{semantic.color.feedback.danger.on-bg}",
+        "type": "color"
+      },
       "on-danger": {
         "value": "{semantic.color.feedback.danger.on-danger}",
         "type": "color"
