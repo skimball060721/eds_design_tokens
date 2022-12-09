@@ -1674,7 +1674,12 @@
       "btn.danger.quiet.disabled.bg-color": "S:447a9ff1bd159ce7d04aaf02ccf19d11d3d6a406,",
       "btn.danger.quiet.disabled.border-color": "S:34dc8048163c63a9bba7dd86b8853d165fec8643,",
       "btn.danger.quiet.disabled.text-color": "S:f183a73216c37ee9e39adc762181980617b1ec60,",
-      "btn.danger.quiet.disabled.icon-color": "S:fc9b19418bcd16e2873bb17555d67ac8db9243cf,"
+      "btn.danger.quiet.disabled.icon-color": "S:fc9b19418bcd16e2873bb17555d67ac8db9243cf,",
+      "alert.danger.on-bg": "S:32479349699cd8a28ce5aaaab3795e19fe4af258,",
+      "badge.neutral.border-color": "S:a8c95e43df3b0daafa0a7cda3854cf3de6f7b8c2,",
+      "badge.neutral.bg-color": "S:d122d95c9a4b4f4b0ab98a5778f2e3cc088abe0f,",
+      "badge.neutral.text-color": "S:bb3becbf70c7b3bd764ce0406ca87b405728941a,",
+      "badge.neutral.icon-color": "S:4953a8c5eb2a15a88f59e35f4780ad25440b82f4,"
     }
   }
 ]
