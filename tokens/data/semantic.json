@@ -1248,6 +1248,10 @@
             "type": "color"
           },
           "text-color": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "on-bg": {
             "value": "{semantic.color.typography.coreText}",
             "type": "color"
           },
