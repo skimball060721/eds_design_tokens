@@ -1765,7 +1765,13 @@
       "multiselect.unselected.default.icon-color": "S:17bf7de946c0b5cce30bd7929e8f2e06d264cf95,",
       "multiselect.unselected.hover.icon-color": "S:bc559539f2a0e76cf38c07c9092603990fc4f204,",
       "multiselect.selected.default.icon-color": "S:10487caf4da753a89db12a533369991e1aaebc43,",
-      "multiselect.selected.hover.icon-color": "S:8ca19b31422a6d04ce241c443dee9d38fdd07439,"
+      "multiselect.selected.hover.icon-color": "S:8ca19b31422a6d04ce241c443dee9d38fdd07439,",
+      "radio.unselected.default.icon-color": "S:6d4102eeb0a2c18cfbe315c490adc3c293f2ec15,",
+      "radio.unselected.disabled.icon-color": "S:27b39e728c99f8ea2fd56bb93296023bd38bb225,",
+      "radio.unselected.hover.icon-color": "S:adfd3f8f91abfa381c7d697538c9b0d3d2f20ecd,",
+      "radio.selected.default.icon-color": "S:8508b82b9e014c643fd72879a0c0bf43f822d29d,",
+      "radio.selected.hover.icon-color": "S:988fdd5ae304f3b9238f315fd88946562566b280,",
+      "radio.selected.disabled.icon-color": "S:4bb7763a67b048c73dd29cdc50e83ccca21231ed,"
     }
   }
 ]
