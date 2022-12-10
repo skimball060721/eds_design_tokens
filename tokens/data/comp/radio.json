@@ -19,13 +19,13 @@
     "unselected": {
       "default": {
         "icon-color": {
-          "value": "{semantic.color.actions.neutral.icon-color.default}",
+          "value": "{semantic.neutral.muted}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.hover}",
+          "value": "{semantic.primary.emphasized}",
           "type": "color"
         }
       }
@@ -33,13 +33,13 @@
     "selected": {
       "default": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.default}",
+          "value": "{semantic.primary.default}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.hover}",
+          "value": "{semantic.primary.emphasized}",
           "type": "color"
         }
       }
