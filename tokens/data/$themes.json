@@ -835,7 +835,14 @@
       "alert.info.on-bg": "S:4cc9386dc12001f719032a118765e8148b7f7491,",
       "semantic.color.feedback.success.on-bg": "S:af655e496de6999663608bf60c90a7e289db1e42,",
       "semantic.color.feedback.warning.on-bg": "S:3035edb6ca6a0f05d05876d973df855ee68ef8f2,",
-      "semantic.color.feedback.info.on-bg": "S:abcfc8ed68d5c84ce495856d7f6281997819c4d9,"
+      "semantic.color.feedback.info.on-bg": "S:abcfc8ed68d5c84ce495856d7f6281997819c4d9,",
+      "checkbox.unchecked.default.icon-color": "S:9eda77bcb3f7ea52cb3a386913a159db2283d09a,",
+      "checkbox.unchecked.hover.icon-color": "S:659b4852a3f5d4010a5f88e8c338d5ef0fe9d03e,",
+      "checkbox.unchecked.disabled.icon-color": "S:8bebd7515fb8a69416499361df8903a1c384b349,",
+      "checkbox.unchecked.error.icon-color": "S:21ac41ffcefe684940f09fb61356afdcf3298bab,",
+      "checkbox.checked.default.icon-color": "S:0d33011afc95b22c1672da1fb9ecf4ec09a0c231,",
+      "checkbox.checked.hover.icon-color": "S:8807dd5d5f7b8f7e3e61cd914f294dac0a3d4497,",
+      "checkbox.checked.disabled.icon-color": "S:e9972e812a5a4c9e9a4b381dd421010984eb086d,"
     }
   },
   {
