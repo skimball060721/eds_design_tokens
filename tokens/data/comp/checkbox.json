@@ -15,6 +15,52 @@
     "icon-size": {
       "value": "14",
       "type": "sizing"
+    },
+    "unchecked": {
+      "default": {
+        "icon-color": {
+          "value": "{semantic.neutral.muted}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "value": "{semantic.primary.emphasized}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "icon-color": {
+          "value": "{semantic.neutral.subtle}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "icon-color": {
+          "value": "{semantic.danger.default}",
+          "type": "color"
+        }
+      }
+    },
+    "checked": {
+      "default": {
+        "icon-color": {
+          "value": "{semantic.primary.default}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "value": "{semantic.primary.emphasized}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "icon-colo": {
+          "value": "{semantic.primary.muted}",
+          "type": "color"
+        }
+      }
     }
   }
 }
