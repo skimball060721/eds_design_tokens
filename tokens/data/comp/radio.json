@@ -23,6 +23,12 @@
           "type": "color"
         }
       },
+      "disabled": {
+        "icon-color": {
+          "value": "{semantic.neutral.subtle}",
+          "type": "color"
+        }
+      },
       "hover": {
         "icon-color": {
           "value": "{semantic.primary.emphasized}",
@@ -40,6 +46,12 @@
       "hover": {
         "icon-color": {
           "value": "{semantic.primary.emphasized}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "icon-color": {
+          "value": "{semantic.primary.muted}",
           "type": "color"
         }
       }
