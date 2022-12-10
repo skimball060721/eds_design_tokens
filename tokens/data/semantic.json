@@ -28,6 +28,10 @@
     },
     "sizing": {
       "actions": {
+        "xs": {
+          "value": "{semantic.component.xs}",
+          "type": "sizing"
+        },
         "sm": {
           "value": "{semantic.component.sm}",
           "type": "sizing"
