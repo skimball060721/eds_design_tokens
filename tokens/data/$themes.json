@@ -1760,7 +1760,11 @@
       "checkbox.unchecked.error.icon-color": "S:21ac41ffcefe684940f09fb61356afdcf3298bab,",
       "checkbox.checked.default.icon-color": "S:0d33011afc95b22c1672da1fb9ecf4ec09a0c231,",
       "checkbox.checked.hover.icon-color": "S:8807dd5d5f7b8f7e3e61cd914f294dac0a3d4497,",
-      "checkbox.checked.disabled.icon-color": "S:e9972e812a5a4c9e9a4b381dd421010984eb086d,"
+      "checkbox.checked.disabled.icon-color": "S:e9972e812a5a4c9e9a4b381dd421010984eb086d,",
+      "multiselect.unselected.default.icon-color": "S:17bf7de946c0b5cce30bd7929e8f2e06d264cf95,",
+      "multiselect.unselected.hover.icon-color": "S:bc559539f2a0e76cf38c07c9092603990fc4f204,",
+      "multiselect.selected.default.icon-color": "S:10487caf4da753a89db12a533369991e1aaebc43,",
+      "multiselect.selected.hover.icon-color": "S:8ca19b31422a6d04ce241c443dee9d38fdd07439,"
     }
   }
 ]
