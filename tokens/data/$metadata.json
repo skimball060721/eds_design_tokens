@@ -17,6 +17,7 @@
     "comp/checkbox",
     "comp/select",
     "comp/multiselect",
+    "comp/radio",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
