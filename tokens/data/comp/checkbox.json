@@ -61,6 +61,10 @@
           "type": "color"
         }
       }
+    },
+    "itemSpacing": {
+      "value": "{semantic.spacing.inputs.itemSpacing.sm}",
+      "type": "spacing"
     }
   }
 }
