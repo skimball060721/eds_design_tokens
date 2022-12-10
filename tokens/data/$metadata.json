@@ -16,6 +16,7 @@
     "comp/tag",
     "comp/checkbox",
     "comp/select",
+    "comp/multiselect",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
