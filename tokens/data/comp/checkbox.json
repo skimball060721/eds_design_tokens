@@ -56,7 +56,7 @@
         }
       },
       "disabled": {
-        "icon-colo": {
+        "icon-color": {
           "value": "{semantic.primary.muted}",
           "type": "color"
         }
