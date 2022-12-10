@@ -310,6 +310,10 @@
           "md": {
             "value": "{space.100}",
             "type": "spacing"
+          },
+          "lg": {
+            "value": "{space.200}",
+            "type": "spacing"
           }
         },
         "padding-top": {
