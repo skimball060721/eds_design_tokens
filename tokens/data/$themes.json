@@ -1773,7 +1773,8 @@
       "radio.selected.hover.icon-color": "S:988fdd5ae304f3b9238f315fd88946562566b280,",
       "radio.selected.disabled.icon-color": "S:4bb7763a67b048c73dd29cdc50e83ccca21231ed,",
       "semantic.color.inputs.icon-color.selected": "S:587b38879bf6538b2d6640f9d8cf554b22aff424,",
-      "semantic.color.inputs.icon-color.hover": "S:6a09f3887c43cd25a790dfb4c43e3d975cff415d,"
+      "semantic.color.inputs.icon-color.hover": "S:6a09f3887c43cd25a790dfb4c43e3d975cff415d,",
+      "semantic.color.inputs.icon-color.danger": "S:23d35c89d7c94ddba63854d8ff3331c544eb5ee5,"
     }
   }
 ]
