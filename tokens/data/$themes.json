@@ -1773,12 +1773,7 @@
       "radio.selected.disabled.icon-color": "S:4bb7763a67b048c73dd29cdc50e83ccca21231ed,",
       "semantic.color.inputs.icon-color.selected": "S:587b38879bf6538b2d6640f9d8cf554b22aff424,",
       "semantic.color.inputs.icon-color.hover": "S:6a09f3887c43cd25a790dfb4c43e3d975cff415d,",
-      "semantic.color.inputs.icon-color.danger": "S:23d35c89d7c94ddba63854d8ff3331c544eb5ee5,",
-      "input.success.icon-color": "S:3c8c15d51eb824dbf7786f0ac8fd296d0daa0271,",
-      "input.warning.icon-color": "S:2d1983d9e9b1879c60984413b2e5954648c7697a,",
-      "input.danger.icon-color": "S:d577f0ffde45c19a6f550d4dfb3f0a4789bcb7bf,",
-      "semantic.color.inputs.icon-color.success": "S:685ca07f2b1e9162c54fba7223156ec5fbc636e8,",
-      "semantic.color.inputs.icon-color.warning": "S:91f7bebffc6517e3bb2b9d7caad43da3938639e2,"
+      "semantic.color.inputs.icon-color.danger": "S:23d35c89d7c94ddba63854d8ff3331c544eb5ee5,"
     }
   }
 ]

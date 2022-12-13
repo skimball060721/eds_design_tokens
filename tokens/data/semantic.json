@@ -1313,12 +1313,16 @@
             "value": "{semantic.neutral.muted}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{semantic.neutral.subtle}",
+          "selected": {
+            "value": "{semantic.primary.default}",
             "type": "color"
           },
-          "danger": {
-            "value": "{semantic.danger.default}",
+          "hover": {
+            "value": "{semantic.primary.emphasized}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{semantic.neutral.subtle}",
             "type": "color"
           },
           "success": {
@@ -1329,12 +1333,8 @@
             "value": "{semantic.warning.default}",
             "type": "color"
           },
-          "selected": {
-            "value": "{semantic.primary.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.primary.emphasized}",
+          "danger": {
+            "value": "{semantic.danger.default}",
             "type": "color"
           }
         },
