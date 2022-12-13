@@ -2,13 +2,13 @@
   "multiselect": {
     "height": {
       "default": {
-        "value": "{semantic.sizing.actions.xs}",
+        "value": "{semantic.sizing.inputs.xs}",
         "type": "sizing"
       }
     },
     "width": {
       "default": {
-        "value": "{semantic.sizing.actions.xs}",
+        "value": "{semantic.sizing.inputs.xs}",
         "type": "sizing"
       }
     },
@@ -19,13 +19,13 @@
     "unselected": {
       "default": {
         "icon-color": {
-          "value": "{semantic.color.actions.neutral.icon-color.default}",
+          "value": "{semantic.color.inputs.icon-color.default}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.hover}",
+          "value": "{semantic.color.inputs.icon-color.hover}",
           "type": "color"
         }
       }
@@ -33,13 +33,13 @@
     "selected": {
       "default": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.default}",
+          "value": "{semantic.color.inputs.icon-color.selected}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.color.actions.primary.icon-color.hover}",
+          "value": "{semantic.color.inputs.icon-color.hover}",
           "type": "color"
         }
       }

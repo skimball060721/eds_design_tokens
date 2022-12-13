@@ -28,10 +28,6 @@
     },
     "sizing": {
       "actions": {
-        "xs": {
-          "value": "{semantic.component.xs}",
-          "type": "sizing"
-        },
         "sm": {
           "value": "{semantic.component.sm}",
           "type": "sizing"
@@ -1314,7 +1310,7 @@
         },
         "icon-color": {
           "default": {
-            "value": "{semantic.neutral.default}",
+            "value": "{semantic.neutral.muted}",
             "type": "color"
           },
           "disabled": {
@@ -1323,6 +1319,14 @@
           },
           "required": {
             "value": "{semantic.danger.default}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.primary.emphasized}",
             "type": "color"
           }
         },
