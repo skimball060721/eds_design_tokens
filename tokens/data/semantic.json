@@ -1317,12 +1317,16 @@
             "value": "{semantic.neutral.subtle}",
             "type": "color"
           },
-          "required": {
+          "danger": {
             "value": "{semantic.danger.default}",
             "type": "color"
           },
-          "danger": {
-            "value": "{semantic.danger.default}",
+          "success": {
+            "value": "{semantic.success.default}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{semantic.warning.default}",
             "type": "color"
           },
           "selected": {

@@ -1577,7 +1577,6 @@
       "semantic.color.inputs.bg-color": "S:a6cd61d7c37c6d2c8e7e6c81e490bdcf0e10e995,",
       "semantic.color.inputs.icon-color.default": "S:c195fec1e88fe2b881a541dc6a4d79f1d01b5732,",
       "semantic.color.inputs.icon-color.disabled": "S:fd53cb18f8d84cb1cdf61eec91c1bf10bd61e6d6,",
-      "semantic.color.inputs.icon-color.required": "S:cfe16075d93cbf2aef665e3997ca7848dddb2b5d,",
       "semantic.color.inputs.text-color.default": "S:39e23e10dbf7def726908906856dbf587657c37a,",
       "semantic.color.inputs.text-color.placeholder": "S:e78ae8c39e2e3d34e1803045adfce41ca02af753,",
       "semantic.color.inputs.text-color.disabled": "S:7e494dee8e57c674676e61af83620eb687536c83,",
