@@ -19,25 +19,25 @@
     "unchecked": {
       "default": {
         "icon-color": {
-          "value": "{semantic.neutral.muted}",
+          "value": "{semantic.color.inputs.icon-color.default}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.primary.emphasized}",
+          "value": "{semantic.color.inputs.icon-color.hover}",
           "type": "color"
         }
       },
       "disabled": {
         "icon-color": {
-          "value": "{semantic.neutral.subtle}",
+          "value": "{semantic.color.inputs.icon-color.disabled}",
           "type": "color"
         }
       },
       "error": {
         "icon-color": {
-          "value": "{semantic.danger.default}",
+          "value": "{semantic.color.inputs.icon-color.danger}",
           "type": "color"
         }
       }
@@ -45,19 +45,19 @@
     "checked": {
       "default": {
         "icon-color": {
-          "value": "{semantic.primary.default}",
+          "value": "{semantic.color.inputs.icon-color.selected}",
           "type": "color"
         }
       },
       "hover": {
         "icon-color": {
-          "value": "{semantic.primary.emphasized}",
+          "value": "{semantic.color.inputs.icon-color.hover}",
           "type": "color"
         }
       },
       "disabled": {
         "icon-color": {
-          "value": "{semantic.primary.muted}",
+          "value": "{semantic.color.inputs.icon-color.disabled}",
           "type": "color"
         }
       }

@@ -1321,6 +1321,10 @@
             "value": "{semantic.danger.default}",
             "type": "color"
           },
+          "danger": {
+            "value": "{semantic.danger.default}",
+            "type": "color"
+          },
           "selected": {
             "value": "{semantic.primary.default}",
             "type": "color"
