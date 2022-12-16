@@ -106,6 +106,20 @@
           "value": "{semantic.component.xl}",
           "type": "sizing"
         }
+      },
+      "tables": {
+        "sm": {
+          "value": "{semantic.component.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.component.md}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{semantic.component.lg}",
+          "type": "sizing"
+        }
       }
     },
     "spacing": {
@@ -1474,6 +1488,34 @@
           "value": "{semantic.primary.default}",
           "type": "color"
         }
+      },
+      "tables": {
+        "bg-color": {
+          "default": {
+            "value": "{semantic.bg.surface}",
+            "type": "color"
+          }
+        },
+        "text-color": {
+          "default": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          }
+        },
+        "border-color": {
+          "default": {
+            "value": "{semantic.neutral.muted}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.primary.emphasized}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.primary.strong}",
+            "type": "color"
+          }
+        }
       }
     },
     "border-radius": {
@@ -1487,6 +1529,10 @@
       },
       "feedback": {
         "value": "{border-radius.4}",
+        "type": "borderRadius"
+      },
+      "tables": {
+        "value": "{border-radius.0}",
         "type": "borderRadius"
       },
       "status": {
@@ -1524,6 +1570,16 @@
         },
         "md": {
           "value": "{border-width.2}",
+          "type": "borderWidth"
+        }
+      },
+      "tables": {
+        "sm": {
+          "value": "{border-width.1}",
+          "type": "borderWidth"
+        },
+        "md": {
+          "value": "{border-width.3}",
           "type": "borderWidth"
         }
       }
