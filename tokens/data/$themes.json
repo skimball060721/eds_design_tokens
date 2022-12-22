@@ -1805,7 +1805,8 @@
       "semantic.tables.footer": "S:f7bb83e492dd11d6ed30720e7fb00d0da7b8cef6,",
       "semantic.utilities.heading1": "S:8726bd64d9912e91e5612fc5c3917f3514b07cf2,",
       "semantic.utilities.heading2": "S:88b8b6b5fc92541f8d6bfc951adecf82992dcdb9,",
-      "semantic.utilities.title": "S:197b612c801b9f66518077d424e8fc5cb7010030,"
+      "semantic.utilities.title": "S:197b612c801b9f66518077d424e8fc5cb7010030,",
+      "semantic.color.tables.bg-color.header": "S:913c4b7dbec0ce6a2f62cc92ac6edbb1afcd5060,"
     }
   }
 ]
