@@ -1508,7 +1508,7 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.neutral.muted}",
+            "value": "{semantic.neutral.subtle}",
             "type": "color"
           },
           "header": {
