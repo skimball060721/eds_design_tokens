@@ -33,7 +33,7 @@
     "header": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.tables.bg-color.default}",
+          "value": "{semantic.color.tables.bg-color.header}",
           "type": "color"
         },
         "border-color": {

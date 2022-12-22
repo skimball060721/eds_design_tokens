@@ -1494,6 +1494,10 @@
           "default": {
             "value": "{semantic.bg.surface}",
             "type": "color"
+          },
+          "header": {
+            "value": "{semantic.bg.subtle}",
+            "type": "color"
           }
         },
         "text-color": {
