@@ -30,6 +30,22 @@
         }
       }
     },
+    "footer": {
+      "default": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.header}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.tables.border-color.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.tables.text-color.default}",
+          "type": "color"
+        }
+      }
+    },
     "header": {
       "default": {
         "bg-color": {
