@@ -1805,7 +1805,11 @@
       "semantic.tables.footer": "S:f7bb83e492dd11d6ed30720e7fb00d0da7b8cef6,",
       "semantic.utilities.heading1": "S:8726bd64d9912e91e5612fc5c3917f3514b07cf2,",
       "semantic.utilities.heading2": "S:88b8b6b5fc92541f8d6bfc951adecf82992dcdb9,",
-      "semantic.utilities.title": "S:197b612c801b9f66518077d424e8fc5cb7010030,"
+      "semantic.utilities.title": "S:197b612c801b9f66518077d424e8fc5cb7010030,",
+      "table.footer.default.bg-color": "S:648a650e18055f1806e6166c0eaa39336285cdcb,",
+      "table.footer.default.border-color": "S:bb2b708545c0a59401874fa90a9c0c256e1b4f85,",
+      "table.footer.default.text-color": "S:81523935474d987c41c84a6604fea0e5fa92bc31,",
+      "semantic.color.tables.bg-color.header": "S:913c4b7dbec0ce6a2f62cc92ac6edbb1afcd5060,"
     }
   }
 ]
