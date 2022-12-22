@@ -31,7 +31,8 @@
       "comp/input": "disabled",
       "comp/tag": "disabled",
       "comp/checkbox": "disabled",
-      "comp/multiselect": "disabled"
+      "comp/multiselect": "disabled",
+      "comp/table": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -67,7 +68,8 @@
       "comp/input": "disabled",
       "comp/tag": "disabled",
       "comp/checkbox": "disabled",
-      "comp/multiselect": "disabled"
+      "comp/multiselect": "disabled",
+      "comp/table": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -104,7 +106,8 @@
       "comp/tag": "disabled",
       "comp/checkbox": "disabled",
       "comp/select": "disabled",
-      "comp/multiselect": "disabled"
+      "comp/multiselect": "disabled",
+      "comp/table": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -141,7 +144,8 @@
       "comp/tag": "enabled",
       "comp/checkbox": "enabled",
       "comp/select": "enabled",
-      "comp/multiselect": "disabled"
+      "comp/multiselect": "disabled",
+      "comp/table": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:4c51ebe80ad51c3d2e3a31c9729d7634355d176d,",
@@ -1020,7 +1024,8 @@
       "comp/checkbox": "enabled",
       "comp/select": "enabled",
       "comp/multiselect": "enabled",
-      "comp/radio": "enabled"
+      "comp/radio": "enabled",
+      "comp/table": "enabled"
     },
     "$figmaStyleReferences": {
       "tag.neutral.bg-color": "S:e4129ebcf0245841f95fd326b643c36666122cc3,",

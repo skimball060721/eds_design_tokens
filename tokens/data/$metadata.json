@@ -18,6 +18,7 @@
     "comp/select",
     "comp/multiselect",
     "comp/radio",
+    "comp/table",
     "breakpoints/xs",
     "breakpoints/sm",
     "breakpoints/md",
