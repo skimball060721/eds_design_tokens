@@ -1507,6 +1507,10 @@
             "value": "{semantic.neutral.muted}",
             "type": "color"
           },
+          "header": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          },
           "hover": {
             "value": "{semantic.primary.emphasized}",
             "type": "color"

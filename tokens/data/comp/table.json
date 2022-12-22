@@ -1,1 +1,50 @@
-{}
+{
+  "table": {
+    "height": {
+      "sm": {
+        "value": "{semantic.sizing.tables.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{semantic.sizing.tables.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{semantic.sizing.tables.lg}",
+        "type": "sizing"
+      }
+    },
+    "standard": {
+      "default": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.default}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.tables.border-color.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.tables.text-color.default}",
+          "type": "color"
+        }
+      }
+    },
+    "header": {
+      "default": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.default}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.tables.border-color.header}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.tables.text-color.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
