@@ -45,6 +45,20 @@
           "type": "color"
         }
       }
+    },
+    "text-content": {
+      "header": {
+        "value": "{semantic.tables.header}",
+        "type": "typography"
+      },
+      "default": {
+        "value": "{semantic.tables.default}",
+        "type": "typography"
+      },
+      "footer": {
+        "value": "{semantic.tables.footer}",
+        "type": "typography"
+      }
     }
   }
 }
