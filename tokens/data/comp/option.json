@@ -60,6 +60,16 @@
         "value": "{semantic.spacing.inputs.itemSpacing.md}",
         "type": "spacing"
       }
+    },
+    "label": {
+      "default": {
+        "value": "{semantic.inputs.option.default}",
+        "type": "typography"
+      },
+      "hover": {
+        "value": "{semantic.inputs.option.hover}",
+        "type": "typography"
+      }
     }
   }
 }
