@@ -25,6 +25,34 @@
     "padding-left": {
       "value": "{semantic.spacing.inputs.padding-left}",
       "type": "spacing"
+    },
+    "default": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.text-color.default}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.icon-color.selected}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "bg-color": {
+        "value": "{semantic.bg.subtle}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.text-color.default}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.icon-color.hover}",
+        "type": "color"
+      }
     }
   }
 }
