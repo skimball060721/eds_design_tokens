@@ -15,7 +15,6 @@
     "comp/input",
     "comp/multiselect",
     "comp/option",
-    "comp/radio",
     "comp/select",
     "comp/table",
     "comp/tag",

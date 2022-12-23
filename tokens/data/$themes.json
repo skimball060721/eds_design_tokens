@@ -145,7 +145,6 @@
       "comp/select": "enabled",
       "comp/multiselect": "enabled",
       "comp/table": "enabled",
-      "comp/radio": "enabled",
       "comp/option": "disabled"
     },
     "$figmaStyleReferences": {
@@ -1054,7 +1053,6 @@
       "comp/tag": "enabled",
       "comp/select": "enabled",
       "comp/multiselect": "enabled",
-      "comp/radio": "enabled",
       "comp/table": "enabled",
       "comp/option": "enabled"
     },
