@@ -144,6 +144,12 @@
         "type": "color"
       }
     },
+    "hover": {
+      "icon-color": {
+        "value": "{semantic.color.inputs.icon-color.hover}",
+        "type": "color"
+      }
+    },
     "active": {
       "bg-color": {
         "value": "{semantic.color.inputs.bg-color}",
@@ -279,12 +285,6 @@
       },
       "text-color": {
         "value": "{semantic.color.inputs.text-color.default}",
-        "type": "color"
-      }
-    },
-    "hover": {
-      "icon-color": {
-        "value": "{semantic.color.inputs.icon-color.hover}",
         "type": "color"
       }
     },
