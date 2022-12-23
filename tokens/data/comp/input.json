@@ -1,10 +1,14 @@
 {
   "input": {
     "icon-size": {
-      "value": "{semantic.font-size.inputs}",
+      "value": "{semantic.sizing.inputs.icon-size.default}",
       "type": "sizing"
     },
     "height": {
+      "xs": {
+        "value": "{semantic.sizing.inputs.xs}",
+        "type": "sizing"
+      },
       "sm": {
         "value": "{semantic.sizing.inputs.sm}",
         "type": "sizing"
@@ -19,6 +23,12 @@
       },
       "xxl": {
         "value": "{semantic.sizing.inputs.xxl}",
+        "type": "sizing"
+      }
+    },
+    "width": {
+      "xs": {
+        "value": "{semantic.sizing.inputs.xs}",
         "type": "sizing"
       }
     },

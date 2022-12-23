@@ -1,21 +1,5 @@
 {
   "checkbox": {
-    "height": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
-        "type": "sizing"
-      }
-    },
-    "width": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
-        "type": "sizing"
-      }
-    },
-    "icon-size": {
-      "value": "14",
-      "type": "sizing"
-    },
     "unchecked": {
       "default": {
         "icon-color": {
@@ -61,10 +45,6 @@
           "type": "color"
         }
       }
-    },
-    "itemSpacing": {
-      "value": "{semantic.spacing.inputs.itemSpacing.sm}",
-      "type": "spacing"
     }
   }
 }

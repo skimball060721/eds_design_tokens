@@ -61,6 +61,12 @@
         "xxl": {
           "value": "{size.1450}",
           "type": "sizing"
+        },
+        "icon-size": {
+          "default": {
+            "value": "{semantic.sizing.icons.xs}",
+            "type": "sizing"
+          }
         }
       },
       "icons": {
