@@ -53,6 +53,21 @@
         "value": "{semantic.color.inputs.icon-color.hover}",
         "type": "color"
       }
+    },
+    "md": {
+      "value": {
+        "height": "{option.height.md}",
+        "paddingLeft": "{option.padding-left}",
+        "paddingRight": "{option.padding-right}",
+        "itemSpacing": "{option.itemSpacing.md}"
+      },
+      "type": "composition"
+    },
+    "itemSpacing": {
+      "md": {
+        "value": "{semantic.spacing.inputs.itemSpacing.md}",
+        "type": "spacing"
+      }
     }
   }
 }
