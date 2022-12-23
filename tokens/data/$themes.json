@@ -1838,7 +1838,18 @@
       "table.footer.default.bg-color": "S:648a650e18055f1806e6166c0eaa39336285cdcb,",
       "table.footer.default.border-color": "S:bb2b708545c0a59401874fa90a9c0c256e1b4f85,",
       "table.footer.default.text-color": "S:81523935474d987c41c84a6604fea0e5fa92bc31,",
-      "semantic.color.tables.bg-color.header": "S:913c4b7dbec0ce6a2f62cc92ac6edbb1afcd5060,"
+      "semantic.color.tables.bg-color.header": "S:913c4b7dbec0ce6a2f62cc92ac6edbb1afcd5060,",
+      "option.default.bg-color": "S:496bdde1cf0c139baea52e7214c5efeb7628cf55,",
+      "option.default.text-color": "S:8ffbe397565dedc54e51b7dbec0fd5439c90c335,",
+      "option.default.icon-color": "S:bed93ce8f2ceb1ee3f9d4be682829b06e3c61206,",
+      "option.hover.bg-color": "S:adc091cf78b7f3d886ac5a3854bef35b996d14e9,",
+      "option.hover.text-color": "S:bc51093b8106c4d0af0fd565998a7ac7adfa4302,",
+      "option.hover.icon-color": "S:21ad4c250508ed802bddfd463fbed0ab8ad04231,",
+      "input.hover.icon-color": "S:9adc385bfbbc5d6fe7d769f267eddc502581e243,",
+      "option.label.default": "S:42c018960ce27206208813bb9d3853392a4bb806,",
+      "option.label.hover": "S:4cf03561b6ad73c143889c728bfbd209eafb526b,",
+      "semantic.inputs.option.default": "S:950e5f75ed7c97ac439e207b172c2b6983d3c167,",
+      "semantic.inputs.option.hover": "S:d909ca44c3558281c6e1269427dcc1a7fd2a0105,"
     }
   }
 ]
