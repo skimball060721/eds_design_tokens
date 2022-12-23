@@ -34,7 +34,7 @@
     },
     "hover": {
       "bg-color": {
-        "value": "{semantic.bg.subtle}",
+        "value": "{color.grey.100}",
         "type": "color"
       },
       "text-color": {
