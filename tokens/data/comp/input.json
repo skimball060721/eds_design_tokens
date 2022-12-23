@@ -288,48 +288,6 @@
         "type": "color"
       }
     },
-    "radio": {
-      "unselected": {
-        "default": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.default}",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.disabled}",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.hover}",
-            "type": "color"
-          }
-        }
-      },
-      "selected": {
-        "default": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.selected}",
-            "type": "color"
-          }
-        },
-        "hover": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.hover}",
-            "type": "color"
-          }
-        },
-        "disabled": {
-          "icon-color": {
-            "value": "{semantic.color.inputs.icon-color.disabled}",
-            "type": "color"
-          }
-        }
-      }
-    },
     "border-width": {
       "default": {
         "value": "{semantic.border-width.inputs.sm}",
