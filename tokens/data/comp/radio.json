@@ -1,21 +1,5 @@
 {
   "radio": {
-    "height": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
-        "type": "sizing"
-      }
-    },
-    "width": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
-        "type": "sizing"
-      }
-    },
-    "icon-size": {
-      "value": "14",
-      "type": "sizing"
-    },
     "unselected": {
       "default": {
         "icon-color": {
@@ -54,16 +38,6 @@
           "value": "{semantic.color.inputs.icon-color.disabled}",
           "type": "color"
         }
-      }
-    },
-    "itemSpacing": {
-      "sm": {
-        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.inputs.itemSpacing.lg}",
-        "type": "spacing"
       }
     }
   }
