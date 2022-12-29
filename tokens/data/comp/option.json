@@ -62,14 +62,8 @@
       }
     },
     "label": {
-      "default": {
-        "value": "{semantic.inputs.option.default}",
-        "type": "typography"
-      },
-      "hover": {
-        "value": "{semantic.inputs.option.hover}",
-        "type": "typography"
-      }
+      "value": "{semantic.inputs.option}",
+      "type": "typography"
     }
   }
 }

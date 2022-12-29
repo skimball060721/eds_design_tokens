@@ -1731,32 +1731,17 @@
         "type": "typography"
       },
       "option": {
-        "default": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.regular}",
-            "lineHeight": "{semantic.line-height.inputs.250}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography"
+        "value": {
+          "fontFamily": "{semantic.font-family.inputs}",
+          "fontWeight": "{semantic.font-weight.inputs.bold}",
+          "lineHeight": "{semantic.line-height.inputs.250}",
+          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
         },
-        "hover": {
-          "value": {
-            "fontFamily": "{semantic.font-family.inputs}",
-            "fontWeight": "{semantic.font-weight.inputs.bold}",
-            "lineHeight": "{semantic.line-height.inputs.250}",
-            "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
-            "letterSpacing": "0%",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography"
-        }
+        "type": "typography"
       },
       "content": {
         "value": {

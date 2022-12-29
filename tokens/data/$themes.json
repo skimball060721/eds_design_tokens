@@ -1846,10 +1846,8 @@
       "option.hover.text-color": "S:bc51093b8106c4d0af0fd565998a7ac7adfa4302,",
       "option.hover.icon-color": "S:21ad4c250508ed802bddfd463fbed0ab8ad04231,",
       "input.hover.icon-color": "S:9adc385bfbbc5d6fe7d769f267eddc502581e243,",
-      "option.label.default": "S:42c018960ce27206208813bb9d3853392a4bb806,",
-      "option.label.hover": "S:4cf03561b6ad73c143889c728bfbd209eafb526b,",
-      "semantic.inputs.option.default": "S:950e5f75ed7c97ac439e207b172c2b6983d3c167,",
-      "semantic.inputs.option.hover": "S:d909ca44c3558281c6e1269427dcc1a7fd2a0105,"
+      "semantic.inputs.option": "S:950e5f75ed7c97ac439e207b172c2b6983d3c167,",
+      "option.label": "S:42c018960ce27206208813bb9d3853392a4bb806,"
     }
   }
 ]
