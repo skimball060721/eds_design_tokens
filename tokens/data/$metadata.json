@@ -16,7 +16,7 @@
     "comp/multiselect",
     "comp/option",
     "comp/select",
-    "comp/table",
+    "comp/cell",
     "comp/tag",
     "breakpoints/xs",
     "breakpoints/sm",
