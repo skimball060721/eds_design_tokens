@@ -79,7 +79,7 @@
       }
     },
     "text-content": {
-      "default": {
+      "standard": {
         "value": "{semantic.tables.default}",
         "type": "typography"
       },

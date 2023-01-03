@@ -857,11 +857,14 @@
       "cell.header.default.border-color": "S:c47a92ddaa896d0e05df7a421253579f119f1f77,",
       "cell.header.default.text-color": "S:2e4ab3eac70d44a458959b0d2119c92d818b7cb5,",
       "cell.text-content.header": "S:f68873f51fcfe26d9e542d5a8f3b13b5db678a91,",
-      "cell.text-content.default": "S:476d09ade15e9fa50c37ee082015b2cdbe746d78,",
       "cell.text-content.footer": "S:43ed55a2acfe4e54cc34b250a3f3dc4db0cb29df,",
-      "semantic.color.tables.border-color.accent": "S:877bbfb84f0fa536f128f688b2e1c74a229e8b30,",
+      "semantic.color.tables.border-color.accent": "S:508e4f50af2ecd2bf45d58cb9c98f1d475291de6,",
       "cell.text-content.group": "S:62ef87c4986db941f5285677993a505a912ecbc9,",
-      "semantic.tables.group": "S:8ff8c860138ac02cb8f4b725a7fa66b018b7bbf9,"
+      "semantic.tables.group": "S:8ff8c860138ac02cb8f4b725a7fa66b018b7bbf9,",
+      "cell.group.default.bg-color": "S:15a3ee7912a7e9a1da8f434f8d3e38c821034bbb,",
+      "cell.group.default.border-color": "S:2184176cc9eed986d24f72ef5e5ecddc7a780f1d,",
+      "cell.group.default.text-color": "S:d91692e9ccb0a863c3d2a290f003d72dd226db15,",
+      "cell.text-content.standard": "S:476d09ade15e9fa50c37ee082015b2cdbe746d78,"
     }
   },
   {
@@ -1759,8 +1762,8 @@
       "cell.header.default.border-color": "S:a3d5f89233408520a1e38825189ba5c7f5af1863,",
       "cell.header.default.text-color": "S:862f2d0101668400942f33d58879ff70d76d1727,",
       "cell.text-content.header": "S:a1e674d01c2db0c3fadf03b6ebc3c2d1626e2597,",
-      "cell.text-content.default": "S:915698c2600314b9c25670d93b14e14f486ecb01,",
-      "cell.text-content.footer": "S:595ccabf23760c0ba24c9a69947c9f7874c33ae6,"
+      "cell.text-content.footer": "S:595ccabf23760c0ba24c9a69947c9f7874c33ae6,",
+      "cell.text-content.standard": "S:915698c2600314b9c25670d93b14e14f486ecb01,"
     }
   }
 ]
