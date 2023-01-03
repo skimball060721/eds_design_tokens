@@ -11,7 +11,8 @@
       "comp/button": "enabled",
       "semantic": "enabled",
       "hd/triple-s/light": "enabled",
-      "comp/icon-button": "enabled"
+      "comp/icon-button": "enabled",
+      "core/dimension": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -27,7 +28,8 @@
       "comp/button": "enabled",
       "semantic": "enabled",
       "hd/alivia/light": "enabled",
-      "comp/icon-button": "enabled"
+      "comp/icon-button": "enabled",
+      "core/dimension": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -41,7 +43,8 @@
       "core/border": "source",
       "core/typography": "source",
       "semantic": "enabled",
-      "system_utils": "enabled"
+      "system_utils": "enabled",
+      "core/dimension": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -66,7 +69,8 @@
       "comp/select": "enabled",
       "comp/multiselect": "enabled",
       "comp/option": "enabled",
-      "comp/cell": "enabled"
+      "comp/cell": "enabled",
+      "core/dimension": "disabled"
     },
     "$figmaStyleReferences": {
       "tag.neutral.bg-color": "S:e4129ebcf0245841f95fd326b643c36666122cc3,",
@@ -889,7 +893,8 @@
       "comp/select": "enabled",
       "comp/multiselect": "enabled",
       "comp/option": "enabled",
-      "comp/cell": "enabled"
+      "comp/cell": "enabled",
+      "core/dimension": "disabled"
     },
     "$figmaStyleReferences": {
       "icon-btn.primary.default.bg-color": "S:4c51ebe80ad51c3d2e3a31c9729d7634355d176d,",
