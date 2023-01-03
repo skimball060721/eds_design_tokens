@@ -30,6 +30,22 @@
         }
       }
     },
+    "group": {
+      "default": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.default}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.tables.border-color.accent}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.tables.text-color.default}",
+          "type": "color"
+        }
+      }
+    },
     "footer": {
       "default": {
         "bg-color": {
@@ -53,7 +69,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.tables.border-color.header}",
+          "value": "{semantic.color.tables.border-color.accent}",
           "type": "color"
         },
         "text-color": {
@@ -63,12 +79,16 @@
       }
     },
     "text-content": {
-      "header": {
-        "value": "{semantic.tables.header}",
-        "type": "typography"
-      },
       "default": {
         "value": "{semantic.tables.default}",
+        "type": "typography"
+      },
+      "group": {
+        "value": "{semantic.tables.group}",
+        "type": "typography"
+      },
+      "header": {
+        "value": "{semantic.tables.header}",
         "type": "typography"
       },
       "footer": {

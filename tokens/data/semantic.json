@@ -1517,7 +1517,7 @@
             "value": "{semantic.neutral.subtle}",
             "type": "color"
           },
-          "header": {
+          "accent": {
             "value": "{semantic.primary.default}",
             "type": "color"
           },
@@ -1771,7 +1771,20 @@
       }
     },
     "tables": {
-      "header": {
+      "default": {
+        "value": {
+          "fontFamily": "{semantic.font-family.tables}",
+          "fontWeight": "{semantic.font-weight.tables.regular}",
+          "lineHeight": "AUTO",
+          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
+        "type": "typography"
+      },
+      "group": {
         "value": {
           "fontFamily": "{semantic.font-family.tables}",
           "fontWeight": "{semantic.font-weight.tables.bold}",
@@ -1784,10 +1797,10 @@
         },
         "type": "typography"
       },
-      "default": {
+      "header": {
         "value": {
           "fontFamily": "{semantic.font-family.tables}",
-          "fontWeight": "{semantic.font-weight.tables.regular}",
+          "fontWeight": "{semantic.font-weight.tables.bold}",
           "lineHeight": "AUTO",
           "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
           "letterSpacing": "0%",
