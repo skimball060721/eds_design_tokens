@@ -348,6 +348,26 @@
           "value": "{space.100}",
           "type": "spacing"
         }
+      },
+      "tables": {
+        "cell": {
+          "padding-top": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{space.200}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{space.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{space.200}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "fg": {
