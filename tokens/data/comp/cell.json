@@ -1,19 +1,5 @@
 {
   "cell": {
-    "height": {
-      "sm": {
-        "value": "{semantic.sizing.tables.sm}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{semantic.sizing.tables.md}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{semantic.sizing.tables.lg}",
-        "type": "sizing"
-      }
-    },
     "standard": {
       "default": {
         "bg-color": {
@@ -95,6 +81,33 @@
         "value": "{semantic.tables.footer}",
         "type": "typography"
       }
+    },
+    "sm": {
+      "value": {
+        "height": "{semantic.sizing.tables.cell.sm}",
+        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
+        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
+        "itemSpacing": "{semantic.spacing.tables.cell.none}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "height": "{semantic.sizing.tables.cell.md}",
+        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
+        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
+        "itemSpacing": "{semantic.spacing.tables.cell.none}"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "height": "{semantic.sizing.tables.cell.lg}",
+        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
+        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
+        "itemSpacing": "{semantic.spacing.tables.cell.none}"
+      },
+      "type": "composition"
     }
   }
 }

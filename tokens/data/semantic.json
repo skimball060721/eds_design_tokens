@@ -114,17 +114,19 @@
         }
       },
       "tables": {
-        "sm": {
-          "value": "{semantic.component.sm}",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "{semantic.component.md}",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "{semantic.component.lg}",
-          "type": "sizing"
+        "cell": {
+          "sm": {
+            "value": "{semantic.component.sm}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{semantic.component.md}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{semantic.component.lg}",
+            "type": "sizing"
+          }
         }
       }
     },
@@ -351,19 +353,15 @@
       },
       "tables": {
         "cell": {
-          "padding-top": {
+          "none": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "sm": {
             "value": "{space.100}",
             "type": "spacing"
           },
-          "padding-right": {
-            "value": "{space.200}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{space.100}",
-            "type": "spacing"
-          },
-          "padding-left": {
+          "md": {
             "value": "{space.200}",
             "type": "spacing"
           }
