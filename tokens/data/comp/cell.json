@@ -37,7 +37,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.tables.border-color.accent}",
+          "value": "{semantic.color.tables.border-color.default}",
           "type": "color"
         },
         "text-color": {
