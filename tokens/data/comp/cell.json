@@ -14,16 +14,40 @@
           "value": "{semantic.color.tables.text-color.default}",
           "type": "color"
         }
+      },
+      "group": {
+        "default": {
+          "bg-color": {
+            "value": "{semantic.color.tables.bg-color.header}",
+            "type": "color"
+          }
+        }
       }
     },
-    "group": {
+    "header": {
+      "group": {
+        "default": {
+          "bg-color": {
+            "value": "{semantic.color.tables.bg-color.default}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.tables.border-color.default}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{semantic.color.tables.text-color.default}",
+            "type": "color"
+          }
+        }
+      },
       "default": {
         "bg-color": {
-          "value": "{semantic.color.tables.bg-color.default}",
+          "value": "{semantic.color.tables.bg-color.header}",
           "type": "color"
         },
         "border-color": {
-          "value": "{semantic.color.tables.border-color.default}",
+          "value": "{semantic.color.tables.border-color.accent}",
           "type": "color"
         },
         "text-color": {
@@ -40,22 +64,6 @@
         },
         "border-color": {
           "value": "{semantic.color.tables.border-color.default}",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{semantic.color.tables.text-color.default}",
-          "type": "color"
-        }
-      }
-    },
-    "header": {
-      "default": {
-        "bg-color": {
-          "value": "{semantic.color.tables.bg-color.header}",
-          "type": "color"
-        },
-        "border-color": {
-          "value": "{semantic.color.tables.border-color.accent}",
           "type": "color"
         },
         "text-color": {
@@ -108,6 +116,16 @@
         "itemSpacing": "{semantic.spacing.tables.cell.none}"
       },
       "type": "composition"
+    },
+    "border-width": {
+      "sm": {
+        "value": "{semantic.border-width.tables.sm}",
+        "type": "borderWidth"
+      },
+      "md": {
+        "value": "{semantic.border-width.tables.md}",
+        "type": "borderWidth"
+      }
     }
   }
 }

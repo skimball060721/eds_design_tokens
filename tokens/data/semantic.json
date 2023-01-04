@@ -1607,7 +1607,7 @@
       },
       "tables": {
         "sm": {
-          "value": "{border-width.1}",
+          "value": "1.5",
           "type": "borderWidth"
         },
         "md": {
