@@ -1,0 +1,16 @@
+{
+  "font-scale": {
+    "majorThird": {
+      "value": "1.25",
+      "type": "other"
+    },
+    "minorThird": {
+      "value": "1.2",
+      "type": "other"
+    },
+    "majorSecond": {
+      "value": "1.125",
+      "type": "other"
+    }
+  }
+}

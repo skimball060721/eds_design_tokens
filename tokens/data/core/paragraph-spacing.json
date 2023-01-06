@@ -1,0 +1,24 @@
+{
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    },
+    "100": {
+      "value": "8",
+      "type": "paragraphSpacing"
+    },
+    "200": {
+      "value": "16",
+      "type": "paragraphSpacing"
+    },
+    "300": {
+      "value": "24",
+      "type": "paragraphSpacing"
+    },
+    "400": {
+      "value": "32",
+      "type": "paragraphSpacing"
+    }
+  }
+}

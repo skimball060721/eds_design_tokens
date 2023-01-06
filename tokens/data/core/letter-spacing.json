@@ -1,0 +1,16 @@
+{
+  "letter-spacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "5": {
+      "value": "5%",
+      "type": "letterSpacing"
+    },
+    "12": {
+      "value": "12.5%",
+      "type": "letterSpacing"
+    }
+  }
+}
