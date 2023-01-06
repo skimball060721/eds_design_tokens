@@ -32,6 +32,6 @@
     "hd/alivia/light",
     "hd/alivia/dark",
     "system_utils",
-    "comp/typography"
+    "comp/text"
   ]
 }
