@@ -74,19 +74,55 @@
     },
     "text-content": {
       "standard": {
-        "value": "{semantic.tables.default}",
+        "value": {
+          "fontFamily": "{semantic.font-family.tables}",
+          "fontWeight": "{semantic.font-weight.tables.regular}",
+          "lineHeight": "AUTO",
+          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
         "type": "typography"
       },
       "group": {
-        "value": "{semantic.tables.group}",
+        "value": {
+          "fontFamily": "{semantic.font-family.tables}",
+          "fontWeight": "{semantic.font-weight.tables.bold}",
+          "lineHeight": "AUTO",
+          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
         "type": "typography"
       },
       "header": {
-        "value": "{semantic.tables.header}",
+        "value": {
+          "fontFamily": "{semantic.font-family.tables}",
+          "fontWeight": "{semantic.font-weight.tables.bold}",
+          "lineHeight": "AUTO",
+          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
         "type": "typography"
       },
       "footer": {
-        "value": "{semantic.tables.footer}",
+        "value": {
+          "fontFamily": "{semantic.font-family.tables}",
+          "fontWeight": "{semantic.font-weight.tables.bold}",
+          "lineHeight": "AUTO",
+          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "none"
+        },
         "type": "typography"
       }
     },
