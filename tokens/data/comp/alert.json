@@ -170,11 +170,29 @@
     },
     "text-content": {
       "sm": {
-        "value": "{semantic.feedback.sm}",
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.sm}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
+        },
         "type": "typography"
       },
       "md": {
-        "value": "{semantic.feedback.md}",
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.md}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
+        },
         "type": "typography"
       }
     },
