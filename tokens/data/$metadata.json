@@ -9,14 +9,15 @@
     "comp/alert",
     "comp/badge",
     "comp/button",
+    "comp/cell",
     "comp/headline",
     "comp/heading",
     "comp/icon-button",
     "comp/input",
+    "comp/link",
     "comp/multiselect",
     "comp/option",
     "comp/select",
-    "comp/cell",
     "comp/tag",
     "breakpoints/xs",
     "breakpoints/sm",
@@ -30,7 +31,6 @@
     "hd/triple-s/dark",
     "hd/alivia/light",
     "hd/alivia/dark",
-    "system_utils",
-    "comp/link"
+    "system_utils"
   ]
 }
