@@ -30,6 +30,7 @@
     "hd/triple-s/dark",
     "hd/alivia/light",
     "hd/alivia/dark",
-    "system_utils"
+    "system_utils",
+    "comp/link"
   ]
 }
