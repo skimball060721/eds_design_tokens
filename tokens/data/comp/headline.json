@@ -2,11 +2,29 @@
   "headline": {
     "text-content": {
       "xxl": {
-        "value": "{semantic.typography.headline2}",
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.650}",
+          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
+        },
         "type": "typography"
       },
       "xxxl": {
-        "value": "{semantic.typography.headline1}",
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.800}",
+          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
+        },
         "type": "typography"
       }
     },
