@@ -4,7 +4,6 @@
     "core/size",
     "core/space",
     "core/border",
-    "core/typography",
     "semantic",
     "comp/alert",
     "comp/badge",
@@ -32,6 +31,15 @@
     "hd/alivia/light",
     "hd/alivia/dark",
     "system_utils",
-    "comp/text"
+    "comp/text",
+    "core/font-family",
+    "core/font-nRatio",
+    "core/font-scale",
+    "core/font-size",
+    "core/font-weight",
+    "core/letter-spacing",
+    "core/line-height",
+    "core/paragraph-spacing",
+    "core/text-case"
   ]
 }
