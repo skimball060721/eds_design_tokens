@@ -1,0 +1,24 @@
+{
+  "font-family": {
+    "ibmPlexMono": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
+    },
+    "proximaNova": {
+      "value": "Proxima Nova",
+      "type": "fontFamilies"
+    },
+    "mrEavesSanOT": {
+      "value": "Mr Eaves San OT",
+      "type": "fontFamilies"
+    },
+    "sofiaProSoft": {
+      "value": "Sofia Pro Soft",
+      "type": "fontFamilies"
+    },
+    "heebo": {
+      "value": "Heebo",
+      "type": "fontFamilies"
+    }
+  }
+}

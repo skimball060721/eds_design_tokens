@@ -50,7 +50,16 @@
       "type": "composition"
     },
     "text-content": {
-      "value": "{semantic.statuses.tag}",
+      "value": {
+        "fontFamily": "{semantic.font-family.typography.body}",
+        "fontWeight": "{semantic.font-weight.typography.body.regular}",
+        "lineHeight": "{semantic.line-height.typography.body.200}",
+        "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
       "type": "typography"
     },
     "neutral": {

@@ -140,7 +140,16 @@
       "type": "composition"
     },
     "text-content": {
-      "value": "{semantic.statuses.badge}",
+      "value": {
+        "fontFamily": "{semantic.font-family.status}",
+        "fontWeight": "{semantic.font-weight.status}",
+        "lineHeight": "{semantic.line-height.status.200}",
+        "fontSize": "{semantic.font-size.status} * {semantic.font-nRatio.status}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "{semantic.text-case.status}"
+      },
       "type": "typography"
     }
   }
