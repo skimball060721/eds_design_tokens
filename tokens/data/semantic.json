@@ -1742,6 +1742,20 @@
         "type": "fontSizes"
       },
       "typography": {
+        "headline": {
+          "xs": {
+            "value": "{semantic.font-size.5}",
+            "type": "fontSizes"
+          },
+          "sm": {
+            "value": "{semantic.font-size.6}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.7}",
+            "type": "fontSizes"
+          }
+        },
         "heading": {
           "xs": {
             "value": "{semantic.font-size.0}",
@@ -1761,20 +1775,6 @@
           },
           "xl": {
             "value": "{semantic.font-size.4}",
-            "type": "fontSizes"
-          }
-        },
-        "headline": {
-          "xs": {
-            "value": "{semantic.font-size.5}",
-            "type": "fontSizes"
-          },
-          "sm": {
-            "value": "{semantic.font-size.6}",
-            "type": "fontSizes"
-          },
-          "md": {
-            "value": "{semantic.font-size.7}",
             "type": "fontSizes"
           }
         },
