@@ -610,15 +610,15 @@
       "height": {
         "sm": {
           "value": "{semantic.sizing.actions.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.sizing.actions.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.sizing.actions.lg}",
-          "type": "sizing"
+          "type": "dimension"
         }
       }
     },
@@ -626,42 +626,42 @@
       "padding-left": {
         "sm": {
           "value": "{semantic.spacing.actions.padding-left.sm}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.spacing.actions.padding-left.sm}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.spacing.actions.padding-left.md}",
-          "type": "spacing"
+          "type": "dimension"
         }
       },
       "padding-right": {
         "sm": {
           "value": "{semantic.spacing.actions.padding-right.sm}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.spacing.actions.padding-right.sm}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.spacing.actions.padding-right.md}",
-          "type": "spacing"
+          "type": "dimension"
         }
       },
       "padding-top": {
         "value": "{semantic.spacing.actions.padding-top}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-bottom": {
         "value": "{semantic.spacing.actions.padding-bottom}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "itemSpacing": {
         "value": "{semantic.spacing.actions.itemSpacing}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "border-radius": {
