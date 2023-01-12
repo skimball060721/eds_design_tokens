@@ -38,6 +38,7 @@
     "core/letter-spacing",
     "core/line-height",
     "core/paragraph-spacing",
-    "core/text-case"
+    "core/text-case",
+    "core/dimension"
   ]
 }

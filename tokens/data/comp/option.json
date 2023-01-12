@@ -57,7 +57,7 @@
     },
     "itemSpacing": {
       "md": {
-        "value": "{semantic.spacing.inputs.itemSpacing.md}",
+        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
         "type": "spacing"
       }
     },

@@ -34,19 +34,19 @@
     },
     "itemSpacing": {
       "xs": {
-        "value": "{semantic.spacing.inputs.itemSpacing.xs}",
+        "value": "{semantic.spacing.inputs.itemSpacing.xxs}",
         "type": "spacing"
       },
       "sm": {
-        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
+        "value": "{semantic.spacing.inputs.itemSpacing.xs}",
         "type": "spacing"
       },
       "md": {
-        "value": "{semantic.spacing.inputs.itemSpacing.md}",
+        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{semantic.spacing.inputs.itemSpacing.lg}",
+        "value": "{semantic.spacing.inputs.itemSpacing.md}",
         "type": "spacing"
       }
     },
