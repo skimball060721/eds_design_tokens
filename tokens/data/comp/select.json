@@ -8,38 +8,38 @@
       "height": {
         "sm": {
           "value": "{semantic.sizing.inputs.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.sizing.inputs.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.sizing.inputs.lg}",
-          "type": "sizing"
+          "type": "dimension"
         }
       }
     },
     "spacing": {
       "padding-left": {
         "value": "{semantic.spacing.inputs.padding-left}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-right": {
         "value": "{semantic.spacing.inputs.padding-right}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-top": {
         "value": "{semantic.spacing.inputs.padding-top}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-bottom": {
         "value": "{semantic.spacing.inputs.padding-bottom}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "itemSpacing": {
         "value": "{semantic.spacing.inputs.itemSpacing.xs}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "default": {
