@@ -103,7 +103,7 @@
         "value": "{semantic.sizing.component.xxs}",
         "type": "dimension"
       },
-      "alerts": {
+      "feedback": {
         "sm": {
           "value": "{semantic.sizing.component.md}",
           "type": "dimension"
