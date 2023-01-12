@@ -4,8 +4,6 @@
     "name": "Triple-S - Light",
     "selectedTokenSets": {
       "core/color": "source",
-      "core/size": "source",
-      "core/space": "source",
       "core/border": "source",
       "comp/button": "enabled",
       "semantic": "enabled",
@@ -19,8 +17,6 @@
     "name": "Alivia - Light",
     "selectedTokenSets": {
       "core/color": "source",
-      "core/size": "source",
-      "core/space": "source",
       "core/border": "source",
       "comp/button": "enabled",
       "semantic": "enabled",
@@ -34,8 +30,6 @@
     "name": "System Utilities",
     "selectedTokenSets": {
       "core/color": "source",
-      "core/size": "source",
-      "core/space": "source",
       "core/border": "source",
       "semantic": "enabled",
       "system_utils": "enabled"
@@ -47,8 +41,6 @@
     "name": "Darwin - Light",
     "selectedTokenSets": {
       "core/color": "source",
-      "core/size": "source",
-      "core/space": "source",
       "core/border": "source",
       "comp/button": "enabled",
       "semantic": "source",
@@ -943,8 +935,6 @@
     "selectedTokenSets": {
       "semantic": "enabled",
       "core/color": "source",
-      "core/size": "source",
-      "core/space": "source",
       "core/border": "source",
       "comp/button": "enabled",
       "comp/icon-button": "enabled",
@@ -966,7 +956,8 @@
       "core/line-height": "source",
       "core/paragraph-spacing": "source",
       "core/text-case": "source",
-      "comp/text": "enabled"
+      "comp/text": "enabled",
+      "core/dimension": "source"
     },
     "$figmaStyleReferences": {
       "tag.neutral.bg-color": "S:e4129ebcf0245841f95fd326b643c36666122cc3,",
