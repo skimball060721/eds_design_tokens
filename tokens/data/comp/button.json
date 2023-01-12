@@ -626,7 +626,7 @@
         "type": "spacing"
       },
       "md": {
-        "value": "{semantic.spacing.actions.padding-left.md}",
+        "value": "{semantic.spacing.actions.padding-left.sm}",
         "type": "spacing"
       },
       "lg": {
@@ -640,7 +640,7 @@
         "type": "spacing"
       },
       "md": {
-        "value": "{semantic.spacing.actions.padding-right.md}",
+        "value": "{semantic.spacing.actions.padding-right.sm}",
         "type": "spacing"
       },
       "lg": {
@@ -649,46 +649,16 @@
       }
     },
     "padding-top": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-top}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-top.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-top.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.actions.padding-top}",
+      "type": "spacing"
     },
     "padding-bottom": {
-      "sm": {
-        "value": "{semantic.spacing.actions.padding-bottom}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.padding-bottom.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.padding-bottom.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.actions.padding-bottom}",
+      "type": "spacing"
     },
     "itemSpacing": {
-      "sm": {
-        "value": "{semantic.spacing.actions.itemSpacing}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{semantic.spacing.actions.itemSpacing.md}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{semantic.spacing.actions.itemSpacing.lg}",
-        "type": "spacing"
-      }
+      "value": "{semantic.spacing.actions.itemSpacing}",
+      "type": "spacing"
     },
     "border-radius": {
       "value": "{semantic.border-radius.actions}",
@@ -701,9 +671,9 @@
     "sm": {
       "value": {
         "height": "{btn.height.sm}",
-        "paddingTop": "{btn.padding-top.sm}",
+        "paddingTop": "{btn.padding-top}",
         "paddingRight": "{btn.padding-right.sm}",
-        "paddingBottom": "{btn.padding-bottom.sm}",
+        "paddingBottom": "{btn.padding-bottom}",
         "paddingLeft": "{btn.padding-left.sm}",
         "borderRadius": "{btn.border-radius}",
         "borderWidth": "{btn.border-width}"
@@ -713,9 +683,9 @@
     "md": {
       "value": {
         "height": "{btn.height.md}",
-        "paddingTop": "{btn.padding-top.md}",
+        "paddingTop": "{btn.padding-top}",
         "paddingRight": "{btn.padding-right.md}",
-        "paddingBottom": "{btn.padding-bottom.md}",
+        "paddingBottom": "{btn.padding-bottom}",
         "paddingLeft": "{btn.padding-left.md}",
         "borderRadius": "{btn.border-radius}",
         "borderWidth": "{btn.border-width}"
@@ -725,9 +695,9 @@
     "lg": {
       "value": {
         "height": "{btn.height.lg}",
-        "paddingTop": "{btn.padding-top.lg}",
+        "paddingTop": "{btn.padding-top}",
         "paddingRight": "{btn.padding-right.lg}",
-        "paddingBottom": "{btn.padding-bottom.lg}",
+        "paddingBottom": "{btn.padding-bottom}",
         "paddingLeft": "{btn.padding-left.lg}",
         "borderRadius": "{btn.border-radius}",
         "borderWidth": "{btn.border-width}"
