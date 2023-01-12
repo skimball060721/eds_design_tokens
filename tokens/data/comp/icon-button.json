@@ -696,22 +696,8 @@
         }
       }
     },
-    "font-size": {
-      "sm": {
-        "value": "{semantic.font-size.actions.sm}",
-        "type": "fontSizes"
-      },
-      "md": {
-        "value": "{semantic.font-size.actions.md}",
-        "type": "fontSizes"
-      },
-      "lg": {
-        "value": "{semantic.font-size.actions.lg}",
-        "type": "fontSizes"
-      }
-    },
     "icon-size": {
-      "value": "{icon-btn.font-size.lg}",
+      "value": "{semantic.sizing.icons.sm}",
       "type": "sizing"
     },
     "height": {
