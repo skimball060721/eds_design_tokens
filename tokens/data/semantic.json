@@ -1459,7 +1459,7 @@
           "type": "color"
         },
         "prominentText": {
-          "value": "{color.grey.600}",
+          "value": "{color.neutrals.black}",
           "type": "color"
         },
         "deemphasizedText": {
