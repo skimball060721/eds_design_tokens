@@ -100,31 +100,31 @@
         }
       },
       "status": {
-        "value": "{semantic.component.xxs}",
+        "value": "{semantic.sizing.component.xxs}",
         "type": "dimension"
       },
       "alerts": {
         "sm": {
-          "value": "{semantic.component.md}",
+          "value": "{semantic.sizing.component.md}",
           "type": "dimension"
         },
         "md": {
-          "value": "{semantic.component.xl}",
+          "value": "{semantic.sizing.component.xl}",
           "type": "dimension"
         }
       },
       "tables": {
         "cell": {
           "sm": {
-            "value": "{semantic.component.sm}",
+            "value": "{semantic.sizing.component.sm}",
             "type": "dimension"
           },
           "md": {
-            "value": "{semantic.component.md}",
+            "value": "{semantic.sizing.component.md}",
             "type": "dimension"
           },
           "lg": {
-            "value": "{semantic.component.lg}",
+            "value": "{semantic.sizing.component.lg}",
             "type": "dimension"
           }
         }
