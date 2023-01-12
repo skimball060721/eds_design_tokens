@@ -108,11 +108,11 @@
       "height": {
         "sm": {
           "value": "{semantic.sizing.feedback.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.sizing.feedback.md}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "icon-size": {
@@ -129,23 +129,23 @@
     "spacing": {
       "padding-top": {
         "value": "{semantic.spacing.feedback.padding-top}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-right": {
         "value": "{semantic.spacing.feedback.padding-right}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-bottom": {
         "value": "{semantic.spacing.feedback.padding-bottom}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-left": {
         "value": "{semantic.spacing.feedback.padding-left}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "itemSpacing": {
         "value": "{semantic.spacing.feedback.itemSpacing.xs}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "border-radius": {
