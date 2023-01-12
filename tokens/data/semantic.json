@@ -1,32 +1,32 @@
 {
   "semantic": {
-    "component": {
-      "xxs": {
-        "value": "{dimension.px.250}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{dimension.px.300}",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "{dimension.px.400}",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "{dimension.px.500}",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "{dimension.px.600}",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "{dimension.px.700}",
-        "type": "sizing"
-      }
-    },
     "sizing": {
+      "component": {
+        "xxs": {
+          "value": "{dimension.px.250}",
+          "type": "dimension"
+        },
+        "xs": {
+          "value": "{dimension.px.300}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{dimension.px.400}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{dimension.px.500}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{dimension.px.600}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{dimension.px.700}",
+          "type": "dimension"
+        }
+      },
       "actions": {
         "sm": {
           "value": "{semantic.component.sm}",
