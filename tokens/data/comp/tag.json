@@ -7,29 +7,29 @@
       },
       "height": {
         "value": "{semantic.sizing.status}",
-        "type": "sizing"
+        "type": "dimension"
       }
     },
     "spacing": {
       "padding-top": {
         "value": "{semantic.spacing.status.padding-top}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-right": {
         "value": "{semantic.spacing.status.padding-right}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-bottom": {
         "value": "{semantic.spacing.status.padding-bottom}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-left": {
         "value": "{semantic.spacing.status.padding-left}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "itemSpacing": {
         "value": "{semantic.spacing.status.itemSpacing}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "border-radius": {
