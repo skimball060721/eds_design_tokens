@@ -1766,11 +1766,23 @@
       "cell.header.default.bg-color": "S:887bb16ccad0062210821133feeaa19985eed27a,",
       "cell.header.default.border-color": "S:a3d5f89233408520a1e38825189ba5c7f5af1863,",
       "cell.header.default.text-color": "S:862f2d0101668400942f33d58879ff70d76d1727,",
-      "cell.text-content.header": "S:a1e674d01c2db0c3fadf03b6ebc3c2d1626e2597,",
-      "cell.text-content.footer": "S:595ccabf23760c0ba24c9a69947c9f7874c33ae6,",
-      "cell.text-content.standard": "S:915698c2600314b9c25670d93b14e14f486ecb01,",
-      "headline.text-content.xs": "S:44c8aa6dd19a03a109b27107fec0b78d0ccf1150,",
-      "headline.text-content.sm": "S:68b2d1ec7549efac1997431b39b2f8b16782e2d0,"
+      "cell.text-content.header": "S:d90df0bf80368da2d4f8e151637fa99a77f9fdef,",
+      "cell.text-content.footer": "S:90cb4d049bfac7f01dba36ed33b20d1be375eb07,",
+      "cell.text-content.standard": "S:fe4349fc20a18b90a0b443cb8f643b9be55f92a9,",
+      "headline.text-content.xs": "S:89e5cb599afeaf0e03f37c712757bb0ff0acf983,",
+      "headline.text-content.sm": "S:b93406b3358b8de317e0ee3fab33df3fc057c84f,",
+      "headline.text-content.md": "S:134ea2fe6f8ef1233b9e84a69b40aa7db0334183,",
+      "heading.text-content.xl": "S:0c7655e20f49e78969b7056d8e65e3e5c5794c92,",
+      "title1": "S:6ad41e51c2f21f4ffad64668cae4dfd65702a7b6,",
+      "title2": "S:4026e25cd9781a477cbd0c35d67200925c4a5923,",
+      "title3": "S:49806be95fc5c2a3eec5efb65a66792010218ba9,",
+      "body": "S:5705fe8514c688174146284a512e24ed6dc0d4a6,",
+      "caption": "S:3956637ade0e48c11dfe06aaac26a1a79aafcedb,",
+      "select.text-content.md": "S:49779a979ccfac910279979687dbeb7f6d70b698,",
+      "link.text-content.sm": "S:1cede6849a661d372f52fb1e00eef651225a9d3e,",
+      "link.text-content.md": "S:8753638ddfa128773f436c3325337e94135dbba3,",
+      "link.text-content.lg": "S:5973a66c6adc77a5204e8575ddfb160330cc0a25,",
+      "cell.text-content.group": "S:5169ff0df8ce161284c883844c0fe3527c7fd683,"
     }
   }
 ]
