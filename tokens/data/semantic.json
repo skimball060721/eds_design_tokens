@@ -233,37 +233,37 @@
         "padding-top": {
           "xs": {
             "value": "{dimension.px.0}",
-            "type": "spacing"
+            "type": "dimension"
           },
           "sm": {
             "value": "1px",
-            "type": "spacing"
+            "type": "dimension"
           },
           "md": {
             "value": "{dimension.px.25}",
-            "type": "spacing"
+            "type": "dimension"
           },
           "lg": {
             "value": "3px",
-            "type": "spacing"
+            "type": "dimension"
           }
         },
         "padding-bottom": {
           "xs": {
             "value": "{dimension.px.0}",
-            "type": "spacing"
+            "type": "dimension"
           },
           "sm": {
             "value": "1px",
-            "type": "spacing"
+            "type": "dimension"
           },
           "md": {
             "value": "{dimension.px.25}",
-            "type": "spacing"
+            "type": "dimension"
           },
           "lg": {
             "value": "3px",
-            "type": "spacing"
+            "type": "dimension"
           }
         }
       },
