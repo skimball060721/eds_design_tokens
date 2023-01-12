@@ -4,13 +4,13 @@
       "height": {
         "default": {
           "value": "{semantic.sizing.inputs.xs}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "width": {
         "default": {
           "value": "{semantic.sizing.inputs.xs}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "icon-size": {
