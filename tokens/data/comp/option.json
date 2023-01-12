@@ -4,7 +4,7 @@
       "height": {
         "md": {
           "value": "{semantic.sizing.inputs.md}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "icon-size": {
@@ -15,15 +15,15 @@
     "spacing": {
       "padding-right": {
         "value": "{semantic.spacing.inputs.padding-right}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-left": {
         "value": "{semantic.spacing.inputs.padding-left}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "itemSpacing": {
         "value": "{semantic.spacing.inputs.itemSpacing.sm}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "default": {
