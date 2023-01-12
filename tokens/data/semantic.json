@@ -29,37 +29,37 @@
       },
       "actions": {
         "sm": {
-          "value": "{semantic.component.sm}",
+          "value": "{semantic.sizing.component.sm}",
           "type": "dimension"
         },
         "md": {
-          "value": "{semantic.component.md}",
+          "value": "{semantic.sizing.component.md}",
           "type": "dimension"
         },
         "lg": {
-          "value": "{semantic.component.lg}",
+          "value": "{semantic.sizing.component.lg}",
           "type": "dimension"
         }
       },
       "inputs": {
         "xs": {
-          "value": "{semantic.component.xs}",
+          "value": "{semantic.sizing.component.xs}",
           "type": "dimension"
         },
         "sm": {
-          "value": "{semantic.component.sm}",
+          "value": "{semantic.sizing.component.sm}",
           "type": "dimension"
         },
         "md": {
-          "value": "{semantic.component.md}",
+          "value": "{semantic.sizing.component.md}",
           "type": "dimension"
         },
         "lg": {
-          "value": "{semantic.component.lg}",
+          "value": "{semantic.sizing.component.lg}",
           "type": "dimension"
         },
         "xxl": {
-          "value": "{size.1450}",
+          "value": "{dimension.px.1450}",
           "type": "dimension"
         },
         "icon-size": {
