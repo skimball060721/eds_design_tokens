@@ -9,23 +9,23 @@
       "type": "sizing"
     },
     "padding-top": {
-      "value": "{semantic.spacing.status.padding-top.xs}",
+      "value": "{semantic.spacing.status.padding-top}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{semantic.spacing.status.padding-right.sm}",
+      "value": "{semantic.spacing.status.padding-right}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{semantic.spacing.status.padding-bottom.xs}",
+      "value": "{semantic.spacing.status.padding-bottom}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{semantic.spacing.status.padding-left.sm}",
+      "value": "{semantic.spacing.status.padding-left}",
       "type": "spacing"
     },
     "itemSpacing": {
-      "value": "{semantic.spacing.status.itemSpacing.xs}",
+      "value": "{semantic.spacing.status.itemSpacing}",
       "type": "spacing"
     },
     "border-radius": {

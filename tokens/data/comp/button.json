@@ -630,7 +630,7 @@
         "type": "spacing"
       },
       "lg": {
-        "value": "{semantic.spacing.actions.padding-left.lg}",
+        "value": "{semantic.spacing.actions.padding-left.md}",
         "type": "spacing"
       }
     },
@@ -644,13 +644,13 @@
         "type": "spacing"
       },
       "lg": {
-        "value": "{semantic.spacing.actions.padding-right.lg}",
+        "value": "{semantic.spacing.actions.padding-right.md}",
         "type": "spacing"
       }
     },
     "padding-top": {
       "sm": {
-        "value": "{semantic.spacing.actions.padding-top.sm}",
+        "value": "{semantic.spacing.actions.padding-top}",
         "type": "spacing"
       },
       "md": {
@@ -664,7 +664,7 @@
     },
     "padding-bottom": {
       "sm": {
-        "value": "{semantic.spacing.actions.padding-bottom.sm}",
+        "value": "{semantic.spacing.actions.padding-bottom}",
         "type": "spacing"
       },
       "md": {
@@ -678,7 +678,7 @@
     },
     "itemSpacing": {
       "sm": {
-        "value": "{semantic.spacing.actions.itemSpacing.sm}",
+        "value": "{semantic.spacing.actions.itemSpacing}",
         "type": "spacing"
       },
       "md": {
