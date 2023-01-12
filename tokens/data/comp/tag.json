@@ -1,32 +1,36 @@
 {
   "tag": {
-    "icon-size": {
-      "value": "{semantic.font-size.status}",
-      "type": "sizing"
+    "sizing": {
+      "icon-size": {
+        "value": "{semantic.font-size.status}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.status}",
+        "type": "sizing"
+      }
     },
-    "height": {
-      "value": "{semantic.sizing.status}",
-      "type": "sizing"
-    },
-    "padding-top": {
-      "value": "{semantic.spacing.status.padding-top}",
-      "type": "spacing"
-    },
-    "padding-right": {
-      "value": "{semantic.spacing.status.padding-right}",
-      "type": "spacing"
-    },
-    "padding-bottom": {
-      "value": "{semantic.spacing.status.padding-bottom}",
-      "type": "spacing"
-    },
-    "padding-left": {
-      "value": "{semantic.spacing.status.padding-left}",
-      "type": "spacing"
-    },
-    "itemSpacing": {
-      "value": "{semantic.spacing.status.itemSpacing}",
-      "type": "spacing"
+    "spacing": {
+      "padding-top": {
+        "value": "{semantic.spacing.status.padding-top}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.padding-right}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.status.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.padding-left}",
+        "type": "spacing"
+      },
+      "itemSpacing": {
+        "value": "{semantic.spacing.status.itemSpacing}",
+        "type": "spacing"
+      }
     },
     "border-radius": {
       "value": "{semantic.border-radius.status.none}",
@@ -38,12 +42,12 @@
     },
     "default": {
       "value": {
-        "height": "{tag.height}",
-        "paddingTop": "{tag.padding-top}",
-        "paddingRight": "{tag.padding-right}",
-        "paddingBottom": "{tag.padding-bottom}",
-        "paddingLeft": "{tag.padding-left}",
-        "itemSpacing": "{tag.itemSpacing}",
+        "height": "{tag.sizing.height}",
+        "paddingTop": "{tag.spacing.padding-top}",
+        "paddingRight": "{tag.spacing.padding-right}",
+        "paddingBottom": "{tag.spacing.padding-bottom}",
+        "paddingLeft": "{tag.spacing.padding-left}",
+        "itemSpacing": "{tag.spacing.itemSpacing}",
         "borderRadius": "{tag.border-radius}",
         "borderWidth": "{tag.border-width}"
       },
