@@ -68,7 +68,7 @@
         "fontFamily": "{semantic.font-family.inputs}",
         "fontWeight": "{semantic.font-weight.inputs.bold}",
         "lineHeight": "{semantic.line-height.inputs.250}",
-        "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+        "fontSize": "{semantic.font-sizes.inputs} * {semantic.font-nRatio.inputs}",
         "letterSpacing": "0%",
         "paragraphSpacing": "0",
         "textDecoration": "none",

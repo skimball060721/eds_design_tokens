@@ -1,14 +1,14 @@
 {
   "font-size": {
-    "1": {
+    "14": {
       "value": "14",
       "type": "fontSizes"
     },
-    "2": {
+    "15": {
       "value": "15",
       "type": "fontSizes"
     },
-    "3": {
+    "16": {
       "value": "16",
       "type": "fontSizes"
     }

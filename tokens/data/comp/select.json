@@ -2,7 +2,7 @@
   "select": {
     "sizing": {
       "icon-size": {
-        "value": "{semantic.font-size.inputs}",
+        "value": "{semantic.font-sizes.inputs}",
         "type": "sizing"
       },
       "height": {
@@ -208,7 +208,7 @@
           "fontFamily": "{semantic.font-family.inputs}",
           "fontWeight": "{semantic.font-weight.inputs.regular}",
           "lineHeight": "{semantic.line-height.inputs.300}",
-          "fontSize": "{semantic.font-size.inputs} * {semantic.font-nRatio.inputs}",
+          "fontSize": "{semantic.font-sizes.inputs} * {semantic.font-nRatio.inputs}",
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "paragraphIndent": "0",
