@@ -1,20 +1,22 @@
 {
   "multiselect": {
-    "height": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
+    "sizing": {
+      "height": {
+        "default": {
+          "value": "{semantic.sizing.inputs.xs}",
+          "type": "sizing"
+        }
+      },
+      "width": {
+        "default": {
+          "value": "{semantic.sizing.inputs.xs}",
+          "type": "sizing"
+        }
+      },
+      "icon-size": {
+        "value": "14",
         "type": "sizing"
       }
-    },
-    "width": {
-      "default": {
-        "value": "{semantic.sizing.inputs.xs}",
-        "type": "sizing"
-      }
-    },
-    "icon-size": {
-      "value": "14",
-      "type": "sizing"
     },
     "unselected": {
       "default": {
