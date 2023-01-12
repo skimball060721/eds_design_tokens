@@ -1882,6 +1882,10 @@
           "800": {
             "value": "{line-height.800}",
             "type": "lineHeights"
+          },
+          "900": {
+            "value": "{line-height.900}",
+            "type": "lineHeights"
           }
         },
         "headings": {
@@ -1895,6 +1899,10 @@
           },
           "500": {
             "value": "{line-height.500}",
+            "type": "lineHeights"
+          },
+          "550": {
+            "value": "{line-height.550}",
             "type": "lineHeights"
           }
         },
