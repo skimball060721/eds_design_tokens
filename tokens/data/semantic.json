@@ -71,31 +71,31 @@
       },
       "icons": {
         "xs": {
-          "value": "{semantic.font-sizes.typography.heading.xs}",
+          "value": "{semantic.font-size.typography.heading.xs}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{semantic.font-sizes.typography.heading.sm}",
+          "value": "{semantic.font-size.typography.heading.sm}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.font-sizes.typography.heading.md}",
+          "value": "{semantic.font-size.typography.heading.md}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.font-sizes.typography.heading.lg}",
+          "value": "{semantic.font-size.typography.heading.lg}",
           "type": "sizing"
         },
         "xl": {
-          "value": "{semantic.font-sizes.typography.heading.xl}",
+          "value": "{semantic.font-size.typography.heading.xl}",
           "type": "sizing"
         },
         "xxl": {
-          "value": "{semantic.font-sizes.typography.heading.xxl}",
+          "value": "{semantic.font-size.typography.heading.xxl}",
           "type": "sizing"
         },
         "xxxl": {
-          "value": "{semantic.font-sizes.typography.heading.xxxl}",
+          "value": "{semantic.font-size.typography.heading.xxxl}",
           "type": "sizing"
         }
       },
@@ -1692,7 +1692,35 @@
         "type": "fontWeights"
       }
     },
-    "font-sizes": {
+    "font-size": {
+      "0": {
+        "value": "{semantic.font-size.base}",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "{semantic.font-size.0} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "{semantic.font-size.1} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "{semantic.font-size.2} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "{semantic.font-size.3} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "{semantic.font-size.4} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "{semantic.font-size.5} * {semantic.font-size.scale}",
+        "type": "fontSizes"
+      },
       "base": {
         "value": "{font-size.14}",
         "type": "fontSizes"
@@ -1702,128 +1730,100 @@
         "type": "other"
       },
       "neg2": {
-        "value": "{semantic.font-sizes.neg1} / {semantic.font-sizes.scale}",
+        "value": "{semantic.font-size.neg1} / {semantic.font-size.scale}",
         "type": "fontSizes"
       },
       "neg1": {
-        "value": "{semantic.font-sizes.0} / {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "0": {
-        "value": "{semantic.font-sizes.base}",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "{semantic.font-sizes.0} * {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "{semantic.font-sizes.1} * {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "{semantic.font-sizes.2} * {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "{semantic.font-sizes.3} * {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "{semantic.font-sizes.4} * {semantic.font-sizes.scale}",
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": "{semantic.font-sizes.5} * {semantic.font-sizes.scale}",
+        "value": "{semantic.font-size.0} / {semantic.font-size.scale}",
         "type": "fontSizes"
       },
       "typography": {
         "heading": {
           "xs": {
-            "value": "{semantic.font-sizes.0}",
+            "value": "{semantic.font-size.0}",
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{semantic.font-sizes.1}",
+            "value": "{semantic.font-size.1}",
             "type": "fontSizes"
           },
           "md": {
-            "value": "{semantic.font-sizes.2}",
+            "value": "{semantic.font-size.2}",
             "type": "fontSizes"
           },
           "lg": {
-            "value": "{semantic.font-sizes.3}",
+            "value": "{semantic.font-size.3}",
             "type": "fontSizes"
           },
           "xl": {
-            "value": "{semantic.font-sizes.4}",
+            "value": "{semantic.font-size.4}",
             "type": "fontSizes"
           },
           "xxl": {
-            "value": "{semantic.font-sizes.5}",
+            "value": "{semantic.font-size.5}",
             "type": "fontSizes"
           },
           "xxxl": {
-            "value": "{semantic.font-sizes.6}",
+            "value": "{semantic.font-size.6}",
             "type": "fontSizes"
           }
         },
         "body": {
           "xs": {
-            "value": "{semantic.font-sizes.neg2}",
+            "value": "{semantic.font-size.neg2}",
             "type": "fontSizes"
           },
           "sm": {
-            "value": "{semantic.font-sizes.neg1}",
+            "value": "{semantic.font-size.neg1}",
             "type": "fontSizes"
           },
           "md": {
-            "value": "{semantic.font-sizes.0}",
+            "value": "{semantic.font-size.0}",
             "type": "fontSizes"
           },
           "lg": {
-            "value": "{semantic.font-sizes.1}",
+            "value": "{semantic.font-size.1}",
             "type": "fontSizes"
           },
           "xl": {
-            "value": "{semantic.font-sizes.2}",
+            "value": "{semantic.font-size.2}",
             "type": "fontSizes"
           }
         }
       },
       "actions": {
         "sm": {
-          "value": "{semantic.font-sizes.neg1}",
+          "value": "{semantic.font-size.neg1}",
           "type": "fontSizes"
         },
         "md": {
-          "value": "{semantic.font-sizes.0}",
+          "value": "{semantic.font-size.0}",
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{semantic.font-sizes.1}",
+          "value": "{semantic.font-size.1}",
           "type": "fontSizes"
         }
       },
       "inputs": {
-        "value": "{semantic.font-sizes.0}",
+        "value": "{semantic.font-size.0}",
         "type": "fontSizes"
       },
       "tables": {
-        "value": "{semantic.font-sizes.0}",
+        "value": "{semantic.font-size.0}",
         "type": "fontSizes"
       },
       "status": {
-        "value": "{semantic.font-sizes.neg1}",
+        "value": "{semantic.font-size.neg1}",
         "type": "fontSizes"
       },
       "feedback": {
         "sm": {
-          "value": "{semantic.font-sizes.0}",
+          "value": "{semantic.font-size.0}",
           "type": "fontSizes"
         },
         "md": {
-          "value": "{semantic.font-sizes.1}",
+          "value": "{semantic.font-size.1}",
           "type": "fontSizes"
         }
       }

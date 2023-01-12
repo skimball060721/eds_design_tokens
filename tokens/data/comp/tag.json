@@ -2,7 +2,7 @@
   "tag": {
     "sizing": {
       "icon-size": {
-        "value": "{semantic.font-sizes.status}",
+        "value": "{semantic.font-size.status}",
         "type": "sizing"
       },
       "height": {
@@ -58,7 +58,7 @@
         "fontFamily": "{semantic.font-family.typography.body}",
         "fontWeight": "{semantic.font-weight.typography.body.regular}",
         "lineHeight": "{semantic.line-height.typography.body.200}",
-        "fontSize": "{semantic.font-sizes.typography.body.sm} * {semantic.font-nRatio.body}",
+        "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
         "letterSpacing": "0%",
         "paragraphSpacing": "0",
         "textDecoration": "none",
