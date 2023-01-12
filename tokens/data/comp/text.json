@@ -1,12 +1,12 @@
 {
   "headline": {
     "text-content": {
-      "xxl": {
+      "xs": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.650}",
-          "fontSize": "{semantic.font-size.typography.heading.xxl} * {semantic.font-nRatio.headlines}",
+          "fontSize": "{semantic.font-size.typography.headline.xs} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
@@ -14,12 +14,12 @@
         },
         "type": "typography"
       },
-      "xxxl": {
+      "sm": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
           "lineHeight": "{semantic.line-height.typography.headlines.800}",
-          "fontSize": "{semantic.font-size.typography.heading.xxxl} * {semantic.font-nRatio.headlines}",
+          "fontSize": "{semantic.font-size.typography.headline.sm} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",

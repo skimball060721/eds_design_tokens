@@ -69,7 +69,7 @@
     "font-size": {
       "actions": {
         "md": {
-          "value": "{font-size.3}",
+          "value": "{font-size.16}",
           "type": "fontSizes"
         }
       }
