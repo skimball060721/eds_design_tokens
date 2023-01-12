@@ -8,29 +8,29 @@
       "height": {
         "xs": {
           "value": "{semantic.sizing.inputs.xs}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "sm": {
           "value": "{semantic.sizing.inputs.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.sizing.inputs.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.sizing.inputs.lg}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "xxl": {
           "value": "{semantic.sizing.inputs.xxl}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "width": {
         "xs": {
           "value": "{semantic.sizing.inputs.xs}",
-          "type": "sizing"
+          "type": "dimension"
         }
       }
     },
@@ -38,36 +38,36 @@
       "itemSpacing": {
         "xxs": {
           "value": "{semantic.spacing.inputs.itemSpacing.xxs}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "xs": {
           "value": "{semantic.spacing.inputs.itemSpacing.xs}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "sm": {
           "value": "{semantic.spacing.inputs.itemSpacing.sm}",
-          "type": "spacing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.spacing.inputs.itemSpacing.md}",
-          "type": "spacing"
+          "type": "dimension"
         }
       },
       "padding-top": {
         "value": "{semantic.spacing.inputs.padding-top}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-right": {
         "value": "{semantic.spacing.inputs.padding-right}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-bottom": {
         "value": "{semantic.spacing.inputs.padding-bottom}",
-        "type": "spacing"
+        "type": "dimension"
       },
       "padding-left": {
         "value": "{semantic.spacing.inputs.padding-left}",
-        "type": "spacing"
+        "type": "dimension"
       }
     },
     "text-content": {
