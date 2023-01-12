@@ -161,8 +161,14 @@
           }
         },
         "itemSpacing": {
-          "value": "{dimension.px.50}",
-          "type": "dimension"
+          "xs": {
+            "value": "{dimension.px.50}",
+            "type": "dimension"
+          },
+          "xxs": {
+            "value": "{dimension.px.0}",
+            "type": "dimension"
+          }
         }
       },
       "feedback": {

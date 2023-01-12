@@ -660,7 +660,7 @@
         "type": "dimension"
       },
       "itemSpacing": {
-        "value": "{semantic.spacing.actions.itemSpacing}",
+        "value": "{semantic.spacing.actions.itemSpacing.xs}",
         "type": "dimension"
       }
     },
