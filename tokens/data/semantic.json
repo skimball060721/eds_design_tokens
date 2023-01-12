@@ -236,7 +236,7 @@
             "type": "spacing"
           },
           "sm": {
-            "value": "1",
+            "value": "1px",
             "type": "spacing"
           },
           "md": {
@@ -244,7 +244,7 @@
             "type": "spacing"
           },
           "lg": {
-            "value": "3",
+            "value": "3px",
             "type": "spacing"
           }
         },
@@ -254,7 +254,7 @@
             "type": "spacing"
           },
           "sm": {
-            "value": "1",
+            "value": "1px",
             "type": "spacing"
           },
           "md": {
@@ -262,7 +262,7 @@
             "type": "spacing"
           },
           "lg": {
-            "value": "3",
+            "value": "3px",
             "type": "spacing"
           }
         }
