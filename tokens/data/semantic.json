@@ -30,37 +30,37 @@
       "actions": {
         "sm": {
           "value": "{semantic.component.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.component.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.component.lg}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "inputs": {
         "xs": {
           "value": "{semantic.component.xs}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "sm": {
           "value": "{semantic.component.sm}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.component.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{semantic.component.lg}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "xxl": {
           "value": "{size.1450}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "icon-size": {
           "default": {
@@ -101,31 +101,31 @@
       },
       "status": {
         "value": "{semantic.component.xxs}",
-        "type": "sizing"
+        "type": "dimension"
       },
       "alerts": {
         "sm": {
           "value": "{semantic.component.md}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{semantic.component.xl}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "tables": {
         "cell": {
           "sm": {
             "value": "{semantic.component.sm}",
-            "type": "sizing"
+            "type": "dimension"
           },
           "md": {
             "value": "{semantic.component.md}",
-            "type": "sizing"
+            "type": "dimension"
           },
           "lg": {
             "value": "{semantic.component.lg}",
-            "type": "sizing"
+            "type": "dimension"
           }
         }
       }
