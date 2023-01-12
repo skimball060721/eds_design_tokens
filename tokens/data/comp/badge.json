@@ -1,32 +1,36 @@
 {
   "badge": {
-    "icon-size": {
-      "value": "{semantic.font-size.status}",
-      "type": "sizing"
+    "sizing": {
+      "icon-size": {
+        "value": "{semantic.font-size.status}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.status}",
+        "type": "sizing"
+      }
     },
-    "height": {
-      "value": "{semantic.sizing.status}",
-      "type": "sizing"
-    },
-    "padding-top": {
-      "value": "{semantic.spacing.status.padding-top}",
-      "type": "spacing"
-    },
-    "padding-right": {
-      "value": "{semantic.spacing.status.padding-right}",
-      "type": "spacing"
-    },
-    "padding-bottom": {
-      "value": "{semantic.spacing.status.padding-bottom}",
-      "type": "spacing"
-    },
-    "padding-left": {
-      "value": "{semantic.spacing.status.padding-left}",
-      "type": "spacing"
-    },
-    "itemSpacing": {
-      "value": "{semantic.spacing.status.itemSpacing}",
-      "type": "spacing"
+    "spacing": {
+      "padding-top": {
+        "value": "{semantic.spacing.status.padding-top}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.padding-right}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.status.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.padding-left}",
+        "type": "spacing"
+      },
+      "itemSpacing": {
+        "value": "{semantic.spacing.status.itemSpacing}",
+        "type": "spacing"
+      }
     },
     "success": {
       "border-color": {
@@ -128,12 +132,12 @@
     },
     "default": {
       "value": {
-        "height": "{badge.height}",
-        "paddingTop": "{badge.padding-top}",
-        "paddingRight": "{badge.padding-right}",
-        "paddingBottom": "{badge.padding-bottom}",
-        "paddingLeft": "{badge.padding-left}",
-        "itemSpacing": "{badge.itemSpacing}",
+        "height": "{badge.sizing.height}",
+        "paddingTop": "{badge.spacing.padding-top}",
+        "paddingRight": "{badge.spacing.padding-right}",
+        "paddingBottom": "{badge.spacing.padding-bottom}",
+        "paddingLeft": "{badge.spacing.padding-left}",
+        "itemSpacing": "{badge.spacing.itemSpacing}",
         "borderRadius": "{badge.border-radius}",
         "borderWidth": "{badge.border-width}"
       },
