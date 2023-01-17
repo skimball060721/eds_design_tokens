@@ -1,0 +1,14 @@
+{
+  "semantic": {
+    "font-size": {
+      "base": {
+        "value": "{font-size.16}",
+        "type": "fontSizes"
+      },
+      "scale": {
+        "value": "{font-scale.minorThird}",
+        "type": "other"
+      }
+    }
+  }
+}

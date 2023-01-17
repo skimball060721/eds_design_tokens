@@ -1,0 +1,88 @@
+{
+  "tag": {
+    "sizing": {
+      "icon-size": {
+        "value": "{semantic.font-size.status}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.status}",
+        "type": "dimension"
+      }
+    },
+    "spacing": {
+      "padding-top": {
+        "value": "{semantic.spacing.status.padding-top}",
+        "type": "dimension"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.padding-right}",
+        "type": "dimension"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.status.padding-bottom}",
+        "type": "dimension"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.padding-left}",
+        "type": "dimension"
+      },
+      "itemSpacing": {
+        "value": "{semantic.spacing.status.itemSpacing}",
+        "type": "dimension"
+      }
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.status.none}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.status}",
+      "type": "borderWidth"
+    },
+    "default": {
+      "value": {
+        "height": "{tag.sizing.height}",
+        "paddingTop": "{tag.spacing.padding-top}",
+        "paddingRight": "{tag.spacing.padding-right}",
+        "paddingBottom": "{tag.spacing.padding-bottom}",
+        "paddingLeft": "{tag.spacing.padding-left}",
+        "itemSpacing": "{tag.spacing.itemSpacing}",
+        "borderRadius": "{tag.border-radius}",
+        "borderWidth": "{tag.border-width}"
+      },
+      "type": "composition"
+    },
+    "text-content": {
+      "value": {
+        "fontFamily": "{semantic.font-family.typography.body}",
+        "fontWeight": "{semantic.font-weight.typography.body.regular}",
+        "lineHeight": "{semantic.line-height.typography.body.200}",
+        "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "capitalize"
+      },
+      "type": "typography"
+    },
+    "neutral": {
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.neutral.subtle}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.status.border-color.neutral.subtle}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.black}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.black}",
+        "type": "color"
+      }
+    }
+  }
+}

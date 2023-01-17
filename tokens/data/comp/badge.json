@@ -1,0 +1,160 @@
+{
+  "badge": {
+    "sizing": {
+      "icon-size": {
+        "value": "{semantic.font-size.status}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{semantic.sizing.status}",
+        "type": "dimension"
+      }
+    },
+    "spacing": {
+      "padding-top": {
+        "value": "{semantic.spacing.status.padding-top}",
+        "type": "dimension"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.status.padding-right}",
+        "type": "dimension"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.status.padding-bottom}",
+        "type": "dimension"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.status.padding-left}",
+        "type": "dimension"
+      },
+      "itemSpacing": {
+        "value": "{semantic.spacing.status.itemSpacing}",
+        "type": "dimension"
+      }
+    },
+    "success": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.success}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.success}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.white}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.neutral.strong}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.neutral.strong}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.white}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.warning}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.warning}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.black}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.black}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.danger}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.danger}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.white}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "border-color": {
+        "value": "{semantic.color.status.border-color.info}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{semantic.color.status.bg-color.info}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.status.text-color.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.status.icon-color.white}",
+        "type": "color"
+      }
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.status.sm}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.status}",
+      "type": "borderWidth"
+    },
+    "default": {
+      "value": {
+        "height": "{badge.sizing.height}",
+        "paddingTop": "{badge.spacing.padding-top}",
+        "paddingRight": "{badge.spacing.padding-right}",
+        "paddingBottom": "{badge.spacing.padding-bottom}",
+        "paddingLeft": "{badge.spacing.padding-left}",
+        "itemSpacing": "{badge.spacing.itemSpacing}",
+        "borderRadius": "{badge.border-radius}",
+        "borderWidth": "{badge.border-width}"
+      },
+      "type": "composition"
+    },
+    "text-content": {
+      "value": {
+        "fontFamily": "{semantic.font-family.status}",
+        "fontWeight": "{semantic.font-weight.status}",
+        "lineHeight": "{semantic.line-height.status.200}",
+        "fontSize": "{semantic.font-size.status} * {semantic.font-nRatio.status}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "{semantic.text-case.status}"
+      },
+      "type": "typography"
+    }
+  }
+}

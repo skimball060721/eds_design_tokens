@@ -1,0 +1,50 @@
+{
+  "multiselect": {
+    "sizing": {
+      "height": {
+        "default": {
+          "value": "{semantic.sizing.inputs.xs}",
+          "type": "dimension"
+        }
+      },
+      "width": {
+        "default": {
+          "value": "{semantic.sizing.inputs.xs}",
+          "type": "dimension"
+        }
+      },
+      "icon-size": {
+        "value": "14",
+        "type": "sizing"
+      }
+    },
+    "unselected": {
+      "default": {
+        "icon-color": {
+          "value": "{semantic.color.inputs.icon-color.default}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "value": "{semantic.color.inputs.icon-color.hover}",
+          "type": "color"
+        }
+      }
+    },
+    "selected": {
+      "default": {
+        "icon-color": {
+          "value": "{semantic.color.inputs.icon-color.selected}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "value": "{semantic.color.inputs.icon-color.hover}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

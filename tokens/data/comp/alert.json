@@ -1,0 +1,214 @@
+{
+  "alert": {
+    "success": {
+      "bg-color": {
+        "value": "#DEEDDD",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.success.border-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.success.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.success.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.success.on-bg}",
+        "type": "color"
+      },
+      "on-success": {
+        "value": "{semantic.color.feedback.success.on-success}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "bg-color": {
+        "value": "#FFF7E5",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.warning.border-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.warning.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.warning.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.warning.on-bg}",
+        "type": "color"
+      },
+      "on-warning": {
+        "value": "{semantic.color.feedback.warning.on-warning}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "bg-color": {
+        "value": "#FBDFDC",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.danger.border-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.danger.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.danger.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.danger.on-bg}",
+        "type": "color"
+      },
+      "on-danger": {
+        "value": "{semantic.color.feedback.danger.on-danger}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "bg-color": {
+        "value": "#E0E7FF",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.feedback.info.border-color}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.feedback.info.icon-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.feedback.info.text-color}",
+        "type": "color"
+      },
+      "on-bg": {
+        "value": "{semantic.color.feedback.info.on-bg}",
+        "type": "color"
+      },
+      "on-info": {
+        "value": "{semantic.color.feedback.info.on-info}",
+        "type": "color"
+      }
+    },
+    "sizing": {
+      "height": {
+        "sm": {
+          "value": "{semantic.sizing.feedback.sm}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.sizing.feedback.md}",
+          "type": "dimension"
+        }
+      },
+      "icon-size": {
+        "sm": {
+          "value": "{semantic.font-size.feedback.sm}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{semantic.font-size.feedback.md}",
+          "type": "sizing"
+        }
+      }
+    },
+    "spacing": {
+      "padding-top": {
+        "value": "{semantic.spacing.feedback.padding-top}",
+        "type": "dimension"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.feedback.padding-right}",
+        "type": "dimension"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.feedback.padding-bottom}",
+        "type": "dimension"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.feedback.padding-left}",
+        "type": "dimension"
+      },
+      "itemSpacing": {
+        "value": "{semantic.spacing.feedback.itemSpacing.xs}",
+        "type": "dimension"
+      }
+    },
+    "border-radius": {
+      "value": "{semantic.border-radius.feedback}",
+      "type": "borderRadius"
+    },
+    "border-width": {
+      "value": "{semantic.border-width.feedback}",
+      "type": "borderWidth"
+    },
+    "sm": {
+      "value": {
+        "height": "{alert.sizing.height.sm}",
+        "paddingTop": "{alert.spacing.padding-top}",
+        "paddingRight": "{alert.spacing.padding-right}",
+        "paddingBottom": "{alert.spacing.padding-bottom}",
+        "paddingLeft": "{alert.spacing.padding-left}",
+        "borderRadius": "{alert.border-radius}",
+        "borderWidth": "{alert.border-width}",
+        "itemSpacing": "{alert.spacing.itemSpacing}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "height": "{alert.sizing.height.md}",
+        "paddingTop": "{alert.spacing.padding-top}",
+        "paddingRight": "{alert.spacing.padding-right}",
+        "paddingBottom": "{alert.spacing.padding-bottom}",
+        "paddingLeft": "{alert.spacing.padding-left}",
+        "borderRadius": "{alert.border-radius}",
+        "borderWidth": "{alert.border-width}",
+        "itemSpacing": "{alert.spacing.itemSpacing}"
+      },
+      "type": "composition"
+    },
+    "text-content": {
+      "sm": {
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.sm}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{semantic.font-family.feedback}",
+          "fontWeight": "{semantic.font-weight.feedback}",
+          "lineHeight": "{semantic.line-height.feedback.300}",
+          "fontSize": "{semantic.font-size.feedback.md}",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "0",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.feedback}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "line-height": {
+    "200": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "250": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "300": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "350": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "400": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "500": {
+      "value": "40",
+      "type": "lineHeights"
+    },
+    "550": {
+      "value": "44",
+      "type": "lineHeights"
+    },
+    "600": {
+      "value": "48",
+      "type": "lineHeights"
+    },
+    "650": {
+      "value": "52",
+      "type": "lineHeights"
+    },
+    "700": {
+      "value": "56",
+      "type": "lineHeights"
+    },
+    "800": {
+      "value": "64",
+      "type": "lineHeights"
+    },
+    "850": {
+      "value": "68",
+      "type": "lineHeights"
+    },
+    "900": {
+      "value": "72",
+      "type": "lineHeights"
+    }
+  }
+}

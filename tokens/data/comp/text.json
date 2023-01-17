@@ -1,0 +1,330 @@
+{
+  "headline": {
+    "text-content": {
+      "xs": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.650}",
+          "fontSize": "{semantic.font-size.typography.headline.xs} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.800}",
+          "fontSize": "{semantic.font-size.typography.headline.sm} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headlines}",
+          "fontWeight": "{semantic.font-weight.typography.headlines}",
+          "lineHeight": "{semantic.line-height.typography.headlines.900}",
+          "fontSize": "{semantic.font-size.typography.headline.md} * {semantic.font-nRatio.headlines}",
+          "textCase": "{semantic.text-case.typography.headlines}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headlines.0}",
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.prominentText}",
+        "type": "color"
+      }
+    },
+    "xs": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    }
+  },
+  "heading": {
+    "text-content": {
+      "xs": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify fourth-level sections in standard use cases."
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify third-level sections in standard use cases."
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify second-level sections in standard use cases."
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.500}",
+          "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography",
+        "description": "Used to identify top-level sections in standard use cases."
+      },
+      "xl": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.headings}",
+          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.550}",
+          "fontSize": "{semantic.font-size.typography.heading.xl} * {semantic.font-nRatio.headings}",
+          "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
+          "textDecoration": "none",
+          "textCase": "{semantic.text-case.typography.headings}"
+        },
+        "type": "typography"
+      }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.coreText}",
+        "type": "color"
+      }
+    },
+    "deemphasized": {
+      "text-color": {
+        "value": "{semantic.color.typography.deemphasizedText}",
+        "type": "color"
+      }
+    },
+    "xs": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}",
+        "horizontalPadding": "{semantic.spacing.typography.padding-bottom.xs}"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    },
+    "xl": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    }
+  },
+  "subheading": {
+    "text-content": {
+      "xs": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading3"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
+          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Section subheading typically paired with standard.heading1"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{semantic.font-family.typography.subheadings}",
+          "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
+          "lineHeight": "{semantic.line-height.typography.headings.400}",
+          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
+          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.400}",
+          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
+          "textDecoration": "none",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Page subheading typically paired with standard.headline2"
+      }
+    },
+    "xs": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
+      },
+      "type": "composition"
+    }
+  },
+  "title1": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.bold}",
+      "lineHeight": "{semantic.line-height.typography.body.350}",
+      "fontSize": "{semantic.font-size.typography.body.xl} * {semantic.font-nRatio.body}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+      "textDecoration": "none",
+      "textCase": "{text-case.capitalize}"
+    },
+    "type": "typography",
+    "description": "Used for secondary flows such as modals or large content sections."
+  },
+  "title2": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.bold}",
+      "lineHeight": "{semantic.line-height.typography.body.300}",
+      "fontSize": "{semantic.font-size.typography.body.lg} * {semantic.font-nRatio.body}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+      "textDecoration": "none",
+      "textCase": "{text-case.capitalize}"
+    },
+    "type": "typography",
+    "description": "Used to highlight primary content with modular sections."
+  },
+  "title3": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.bold}",
+      "lineHeight": "{semantic.line-height.typography.body.200}",
+      "fontSize": "{semantic.font-size.typography.body.sm} * {semantic.font-nRatio.body}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.md}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.0}",
+      "textDecoration": "none",
+      "textCase": "{text-case.uppercase}"
+    },
+    "type": "typography",
+    "description": "Used to identify modular sections such as cards."
+  },
+  "body": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.regular}",
+      "lineHeight": "{semantic.line-height.typography.body.300}",
+      "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
+      "textDecoration": "none",
+      "textCase": "{semantic.text-case.typography.body}"
+    },
+    "type": "typography",
+    "description": "Used for general text and data"
+  },
+  "caption": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.regular}",
+      "lineHeight": "{semantic.line-height.typography.body.200}",
+      "fontSize": "{semantic.font-size.typography.body.sm}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.200}",
+      "textCase": "{text-case.none}",
+      "textDecoration": "none"
+    },
+    "type": "typography",
+    "description": "Description of use cases for standard.caption"
+  }
+}
