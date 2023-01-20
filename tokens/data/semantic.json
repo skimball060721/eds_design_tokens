@@ -1220,6 +1220,12 @@
             "type": "color"
           }
         },
+        "primary": {
+          "icon-color": {
+            "value": "{semantic.primary.default}",
+            "type": "color"
+          }
+        },
         "warning": {
           "bg-color": {
             "value": "{semantic.warning.weak}",
