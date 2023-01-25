@@ -137,7 +137,6 @@
         "paddingRight": "{badge.spacing.padding-right}",
         "paddingBottom": "{badge.spacing.padding-bottom}",
         "paddingLeft": "{badge.spacing.padding-left}",
-        "itemSpacing": "{badge.spacing.itemSpacing}",
         "borderRadius": "{badge.border-radius}",
         "borderWidth": "{badge.border-width}"
       },
