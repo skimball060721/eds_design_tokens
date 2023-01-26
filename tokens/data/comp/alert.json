@@ -144,8 +144,14 @@
         "type": "dimension"
       },
       "itemSpacing": {
-        "value": "{semantic.spacing.feedback.itemSpacing.xs}",
-        "type": "dimension"
+        "xs": {
+          "value": "{semantic.spacing.feedback.itemSpacing.xs}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.spacing.feedback.itemSpacing.md}",
+          "type": "dimension"
+        }
       }
     },
     "border-radius": {
@@ -165,7 +171,7 @@
         "paddingLeft": "{alert.spacing.padding-left}",
         "borderRadius": "{alert.border-radius}",
         "borderWidth": "{alert.border-width}",
-        "itemSpacing": "{alert.spacing.itemSpacing}"
+        "itemSpacing": "{alert.spacing.itemSpacing.xs}"
       },
       "type": "composition"
     },
@@ -178,7 +184,7 @@
         "paddingLeft": "{alert.spacing.padding-left}",
         "borderRadius": "{alert.border-radius}",
         "borderWidth": "{alert.border-width}",
-        "itemSpacing": "{alert.spacing.itemSpacing}"
+        "itemSpacing": "{alert.spacing.itemSpacing.xs}"
       },
       "type": "composition"
     },
