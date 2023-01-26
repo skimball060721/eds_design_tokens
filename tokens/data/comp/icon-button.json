@@ -698,8 +698,14 @@
     },
     "sizing": {
       "icon-size": {
-        "value": "{semantic.sizing.icons.sm}",
-        "type": "sizing"
+        "xs": {
+          "value": "{semantic.sizing.icons.xs}",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "{semantic.sizing.icons.sm}",
+          "type": "sizing"
+        }
       },
       "height": {
         "sm": {
