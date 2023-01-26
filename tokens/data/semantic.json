@@ -28,6 +28,10 @@
         }
       },
       "actions": {
+        "xs": {
+          "value": "{semantic.sizing.component.xs}",
+          "type": "dimension"
+        },
         "sm": {
           "value": "{semantic.sizing.component.sm}",
           "type": "dimension"

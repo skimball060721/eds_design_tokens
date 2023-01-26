@@ -708,6 +708,10 @@
         }
       },
       "height": {
+        "xs": {
+          "value": "{semantic.sizing.actions.xs}",
+          "type": "dimension"
+        },
         "sm": {
           "value": "{semantic.sizing.actions.sm}",
           "type": "dimension"
@@ -722,6 +726,10 @@
         }
       },
       "width": {
+        "xs": {
+          "value": "{semantic.sizing.actions.xs}",
+          "type": "dimension"
+        },
         "sm": {
           "value": "{semantic.sizing.actions.sm}",
           "type": "dimension"
@@ -785,6 +793,20 @@
     "border-width": {
       "value": "{semantic.border-width.actions}",
       "type": "borderWidth"
+    },
+    "xs": {
+      "value": {
+        "height": "{icon-btn.sizing.height.xs}",
+        "width": "{icon-btn.sizing.width.xs}",
+        "paddingTop": "{icon-btn.spacing.padding-top}",
+        "paddingRight": "{icon-btn.spacing.padding-right.sm}",
+        "paddingBottom": "{icon-btn.spacing.padding-bottom}",
+        "paddingLeft": "{icon-btn.spacing.padding-left.sm}",
+        "borderRadius": "{icon-btn.border-radius}",
+        "borderWidth": "{icon-btn.border-width}",
+        "itemSpacing": "{icon-btn.spacing.itemSpacing}"
+      },
+      "type": "composition"
     },
     "sm": {
       "value": {
