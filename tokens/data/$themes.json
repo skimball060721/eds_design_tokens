@@ -846,15 +846,10 @@
       "cell.text-content.header": "S:b0cf00705def15ab4f359ba96168644f31562c0f,",
       "cell.text-content.footer": "S:813f048b5a0518f8289aa0a522808ae52227a61c,",
       "semantic.color.tables.border-color.accent": "S:b4206d2448c3391303b72e8d43c8115ca94dd343,",
-      "cell.text-content.group": "S:7002ee02c42ba0cb147923298bf1e84ea2c358ae,",
       "semantic.tables.group": "S:8ff8c860138ac02cb8f4b725a7fa66b018b7bbf9,",
       "cell.text-content.standard": "S:affea623536f3d18c055402b7f8741a28d3cdcde,",
-      "cell.header.group.default.bg-color": "S:989023eaf2832255ddb7f2e38e97d4bd3afe00a9,",
-      "cell.header.group.default.border-color": "S:3c0f96b2f7e0a23699b7b5d68ae870f6c9990d24,",
-      "cell.header.group.default.text-color": "S:e422d2794b3e58ef2c291256729021ec3eff495c,",
       "headline.text-content.xs": "S:8b0c298f74e8772ce99a6555fcf88e23fce03c5b,",
       "headline.text-content.sm": "S:abfcbe56544b69063222824830b44f84f0229e71,",
-      "cell.standard.group.default.bg-color": "S:e7983fda23da45b7bc0b7938c1b4325feff86222,",
       "headline.text-content.md": "S:6268837086b10b9334fad2c7983d828482d8f96d,",
       "heading.text-content.xl": "S:f9bcceffbc3bf8f0bf46ce22c9c6eb856c3ff613,",
       "title1": "S:9142d9280a4a6725511adee13cfe25e68b684c3e,",
@@ -1783,17 +1778,12 @@
       "link.text-content.sm": "S:1cede6849a661d372f52fb1e00eef651225a9d3e,",
       "link.text-content.md": "S:8753638ddfa128773f436c3325337e94135dbba3,",
       "link.text-content.lg": "S:5973a66c6adc77a5204e8575ddfb160330cc0a25,",
-      "cell.text-content.group": "S:5169ff0df8ce161284c883844c0fe3527c7fd683,",
       "option.default.bg-color": "S:7a2a8d486e57d52463df6285327b173778dd9600,",
       "option.default.text-color": "S:beab18b625aa27961ad182982b0b7fe6961440a0,",
       "option.default.icon-color": "S:70745ab43b1baf1d1a0153929872043400abb3b0,",
       "option.hover.bg-color": "S:ad94dbd48e0cbfde63dbc48d0a2670b52754c943,",
       "option.hover.text-color": "S:74f92b2fef414913d7fcfe6d16785bf9ed3c461d,",
-      "option.hover.icon-color": "S:777948212141cb7ece7114e26e13618389f2fd33,",
-      "cell.standard.group.default.bg-color": "S:1b25251c5b979608c69a1267c4016e8e5331392a,",
-      "cell.header.group.default.bg-color": "S:bb046e222d92171f89040177e2615ee3c2204c00,",
-      "cell.header.group.default.border-color": "S:b3d273b9fe8efd01817b9e3a62f0690b871df8e4,",
-      "cell.header.group.default.text-color": "S:4328eb358ee2e96dba5eb46e2682f270057b4263,"
+      "option.hover.icon-color": "S:777948212141cb7ece7114e26e13618389f2fd33,"
     }
   }
 ]

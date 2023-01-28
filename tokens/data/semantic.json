@@ -1498,6 +1498,12 @@
             "type": "color"
           }
         },
+        "icon-color": {
+          "default": {
+            "value": "{semantic.neutral.default}",
+            "type": "color"
+          }
+        },
         "border-color": {
           "default": {
             "value": "{semantic.neutral.subtle}",

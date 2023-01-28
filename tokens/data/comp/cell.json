@@ -14,33 +14,9 @@
           "value": "{semantic.color.tables.text-color.default}",
           "type": "color"
         }
-      },
-      "group": {
-        "default": {
-          "bg-color": {
-            "value": "{semantic.color.tables.bg-color.header}",
-            "type": "color"
-          }
-        }
       }
     },
     "header": {
-      "group": {
-        "default": {
-          "bg-color": {
-            "value": "{semantic.color.tables.bg-color.default}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "{semantic.color.tables.border-color.default}",
-            "type": "color"
-          },
-          "text-color": {
-            "value": "{semantic.color.tables.text-color.default}",
-            "type": "color"
-          }
-        }
-      },
       "default": {
         "bg-color": {
           "value": "{semantic.color.tables.bg-color.header}",
@@ -52,6 +28,10 @@
         },
         "text-color": {
           "value": "{semantic.color.tables.text-color.default}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.tables.icon-color.default}",
           "type": "color"
         }
       }
@@ -86,19 +66,6 @@
         },
         "type": "typography"
       },
-      "group": {
-        "value": {
-          "fontFamily": "{semantic.font-family.tables}",
-          "fontWeight": "{semantic.font-weight.tables.bold}",
-          "lineHeight": "AUTO",
-          "fontSize": "{semantic.font-size.tables} * {semantic.font-nRatio.tables}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
-        "type": "typography"
-      },
       "header": {
         "value": {
           "fontFamily": "{semantic.font-family.tables}",
@@ -108,7 +75,7 @@
           "letterSpacing": "0%",
           "paragraphSpacing": "0",
           "textDecoration": "none",
-          "textCase": "none"
+          "textCase": "capitalize"
         },
         "type": "typography"
       },
@@ -138,8 +105,8 @@
     "md": {
       "value": {
         "height": "{semantic.sizing.tables.cell.md}",
-        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
-        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
+        "paddingRight": "{semantic.spacing.tables.cell.sm}",
+        "paddingLeft": "{semantic.spacing.tables.cell.md}",
         "itemSpacing": "{semantic.spacing.tables.cell.none}"
       },
       "type": "composition"
