@@ -40,6 +40,20 @@
         "type": "color"
       }
     },
+    "disabled": {
+      "bg-color": {
+        "value": "{semantic.color.inputs.bg-color}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{semantic.color.inputs.text-color.disabled}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.inputs.icon-color.disabled}",
+        "type": "color"
+      }
+    },
     "hover": {
       "bg-color": {
         "value": "{color.grey.100}",
