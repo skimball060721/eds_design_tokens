@@ -824,7 +824,6 @@
       "semantic.tables.header": "S:3600a8d677ee42af706cb7aa3136caffd6029ecc,",
       "semantic.tables.default": "S:b295c49734227fad390dd0e548cc224cdd479555,",
       "semantic.tables.footer": "S:f7bb83e492dd11d6ed30720e7fb00d0da7b8cef6,",
-      "semantic.color.tables.bg-color.header": "S:29a263d71c3384ddb768d79480d68159139ac398,",
       "option.default.bg-color": "S:cc5b28e386257c60261fc09813f6a3ebe43b2df4,",
       "option.default.text-color": "S:d558c88211d287596a276483207c45eac5461d85,",
       "option.default.icon-color": "S:0bc42e4fa9f3923e805a9724f301368dc45bae0e,",
@@ -861,7 +860,8 @@
       "link.text-content.sm": "S:e6d164c02d206296801f1033273048712372d831,",
       "link.text-content.md": "S:7303a62f4b1fe9dd16902774f10e52e7c1b27411,",
       "link.text-content.lg": "S:5183774e597320bb0553bddd476fc04b4a23ab20,",
-      "semantic.color.feedback.primary.icon-color": "S:8c7e6ce47d4684bea239396daaaa36cd61434aea,"
+      "semantic.color.feedback.primary.icon-color": "S:8c7e6ce47d4684bea239396daaaa36cd61434aea,",
+      "semantic.color.tables.bg-color.subtle": "S:29a263d71c3384ddb768d79480d68159139ac398,"
     }
   },
   {

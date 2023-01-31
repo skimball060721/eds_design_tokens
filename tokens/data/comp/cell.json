@@ -23,7 +23,7 @@
     "header": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.tables.bg-color.header}",
+          "value": "{semantic.color.tables.bg-color.subtle}",
           "type": "color"
         },
         "border-color": {
@@ -43,7 +43,7 @@
     "footer": {
       "default": {
         "bg-color": {
-          "value": "{semantic.color.tables.bg-color.header}",
+          "value": "{semantic.color.tables.bg-color.subtle}",
           "type": "color"
         },
         "border-color": {

@@ -1487,7 +1487,7 @@
             "value": "{semantic.bg.surface}",
             "type": "color"
           },
-          "header": {
+          "subtle": {
             "value": "{color.grey.100}",
             "type": "color"
           }
