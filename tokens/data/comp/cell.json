@@ -13,6 +13,10 @@
         "text-color": {
           "value": "{semantic.color.tables.text-color.default}",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.tables.icon-color.default}",
+          "type": "color"
         }
       }
     },
