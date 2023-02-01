@@ -1484,7 +1484,7 @@
       "tables": {
         "bg-color": {
           "default": {
-            "value": "{semantic.bg.surface}",
+            "value": "{color.neutrals.white}",
             "type": "color"
           },
           "subtle": {
