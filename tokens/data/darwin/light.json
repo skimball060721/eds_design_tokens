@@ -17,8 +17,8 @@
         "value": "{color.purple.200}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.purple.400}, 0.15)",
+      "subtle": {
+        "value": "{color.purple.100}",
         "type": "color"
       }
     },
@@ -39,8 +39,8 @@
         "value": "{color.orange.200}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.orange.400}, 0.15)",
+      "subtle": {
+        "value": "{color.orange.100}",
         "type": "color"
       }
     },
