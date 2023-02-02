@@ -18,6 +18,18 @@
           "value": "{semantic.color.tables.icon-color.default}",
           "type": "color"
         }
+      },
+      "hover": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.emphasized}",
+          "type": "color"
+        }
+      },
+      "selected": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.strong}",
+          "type": "color"
+        }
       }
     },
     "header": {
