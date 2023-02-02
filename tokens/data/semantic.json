@@ -391,10 +391,6 @@
         "value": "{color.teal.200}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.teal.400}, 0.15)",
-        "type": "color"
-      },
       "on-primary": {
         "value": "{color.neutrals.white}",
         "type": "color"
@@ -415,10 +411,6 @@
       },
       "muted": {
         "value": "{color.grey.200}",
-        "type": "color"
-      },
-      "weak": {
-        "value": "rgba({color.grey.400}, 0.15)",
         "type": "color"
       },
       "on-secondary": {
@@ -443,10 +435,6 @@
         "value": "{color.green.100}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.green.300}, 0.15)",
-        "type": "color"
-      },
       "on-success": {
         "value": "{color.neutrals.white}",
         "type": "color"
@@ -467,10 +455,6 @@
       },
       "muted": {
         "value": "{color.yellow.200}",
-        "type": "color"
-      },
-      "weak": {
-        "value": "rgba({color.yellow.300}, 0.15)",
         "type": "color"
       },
       "on-warning": {
@@ -495,10 +479,6 @@
         "value": "{color.red.100}",
         "type": "color"
       },
-      "weak": {
-        "value": "rgba({color.red.300}, 0.15)",
-        "type": "color"
-      },
       "on-danger": {
         "value": "{color.neutrals.white}",
         "type": "color"
@@ -519,10 +499,6 @@
       },
       "muted": {
         "value": "{color.blue.200}",
-        "type": "color"
-      },
-      "weak": {
-        "value": "rgba({color.blue.400}, 0.15)",
         "type": "color"
       },
       "on-info": {
