@@ -145,6 +145,50 @@
         "value": "{semantic.border-width.tables.md}",
         "type": "borderWidth"
       }
+    },
+    "spacing": {
+      "itemSpacing": {
+        "none": {
+          "value": "{semantic.spacing.tables.cell.none}",
+          "type": "dimension"
+        },
+        "xs": {
+          "value": "{semantic.spacing.tables.cell.xs}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.spacing.tables.cell.md}",
+          "type": "dimension"
+        }
+      },
+      "padding-left": {
+        "md": {
+          "value": "{semantic.spacing.tables.cell.md}",
+          "type": "dimension"
+        }
+      },
+      "padding-top": {
+        "sm": {
+          "value": "{semantic.spacing.tables.cell.sm}",
+          "type": "dimension"
+        }
+      },
+      "padding-bottom": {
+        "sm": {
+          "value": "{semantic.spacing.tables.cell.sm}",
+          "type": "dimension"
+        }
+      },
+      "padding-right": {
+        "sm": {
+          "value": "{semantic.spacing.tables.cell.sm}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.spacing.tables.cell.md}",
+          "type": "dimension"
+        }
+      }
     }
   }
 }

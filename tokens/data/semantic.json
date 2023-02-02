@@ -319,6 +319,10 @@
             "value": "{dimension.px.0}",
             "type": "dimension"
           },
+          "xs": {
+            "value": "{dimension.px.50}",
+            "type": "dimension"
+          },
           "sm": {
             "value": "{dimension.px.100}",
             "type": "dimension"
