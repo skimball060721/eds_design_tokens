@@ -592,7 +592,6 @@
       "semantic.color.actions.neutral.bg-color.active": "S:3e667c70137af622634f691d832caf4ea63a7a71,",
       "semantic.color.actions.neutral.bg-color.disabled": "S:3f94c97fa08f8c18268a259ccbc38edd496dffe4,",
       "semantic.color.actions.neutral.bg-color.quiet": "S:660d840545348c91188496fe8525dd4432e1d5fa,",
-      "semantic.color.feedback.success.bg-color": "S:1de4e33af1984f54ccebf2f6fab23c2811dbe396,",
       "semantic.color.feedback.success.border-color": "S:be34913b3867af142d2198169c5831760a6fb69d,",
       "semantic.color.feedback.success.icon-color": "S:1d695353fba03ff6efd2329409e6a94833a94d2f,",
       "semantic.color.feedback.success.text-color": "S:29a70e25af3c9dba24b14965a0ee1ad2cc859f83,",
@@ -612,7 +611,6 @@
       "semantic.color.feedback.info.icon-color": "S:57031f13feb42108cec998ec8e77febe5b4afac1,",
       "semantic.color.feedback.info.text-color": "S:2630efd79d6a597e4c624cf282738156a0989d99,",
       "semantic.color.feedback.info.on-info": "S:7eec658d905b9fabf0ca195bf61028cefc44e7e1,",
-      "semantic.color.inputs.bg-color": "S:c9b0762d6c6305c022567e60673a06b3623cea03,",
       "semantic.color.inputs.icon-color.default": "S:550e9fa00a015442856f0ec85d49de94d74a73e1,",
       "semantic.color.inputs.icon-color.disabled": "S:e0766bf50652cdf974c280304695b15d24c59212,",
       "semantic.color.inputs.text-color.default": "S:fb6ed3abe308520d1f16024fc3a8d2d93d6baa41,",
@@ -855,7 +853,9 @@
       "link.text-content.md": "S:7303a62f4b1fe9dd16902774f10e52e7c1b27411,",
       "link.text-content.lg": "S:5183774e597320bb0553bddd476fc04b4a23ab20,",
       "semantic.color.feedback.primary.icon-color": "S:8c7e6ce47d4684bea239396daaaa36cd61434aea,",
-      "semantic.color.tables.bg-color.subtle": "S:29a263d71c3384ddb768d79480d68159139ac398,"
+      "semantic.color.tables.bg-color.subtle": "S:29a263d71c3384ddb768d79480d68159139ac398,",
+      "semantic.color.feedback.success.bg-color.default": "S:1de4e33af1984f54ccebf2f6fab23c2811dbe396,",
+      "semantic.color.inputs.bg-color.default": "S:c9b0762d6c6305c022567e60673a06b3623cea03,"
     }
   },
   {

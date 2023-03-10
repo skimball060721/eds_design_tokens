@@ -113,7 +113,7 @@
     },
     "default": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -179,7 +179,7 @@
     },
     "filled": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -203,7 +203,7 @@
     },
     "active": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -269,7 +269,7 @@
     },
     "disabled": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -287,7 +287,7 @@
     },
     "success": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -305,7 +305,7 @@
     },
     "warning": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {
@@ -323,7 +323,7 @@
     },
     "danger": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "border-color": {

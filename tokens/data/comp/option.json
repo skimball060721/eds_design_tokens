@@ -28,7 +28,7 @@
     },
     "default": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "text-color": {
@@ -42,7 +42,7 @@
     },
     "disabled": {
       "bg-color": {
-        "value": "{semantic.color.inputs.bg-color}",
+        "value": "{semantic.color.inputs.bg-color.default}",
         "type": "color"
       },
       "text-color": {

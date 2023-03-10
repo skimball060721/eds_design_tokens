@@ -1188,8 +1188,23 @@
       "feedback": {
         "success": {
           "bg-color": {
-            "value": "{semantic.success.weak}",
-            "type": "color"
+            "default": {
+              "value": "{semantic.success.default}",
+              "type": "color"
+            },
+            "weak": {
+              "value": "{semantic.success.default}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
+            }
           },
           "border-color": {
             "value": "{semantic.success.default}",
@@ -1299,8 +1314,39 @@
       },
       "inputs": {
         "bg-color": {
-          "value": "{semantic.bg.surface}",
-          "type": "color"
+          "default": {
+            "value": "{semantic.bg.surface}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{semantic.bg.subtle}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{semantic.bg.muted}",
+            "type": "color"
+          },
+          "muted-weak": {
+            "value": "{semantic.bg.muted}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": ".1",
+                  "space": "lch"
+                }
+              }
+            }
+          },
+          "success": {
+            "value": "{semantic.color.feedback.success.bg-color.default}",
+            "type": "color"
+          },
+          "success-weak": {
+            "value": "{semantic.color.feedback.success.bg-color.weak}",
+            "type": "color"
+          }
         },
         "icon-color": {
           "default": {
