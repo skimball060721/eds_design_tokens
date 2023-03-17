@@ -1622,6 +1622,10 @@
         }
       },
       "tables": {
+        "xs": {
+          "value": "{border-width.1}",
+          "type": "borderWidth"
+        },
         "sm": {
           "value": "1.5",
           "type": "borderWidth"

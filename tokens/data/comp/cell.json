@@ -30,6 +30,15 @@
           "value": "{semantic.color.tables.bg-color.strong}",
           "type": "color"
         }
+      },
+      "md": {
+        "value": {
+          "height": "{cell.sizing.height.md}",
+          "fill": "{cell.standard.default.bg-color}",
+          "borderWidthBottom": "{cell.border-width.sm}",
+          "borderColor": "{cell.standard.default.border-color}"
+        },
+        "type": "composition"
       }
     },
     "header": {
@@ -122,34 +131,11 @@
         "type": "typography"
       }
     },
-    "sm": {
-      "value": {
-        "height": "{semantic.sizing.tables.cell.sm}",
-        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
-        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
-        "itemSpacing": "{semantic.spacing.tables.cell.none}"
-      },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "height": "{semantic.sizing.tables.cell.md}",
-        "paddingRight": "{semantic.spacing.tables.cell.sm}",
-        "paddingLeft": "{semantic.spacing.tables.cell.md}",
-        "itemSpacing": "{semantic.spacing.tables.cell.none}"
-      },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "height": "{semantic.sizing.tables.cell.lg}",
-        "horizontalPadding": "{semantic.spacing.tables.cell.md}",
-        "verticalPadding": "{semantic.spacing.tables.cell.sm}",
-        "itemSpacing": "{semantic.spacing.tables.cell.none}"
-      },
-      "type": "composition"
-    },
     "border-width": {
+      "xs": {
+        "value": "{semantic.border-width.tables.xs}",
+        "type": "borderWidth"
+      },
       "sm": {
         "value": "{semantic.border-width.tables.sm}",
         "type": "borderWidth"
@@ -161,10 +147,6 @@
     },
     "spacing": {
       "itemSpacing": {
-        "none": {
-          "value": "{semantic.spacing.tables.cell.none}",
-          "type": "dimension"
-        },
         "xs": {
           "value": "{semantic.spacing.tables.cell.xs}",
           "type": "dimension"
@@ -199,6 +181,14 @@
         },
         "md": {
           "value": "{semantic.spacing.tables.cell.md}",
+          "type": "dimension"
+        }
+      }
+    },
+    "sizing": {
+      "height": {
+        "md": {
+          "value": "{semantic.sizing.tables.cell.md}",
           "type": "dimension"
         }
       }
