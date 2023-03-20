@@ -42,6 +42,15 @@
       }
     },
     "header": {
+      "md": {
+        "value": {
+          "height": "{cell.sizing.height.md}",
+          "fill": "{cell.header.default.bg-color}",
+          "borderWidthBottom": "{cell.border-width.md}",
+          "borderColor": "{cell.header.default.border-color}"
+        },
+        "type": "composition"
+      },
       "default": {
         "bg-color": {
           "value": "{semantic.color.tables.bg-color.subtle}",
@@ -157,6 +166,10 @@
         }
       },
       "padding-left": {
+        "sm": {
+          "value": "{semantic.spacing.tables.cell.sm}",
+          "type": "dimension"
+        },
         "md": {
           "value": "{semantic.spacing.tables.cell.md}",
           "type": "dimension"
