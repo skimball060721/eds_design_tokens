@@ -1532,6 +1532,10 @@
           "strong": {
             "value": "{semantic.primary.muted}",
             "type": "color"
+          },
+          "warning": {
+            "value": "{semantic.warning.default}",
+            "type": "color"
           }
         },
         "text-color": {
