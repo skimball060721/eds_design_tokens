@@ -86,6 +86,15 @@
       }
     },
     "footer": {
+      "md": {
+        "value": {
+          "height": "{cell.sizing.height.md}",
+          "fill": "{cell.footer.default.bg-color}",
+          "borderWidthTop": "{cell.border-width.sm}",
+          "borderColor": "{cell.footer.default.border-color}"
+        },
+        "type": "composition"
+      },
       "default": {
         "bg-color": {
           "value": "{semantic.color.tables.bg-color.subtle}",
