@@ -34,6 +34,21 @@
           }
         }
       },
+      "success": {
+        "bg-color": {
+          "value": "{semantic.color.tables.bg-color.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": ".7",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
       "hover": {
         "bg-color": {
           "value": "{semantic.color.tables.bg-color.emphasized}",

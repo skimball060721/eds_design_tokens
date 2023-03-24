@@ -1536,6 +1536,10 @@
           "warning": {
             "value": "{semantic.warning.default}",
             "type": "color"
+          },
+          "success": {
+            "value": "{semantic.success.default}",
+            "type": "color"
           }
         },
         "text-color": {
