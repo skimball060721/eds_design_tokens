@@ -390,7 +390,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.hover}",
             "type": "color"
           },
           "border-color": {
@@ -408,7 +408,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.active}",
             "type": "color"
           },
           "border-color": {
@@ -538,7 +538,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.hover}",
             "type": "color"
           },
           "border-color": {
@@ -556,7 +556,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.active}",
             "type": "color"
           },
           "border-color": {
