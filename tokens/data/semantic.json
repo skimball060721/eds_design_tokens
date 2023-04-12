@@ -387,9 +387,35 @@
         "value": "{color.teal.500}",
         "type": "color"
       },
+      "emphasized-weak": {
+        "value": "{color.teal.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "strong": {
         "value": "{color.teal.600}",
         "type": "color"
+      },
+      "strong-weak": {
+        "value": "{color.teal.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
       },
       "muted": {
         "value": "{color.teal.200}",
@@ -622,16 +648,26 @@
               "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
+            "quiet": {
+              "default": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.primary.emphasized-weak}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{semantic.primary.strong-weak}",
+                "type": "color"
+              }
+            },
             "active": {
               "value": "{semantic.primary.strong}",
               "type": "color"
             },
             "disabled": {
               "value": "{semantic.primary.muted}",
-              "type": "color"
-            },
-            "quiet": {
-              "value": "{color.neutrals.transparent}",
               "type": "color"
             }
           }
