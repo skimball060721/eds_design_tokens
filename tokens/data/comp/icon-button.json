@@ -292,7 +292,7 @@
       "quiet": {
         "default": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -306,7 +306,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -320,7 +320,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -334,7 +334,7 @@
         },
         "disabled": {
           "bg-color": {
-            "value": "{semantic.color.actions.success.bg-color.quiet}",
+            "value": "{semantic.color.actions.success.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -408,7 +408,7 @@
       "quiet": {
         "default": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -422,7 +422,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -436,7 +436,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {
@@ -450,7 +450,7 @@
         },
         "disabled": {
           "bg-color": {
-            "value": "{semantic.color.actions.danger.bg-color.quiet}",
+            "value": "{semantic.color.actions.danger.bg-color.quiet.default}",
             "type": "color"
           },
           "border-color": {

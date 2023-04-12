@@ -465,9 +465,35 @@
         "value": "{color.green.400}",
         "type": "color"
       },
+      "emphasized-weak": {
+        "value": "{color.green.400}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "strong": {
         "value": "{color.green.500}",
         "type": "color"
+      },
+      "strong-weak": {
+        "value": "{color.green.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
       },
       "muted": {
         "value": "{color.green.100}",
@@ -509,9 +535,35 @@
         "value": "{color.red.400}",
         "type": "color"
       },
+      "emphasized-weak": {
+        "value": "{color.red.400}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "strong": {
         "value": "{color.red.500}",
         "type": "color"
+      },
+      "strong-weak": {
+        "value": "{color.red.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": ".1",
+              "space": "lch"
+            }
+          }
+        }
       },
       "muted": {
         "value": "{color.red.100}",
@@ -847,7 +899,117 @@
               "type": "color"
             },
             "quiet": {
+              "default": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{semantic.success.emphasized-weak}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{semantic.success.strong-weak}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "danger": {
+          "bg-color": {
+            "quiet": {
+              "hover": {
+                "value": "{semantic.danger.emphasized-weak}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{semantic.danger.strong-weak}",
+                "type": "color"
+              },
+              "default": {
+                "value": "{color.neutrals.transparent}",
+                "type": "color"
+              }
+            },
+            "default": {
+              "value": "{semantic.danger.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.danger.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.danger.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.danger.muted}",
+              "type": "color"
+            }
+          },
+          "border-color": {
+            "default": {
+              "value": "{semantic.danger.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.danger.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.danger.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.danger.muted}",
+              "type": "color"
+            },
+            "quiet": {
               "value": "{color.neutrals.transparent}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "default": {
+              "value": "{semantic.danger.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.danger.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.danger.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.danger.muted}",
+              "type": "color"
+            },
+            "on-danger": {
+              "value": "{semantic.danger.on-danger}",
+              "type": "color"
+            }
+          },
+          "icon-color": {
+            "default": {
+              "value": "{semantic.danger.default}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.danger.emphasized}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.danger.strong}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{semantic.danger.muted}",
+              "type": "color"
+            },
+            "on-danger": {
+              "value": "{semantic.danger.on-danger}",
               "type": "color"
             }
           }
@@ -942,96 +1104,6 @@
             },
             "disabled": {
               "value": "{semantic.warning.muted}",
-              "type": "color"
-            },
-            "quiet": {
-              "value": "{color.neutrals.transparent}",
-              "type": "color"
-            }
-          }
-        },
-        "danger": {
-          "border-color": {
-            "default": {
-              "value": "{semantic.danger.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.danger.emphasized}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.danger.strong}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.danger.muted}",
-              "type": "color"
-            },
-            "quiet": {
-              "value": "{color.neutrals.transparent}",
-              "type": "color"
-            }
-          },
-          "text-color": {
-            "default": {
-              "value": "{semantic.danger.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.danger.emphasized}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.danger.strong}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.danger.muted}",
-              "type": "color"
-            },
-            "on-danger": {
-              "value": "{semantic.danger.on-danger}",
-              "type": "color"
-            }
-          },
-          "icon-color": {
-            "default": {
-              "value": "{semantic.danger.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.danger.emphasized}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.danger.strong}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.danger.muted}",
-              "type": "color"
-            },
-            "on-danger": {
-              "value": "{semantic.danger.on-danger}",
-              "type": "color"
-            }
-          },
-          "bg-color": {
-            "default": {
-              "value": "{semantic.danger.default}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.danger.emphasized}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.danger.strong}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.danger.muted}",
               "type": "color"
             },
             "quiet": {

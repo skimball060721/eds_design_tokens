@@ -508,7 +508,6 @@
       "semantic.color.actions.success.bg-color.hover": "S:2c5cde1a99898c3b0ad890d7d8e29cedafff863a,",
       "semantic.color.actions.success.bg-color.active": "S:ea8b0ebc2579a6a207b66d62fb444c57db215d51,",
       "semantic.color.actions.success.bg-color.disabled": "S:6a0b29695a8d9aa33768d894da875e0f2de24296,",
-      "semantic.color.actions.success.bg-color.quiet": "S:e5ff3a584ed69912496199fe6d3af861256b33c4,",
       "semantic.color.actions.warning.border-color.default": "S:b5e373a8c0853290688ce0e87b28b7f02889d3b3,",
       "semantic.color.actions.warning.border-color.hover": "S:e935048959bee0935cf1fb1fdc40a6b793338d1d,",
       "semantic.color.actions.warning.border-color.active": "S:2d09b595bb4232fe2dc8b7eddc716cbf0fc5c10c,",
@@ -550,7 +549,6 @@
       "semantic.color.actions.danger.bg-color.hover": "S:095f8749190763d1a089db847891d66321738551,",
       "semantic.color.actions.danger.bg-color.active": "S:c6e3223d17ddabc8bbd93888cb5b0a20ce3406f0,",
       "semantic.color.actions.danger.bg-color.disabled": "S:6b42554a5afdc284fe24a050065e5cbefe8f362a,",
-      "semantic.color.actions.danger.bg-color.quiet": "S:decdea86a5fdf95f8f30ce0e0f54729ed02a94eb,",
       "semantic.color.actions.info.border-color.default": "S:7b5bf73e1da47fb6d0ce159321cf59bdd4b3f888,",
       "semantic.color.actions.info.border-color.hover": "S:3f8054b3b8d7d65685ddfbb469ea8c031cac8a2f,",
       "semantic.color.actions.info.border-color.active": "S:fb9318882f1f07d76119b257fec8edb9abda71bf,",
@@ -855,7 +853,9 @@
       "semantic.color.tables.bg-color.subtle": "S:29a263d71c3384ddb768d79480d68159139ac398,",
       "semantic.color.feedback.success.bg-color.default": "S:1de4e33af1984f54ccebf2f6fab23c2811dbe396,",
       "semantic.color.inputs.bg-color.default": "S:c9b0762d6c6305c022567e60673a06b3623cea03,",
-      "semantic.color.actions.primary.bg-color.quiet.default": "S:ab6435606f3d7a1c10c04c8452a163ab02eb134b,"
+      "semantic.color.actions.primary.bg-color.quiet.default": "S:ab6435606f3d7a1c10c04c8452a163ab02eb134b,",
+      "semantic.color.actions.success.bg-color.quiet.default": "S:e5ff3a584ed69912496199fe6d3af861256b33c4,",
+      "semantic.color.actions.danger.bg-color.quiet.default": "S:decdea86a5fdf95f8f30ce0e0f54729ed02a94eb,"
     }
   },
   {
@@ -1427,7 +1427,6 @@
       "semantic.color.actions.success.border-color.quiet": "S:4ea5148c19f18a7318715273a964245bcd4d65d3,",
       "semantic.color.actions.success.text-color.default": "S:1400b5db109d52c380f083c96e84db55f9c79517,",
       "semantic.color.actions.success.icon-color.default": "S:7840235fb9311f5ed78f5a7580d51dbbb9caf9bd,",
-      "semantic.color.actions.success.bg-color.quiet": "S:282de99a57e260758a015558c9796b15015eca53,",
       "semantic.color.actions.success.border-color.hover": "S:b68c7ff6176ac641fff1bfdfb3a433bfeb30d315,",
       "semantic.color.actions.success.bg-color.hover": "S:0515379445d48dcf1c33794578d35ac8c4d9a293,",
       "semantic.color.actions.success.text-color.hover": "S:a3ad7fd381474b91cca7a0426aad6096be62b5c0,",
@@ -1467,7 +1466,6 @@
       "semantic.color.actions.danger.icon-color.on-danger": "S:b58119ca48ed96a759e6e37d199eaf250d2f6788,",
       "semantic.color.actions.danger.bg-color.default": "S:20de20d570e2e9a7c2317cda094bfee6be9802f6,",
       "semantic.color.actions.danger.border-color.quiet": "S:65493427330a435c8ae893ff8e87bbeeffe76b6a,",
-      "semantic.color.actions.danger.bg-color.quiet": "S:bb78599b15c779721a332aa16e2748f1259fb7f4,",
       "semantic.color.actions.danger.border-color.hover": "S:4a9b90112695aedd2604667e49ddb5f94a047814,",
       "semantic.color.actions.danger.bg-color.hover": "S:c6679c54699386776892d9ab0b96a21da01d4d57,",
       "semantic.color.actions.danger.text-color.hover": "S:74e6e61084f73c87399811c178656e31f514ef52,",
@@ -1775,7 +1773,9 @@
       "option.hover.bg-color": "S:ad94dbd48e0cbfde63dbc48d0a2670b52754c943,",
       "option.hover.text-color": "S:74f92b2fef414913d7fcfe6d16785bf9ed3c461d,",
       "option.hover.icon-color": "S:777948212141cb7ece7114e26e13618389f2fd33,",
-      "semantic.color.actions.primary.bg-color.quiet.default": "S:4ff5632eb0a9a56634b522b787a2b8d3b50b0d6a,"
+      "semantic.color.actions.primary.bg-color.quiet.default": "S:4ff5632eb0a9a56634b522b787a2b8d3b50b0d6a,",
+      "semantic.color.actions.success.bg-color.quiet.default": "S:282de99a57e260758a015558c9796b15015eca53,",
+      "semantic.color.actions.danger.bg-color.quiet.default": "S:bb78599b15c779721a332aa16e2748f1259fb7f4,"
     }
   }
 ]
